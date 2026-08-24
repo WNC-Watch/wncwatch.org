@@ -5,6 +5,10 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## August 24, 2026: the site joins WNC Surveillance Watch
+
+This site now lives at **wncwatch.org** and carries the name of the project it belongs to: WNC Surveillance Watch, the same neighbors keeping the same record. Two changes with this release: the site speaks as "we" throughout, because it is kept by more than one pair of hands now, and the share card's QR points at the new address. Nothing about the method changed: every claim still links its record, corrections still run with the same prominence, and the old address will keep working.
+
 ## 2026-08-23, afternoon: Correction on Getting Flock Out, demand 3
 
 The August 20 briefing note said Flock's new ten-camera minimum meant termination would end APD's network access, "substantially" covering demand 3. That was written before the chief's August 14 memo was public. The memo plans a Flock software license to "preserve access to the Flock network" with no cameras, so the note now says the opposite: demand 3 is the live fight Tuesday, not a settled one. Page: [[Getting Flock Out]].
