@@ -1,0 +1,52 @@
+---
+title: Flock Safety
+description: The Atlanta company whose eleven cameras Asheville is about to remove, whose network the county's deputies still search, and whose own documents, leaks, and audit logs built most of the public record against it.
+---
+
+Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook]]; the dated incident list is on [[Stories That Check Out]].
+
+## The company
+
+- **Founded** 2017 in Atlanta by Garrett Langley, Matt Feury, and Paige Todd (Georgia Tech alumni), through Y Combinator; **headquarters** 3284 Northside Parkway NW, Atlanta. **CEO:** [[Garrett Langley]] ([Flock](https://www.flocksafety.com/about) · [Wikipedia](https://en.wikipedia.org/wiki/Flock_Safety)).
+- **Money:** about $950 million in venture funding by 2025 and a reported **$7.5 billion valuation** after a $275 million round in March 2025; investors include Andreessen Horowitz, Tiger Global, Meritech, Bedrock, Matrix, and Initialized ([Flock](https://www.flocksafety.com/about) · [Wikipedia](https://en.wikipedia.org/wiki/Flock_Safety)). About 1,500 employees (2025).
+- **Scale claimed:** more than 5,000 communities in 49 states; "over 6,000 municipalities"; 20 billion-plus vehicle scans a month; more than 1,500 agencies with transparency portals ([Flock, Aug 13, 2026](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)).
+- **Mission, in its words:** "help eliminate crime and empower those who protect and serve." Its crime-solving claims ("7% of U.S. crime in jurisdictions where Flock is deployed," 2023; "20% of solved cases," 2024) rest on a company-commissioned study whose own overseeing researcher later raised concerns ([404 Media, Mar 2024](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/) · [[Their Claims vs The Record]]).
+
+## The products
+
+| Product | What it does | Why it matters here |
+|---|---|---|
+| **Falcon / Sparrow** | Fixed plate readers: plate, vehicle image, time, location, "Vehicle Fingerprint" attributes | Asheville's 11; Henderson's 13; Jackson's 4 |
+| **National Lookup** | One setting that lets an agency search every other customer's shared reads nationwide | The "nationwide database" the Rutherford pitch sold; removed for Illinois, California, and Virginia agencies in June 2025 after ICE and abortion searches surfaced ([404 Media](https://www.404media.co/flock-removes-states-from-national-lookup-tool-after-ice-and-abortion-searches-revealed/)) |
+| **FreeForm / OS Investigate** | Search the camera network like a search engine, by description: "person on skateboard," "heavy-set male with a black and white hat" | Tracking people, not cars ([404 Media, Jul 16, 2026](https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/)); the OS Investigate code leaked via public login pages in August 2026 |
+| **Condor** | Pan-tilt-zoom video cameras that track people and vehicles | About 60 were left streaming to the open internet in December 2025 ([404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) · [[Benn Jordan]]) |
+| **Nova** | A people-search layer joining plate reads to public records, data-broker files, and agency records, "20 different data sources," to "jump from LPR to person... link to other people that are related to that person" | Leaked May 2025; Flock dropped breached dark-web data after employee objections ("I was pretty horrified to hear we use stolen data in our system") ([404 Media, May 14](https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/) · [May 30, 2025](https://www.404media.co/flock-decides-not-to-use-hacked-data-in-people-search-tool/)) |
+| **Raven** | Audio gunshot detection | Forest City runs audio-capable cameras ([[Rutherford County]]) |
+| **Aerodome drones** | Drone-as-first-responder, acquired October 2024 | The county sheriff added a DFR program in August 2026 ([[Buncombe County]]) |
+| **Video on LPRs** | Announced June 2025 ("All existing Flock LPRs will soon stream live video"); live in Dunwoody by January 2026; discontinued March 2026; CEO in July 2026: "It's a static picture of a car" | ([404 Media, Jul 23, 2026](https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/)) |
+
+The pattern across the table is the one [[What They Can Actually Learn About You]] describes: a plate reader is the entry point; the product is the link from a plate to a person to their associates, and the company has kept building that link even as it describes the camera as a still photo.
+
+## What the record shows
+
+Every item below is dated and sourced on [[Stories That Check Out]]. The short version:
+
+- **Federal reach without a contract.** Local police ran more than 4,000 nationwide or statewide lookups for ICE with reasons like "immigration," "ICE+ERO," and "ICE WARRANT" (records from Danville, Illinois, May 2025). Customs and Border Protection searched more than 80,000 cameras through a pilot one department did not know it was in; Flock "paused all federal pilots" (August 2025). HSI, the Secret Service, and Navy investigators had access (October 2025); Senator Wyden: abuses "are not only likely but inevitable." A DEA agent used a local officer's password (August 2025). Florida wildlife officers searched thousands of cameras for ICE (April 2026).
+- **Reproductive care.** A Texas sheriff's office searched 83,000-plus cameras in states where abortion is legal for a woman who had self-managed an abortion, logged as a safety check; court records later showed a "death investigation" in which charging her was considered (May and October 2025).
+- **Misuse caught by logs, not policy.** "More than a dozen" officers arrested for using Flock to stalk (June 2026); an Orange City, Florida officer ran an ex-girlfriend's plate 69 times and her parents' plates 39 more; the first North Carolina charges came in Charlotte and Mooresville this summer ([[The Abuse Record]]).
+- **Wrong people stopped.** LAPD's inspector general: 161 innocent people investigated in two months on false stolen-vehicle hits, some at gunpoint; the department let Flock lapse (July 2026).
+- **Hiding the tool from courts.** An Iowa sheriff's policy: "DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY"; multi-state guidance to be "as vague as permissible" (August 2026 and January 2026).
+- **Data that leaks.** Search reasons and plates indexed by DuckDuckGo and Bing (June 2026); government logins in malware dumps with no mandatory MFA, prompting an FTC request (November 2025); a redaction error unmasking millions of plates (January 2026); cameras open to the internet (December 2025).
+- **Corporate conduct.** A cease-and-desist against the DeFlock mapping project, refused with EFF's help (February 2025); a sales demo run on a Jewish community center's gymnastics-room and pool cameras (April 2026); Verona, Wisconsin told to bag its cameras because Flock "objects to our removing their equipment" (July 2026); a pitch to put readers in 350,000 Uber, Lyft, and delivery vehicles (August 2026); a government-affairs manager who quit saying "They lied" (August 2026); fusion centers monitoring anti-Flock accounts and the DeFlock week of action (August 2026).
+
+## What Flock changed, and when
+
+The company's August 13, 2026 safeguards post is the most concrete statement of its current rules, and it reads as a list of things that were not true before: a **7-day default retention** (existing customers keep theirs; Asheville's portal shows 21 days); agencies can now restrict which offense types other agencies may search their cameras for, "blocking searches related to immigration enforcement"; **mandatory multi-factor authentication** from August 2026; case codes required on every search by the end of 2026; automatic lockout for "abnormal behavior"; a Bishop Fox security review to be summarized in September 2026 ([Flock](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)). On August 21 its terms were amended to say "Flock does not sell Customer Data" and to make unpermitted sharing "a prima facie breach" ([Flock](https://www.flocksafety.com/blog/building-on-trust-updates-to-flocks-terms-and-conditions)). A San Mateo County civil grand jury, which Flock cites approvingly, found that "most changes were driven by stronger default compliance made by Flock Safety," and in the same report that local agencies' policies "are deficient or need significant revision," audit materials "were inconsistent in scope and rigor," and most operators "did not document criteria, process, or controls governing in-state sharing" ([report, Aug 3, 2026](https://sanmateo.courts.ca.gov/system/files/grand-jury/auto-license-plate-readers-report.pdf)).
+
+Each fix dates the problem. Mandatory MFA in August 2026 means government logins sat in malware dumps without it in November 2025. Offense filtering in 2026 means the ICE searches of 2025 were within the rules. The 7-day default arrived after Macon, Austin, Denver, and LAPD had already left ([[The National Wave]]).
+
+## What this means in Asheville
+
+Terminating the contract removes eleven cameras. It does not, by itself, close APD's search accounts, end the county sheriff's access, or change what [[Henderson County]]'s 2,048-agency list lets any neighbor see ([[Getting Flock Out]]). And the company's recorded behavior when a city leaves (Verona's bagged cameras, the "maintenance" work order instead of removal) is why the site's demands include a removal deadline and a paper trail. The replacement the staff memo describes, Axon plate readers "expanding and integrating," is the other company: [[Axon]].
+
+*Related: [[Axon]] · [[Stories That Check Out]] · [[The Flockbook]] · [[The National Wave]] · [[The Abuse Record]] · [[Getting Flock Out]]*

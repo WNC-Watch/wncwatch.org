@@ -1,0 +1,264 @@
+@use "./base.scss";
+
+// ── AVL Surveillance Watch: homepage timeline + doors ─────────────
+// Category colors (light mode)
+:root {
+  --tl-expand: #a8323e; // surveillance expands
+  --tl-resist: #2e7d5b; // resistance & wins
+  --tl-future: #b07d2f; // ahead / decision points
+}
+:root[saved-theme="dark"] {
+  --tl-expand: #e06c75;
+  --tl-resist: #6fbf9a;
+  --tl-future: #d9a441;
+}
+
+// Legend
+.tl-legend {
+  display: flex;
+  gap: 1.1rem;
+  flex-wrap: wrap;
+  font-size: 0.8rem;
+  color: var(--gray);
+  margin: 1.2rem 0 0.4rem;
+
+  span::before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 0.35rem;
+  }
+  .lg-expand::before { background: var(--tl-expand); }
+  .lg-resist::before { background: var(--tl-resist); }
+  .lg-future::before { background: var(--tl-future); }
+}
+
+// Timeline container
+.avl-tl {
+  position: relative;
+  margin: 0.6rem 0 0;
+  padding-left: 1.75rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 5px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--lightgray);
+  }
+  // dashed continuation for the future segment
+  &.tl-dashed::before {
+    background: repeating-linear-gradient(
+      to bottom,
+      var(--lightgray) 0 5px,
+      transparent 5px 11px
+    );
+  }
+}
+
+.tl-era {
+  font-family: var(--headerFont);
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--dark);
+  margin: 1.9rem 0 0.9rem;
+  &:first-child { margin-top: 0.4rem; }
+}
+
+.tl-item {
+  position: relative;
+  margin: 0 0 1.15rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -1.75rem;
+    top: 0.28rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--gray);
+    border: 2px solid var(--light);
+    box-sizing: border-box;
+  }
+}
+.tl-expand::before { background: var(--tl-expand); }
+.tl-resist::before { background: var(--tl-resist); }
+.tl-future::before { background: var(--tl-future); }
+
+.tl-now::before {
+  box-shadow: 0 0 0 4px var(--highlight);
+}
+
+.tl-date {
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+.tl-expand .tl-date { color: var(--tl-expand); }
+.tl-resist .tl-date { color: var(--tl-resist); }
+.tl-future .tl-date { color: var(--tl-future); }
+
+.tl-body {
+  margin-top: 0.05rem;
+  color: var(--darkgray);
+  line-height: 1.45;
+  strong { color: var(--dark); }
+}
+
+// Regional side-branch entries
+.tl-branch {
+  margin-left: 1.5rem;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: calc(-1.75rem - 1.5rem + 6px);
+    top: 0.55rem;
+    width: 1.5rem;
+    height: 2px;
+    background: var(--lightgray);
+  }
+}
+.tl-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  padding: 0.08rem 0.45rem;
+  border-radius: 0.65rem;
+  background: var(--highlight);
+  color: var(--darkgray);
+  vertical-align: 0.12rem;
+  margin-left: 0.4rem;
+}
+
+// "Happening now" box
+.avl-now {
+  border-left: 4px solid var(--tl-future);
+  background: var(--highlight);
+  padding: 0.9rem 1.15rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.6rem 0;
+
+  p { margin: 0.3rem 0; }
+  ul { margin: 0.4rem 0 0.2rem; }
+}
+
+// Share block (QR) — white card so the code scans in dark mode too
+.avl-share {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: #ffffff;
+  padding: 1.1rem 1.3rem;
+  margin: 1.2rem 0;
+  box-sizing: border-box;
+  max-width: 100%;
+
+  img {
+    display: block;
+    border-radius: 4px;
+    margin: 0;
+  }
+  .share-text {
+    color: #2b2b2b;
+    line-height: 1.5;
+    max-width: 24rem;
+    min-width: 0;
+    strong { color: #2b2b2b; }
+  }
+  .share-url {
+    font-family: var(--codeFont);
+    font-size: 0.85rem;
+    color: #284b63;
+    overflow-wrap: anywhere;
+  }
+}
+
+// ── Mobile polish ─────────────────────────────────────────────────
+@media all and (max-width: 800px) {
+  // Site title was wrapping to three huge lines and crowding the menu button
+  .page-title {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+
+  // 44px minimum touch target for the menu button (was 34px)
+  .explorer button.mobile-explorer {
+    padding: 10px;
+    min-width: 44px;
+    min-height: 44px;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+
+  // Insurance for the off-canvas menu: enforce the exact stock open/closed
+  // states at maximum priority so no custom style can ever interfere
+  .explorer:not(.collapsed) > .explorer-content {
+    transform: translateX(0) !important;
+    visibility: visible !important;
+  }
+  .explorer.collapsed > .explorer-content {
+    transform: translateX(-100vw) !important;
+    visibility: hidden !important;
+  }
+
+  // Slightly tighter timeline gutters on small screens
+  .avl-tl { padding-left: 1.5rem; }
+  .tl-item::before { left: -1.5rem; }
+  .tl-branch { margin-left: 1rem; }
+  .tl-branch::after {
+    left: calc(-1.5rem - 1rem + 6px);
+    width: 1rem;
+  }
+}
+
+// Four doors
+.avl-doors {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.4rem 0;
+
+  .door {
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    padding: 1rem 1.15rem 1.1rem;
+    background: var(--light);
+
+    .door-k {
+      display: block;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--tertiary);
+      margin-bottom: 0.25rem;
+    }
+    .door-t {
+      font-family: var(--headerFont);
+      font-weight: 700;
+      font-size: 1.02rem;
+      color: var(--dark);
+      margin: 0 0 0.55rem;
+    }
+    ol {
+      margin: 0;
+      padding-left: 1.15rem;
+      font-size: 0.9rem;
+      li { margin: 0.25rem 0; }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+---
+title: The National Wave of Cancellations
+description: 50–100+ communities have dropped Flock and similar systems since 2025. The reasons read like a warning label for Asheville.
+aliases:
+  - "The National Wave"
+---
+
+Asheville signed a [[What Axon Contracts Do|7.5-year surveillance contract]] in the same year much of the country started tearing theirs up. Depending on how you count, between **50 and 102 communities across 27+ states** have canceled, rejected, paused, or removed Flock Safety systems; roughly two dozen in 2026 alone. ([DeFlock The USA cancellation tracker](https://deflocktheusa.com/cancellations/) · [State of Surveillance count](https://stateofsurveillance.org/news/flock-safety-cancel-wave-30-cities-alpr-surveillance-contracts-2026/) · [AP, Aug 16, 2026](https://www.spokesman.com/stories/2026/aug/16/flock-safety-tightens-safeguards-as-states-cities-/))
+
+Every category of failure below was preceded, in those cities, by the same assurances Asheville residents are hearing now.
+
+## Cities that walked away, and why
+
+**Los Angeles (July 2026): it doesn't even work.** The LAPD Inspector General audited Flock's stolen-vehicle alerts and found a **32.3% false-positive rate**: in the sampled period, 161 innocent vehicles were flagged, and officers stopped or investigated a non-stolen vehicle *every time*. The LAPD let the contract die, citing "serious concerns around civil liberties and civil rights." ([Knock LA](https://knock-la.com/lapd-suspends-contract-with-flock-safety/) · [Tech Times](https://www.techtimes.com/articles/320800/20260717/lapd-cuts-off-flock-safety-after-audit-finds-one-three-hot-list-alerts-were-false.htm))
+
+**Austin (June 2025): police won't follow their own rules.** The city's audit of a one-year trial found 117 million scans produced 228 arrests, and that **10–20% of police searches had no documented reason or case number**, violating the council's own resolution. The program ended June 30, 2025. ([KUT](https://www.kut.org/austin/2025-06-04/austin-tx-automatic-license-reader-program-police-data-privacy-flock)) Epilogue worth knowing: the state of Texas then installed its *own* plate readers in Austin, over the city's objection, a reminder that ending a contract isn't the end of the fight. ([KUT, Feb 2026](https://www.kut.org/crime-justice/2026-02-12/austin-tx-apd-flock-cameras-license-plate-readers))
+
+**Evanston, IL (Aug–Sep 2025): the vendor itself can't be trusted.** A state audit caught Flock giving Customs and Border Protection access to Illinois data in violation of Illinois law. Evanston terminated and deactivated its 19 cameras, and then **Flock reinstalled them without authorization**. The city issued a cease-and-desist and physically covered the cameras, calling the breach "material, intentional, and cannot be cured." ([Evanston RoundTable](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/) · [ABC7 Chicago](https://abc7chicago.com/post/evanston-oak-park-end-contracts-flock-safety-license-plate-reader-company-investigation-illinois/17678137/)) Oak Park, River Forest, and Salem, IL followed over the same state investigation.
+
+**Santa Cruz, CA (Jan 2026): the ICE promise fails silently.** The city discovered **ICE had accessed its Flock data roughly 4,000 times**. Canceled. Nearby, Oxnard deactivated after a vendor error allowed **364,000+ out-of-state queries**; Richmond's data was "unintentionally shared nationwide"; the state Attorney General sued El Cajon for illegally sharing plate data out of state. ([Yahoo News roundup](https://www.yahoo.com/news/us/articles/cities-ditching-flock-safety-cameras-172924943.html) · [CA AG press release](https://www.oag.ca.gov/news/press-releases/attorney-general-bonta-sues-el-cajon-illegally-sharing-license-plate-data-out))
+
+**Sedona, AZ (Sep 2025): "misled and lied to."** That's how city officials described Flock's representations about data-sharing features. Oshkosh, WI found Flock had misrepresented its heat-map collection; Menominee, MI found cameras activated without authorization: "we don't know where the information is going." ([DeFlock tracker](https://deflocktheusa.com/cancellations/))
+
+**Denver (2025–2026): the bait-and-switch that followed.** Council unanimously rejected renewal over federal data-sharing concerns; all ~110 cameras came down by March 2026. Then Denver advanced a 50-camera contract with **Axon** (the same company Asheville just signed with for 7.5 years) under stricter data-control terms. Nationally, this is the pattern: cities dump Flock and hire Axon for the same function. Asheville skipped the middle step and went straight to the fully integrated Axon stack. ([Yahoo News](https://www.yahoo.com/news/us/articles/cities-ditching-flock-safety-cameras-172924943.html))
+
+**Washington State (2025–2026): the law caught up.** After courts ruled Flock data was subject to public records requests and the legislature passed the Driver Privacy Act (21-day retention cap, bans on immigration and reproductive-health uses), more than a dozen Washington agencies paused or dropped their systems rather than face liability. ([Washington State Standard](https://washingtonstatestandard.com/2026/03/06/automated-license-plate-reader-regulations-close-to-becoming-wa-law/) · [KUOW](https://www.kuow.org/stories/police-pause-license-plate-readers-to-comply-with-new-wa-state-restrictions))
+
+## The abuse record
+
+These are not hypotheticals. Each happened through the same technology Asheville is installing, under the same kinds of written policies.
+
+- **The abortion search.** In May 2025, a Texas sheriff's office ran a nationwide search across **~83,000 cameras** (including in states where abortion is legal) with the logged reason "**had an abortion, search for female**." The sheriff claimed it was a welfare check; court records obtained by EFF show deputies had discussed criminal charges with prosecutors. No warrant. ([EFF](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it) · [The Record](https://therecord.media/police-searched-license-reading-cameras-abortion-investigation))
+- **The ICE side door.** ICE has no Flock contract. It doesn't need one: 404 Media's analysis of leaked search logs found **4,000+ lookups by local and state police for federal immigration purposes**: officers running searches for ICE as informal favors, sometimes typing "ICE" or "illegal immigration" as the reason. This is the mechanism APD's "court order required" promise does not address: *another agency* can run the search. ([404 Media](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/))
+- **The stalkers with badges.** The Washington Post's August 2026 investigation found **at least 50 officers charged with or accused of misusing plate readers against partners, exes, and women they wanted to meet, 46 of 50 involving Flock** ([Poynter on the investigation](https://www.poynter.org/commentary/2026/flock-security-camera-changes-washington-post/), [AP follow-on](https://www.spokesman.com/stories/2026/aug/16/flock-safety-tightens-safeguards-as-states-cities-/)); the Institute for Justice separately documented [dozens of innocent motorists stopped at gunpoint or jailed on camera errors](https://ij.org/dozens-of-innocent-motorists-have-been-pulled-over-detained-at-gunpoint-or-jailed-due-to-ai-license-plate-camera-errors/). Two of the newest charges are in North Carolina; the full pattern, including how abuse actually gets discovered, is in [[The Abuse Record]].
+- **The security disaster.** [[Benn Jordan]] and security researcher Jon Gaines **rooted a Flock camera in under 30 seconds** on video ([the video](https://www.youtube.com/watch?v=uB0gr7Fh6lY)); Jordan later found ~70 Flock cameras streaming unauthenticated on the open internet ([404 Media](https://www.404media.co/)). Senator Wyden and Rep. Krishnamoorthi have asked the **FTC to investigate** Flock's security: no mandatory two-factor authentication, at least 35 documented cases of stolen customer passwords. ([Krishnamoorthi press release](https://krishnamoorthi.house.gov/media/press-releases/congressman-krishnamoorthi-senator-wyden-urge-ftc-investigate-surveillance)) The House Oversight Committee opened its own investigation after the ICE and abortion revelations. ([404 Media](https://www.404media.co/congress-launches-investigation-into-flock-after-404-media-reporting/))
+
+## Does any of it reduce crime?
+
+The independent evidence says: barely, if at all.
+
+- The most rigorous studies of plate readers find an **investigative effect but no deterrent effect**: they help solve some cases after the fact; they don't prevent crime. ([CrimRxiv review](https://www.crimrxiv.com/pub/zleg04q3/release/1))
+- A 2025 evaluation of Atlantic City's fixed-camera expansion found **no reduction in violent crime**. ([Justice Evaluation Journal](https://www.tandfonline.com/doi/full/10.1080/24751979.2025.2473363))
+- Flock's marquee claim, that its cameras help solve "10% of reported U.S. crime", was company-funded, and six criminologists publicly rejected it; one called it borderline "ludicrous," another doubted it "would survive peer review." The researcher who oversaw it told 404 Media he had concerns about it. ([404 Media](https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/) · [Forbes](https://www.forbes.com/sites/cyrusfarivar/2024/02/29/flock-ai-cameras-may-not-reduce-crime/))
+- Real-time crime centers show improved **case clearance** in some studies (Miami's RTCC-assisted cases cleared at meaningfully higher rates), a real but modest benefit, concentrated after crimes occur, and nothing like the transformation the sales decks promise. ([Justice Evaluation Journal](https://www.tandfonline.com/doi/full/10.1080/24751979.2025.2475515))
+
+Austin's arithmetic is the summary: **117 million scans, 228 arrests.**
+
+## Axon and Fusus specifically
+
+Fusus (the platform at the center of Asheville's [[What Is the RTIC|RTIC]]) was bought by Axon in January 2024 for $240 million. ([Axon investor release](https://investor.axon.com/2024-02-01-Axon-Accelerates-Real-Time-Operations-Solution-with-Strategic-Acquisition-of-Fusus)) Its signature feature is integrating **privately owned cameras**: businesses, churches, schools, and homes "register" cameras or install a device giving police live streaming access. EFF has documented how these registries pull private cameras into police networks ([EFF](https://www.eff.org/deeplinks/2023/05/neighborhood-watch-out-cops-are-incorporating-private-cameras-their-real-time)); The 74 documented **ICE reaching school security cameras** through exactly these networks. ([The 74](https://www.the74million.org/article/ice-taps-into-school-security-cameras-to-aid-trumps-immigration-crackdown-74-investigation-shows/))
+
+Nashville's Metro Council **voted Fusus down** in December 2024: 20–18, with the NAACP and community oversight groups opposed. ([WKRN](https://www.wkrn.com/news/local-news/nashville/council-votes-down-fusus/)) Asheville's council was told about none of this on [[2026-05-12 City Council|May 12]].
+
+On cost: Axon bundles Fusus into multi-year "ecosystem" contracts: exactly Asheville's 7.5-year deal. At the May 12 hearing, a resident who negotiates contracts professionally told council that Axon publishes its terms and customers "sign what is on the page"; another documented the ~25%-per-year price escalation Axon itself markets to investors as its "Flywheel of Growth."
+
+## The legal ground is shifting
+
+- **Schmidt v. Norfolk**: the Institute for Justice's Fourth Amendment challenge to Norfolk, VA's 175-camera Flock dragnet is now before the **4th Circuit Court of Appeals** (No. 26-1227), with ACLU, EFF, Cato, and EPIC filing in support. The 4th Circuit's rulings bind North Carolina. ([IJ](https://ij.org/press-release/federal-court-rejects-flock-safetys-late-bid-to-join-and-block-ijs-lawsuit-challenging-norfolks-mass-surveillance-cameras/) · [case tracker](https://deflockilm.org/norfolk-flock-lawsuit-fourth-amendment/))
+- **The Supreme Court's June 2026 location-data ruling** held that acquiring mass location history is a Fourth Amendment search, rejecting the "we only took a small slice" defense that Norfolk won on below. Whether it extends to plate-reader archives is the open question everyone in this fight is watching. ([Ohio Capital Journal analysis](https://ohiocapitaljournal.com/2026/07/08/are-flock-cameras-next-supreme-court-rules-against-police-using-sprawling-cell-phone-location-data/))
+- A separate Virginia suit alleges police used Flock to track one driver **526 times in four months**. ([NBC News](https://www.nbcnews.com/tech/security/virginia-police-used-flock-cameras-track-driver-safety-lawsuit-surveil-rcna230399))
+
+## Flock's damage control
+
+Under pressure, Flock has kept revising its guardrails: California lookups disabled (2025), required offense codes (Dec 2025), a federal-sharing off switch (Jan 2026), and (announced August 13, 2026) a **7-day default retention**, offense filtering, and mandatory audit tools. The ACLU's response: the previous safeguards were circumvented with vague search entries, and [a company with this record has lost the credibility to self-regulate](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country). ([AP](https://www.spokesman.com/stories/2026/aug/16/flock-safety-tightens-safeguards-as-states-cities-/) · [ACLU response](https://www.aclu.org/press-releases/as-public-opposition-to-flock-grows-aclu-responds-to-surveillance-companys-new-updates))
+
+Flock's own **recommended retention is now 7 days**. Asheville holds your data for 30.
+
+## What this means for Asheville
+
+Every promise in Asheville's [[Promise Tracker]] has already failed somewhere else under identical wording. The cities that protected their residents didn't do it with policies; they did it with **enforceable law**: council-approval requirements, retention caps, sharing bans, and termination clauses. That's the ask. See [[Speak at Council]].
+
+*This page is the list and the reasons. The mechanics of how each rollback happened, and what that implies for Asheville, are on [[How Cities Won]]. The dated harms behind the reasons are on [[Stories That Check Out]].*
