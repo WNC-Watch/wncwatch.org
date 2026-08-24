@@ -20,6 +20,8 @@ Everything here is sourced. Quotes link to timestamps in the city's own videos; 
 <div class="share-text"><strong>WNC Surveillance Watch</strong><br/><span class="share-url">wncwatch.org</span><br/>Pass it on: screenshot this card, or point a phone camera at the code. The sourced record of how surveillance came to Asheville, and what happens next.</div>
 </div>
 
+**Follow along.** We post the record where people already are: <a href="https://www.facebook.com/wncwatch">Facebook</a>, <a href="https://www.instagram.com/wncwatch">Instagram</a>, and <a href="https://bsky.app/profile/wncwatch.bsky.social">Bluesky</a>, all @wncwatch. Every claim on those accounts traces back to a page on this site.
+
 ## The whole story in one look
 
 Every entry links to a deeper page with sources.
