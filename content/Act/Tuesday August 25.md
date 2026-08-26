@@ -3,6 +3,9 @@ title: "Tuesday, August 25: Make the Vote Count"
 description: "Council votes on ending the Flock contract. A guide to building your own three minutes or email from what's on this site: what is actually being decided, the angle that matters to you, the ask that fits it, and where to send it. One worked example at the end, not a script."
 ---
 
+> [!info] The vote happened
+> Council passed the termination resolution **5 to 2** on August 25. What passed, what failed for lack of a second, and what every member said: [[2026-08-25 City Council|the full write-up]]. This page stays as the record of what residents were asked to weigh in on.
+
 **Tuesday, August 25, 5 PM, Council Chamber, second floor of City Hall, 70 Court Plaza.** The Flock resolution is New Business item VI.A ([agenda](https://docs.google.com/document/d/1KQx06L9DUN1ReoOSCPcS_fwl8cJ1YlypJJjihwGwFWc/edit) · [resolution](https://docs.google.com/document/d/1uhGDUZtpecu4I31Y2ePjYNk1AcM4BPXVP7TbSrRbs40/edit) · [the chief's memo](https://docs.google.com/document/d/13kwmbwt6T9PiEjUgrFNb9ZHFGzaIsHi5cvsBHkpq-lY/edit)). Speakers sign up at the chamber door; be there by 4:30. Emailed and voicemail comments go into the record only if received **by 9:00 a.m. Tuesday** ([the city's rules](https://publicinput.com/g1267)).
 
 This page is not a script. Twenty people reading the same three points spend twenty slots on one argument; twenty people each saying the thing they actually know and care about, with a fact behind it, build a record council cannot wave off. Use the site to find your fact and your ask. A worked example is at the bottom if you want to see one put together.

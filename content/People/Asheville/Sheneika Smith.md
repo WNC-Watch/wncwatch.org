@@ -1,6 +1,6 @@
 ---
 title: Sheneika Smith
-description: Council member since 2017; proposed a community forum on the RTIC that never happened. On the November ballot.
+description: Council member since 2017; proposed an RTIC community forum that never happened, then cast one of the two no votes on Flock termination. On the November ballot.
 aliases:
   - "People/Sheneika Smith"
 ---
@@ -18,10 +18,12 @@ The detail that distinguishes her record: **in March 2025, Smith suggested a com
 
 ## In her words
 
-No substantive public statement on the RTIC found beyond the forum suggestion: not on the campaign trail, not in the DSA, BPR, or Chamber questionnaires (as of Aug 17, 2026).
+Through Aug 17, 2026: no substantive public statement on the RTIC found beyond the forum suggestion. That changed at the [[2026-08-25 City Council|August 25 meeting]], where she cast one of the two no votes on Flock termination and gave her reasoning at length: "the language is only to cancel, remove, evaluate, review. But what else? What do we do for people who feel vulnerable?... tonight I hear privacy over conviction, privacy over safety, privacy over justice." And pressing for a replacement plan: "the time of pause is life-threatening in a lot of situations... I haven't heard any resolutions. I haven't heard about replacements. What do we do?"
+
+Her no was not a defense of Flock; it was an objection that removal came with no named substitute. The forum she proposed in March 2025 is the mechanism that would have surfaced exactly the community answers she said were missing.
 
 ## Questions she hasn't answered
 
 Why was the forum she proposed never held, and would she hold it now? Does she support releasing the [[What Axon Contracts Do|Axon contract]] and publishing the audits ([[Promise Tracker]])? Contact: sheneikasmith@avlcouncil.com · see [[Election 2026]].
 
-*Region: Asheville · Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 26, 2026*

@@ -5,6 +5,12 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## August 26, 2026: the Flock vote, recorded; one correction
+
+Council terminated the Flock contract 5 to 2 on August 25. New meeting page [[2026-08-25 City Council]] carries the vote, the moratorium that failed for lack of a second, the Axon confirmation from the dais, and the chief's deletion carve-out, every quote linked to its timestamp. Updated with the vote and each member's statement: [[Promise Tracker]] (row 11), [[Timeline]], [[Tuesday August 25]], and the pages for [[Esther Manheimer]], [[Kim Roney]], [[Sage Turner]], [[Bo Hess]], [[Maggie Ullman]], [[Antanette Mosley]], and [[Sheneika Smith]].
+
+**Correction.** The [[2026-08-20 Agenda Briefing]] coverage and [[Maggie Ullman]]'s page credited her with the briefing statement "I was under the impression that 10 were coming down already... I'm happy to move forward on just pulling them now." Voice analysis of the briefing audio, checked against the August 25 session where every member's voice is anchored by the chair's recognitions, attributes that statement to [[Sage Turner]], whose own public posts describe the same wind-down details. The quote now lives on Turner's page; Ullman's page notes the correction. Her other briefing statement, the "can't fathom pulling back on our transparency tools" line, was re-verified and stands as hers.
+
 ## August 24, 2026: the site joins WNC Surveillance Watch
 
 This site now lives at **wncwatch.org** and carries the name of the project it belongs to: WNC Surveillance Watch, the same neighbors keeping the same record. Two changes with this release: the site speaks as "we" throughout, because it is kept by more than one pair of hands now, and the share card's QR points at the new address. Nothing about the method changed: every claim still links its record, corrections still run with the same prominence, and the old address will keep working.

@@ -1,6 +1,6 @@
 ---
 title: Antanette Mosley
-description: Vice Mayor; in the majority on the surveillance votes; no public explanation offered. On the November ballot.
+description: Vice Mayor; in the majority on the surveillance votes, then one of two no votes on Flock termination, calling it election-season politics. On the November ballot.
 aliases:
   - "People/Antanette Mosley"
 ---
@@ -26,8 +26,12 @@ Mosley holds the council's **non-voting seat on the board of the Asheville Downt
 
 As Vice Mayor, a Public Safety Committee member, an attorney, and a candidate: Does she support releasing the executed [[What Axon Contracts Do|Axon contract]]? Publishing the quarterly audits? Making the safeguards binding by ordinance ([[Promise Tracker]])? Voters can ask: antanettemosley@avlcouncil.com, or at any forum; see [[Election 2026]] for the questions that can't be answered with a slogan.
 
+## August 25: the no vote, explained
+
+At the [[2026-08-25 City Council|termination vote]] she cast one of the two no votes, after years in the majority with no public explanation. Her statement endorsed the critics' concerns while rejecting the vehicle: concerns about "privacy, data sharing, civil liberties and accountability... are not new for me," citing her years representing Johnnie Rush. But: "This whole thing feels deeply political to me. We are [in] the middle of an election season... My job is not to participate in political theater. My job is to govern... I cannot support this resolution in [its] current [form] tonight." Asked what change would win her vote: "what we're attempting to do quite frankly is a bait and switch, and I think we're not giving our citizens credit for seeing that." She read into the record a letter from the housing authority's executive director: residents "want cameras... more security not less," and "their absence at council meetings should not be mistaken for silence."
+
 ## Ballot note
 
 A residency challenge (based on an Atlanta homestead exemption, surfaced in December 2025 by Asheville Watchdog/BPR reporting) was unanimously denied by the Buncombe County Board of Elections on January 21, 2026 ([BPR](https://www.bpr.org/2026-01-21/buncombe-elections-board-denies-candidate-challenges)); a State Board of Elections inquiry remained open as of that reporting. She remains on the November ballot.
 
-*Region: Asheville · Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 26, 2026*

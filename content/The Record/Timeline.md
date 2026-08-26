@@ -85,9 +85,11 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 
 **August 21, 2026: The agenda posts.** The Flock resolution is New Business item VI.A for August 25, not consent. Its seven sections direct the manager to terminate and "immediately request that Flock remove their hardware," bar city employees from searching the city's Flock data, keep existing data "in accordance with applicable law," bar linking it to facial recognition, order a ten-item policy review with "an independent civil-liberties policy reviewer," and freeze new Flock agreements during the review. Axon is not mentioned. ([resolution](https://docs.google.com/document/d/1uhGDUZtpecu4I31Y2ePjYNk1AcM4BPXVP7TbSrRbs40/edit) · [agenda](https://docs.google.com/document/d/1KQx06L9DUN1ReoOSCPcS_fwl8cJ1YlypJJjihwGwFWc/edit) · [[Getting Flock Out|the scorecard]])
 
+**August 25, 2026: Council terminates the Flock contract, 5 to 2.** [[Kim Roney|Roney]] moves, [[Sage Turner|Turner]] seconds; [[Antanette Mosley|Mosley]] and [[Sheneika Smith|Smith]] vote no. More than two dozen residents speak, nearly all for termination and nearly all asking council to go further. On the dais, [[Esther Manheimer|the mayor]] confirms the city's existing Axon contract already covers stationary plate readers, none installed, and City Manager [[D.K. Wesley]] gives a verbal assurance none go up "until that community conversation happens." Minutes after passage, Roney's moratorium on purchasing new plate readers during the city's own review **fails for lack of a second**. Full write-up: [[2026-08-25 City Council]].
+
 ## What's next
 
-- **Aug 25, 2026**: City Council votes on authorizing termination of the Flock contract (agenda posts Friday Aug 21 at noon at [ashevillenc.gov](https://www.ashevillenc.gov/)); regular meeting, 5 PM, City Hall
+- **Flock removal and data deletion**: the contract requires Flock to remove its 11 cameras; staff committed on the record to notify council when data deletion is complete. [[Promise Tracker|Row 11]] turns green when the cameras are verifiably down and APD's Flock accounts are closed
 - **Sept 24, 2026**: Public Safety Committee (last Thursday of odd-numbered months, 11 AM, virtual)
 - **Oct 15 – Nov 3, 2026**: Early voting → Election Day. See [[Election 2026]]
 - **Spring/summer 2027**: RTIC operational target. The [[Promise Tracker]] starts now.

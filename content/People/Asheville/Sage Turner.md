@@ -26,8 +26,14 @@ Track this at [[Promise Tracker|Promise Tracker row 11]]. It matters for two rea
 
 At the [[2026-08-20 Agenda Briefing|August 20 briefing]] (attribution confirmed by watching the video; captions don't label speakers) she said the most consequential unclaimed sentence of the meeting: "I'm not interested in canceling the Axon contract for body cams or dash cams... I did reach out to legal, I did learn Axon has ALPRs... **maybe that's a part of the contract we wish wasn't there**." A member of the May 12 majority, on the record that the plate-reader component of the [[What Axon Contracts Do|Axon contract]] she voted for may be unwanted. That is the natural seed of [[Getting Flock Out|demand 7]], a separate public vote before any fixed Axon plate reader goes up, and it makes her the member to hand that motion to: her Flock condition proved conditions need enforcement; her Axon question is the same instinct pointed at the replacement.
 
+## August 25: seconded, and reframed
+
+At the [[2026-08-25 City Council|termination vote]] she seconded [[Kim Roney|Roney's]] motion and voted yes, while reframing the resolution on the record: "Six of us already voted to cancel Flock, and this is [an] additional movement to speed up the process... I'm getting lots of questions about why I didn't support it, when I did. We all did." (The May 12 votes approved the Axon contract with her Flock-removal condition attached; the termination resolution exists because that condition went unenforced, a sequence her own posts documented above.) She also thanked APD "for not being one of those scary statistics... for maintaining this software while we had it under our purview, safely." She did not second the moratorium on new plate reader purchases; no member did.
+
+**Attribution note (Aug 26, 2026):** voice analysis of the [[2026-08-20 Agenda Briefing|Aug 20 briefing]] audio attributes this statement, previously credited to [[Maggie Ullman]], to Turner: "I was under the impression that 10 were coming down already and one would stay until February. I'm happy to move forward on just pulling them now, so long as we're not increasing safety risks." That reading fits the wind-down details in her own Facebook posts above. Correction logged on [[Updates|Site Updates]].
+
 ## Questions for her
 
 Will she move to enforce her condition: a council motion setting a removal deadline for the city's Flock cameras? Would she support a feature-activation rule and published audits ([[Promise Tracker]])? Contact: sageturner@avlcouncil.com
 
-*Region: Asheville · Last updated: Aug 20, 2026*
+*Region: Asheville · Last updated: Aug 26, 2026*

@@ -43,8 +43,12 @@ Two more threads from the committee record, in his own words:
 
 Hess chairs the Public Safety Committee, the body where RTIC oversight is supposed to live. A review of all seven of its recorded meetings (May 2025–July 2026) found **zero**: no audits requested, no post-approval briefings received, and the **July 29, 2026 meeting, held after the RTIC was operational-bound, contains not one word about RTIC implementation, the Flock wind-down, or the promised quarterly audits.** The only skeptical questions ever raised in that committee came from [[Antanette Mosley|Mosley]] (on ICE agreements) and [[Sheneika Smith|Smith]] (on profiling and face-vs-plate), never from its chair. His committee next meets **Sept 24, 11 AM**. See [[Oversight Theater]].
 
+## August 25: yes on termination, on his terms
+
+At the [[2026-08-25 City Council|termination vote]] he voted yes, with the night's longest statement drawing his line: "ending one [vendor's] contract is not the same as rejecting responsible technology, and I will not personally allow this decision to become a back door to weakening or defunding the [Asheville] Police Department... I plan on allowing our law enforcement to have every single tool at their [disposal]." He recited safeguards as already in place, "restricted access which we have... short retention periods which we have, controlled data sharing which we have... regular audits which we have"; [[Promise Tracker|the tracker]] holds each of those claims against the record, where several exist as APD policy or vendor settings rather than anything council enacted. He also endorsed reviving a police oversight commission reporting to the Public Safety Committee he chairs. He did not second the moratorium on new plate reader purchases; no member did.
+
 ## Why he matters now
 
 His committee, Public Safety, meets the last Thursday of odd months at 11 AM, virtually ([livestream](https://publicinput.com/d81053)), and is where RTIC implementation reporting will land. If the quarterly audits (see [[Promise Tracker]], row 4) surface anywhere public, it's there. He is also the natural council author for any move to convert his resolution's language into an actual ordinance, a test of whether the civil-liberties framing was substance or cover. Residents who want that on the record should ask him directly: bohess@avlcouncil.com. See [[Speak at Council]].
 
-*Region: Asheville · Last updated: Aug 22, 2026*
+*Region: Asheville · Last updated: Aug 26, 2026*
