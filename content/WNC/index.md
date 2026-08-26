@@ -1,6 +1,6 @@
 ---
 title: Western North Carolina
-description: Ten community deep-dives, from Asheville's own timeline to Macon's win to Henderson's 2,048-agency sharing list, plus the state laws every county runs under.
+description: Eleven community deep-dives, from Asheville's own timeline to Macon's win to Henderson's 2,048-agency sharing list, plus the state laws every county runs under.
 ---
 
 The cameras do not stop at the city line. The county's network came first, the neighbors share into the same pools, and the state now compels what local officials once chose. Start with the overview, then the county you live in.
@@ -19,7 +19,8 @@ The cameras do not stop at the city line. The county's network came first, the n
 | [[Macon County]] | The 5 to 0 vote that ended Flock; 12 cameras down | [[Josh Young]], [[John Shearl]] |
 | [[Madison County]] | A moratorium fight and a sheriff's race | [[Buddy Harwood]] vs [[Robin Lyles]] |
 | [[Jackson County]] | Four Flock readers and a four-document policy manual | [[Doug Farmer]] |
-| [[Transylvania County]] | Brevard's live fight; the sheriff unopposed | [[Chuck Owenby]] |
+| [[Transylvania County]] | Brevard decides on Axon's free cameras Sept 8; the sheriff unopposed | [[Chuck Owenby]] |
+| [[Watauga County]] | Boone checked the log: 1.5M outside searches, sharing cut to 41 agencies | Boone Town Council |
 | [[Rutherford County]] | The February 2025 pitch: "access to the nationwide database" | [[Aaron Ellenburg]] |
 | [[McDowell County]] | A new sheriff, sworn in August 10 | [[Nathan Mace]] |
 

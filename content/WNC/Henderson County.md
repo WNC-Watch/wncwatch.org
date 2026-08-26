@@ -52,4 +52,15 @@ No renewal date is public and no vote is scheduled, so the levers are the **annu
 
 **Video:** commissioners stream on **Vimeo** (no auto-captions; the one WNC body our transcript pipeline can't cheaply cover); [Hendersonville City Council is on YouTube](https://www.youtube.com/channel/UCT4upsJqDADQjBsBBUd19TA). Best press: the Hendersonville Lightning.
 
+## Late August: the sheriff's written case, and two September dates
+
+Ahead of the removal campaign's September push, [[Lowell Griffin|Sheriff Griffin]] put his fullest defense in writing ([Lightning, Aug 18](https://www.hendersonvillelightning.com/news/16253-sheriff-defends-use-of-flock-cameras-cites-safeguards.html)). His claims, quoted, each one checkable: "Flock data is automatically deleted after 30 days. The sheriff's office owns its data and controls who it is shared with." "Every search conducted in the system requires documented law enforcement justification, and those searches are permanently logged." "The Flock cameras deployed in our county do not provide live video surveillance, do not perform facial recognition, and do not track individuals." And one concession that carries the whole network problem: "I'm unable to provide any guarantees as to how other agencies handle the Flock data in their communities" ([Times-News via Cardinal & Pine, Aug 18](https://cardinalpine.com/news/in-rural-nc-county-opposition-to-flock-cameras-unites-conservatives-and-liberals/)). Every promise in that list is the same promise other communities' audit logs have tested; the [[Sheriffs Audit Log|Buncombe log]] and App State's portal experience show what testing looks like.
+
+The dates:
+- **Thursday, Sept 3, 5:45 PM, Hendersonville City Council**: council has requested a Flock presentation from Police Chief Blair Myhand; the removal campaign plans to attend. ([Times-News/Cardinal & Pine](https://cardinalpine.com/news/in-rural-nc-county-opposition-to-flock-cameras-unites-conservatives-and-liberals/))
+- **Tuesday, Sept 8, 5:30 PM, Henderson County Board of Commissioners**: the campaign's ask lands with the board; agenda not yet posted. Chair Lapsley's stated standard: "until we hear of some abuse or something radical happening, I don't see a problem." Two NC officers were criminally charged for Flock abuse in July and August.
+- A counter-petition to increase Flock funding launched Aug 6; the removal petition passed 1,000 signatures mid-August.
+
+None of the other four commissioners, and none of Hendersonville's five elected officials, has made a public statement on the cameras.
+
 *Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Getting Flock Out]] · [[How Cities Won]]*

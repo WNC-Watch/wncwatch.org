@@ -35,4 +35,11 @@ Sheriff Owenby credits his 8 cameras with locating six missing persons and "redu
 
 **Video:** county commissioners are on **Vimeo** (no auto-captions); [Brevard City Council is on YouTube](https://www.youtube.com/channel/UCQLjYNExYc71BKYghN0V5iA). The Transylvania Times owns this beat. No organized local opposition group exists yet, which, given the pending public-input meeting, is the gap most worth filling in all of WNC.
 
+## The September decision, dated
+
+- **Tuesday, Sept 1, 6-8 PM, Mary C. Jenkins Community Center (221 Mills Ave)**: the city's ALPR information session, staffed by Brevard PD and city staff, question-and-answer format. It is a city event, not a noticed meeting, so there is no agenda packet, and no formal comment is taken; the conversation is the point. **The draft ALPR policy and the Axon contract are posted now** on [the city's ALPR page](https://www.cityofbrevard.com/1546/ALPR-Program): the documents exist to be read before Monday.
+- **Tuesday, Sept 8, 5:30 PM, City Council, 95 W Main St**: the decision meeting, ALPR on the agenda.
+- What is on offer: **three Axon Outpost fixed plate readers at no charge**, inside a five-year, ~$80,000 Axon package of tasers and body cameras, plus monthly data-storage fees. The free camera is the entry ticket; the contract is the product. [[What Axon Contracts Do|Asheville's contract]] shows what the same vendor's terms look like at full size.
+- The committee record so far: Council member Aaron Baker wants the city "rock solid on the protections part of it" and says the Axon end of the agreement is his main concern; Dean Lytle says "the chief deserves to answer those questions to the public before it's implemented." The mayor and the other three members have not spoken publicly, and no Transylvania County commissioner has said anything about the sheriff's existing Flock cameras.
+
 *Related: [[WNC and NC]] · [[What Axon Contracts Do]] · [[How Cities Won]]*

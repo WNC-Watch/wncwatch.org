@@ -1,16 +1,24 @@
 ---
 title: WNC Surveillance Watch
-description: "How mass surveillance came to Asheville and Western North Carolina: the timeline, the people deciding what happens next, and how residents can step in. Kept by neighbors, sourced to the record."
+description: "How mass surveillance came to Asheville and Western North Carolina, and the region now deciding what to do about it: the timeline, the records, the September calendar, and how residents can step in. Kept by neighbors, sourced to the record."
 ---
 
-On May 12, 2026, Asheville City Council voted 6–1 to accept $1.14 million in federal funding and authorize a 7.5-year <a href="./Companies/What-Axon-Contracts-Do">contract with Axon</a> for a <a href="./The-System/What-Is-the-RTIC">Real-Time Intelligence Center</a>: a police hub connecting license plate readers, body cameras, drones, and private security cameras across the city, built on a county network that had been watching public housing and schools for four years before anyone was asked. This site documents how that decision was made, what the county was already doing, what the companies sell, and what happens next.
+On May 12, 2026, Asheville City Council voted 6–1 to accept $1.14 million in federal funding and authorize a 7.5-year <a href="./Companies/What-Axon-Contracts-Do">contract with Axon</a> for a <a href="./The-System/What-Is-the-RTIC">Real-Time Intelligence Center</a>: a police hub connecting license plate readers, body cameras, drones, and private security cameras across the city, built on a county network that had been watching public housing and schools for four years before anyone was asked. This site documents how that decision was made, what the county was already doing, what the companies sell, and what happens next. On August 25, 2026, council voted 5 to 2 to terminate the city's Flock contract, the second WNC government to do it. The same decisions are now in front of Brevard, Hendersonville, Henderson County, and Jackson County, with the same vendors making the same promises, so this site now keeps the record for the region.
 
 This site is kept by Asheville and WNC residents. We watched the May 12 meeting live, and it bothered us how hard the process made it for residents to know about the decision, comment on it, or shape it. So we started keeping records: meeting transcripts, the city's own videos and documents, the sheriff's policies, the contracts, the audit logs. Local decisions are where residents still have real influence, whatever your politics, and this one is still being made.
 
 Everything here is sourced. Quotes link to timestamps in the city's own videos; documents link to the originals; you can check any claim yourself. We're not neutral (our views are on the page), but the site is built to be useful whether you share them or not.
 
 <div class="avl-now">
-<p><strong>Tuesday, August 25, 5 PM: council votes on ending the Flock contract.</strong> The resolution covers the city's 11 Flock cameras. It leaves the 162 Axon plate readers in patrol cars, the chief's plan to expand them, and the unreleased contracts untouched. What is actually being decided, section by section; the angle that matters to you, with a fact and a page behind it; the ask that fits; and where to send it, with one worked example: <a href="./Act/Tuesday-August-25"><strong>Make the vote count</strong></a>. Written comments go in the record only if received by <strong>9 a.m. Tuesday</strong> at avl-city-council@publicinput.com.</p>
+<p><strong>The September calendar.</strong> Six dates, five bodies, one region deciding:</p>
+<ul>
+<li><strong>Tue Sept 1, 6–8 PM</strong>: Brevard's ALPR information session, Mary C. Jenkins Community Center. A town that hasn't signed, asking questions first; the draft policy and the Axon contract are <a href="https://www.cityofbrevard.com/1546/ALPR-Program">posted to read now</a>. <a href="./WNC/Transylvania-County">Transylvania County</a></li>
+<li><strong>Thu Sept 3, 5:45 PM</strong>: Hendersonville City Council hears a Flock presentation from its police chief; residents are asking to defund the city's 15 cameras. <a href="./WNC/Henderson-County">Henderson County</a></li>
+<li><strong>Tue Sept 8, 5:30 PM</strong>: Brevard City Council decides on the Axon cameras, and Henderson County commissioners hear the removal ask for the sheriff's 13. Two decisions, one night. <a href="./WNC/Transylvania-County">Brevard</a> · <a href="./WNC/Henderson-County">Henderson</a></li>
+<li><strong>Thu Sept 24, 11 AM</strong>: Asheville's Public Safety Committee. The question that hasn't been answered: where are the plate reader audit reports state law already requires? <a href="./The-Record/The-Committee">The Committee</a></li>
+<li><strong>Oct 1</strong>: the state deadline for the Highway Patrol, SBI, and prisons to enter ICE 287(g) agreements. <a href="./WNC/WNC-and-NC">WNC and NC</a></li>
+<li><strong>Oct 15 – Nov 3</strong>: early voting, then the election. <a href="./Act/Election-2026">Election 2026</a></li>
+</ul>
 </div>
 
 ## Share it
@@ -58,22 +66,23 @@ Every entry links to a deeper page with sources.
 <div class="tl-era">You are here: the part that's still undecided</div>
 <div class="tl-item tl-resist"><div class="tl-date">Aug 16–22, 2026</div><div class="tl-body"><strong>National Week of Action.</strong> Asheville joins; by mid-week the mayor has moved. <a href="./Act/Get-Involved">Get involved</a></div></div>
 <div class="tl-item tl-resist"><div class="tl-date">Aug 19, 2026</div><div class="tl-body"><strong>The mayor calls for Flock termination.</strong> Mid–Week of Action, <a href="./People/Asheville/Esther-Manheimer">Mayor Manheimer</a> says she has "heard clearly from Asheville residents" and calls for a vote to terminate the Flock contract and remove the cameras. A statement isn't a removal, and it leaves the <a href="./The-System/What-Is-the-RTIC">RTIC</a> and APD's <a href="./Act/Getting-Flock-Out">Flock search accounts</a> untouched, but residents moved a mayor who voted for every stage of the buildout. <a href="./Act/Getting-Flock-Out">How the proposal scores against a real exit</a></div></div>
-<div class="tl-item tl-expand"><div class="tl-date">Aug 21, 2026</div><div class="tl-body"><strong>The resolution posts, with the chief's plan attached.</strong> It ends Flock. The memo behind it says APD is "not pursuing a full transition away from Flock," plans Axon plate readers by February 2027, and counts 162 Axon readers already in patrol cars. <a href="./Act/Getting-Flock-Out">Scored against a real exit</a></div></div>
-<div class="tl-item tl-future tl-now"><div class="tl-date">Aug 25, 2026</div><div class="tl-body"><strong>Council votes on terminating the Flock contract.</strong> Three minutes at the podium, or an email by 9 a.m. Build yours from what's here. <a href="./Act/Tuesday-August-25">Make the vote count</a>.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">Aug 21, 2026</div><div class="tl-body"><strong>The resolution posts, with the chief's plan attached.</strong> It ends Flock. The memo behind it says APD is "not pursuing a full transition away from Flock" and plans Axon plate readers by February 2027; APD separately told local reporters there are 162 Axon readers already in patrol cars. <a href="./Act/Getting-Flock-Out">Scored against a real exit</a></div></div>
+<div class="tl-item tl-resist"><div class="tl-date">Aug 25, 2026</div><div class="tl-body"><strong>Terminated, 5 to 2.</strong> After 34 residents put their names on the item, council votes to end the Flock contract; the same night, Davidson County ends its own unanimously. Minutes later, a moratorium on buying new plate readers during the city's review fails when no member will second it, and the Axon contract stands. <a href="./The-Record/Meetings/2026-08-25-City-Council">The full record</a></div></div>
+<div class="tl-item tl-future tl-now"><div class="tl-date">Sept 2026</div><div class="tl-body"><strong>The region decides.</strong> Brevard weighs Axon's free cameras (Sept 1 session, Sept 8 vote), Hendersonville and Henderson County hear removal asks (Sept 3 and 8), and Jackson County's records fight continues. <a href="./WNC/">The region at a glance</a></div></div>
 <div class="tl-item tl-future"><div class="tl-date">September 2026</div><div class="tl-body"><strong>A permanent police chief gets picked,</strong> expected by the end of September. The pick is made by <a href="./People/Asheville/D.K.-Wesley">city manager D.K. Wesley</a>, with no public vote; <a href="./People/Asheville/Jackie-Stepp">Interim Chief Jackie Stepp's record is here</a>. And on Sept 24 <a href="./The-Record/The-Committee">the Public Safety Committee</a> meets. The question to ask: <em>where are the audit reports state law already requires?</em></div></div>
 <div class="tl-item tl-future"><div class="tl-date">Oct 15 – Nov 3, 2026</div><div class="tl-body"><strong>The election.</strong> Four of the six yes votes are on this ballot: <a href="./People/Asheville/Esther-Manheimer">Manheimer</a> vs. <a href="./People/Asheville/Kim-Roney">Roney</a> for mayor, three council seats, and <a href="./People/Buncombe/Quentin-Miller">the sheriff who built the network</a>. Early voting starts Oct 15. <a href="./Act/Election-2026">Election 2026</a></div></div>
 <div class="tl-item tl-future"><div class="tl-date">2027 → 2033</div><div class="tl-body"><strong>The RTIC goes operational</strong> (target: spring/summer 2027) and the contract runs to 2033. Every promise made to sell it gets tested in these years, while attention usually fades. <a href="./The-Record/Promise-Tracker">The promise tracker starts now</a>.</div></div>
 </div>
 
 <div class="avl-now">
-<p><strong>Happening now</strong> <em>(updated Aug 23, 2026)</em></p>
+<p><strong>What we're watching</strong> <em>(updated Aug 26, 2026)</em>: the termination vote ended a contract, not the question. Each item below turns into a post and a page update when it happens.</p>
 <ul>
-<li><strong>Tuesday, Aug 25, 5 PM: the Flock vote.</strong> What council is deciding section by section, the angle that matters to you, and where to send it by 9 a.m. Tuesday. <a href="./Act/Tuesday-August-25">Make the vote count</a> · <a href="./Act/Getting-Flock-Out">The resolution, scored</a></li>
-<li><strong>The sheriff's own audit log.</strong> 337,838 access records, released by the county: 58% of camera viewing on public housing, 95% of it live, three accounts doing half of it, every timestamp withheld. <a href="./The-System/Sheriffs-Audit-Log">What the log shows</a></li>
-<li><strong>The way out is the budget.</strong> Neither contract cancels "for any reason"; both end when council doesn't fund them, Axon's immediately on notice. The clauses, quoted. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
-<li><strong>The county side of the record.</strong> The sheriff's RTIC, plate-reader and drone policies, the forfeiture money, a neighbor's 2,048-agency sharing list, and every decider by region. <a href="./WNC/Buncombe-County">Buncombe County</a> · <a href="./People/">People</a> · <a href="./Companies/">The Vendors</a></li>
-<li><strong>The RTIC's rulebook surfaced</strong> via records requests: the draft policy, the private workgroup's notes, and the Axon contract emails. <a href="./The-Record/The-RTIC-Policy">The RTIC Policy</a></li>
-<li>The <strong>permanent police chief decision</strong> is expected by the end of September, made by the city manager, not by any vote. <a href="./People/Asheville/">Who's deciding</a></li>
+<li><strong>The 11 Flock cameras verifiably down</strong>, and APD's Flock accounts closed, not just the poles. <a href="./Act/Getting-Flock-Out">What a full exit requires</a></li>
+<li><strong>The data deletion notice</strong> staff promised council on the record. <a href="./The-Record/Meetings/2026-08-25-City-Council">The commitment, timestamped</a></li>
+<li><strong>The executed Axon contract released</strong>, with the second contract for 20 in-car plate readers that appears in no council presentation. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
+<li><strong>The audit reports</strong> state law already requires, at the Sept 24 Public Safety Committee. <a href="./The-Record/The-Committee">The Committee</a></li>
+<li><strong>The numbers that keep moving</strong>: the city's plate data retention showed 90 days on its own portal through the night of the vote and reads 21 today; the vehicle reader count is 162 by APD's statement and 137 by its portal. We archived all of it. <a href="./The-Record/Promise-Tracker">Promise Tracker</a></li>
+<li><strong>The sheriff's network underneath it all</strong>: 1,355 Flock networks of access, five-year Fusus retention, and an audit log showing most viewing pointed at public housing. <a href="./The-System/Sheriffs-Audit-Log">The audit log</a> · <a href="./WNC/Buncombe-County">Buncombe County</a></li>
 </ul>
 </div>
 
@@ -97,6 +106,13 @@ More than a hundred pages. Start with what you need:
 <li><a href="./People/">Every official and candidate, profiled</a></li>
 <li><a href="./The-Record/Their-Claims-vs-The-Record">Their claims vs. the record</a></li>
 <li><a href="./Act/Election-2026">The November ballot</a></li>
+</ol></div>
+<div class="door"><span class="door-k">What's happening near me</span><p class="door-t">The region, county by county</p><ol>
+<li><a href="./WNC/Transylvania-County">Brevard: deciding Sept 8</a></li>
+<li><a href="./WNC/Henderson-County">Henderson County: the removal campaign</a></li>
+<li><a href="./WNC/Watauga-County">Watauga: what checking the log did</a></li>
+<li><a href="./WNC/Macon-County">Macon: the county that took them down</a></li>
+<li><a href="./WNC/">All ten communities</a></li>
 </ol></div>
 <div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
 <li><a href="./Act/Tuesday-August-25">Tuesday's vote: build your own comment from what's here</a></li>

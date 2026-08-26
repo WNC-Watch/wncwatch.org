@@ -43,4 +43,8 @@ On ICE, Sheriff Farmer has described honoring detainers case by case: "When we a
 
 The **Sylva Herald is actively investigating** with records requests in flight, the rare county paper doing the work. Video: [county commissioners](https://www.youtube.com/channel/UCQ06Suo-BrkLxLLsSIJbryw) and [Sylva's town board](https://www.youtube.com/channel/UCRL0vTRXlVtk0V3EDwcILEQ) are both on YouTube (the Aug 4 Farmer presentation is on tape). No organized opposition group exists yet; the budget cycle and the Herald's findings are the levers.
 
+## September dates
+
+Commissioners meet **Tuesday, Sept 1** and **Tuesday, Sept 15** (Justice Center, Sylva; verify times on the posted agenda). The Sylva Herald's records requests (agency-sharing list, arrest statistics, search audits) remain unanswered, and one number needs settling: the sheriff's presentation was reported as sharing with 200 agencies by one outlet and 280 by another; both trace to the same slides, and the deck itself is the record to request. Commissioner Michael Jennings's question from the August work session is the one to keep asking: "[that slide] says it does not violate the Fourth Amendment, but to what end? When Flock has updates and starts being able to do more than it can now, or we get a sheriff that's not as strict as you are, there's a lot of reasons it could go wrong."
+
 *Related: [[WNC and NC]] · [[The Abuse Record]] · [[Getting Flock Out]]*

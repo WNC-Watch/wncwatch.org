@@ -5,6 +5,10 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## August 26, 2026, night: the region joins the front page
+
+Asheville's vote is done; the same decision is now in front of four neighboring communities, so the site's front page now leads with the September calendar (Brevard Sept 1 and 8, Hendersonville Sept 3, Henderson County Sept 8, the Public Safety Committee Sept 24, the 287(g) deadline Oct 1) and a new door to the county pages. New page: [[Watauga County]], the region's working example of what checking the log actually does. Updated with officials' statements and September dates from a regional sweep: [[Henderson County]] (the sheriff's written defense, quoted and checkable), [[Transylvania County]] (Brevard's session details; the draft policy and Axon contract are posted), [[Jackson County]], [[Timeline]], and the [[WNC/index|WNC section index]]. The "Happening now" box is now "What we're watching": the five verifications left open by the termination vote, each of which becomes a post and a page update when it happens.
+
 ## August 26, 2026, evening: a source correction on the vehicle reader count
 
 The Aug 25 meeting page attributed the count of 162 vehicle-mounted Axon plate readers to a staff memo. The correct source is APD's own statement to 828NewsNOW, published August 20; the chief's August 14 memo gives no vehicle count. The number itself is unchanged and remains APD's. Worth noting alongside the correction: the city's Axon transparency portal listed 150 vehicles in February 2025 and lists 137 today, so APD's stated count and its own portal currently disagree. Page: [[2026-08-25 City Council]].

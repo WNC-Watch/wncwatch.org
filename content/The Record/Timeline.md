@@ -87,8 +87,11 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 
 **August 25, 2026: Council terminates the Flock contract, 5 to 2.** [[Kim Roney|Roney]] moves, [[Sage Turner|Turner]] seconds; [[Antanette Mosley|Mosley]] and [[Sheneika Smith|Smith]] vote no. More than two dozen residents speak, nearly all for termination and nearly all asking council to go further. On the dais, [[Esther Manheimer|the mayor]] confirms the city's existing Axon contract already covers stationary plate readers, none installed, and City Manager [[D.K. Wesley]] gives a verbal assurance none go up "until that community conversation happens." Minutes after passage, Roney's moratorium on purchasing new plate readers during the city's own review **fails for lack of a second**. Full write-up: [[2026-08-25 City Council]].
 
+**August 2026, the region: the same fight, four counties.** Henderson County's removal campaign passes 1,000 petition signatures and [[Lowell Griffin|Sheriff Griffin]] publishes a written defense with checkable claims; Brevard schedules a Sept 1 public session on Axon's offer of three free fixed plate readers; Jackson County commissioners hear the sheriff's numbers (1.19 million reads a month from four cameras) while the Sylva Herald's records requests go unanswered; and App State, after finding its cameras were searched 1.5 million times in three months, mostly from out of state, cuts national network access while Boone PD cuts sharing to 41 agencies. County pages: [[Henderson County]] · [[Transylvania County]] · [[Jackson County]] · [[Watauga County]].
+
 ## What's next
 
+- **Sept 1 / Sept 3 / Sept 8**: Brevard's ALPR session, Hendersonville's Flock presentation, then Brevard's council decision and Henderson County's removal ask on the same night
 - **Flock removal and data deletion**: the contract requires Flock to remove its 11 cameras; staff committed on the record to notify council when data deletion is complete. [[Promise Tracker|Row 11]] turns green when the cameras are verifiably down and APD's Flock accounts are closed
 - **Sept 24, 2026**: Public Safety Committee (last Thursday of odd-numbered months, 11 AM, virtual)
 - **Oct 15 – Nov 3, 2026**: Early voting → Election Day. See [[Election 2026]]
