@@ -31,7 +31,7 @@ So the council that voted to end one plate reader contract declined, in the same
 
 City Manager D.K. Wesley then gave the assurance that stands where the failed moratorium would have been [(4:03:22)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14602s): "we do have a contract with [Axon]... before any conversation can happen around putting up the stationary fixed location [ALPRs]... absolutely not, we will not put those up until that community conversation happens."
 
-That is the arrangement the city left the room with: the contract that covers stationary Axon plate readers stands, the [[2026-08-20 Agenda Briefing|staff memo's]] 162 vehicle-mounted Axon readers stand, and the barrier to new fixed cameras is the manager's word, given verbally, bound by nothing council voted on.
+That is the arrangement the city left the room with: the contract that covers stationary Axon plate readers stands, the 162 vehicle-mounted Axon readers APD confirmed to local press on Aug 20 stand ([828NewsNOW](https://828newsnow.com/news/228822-ending-flock-wouldnt-end-ashevilles-license-plate-surveillance/); the city's own transparency portal listed 137 vehicles on Aug 26, a discrepancy we are tracking), and the barrier to new fixed cameras is the manager's word, given verbally, bound by nothing council voted on.
 
 ## What "deleted" means, from the chief
 

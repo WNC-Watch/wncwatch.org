@@ -5,6 +5,10 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## August 26, 2026, evening: a source correction on the vehicle reader count
+
+The Aug 25 meeting page attributed the count of 162 vehicle-mounted Axon plate readers to a staff memo. The correct source is APD's own statement to 828NewsNOW, published August 20; the chief's August 14 memo gives no vehicle count. The number itself is unchanged and remains APD's. Worth noting alongside the correction: the city's Axon transparency portal listed 150 vehicles in February 2025 and lists 137 today, so APD's stated count and its own portal currently disagree. Page: [[2026-08-25 City Council]].
+
 ## August 26, 2026: the Flock vote, recorded; one correction
 
 Council terminated the Flock contract 5 to 2 on August 25. New meeting page [[2026-08-25 City Council]] carries the vote, the moratorium that failed for lack of a second, the Axon confirmation from the dais, and the chief's deletion carve-out, every quote linked to its timestamp. Updated with the vote and each member's statement: [[Promise Tracker]] (row 11), [[Timeline]], [[Tuesday August 25]], and the pages for [[Esther Manheimer]], [[Kim Roney]], [[Sage Turner]], [[Bo Hess]], [[Maggie Ullman]], [[Antanette Mosley]], and [[Sheneika Smith]].
