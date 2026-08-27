@@ -5,6 +5,10 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## August 27, 2026: the Fusus record, before and after the sale
+
+The platform under both the county's camera network and Asheville's RTIC had a documented record before Axon bought it in February 2024, and the [[Axon]] page now carries it: the CEO's own "New York-style surveillance systems" for small towns pitch, EFF's pre-acquisition warning that the model routes around warrants, 404 Media's 200,000-camera investigation, the promises that were company policy rather than law, and Nashville's contract that skirted its own required review. Also added: the timeline showing that Axon's fastest surveillance expansion (the Fusus and Dedrone purchases, the plate-reader launch, the AI report writer, the facial-recognition pilot) is the era after nine of twelve of its own ethics board members resigned in 2022. None of the concerns were resolved by the sale; the practices were the product being bought.
+
 ## August 27, 2026: Brevard's posted documents, read in full
 
 Brevard posted its draft ALPR policy and the Axon contract before deciding, and we read both, clause by clause: the [[Transylvania County]] page now carries the full read. Credit first: the draft policy's 30-day purge, per-query case numbers, and public annual report are stronger than most in the region. The open questions: every protection lives in a General Order the chief can amend alone, the actual purchase quote is not posted, the contract auto-renews for five more years, "free" hardware is billed at sticker price on early exit, and Axon's default data program is on until revoked in writing. Archived copies of both documents, with checksums, are in our records. The information session is Tuesday, Sept 1; council votes Tuesday, Sept 8.
