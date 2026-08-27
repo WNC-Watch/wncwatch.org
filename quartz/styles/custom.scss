@@ -262,3 +262,47 @@
     }
   }
 }
+
+// ── The region board (homepage) ──────────────────────────────────
+.avl-board {
+  overflow-x: auto;
+  margin: 0.6rem 0 1rem;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+    margin: 0;
+  }
+  th {
+    text-align: left;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--gray);
+    border-bottom: 2px solid var(--lightgray);
+    padding: 0.35rem 0.6rem 0.35rem 0;
+  }
+  td {
+    padding: 0.45rem 0.6rem 0.45rem 0;
+    border-bottom: 1px solid var(--lightgray);
+    vertical-align: top;
+  }
+  td.bd-place { white-space: nowrap; font-weight: 600; }
+  td.bd-next { white-space: nowrap; }
+  .bd-dot::before {
+    content: "";
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    margin-right: 0.4rem;
+    vertical-align: baseline;
+  }
+  .bd-expand::before { background: var(--tl-expand); }
+  .bd-resist::before { background: var(--tl-resist); }
+  .bd-future::before { background: var(--tl-future); }
+}
+@media (max-width: 640px) {
+  .avl-board table { font-size: 0.8rem; }
+}
