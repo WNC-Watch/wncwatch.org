@@ -7,7 +7,7 @@ aliases:
 
 In August 2026, 404 Media published a leaked internal Flock Safety guide (dubbed the "Flockbook") coaching law enforcement on **how to sell and defend ALPR systems to city councils**, paired with a May 2026 Flock webinar titled "How to Speak to City Councils: Meeting the Moment with Confidence." The full text is public: [the document](https://www.documentcloud.org/documents/28531454-flockbook/) · [404 Media's reporting](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/).
 
-Read it next to Asheville's record. This page does exactly that.
+Read it next to Asheville's record. This page does exactly that, and one thing should be said before the first comparison, not after: none of it proves any Asheville official was insincere. Police departments are the vendor's customers and its sales channel at once; the script below was written by a company and taught to departments nationwide. What the side-by-side shows is provenance: the arguments Asheville heard were not Asheville's. That is a fact about the vendor's sales motion, and it is the reason to meet the people delivering the script as neighbors handed a national playbook, not as its authors.
 
 ## The script, verbatim, and the local performance
 
@@ -35,7 +35,7 @@ Read it next to Asheville's record. This page does exactly that.
 - **"Force multiplier"**: standard vendor framing; APD's local variant: "We don't have officers that can stand on every corner" ([[Jimmy Wingo|Wingo]]). The [[Jackson County]] sheriff used "force multiplier" itself, one county west.
 - **"Reactive, not predictive" / "no facial recognition" / "we track cars, not people"**: Flock and Axon's standard national rebuttal set, delivered by APD in nearly every appearance.
 
-This doesn't prove any official was insincere. It proves **the arguments Asheville heard were not Asheville's**: they came from a vendor's national script, taught to police departments in webinars and playbooks. When you hear these phrases at the podium or in the next campaign, you now know their provenance, and so does everyone you show this page to.
+As said at the top: this doesn't prove any official was insincere. It proves **the arguments Asheville heard were not Asheville's**. When you hear these phrases at the podium or in the next campaign, you now know their provenance, and so does everyone you show this page to.
 
 ## The rest of the paper trail
 

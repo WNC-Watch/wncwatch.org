@@ -7,9 +7,13 @@ Rutherford County has an unresolved camera count, a Flock network with audio det
 
 ## Timeline
 
-- **February 3, 2025: the sheriff's pitch stalls.** Sheriff Aaron Ellenburg (pro-Flock) pitched an 8-camera network (6 fixed, 2 portable) to commissioners; per a summary of the meeting, Detective Sgt. Bailey's selling point was the network itself: "If you get the 8, you have access to the nationwide database." Commissioners asked about cost, bandwidth, and DOT permits; **no vote** was taken, then or since ([meeting summary](https://citizenportal.ai/articles/7297288/north-carolina/rutherford-county/North-Carolina/Rutherford-County/Sheriff-urges-board-to-consider-Flock-license-plate-camera-network-presentation-prompts-questions-on-cost-privacy-and-DOT-permits)). The current county-owned count is unresolved across conflicting reports, a [[Records Center|records-request target]].
-- **July 2026: the vandalism moment goes viral.** A Rutherfordton PD Flock camera was found damaged; the department's Facebook post drew **24,000+ comments, overwhelmingly celebratory** ("Not all heroes wear capes"). The department's July 8 statement promised anyone responsible "will be arrested when appropriate"; as of August 22 no arrest has been reported ([Annie Dance](https://anniedance.substack.com/p/rutherfordton-police-defend-flock)). ([WLOS](https://wlos.com/news/local/damaged-flock-camera-rutherfordton-north-carolina-town-wnc-sparks-online-debate-surveillance-technology-ai-artificial-intelligence-vandalism-vandalized-device) · [[How Cities Won]])
-- **November 2026: Sheriff Ellenburg on the ballot**, apparently unopposed after winning a three-way Republican primary in March ([Ballotpedia](https://ballotpedia.org/Rutherford_County,_North_Carolina,_elections,_2026)).
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+
+<div class="avl-tl">
+<div class="tl-item tl-resist"><div class="tl-date">February 3, 2025</div><div class="tl-body"><strong>the sheriff's pitch stalls.</strong> Sheriff Aaron Ellenburg (pro-Flock) pitched an 8-camera network (6 fixed, 2 portable) to commissioners; per a summary of the meeting, Detective Sgt. Bailey's selling point was the network itself: "If you get the 8, you have access to the nationwide database." Commissioners asked about cost, bandwidth, and DOT permits; <strong>no vote</strong> was taken, then or since (<a href="https://citizenportal.ai/articles/7297288/north-carolina/rutherford-county/North-Carolina/Rutherford-County/Sheriff-urges-board-to-consider-Flock-license-plate-camera-network-presentation-prompts-questions-on-cost-privacy-and-DOT-permits">meeting summary</a>). The current county-owned count is unresolved across conflicting reports, a <a href="../Act/Records-Center">records-request target</a>.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">July 2026</div><div class="tl-body"><strong>the vandalism moment goes viral.</strong> A Rutherfordton PD Flock camera was found damaged; the department's Facebook post drew <strong>24,000+ comments, overwhelmingly celebratory</strong> ("Not all heroes wear capes"). The department's July 8 statement promised anyone responsible "will be arrested when appropriate"; as of August 22 no arrest has been reported (<a href="https://anniedance.substack.com/p/rutherfordton-police-defend-flock">Annie Dance</a>). (<a href="https://wlos.com/news/local/damaged-flock-camera-rutherfordton-north-carolina-town-wnc-sparks-online-debate-surveillance-technology-ai-artificial-intelligence-vandalism-vandalized-device">WLOS</a> · <a href="../The-Wider-Fight/How-Cities-Won">How Cities Won</a>)</div></div>
+<div class="tl-item tl-future"><div class="tl-date">November 2026</div><div class="tl-body"><strong>Sheriff Ellenburg on the ballot</strong>, apparently unopposed after winning a three-way Republican primary in March (<a href="https://ballotpedia.org/Rutherford_County,_North_Carolina,_elections,_2026">Ballotpedia</a>).</div></div>
+</div>
 
 ## Links of note
 
@@ -19,7 +23,7 @@ Rutherford County has an unresolved camera count, a Flock network with audio det
 
 ## Who decides here
 
-[[Aaron Ellenburg]] (sheriff, on the ballot) · [[Clint Ingle]] (Rutherfordton chief) · Forest City's audio-detection network has been discussed publicly by Capt. Brandon Rothrock, not Chief Chris LeRoy · [[Annie Dance]] (the record).
+[[Aaron Ellenburg]] (sheriff, on the ballot) · [[Clint Ingle]] (Rutherfordton chief) · Forest City's audio-detection network has been discussed publicly by Capt. Brandon Rothrock, not Chief Chris LeRoy · [Cops & Congress](https://anniedance.substack.com) (the record).
 
 ## The vandalized camera: what the viral reaction shows and doesn't
 

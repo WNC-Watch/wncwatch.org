@@ -17,7 +17,7 @@ This site is a reference, not an organization. These are the people doing the or
 
 ## Four things you can do this month
 
-1. **Tuesday, Aug 25: make the vote count.** Council votes on ending the Flock contract; the resolution leaves APD's 162 other plate readers and the Axon plan untouched. A guide to building your own comment from what's on this site, with one worked example, and how to speak or write (written comment by 9 a.m. Tuesday): [[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]. The longer exit checklist: [[Getting Flock Out]].
-2. **Show up.** Council meets Aug 25 (5 PM, City Hall); the [[The Committee|Public Safety Committee]] meets Sept 24 (11 AM, virtual). See [[Speak at Council]].
+1. **September is the region's month.** Brevard holds an information session Tue Sept 1 (6–8 PM, Mary C. Jenkins Community Center) and votes Tue Sept 8; Hendersonville hears a Flock presentation Thu Sept 3; Henderson County commissioners hear the removal ask Sept 8. The documents to read first are on [[Transylvania County]] and [[Henderson County]].
+2. **Show up.** Asheville's [[The Committee|Public Safety Committee]] meets Sept 24 (11 AM, virtual); the question to bring is where the audit reports state law already requires are. See [[Speak at Council]].
 3. **Take the tour.** APD runs public RTIC tours every other Thursday, 2–4 PM (828-259-5881). Go with questions from the [[Promise Tracker]] and write down the answers.
 4. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly, in public, on the record.

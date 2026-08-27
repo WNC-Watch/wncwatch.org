@@ -29,6 +29,6 @@ Nine counties, nine sheriffs, and the commissioners and chiefs around them. Five
 
 ## The people doing the public's work
 
-[[Patrick Conant]] (Sunshine Labs), [[Jen Hampton]] (Food & Beverage United), [[Rebecca Hecht]] (the first business refusal on record), [[Benn Jordan]] (the Flock investigations), [[Austin Rhodes]] (Henderson's petition), [[Mary Gibson]] (Madison), [[Annie Dance]] (Rutherford), [[Bobby Coggins]] (Macon). The roster: **[[People/Community/index|Community]]**. Also [[The People Who Showed Up]] (36 Asheville residents, verbatim) and [[Get Involved]].
+[[Patrick Conant]] (Sunshine Labs) and [[Benn Jordan]] (the Flock investigations), whose published work this site cites by name: **[[People/Community/index|Community]]**. Also [[The People Who Showed Up]] (what Asheville residents said at council, verbatim) and [[Get Involved]] (the organizations).
 
 *Every profile opens with title, tenure, term end, and the next voter decision; every quote links its source; every profile closes with its region and the date it was last updated. See [[Election 2026]] for the ballot view and [[Timeline]] for the events these records come from.*

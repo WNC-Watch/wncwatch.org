@@ -1,13 +1,11 @@
 ---
 title: WNC Surveillance Watch
-description: "How mass surveillance came to Asheville and Western North Carolina, and the region now deciding what to do about it: the timeline, the records, the September calendar, and how residents can step in. Kept by neighbors, sourced to the record."
+description: "Two companies are selling camera networks to the towns of Western North Carolina. This site keeps the record: what happened in Asheville, the communities deciding now, and the briefings, documents, and audit logs residents need to decide for themselves. Kept by neighbors, sourced to the record."
 ---
 
-On May 12, 2026, Asheville City Council voted 6–1 to accept $1.14 million in federal funding and authorize a 7.5-year <a href="./Companies/What-Axon-Contracts-Do">contract with Axon</a> for a <a href="./The-System/What-Is-the-RTIC">Real-Time Intelligence Center</a>: a police hub connecting license plate readers, body cameras, drones, and private security cameras across the city, built on a county network that had been running cameras on public housing and schools for four years before most residents knew. This site documents how that decision was made, what the county was already doing, what the companies sell, and what happens next. On August 25, 2026, council voted 5 to 2 to terminate the city's Flock contract, the second WNC government to do it. The same decisions are now in front of Brevard, Hendersonville, Henderson County, and Jackson County, with the same vendors making the same promises, so this site now keeps the record for the region.
+Two companies, <a href="./Companies/Axon">Axon</a> and <a href="./Companies/Flock-Safety">Flock Safety</a>, are selling camera networks to the towns of Western North Carolina, one council agenda at a time. Asheville signed a 7.5-year contract before the document existed to read; <a href="./WNC/Transylvania-County">Brevard</a>, <a href="./WNC/Henderson-County">Hendersonville, Henderson County</a>, and <a href="./WNC/Jackson-County">Jackson County</a> are deciding now. Our concern is not cameras. A camera used for accountability, under a policy the community chose, with an audit trail someone actually reads, is not what worries us. What worries us is what happens when a community's cameras join large interconnected networks that nobody local controls: sharing defaults nobody here set, searches nobody here approved, and rules that change with a signature instead of a vote. <a href="./WNC/Watauga-County">When Boone pulled its audit log</a>, it found 1.5 million out-of-state searches its transparency portal never showed.
 
-This site is kept by Asheville and WNC residents. We watched the May 12 meeting live, and it bothered us how hard the process made it for residents to know about the decision, comment on it, or shape it. So we started keeping records: meeting transcripts, the city's own videos and documents, the sheriff's policies, the contracts, the audit logs. Local decisions are where residents still have real influence, whatever your politics, and this one is still being made.
-
-Everything here is sourced. Quotes link to timestamps in the city's own videos; documents link to the originals; you can check any claim yourself. We're not neutral (our views are on the page), but the site is built to be useful whether you share them or not.
+This site is kept by Asheville and WNC residents. We keep the records: meeting transcripts, the cities' own videos and documents, the sheriffs' policies, the contracts, the audit logs. Everything here is sourced. Quotes link to timestamps in the government's own videos; documents link to the originals; you can check any claim yourself. We're not neutral (our views are on the page), but the site is built to be useful whether you share them or not.
 
 <div class="avl-now">
 <p><strong>The September calendar.</strong> Six dates, five bodies, one region deciding:</p>
@@ -21,20 +19,53 @@ Everything here is sourced. Quotes link to timestamps in the city's own videos; 
 </ul>
 </div>
 
-## Share it
+## Where to start
 
-<div class="avl-share">
-<img src="./assets/qr-site.png" alt="QR code linking to this site" width="180" height="180" />
-<div class="share-text"><strong>WNC Surveillance Watch</strong><br/><span class="share-url">wncwatch.org</span><br/>Pass it on: screenshot this card, or point a phone camera at the code. The sourced record of how surveillance came to Asheville, and what happens next.</div>
+More than a hundred pages. Start with what you need:
+
+<div class="avl-doors">
+<div class="door"><span class="door-k">My town is deciding</span><p class="door-t">Understand it before the vote</p><ol>
+<li><a href="./Briefings/">The briefings: one idea per page, any town</a></li>
+<li><a href="./WNC/What-the-Law-Lets-the-County-Do">What NC law actually allows</a></li>
+<li><a href="./Companies/What-Axon-Contracts-Do">What the contract form did elsewhere</a></li>
+<li><a href="./WNC/Watauga-County">Watauga: what checking the log found</a></li>
+</ol></div>
+<div class="door"><span class="door-k">I just heard about this</span><p class="door-t">Understand what happened</p><ol>
+<li><a href="./The-System/What-Is-the-RTIC">What is the RTIC?</a></li>
+<li><a href="./The-Record/Meetings/2026-05-12-City-Council">The May 12 vote, minute by minute</a></li>
+<li><a href="./The-Record/Timeline">The full timeline with sources</a></li>
+</ol></div>
+<div class="door"><span class="door-k">Why should I care</span><p class="door-t">See what it means for people</p><ol>
+<li><a href="./The-System/What-They-Can-Actually-Learn-About-You">What a plate scan becomes</a></li>
+<li><a href="./The-System/Who-Gets-Watched">Who gets watched</a></li>
+<li><a href="./The-System/Watching-the-Poor">Cameras in public housing</a></li>
+<li><a href="./The-System/Sheriffs-Audit-Log">The sheriff's own audit log</a></li>
+</ol></div>
+<div class="door"><span class="door-k">Who decides</span><p class="door-t">Know your leaders' positions</p><ol>
+<li><a href="./People/">Every official and candidate, profiled</a></li>
+<li><a href="./The-Record/Their-Claims-vs-The-Record">The claims, checked against the record</a></li>
+<li><a href="./Act/Election-2026">The November ballot</a></li>
+</ol></div>
+<div class="door"><span class="door-k">What's happening near me</span><p class="door-t">The region, county by county</p><ol>
+<li><a href="./WNC/Transylvania-County">Brevard: deciding Sept 8</a></li>
+<li><a href="./WNC/Henderson-County">Henderson County: the removal campaign</a></li>
+<li><a href="./WNC/Watauga-County">Watauga: what checking the log did</a></li>
+<li><a href="./WNC/Macon-County">Macon: the county that took them down</a></li>
+<li><a href="./WNC/">All ten communities</a></li>
+</ol></div>
+<div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
+<li><a href="./Act/Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
+<li><a href="./Act/Records-Center">File a records request (17 pre-written)</a></li>
+<li><a href="./Act/Getting-Flock-Out">Help finish the Flock exit</a></li>
+<li><a href="./Act/Get-Involved">Join the people already organizing</a></li>
+</ol></div>
 </div>
-
-**Follow along.** We post the record where people already are: <a href="https://www.facebook.com/wncwatch">Facebook</a>, <a href="https://www.instagram.com/wncwatch">Instagram</a>, and <a href="https://bsky.app/profile/wncwatch.bsky.social">Bluesky</a>, all @wncwatch. Every claim on those accounts traces back to a page on this site.
 
 ## The whole story in one look
 
-Every entry links to a deeper page with sources.
+How it started here: on May 12, 2026, Asheville City Council voted 6–1 to accept $1.14 million in federal funding and authorize a 7.5-year <a href="./Companies/What-Axon-Contracts-Do">contract with Axon</a> for a <a href="./The-System/What-Is-the-RTIC">Real-Time Intelligence Center</a>: a police hub connecting license plate readers, body cameras, drones, and private security cameras across the city, built on a county network that had been running cameras on public housing and schools for four years before most residents knew. On August 25, 2026, council voted 5 to 2 to terminate the city's Flock contract, the second WNC government to do it. The same decisions are now in front of Brevard, Hendersonville, Henderson County, and Jackson County, with the same vendors making the same promises. Every entry below links to a deeper page with sources.
 
-<div class="tl-legend"><span class="lg-expand">surveillance expands</span><span class="lg-resist">resistance &amp; wins</span><span class="lg-future">ahead, still undecided</span></div>
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
 
 <div class="avl-tl">
 <div class="tl-era">Before anyone was asked · 2022–2024</div>
@@ -86,54 +117,18 @@ Every entry links to a deeper page with sources.
 </ul>
 </div>
 
-## Where to start
-
-More than a hundred pages. Start with what you need:
-
-<div class="avl-doors">
-<div class="door"><span class="door-k">I just heard about this</span><p class="door-t">Understand what happened</p><ol>
-<li><a href="./The-System/What-Is-the-RTIC">What is the RTIC?</a></li>
-<li><a href="./The-Record/Meetings/2026-05-12-City-Council">The May 12 vote, minute by minute</a></li>
-<li><a href="./The-Record/Timeline">The full timeline with sources</a></li>
-</ol></div>
-<div class="door"><span class="door-k">Why should I care</span><p class="door-t">See what it means for people</p><ol>
-<li><a href="./The-System/What-They-Can-Actually-Learn-About-You">What a plate scan becomes</a></li>
-<li><a href="./The-System/Who-Gets-Watched">Who gets watched</a></li>
-<li><a href="./The-System/Watching-the-Poor">Cameras in public housing</a></li>
-<li><a href="./The-System/Sheriffs-Audit-Log">The sheriff's own audit log</a></li>
-</ol></div>
-<div class="door"><span class="door-k">Who decides</span><p class="door-t">Know your leaders' positions</p><ol>
-<li><a href="./People/">Every official and candidate, profiled</a></li>
-<li><a href="./The-Record/Their-Claims-vs-The-Record">The claims, checked against the record</a></li>
-<li><a href="./Act/Election-2026">The November ballot</a></li>
-</ol></div>
-<div class="door"><span class="door-k">What's happening near me</span><p class="door-t">The region, county by county</p><ol>
-<li><a href="./WNC/Transylvania-County">Brevard: deciding Sept 8</a></li>
-<li><a href="./WNC/Henderson-County">Henderson County: the removal campaign</a></li>
-<li><a href="./WNC/Watauga-County">Watauga: what checking the log did</a></li>
-<li><a href="./WNC/Macon-County">Macon: the county that took them down</a></li>
-<li><a href="./WNC/">All ten communities</a></li>
-</ol></div>
-<div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
-<li><a href="./Act/Tuesday-August-25">Tuesday's vote: build your own comment from what's here</a></li>
-<li><a href="./Act/Getting-Flock-Out">Help get Flock all the way out</a></li>
-<li><a href="./Act/Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
-<li><a href="./Act/Records-Center">File a records request (17 pre-written)</a></li>
-<li><a href="./Act/Get-Involved">Join the people already organizing</a></li>
-</ol></div>
-</div>
-
-## The site, in eight sections
+## The site, in nine sections
 
 Each section has its own front page with every page in it described, and every page shows its section at the top so you can step back up.
 
 - **[[The Record/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
 - **[[The System/index|The System]]**: what was approved and what it does: the center, what a scan becomes, who is watched first, the sheriff's own audit log, the money.
+- **[[Briefings/index|Briefings]]**: long-form explainers, one idea per page, written to be useful in any town before its decision.
 - **[[WNC/index|Western North Carolina]]**: the ten communities around us and the state laws they all run under.
 - **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales script, the way out.
 - **[[The Wider Fight/index|The Wider Fight]]**: what these systems have done elsewhere and how other places got out.
 - **[[People/index|People]]**: every official, candidate, and institution, by region, with the next date voters can act.
-- **[[Act/index|Act]]**: Tuesday's vote, three minutes at the podium, records requests, citable facts, the ballot.
+- **[[Act/index|Act]]**: three minutes at the podium, records requests, citable facts, the ballot.
 - **[[Reference/index|Reference]]**: the primary documents and the full bibliography.
 
 Or go straight to **[[Browse Everything]]**: every page, on one list.
@@ -149,10 +144,19 @@ This is built to be a working tool, not just a story. For anyone who wants to go
 - **[[Updates|See what changed]].** Every release, the pages it touched, and the documents behind it.
 - **[[The People Who Showed Up|Read what your neighbors said]].** 36 residents already made the arguments at council, on the record, verbatim.
 
+## Share it
+
+<div class="avl-share">
+<img src="./assets/qr-site.png" alt="QR code linking to this site" width="180" height="180" />
+<div class="share-text"><strong>WNC Surveillance Watch</strong><br/><span class="share-url">wncwatch.org</span><br/>Pass it on: screenshot this card, or point a phone camera at the code. The sourced record of surveillance decisions in WNC, and what happens next.</div>
+</div>
+
+**Follow along.** We post the record where people already are: <a href="https://www.facebook.com/wncwatch">Facebook</a>, <a href="https://www.instagram.com/wncwatch">Instagram</a>, and <a href="https://bsky.app/profile/wncwatch.bsky.social">Bluesky</a>, all @wncwatch. Every claim on those accounts traces back to a page on this site.
+
 ## Why we built this
 
-The RTIC is expected fully operational by **summer 2027**. The contract runs to **2033**. The oversight that matters (the audits, the policies, the promises about ICE and facial recognition, who gets hired to run it) is being decided *now*, in the years when attention usually fades. We wanted one place where a neighbor could understand the whole thing in ten minutes, check every fact behind it, and find a next step that fits them.
+We watched the May 12 meeting live, and it bothered us how hard the process made it for residents to know about the decision, comment on it, or shape it. The RTIC is expected fully operational by **summer 2027**; the contract runs to **2033**; the oversight that matters (the audits, the policies, the promises about ICE and facial recognition, who gets hired to run it) is being decided *now*, in the years when attention usually fades. We wanted one place where a neighbor could understand the whole thing in ten minutes, check every fact behind it, and find a next step that fits them.
 
-Our view is on every page, and it is narrower than "cameras are bad." A camera used as a tool of accountability, under a policy the community chose, with an audit trail someone actually reads, is not what worries us; on the council floor Aug 25, the working example raised was the ABC board's closed-circuit system, secured and local. What worries us is surveillance without oversight: sharing defaults nobody local set, searches nobody local approved, and the risk that arrives when a community's cameras join large interconnected networks that no one here controls. When <a href="./WNC/Watauga-County">Boone pulled its audit log</a>, it found 1.5 million out-of-state searches its transparency portal never showed. When <a href="./The-Wider-Fight/The-National-Wave">a Super Bowl ad showed Ring owners</a> what their own doorbell cameras could become on a shared network, the backlash was immediate and Amazon canceled Ring's partnership with Flock within days; people hadn't turned against the camera they chose, they had turned against a network they couldn't control. You don't have to share our view for this site to be useful. At a bare minimum, know what's happening, know where the critical points of oversight sit (the audits, the contracts, the appointments, the votes), and know that at this phase of the rollout, communities still decide their own future together. That's true whichever way you'd steer it.
+The record keeps showing the same thing: communities can tell the difference between a tool they control and a network they don't, the moment someone shows them the documents. When <a href="./The-Wider-Fight/The-National-Wave">a Super Bowl ad showed Ring owners</a> what their own doorbell cameras could become on a shared network, the backlash was immediate and Amazon canceled Ring's partnership with Flock within days; people hadn't turned against the camera they chose, they had turned against a network they couldn't control. You don't have to share our view for this site to be useful. At a bare minimum, know what's happening, know where the critical points of oversight sit (the audits, the contracts, the appointments, the votes), and know that at this phase of the rollout, communities still decide their own future together. That's true whichever way you'd steer it.
 
 This is a living workbook: it updates as meetings happen, records surface, and promises get tested.

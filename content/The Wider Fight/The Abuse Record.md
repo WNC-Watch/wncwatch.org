@@ -51,7 +51,9 @@ The local grounding for why "trust our policies" earns skepticism here specifica
 3. **Institutions violate their own rules at scale**: for years, past direct orders from attorneys general, past federal consent decrees.
 4. **North Carolina's secrecy laws make the accountability loop unfinishable**: personnel outcomes sealed, bodycam footage sealed absent a court order, audit logs already refused to Asheville requesters ([[Documents|see the refusal]]).
 
-This is why the [[Promise Tracker]] treats every APD commitment as untested until proven, and why the strongest local position is the simplest one: **a system that can only be policed by self-report cannot be policed, and what cannot be policed should not be deployed.**
+Notice what the Asheville cases above have in common: in both, **a camera record was the accountability tool**. The bodycam video is what made the Rush case undeniable; the failure was the law that sealed it and the internal handling that sat on it for six months. That is the distinction this whole record teaches. The camera as a system of record, governed by rules the community can read and an audit trail someone actually reads, is where accountability comes from. The abuse in this record lives in the layer around it: network searches with no real check, reason boxes that accept anything, audits that exist on paper and run only after a scandal, and secrecy laws that block the read.
+
+This is why the [[Promise Tracker]] treats every APD commitment as untested until proven, and why the position that follows from this record is specific: **a check that depends on self-report is not a check. Before any of these systems is extended, the audit has to be real: run on a schedule, readable outside the agency, and required by an instrument only a public vote can change.** Where that check cannot exist, the record on this page is what fills the space.
 
 *See also [[Stories That Check Out]], the dated ledger of incidents by harm, and the company pages [[Flock Safety]] and [[Axon]].*
 

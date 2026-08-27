@@ -7,14 +7,18 @@ Henderson County is the region's most active live fight.
 
 ## Timeline
 
-- **June 9, 2020: The sheriff signs with ICE.** Sheriff Lowell Griffin's office holds a 287(g) Jail Enforcement Model agreement, the only one of its kind in Western North Carolina, per ICE's participating-agencies list of August 21, 2026 ([ICE](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)). [[What the Law Lets the County Do]]
-- **2025: Sheriff's Office buys in.** Sheriff Lowell Griffin's office purchases 12–13 Flock cameras for **$44,150**, with no commission vote, then or since ([Hendersonville Lightning](https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html)).
-- **Fall 2025: Fletcher PD deploys.** Counts and contract largely unpublished.
-- **Early 2026: Laurel Park PD adds 4 cameras.** Countywide total reaches ~39–42 per DeFlock mapping.
-- **August 3, 2026: Austin Rhodes addresses the commissioners.** The Edneyville berry farmer behind the DeFlock Henderson County group takes the fight to the board ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community)). [[Getting Flock Out]]
-- **August 18, 2026: "Opposition to Henderson County Flock cameras bridges ideological divide."** The Times-News headline; the article sits behind a paywall ([BlueRidgeNow](https://x.com/BlueRidgeNow/status/2089683794244591738)).
-- **August 22, 2026: The sheriff's portal lists 2,048 agencies with access to the county's data**, including the FBI and the US Postal Inspection Service (see the inventory below).
-- **August 10–17, 2026: The petition more than doubles in a week.** 937 signatures on Aug 10, 1,000+ by Aug 14, **2,071 by Aug 17** ([the defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc)). [[Getting Flock Out]] · [[How Cities Won]]
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+
+<div class="avl-tl">
+<div class="tl-item tl-expand"><div class="tl-date">June 9, 2020</div><div class="tl-body"><strong>The sheriff signs with ICE.</strong> Sheriff Lowell Griffin's office holds a 287(g) Jail Enforcement Model agreement, the only one of its kind in Western North Carolina, per ICE's participating-agencies list of August 21, 2026 (<a href="https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx">ICE</a>). <a href="./What-the-Law-Lets-the-County-Do">What the Law Lets the County Do</a></div></div>
+<div class="tl-item tl-expand"><div class="tl-date">2025</div><div class="tl-body"><strong>Sheriff's Office buys in.</strong> Sheriff Lowell Griffin's office purchases 12–13 Flock cameras for <strong>$44,150</strong>, with no commission vote, then or since (<a href="https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html">Hendersonville Lightning</a>).</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">Fall 2025</div><div class="tl-body"><strong>Fletcher PD deploys.</strong> Counts and contract largely unpublished.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">Early 2026</div><div class="tl-body"><strong>Laurel Park PD adds 4 cameras.</strong> Countywide total reaches ~39–42 per DeFlock mapping.</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">August 3, 2026</div><div class="tl-body"><strong>the petition organizer addresses the commissioners.</strong> The Edneyville resident behind the DeFlock Henderson County group takes the fight to the board (<a href="https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community">WLOS</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
+<div class="tl-item tl-resist"><div class="tl-date">August 18, 2026</div><div class="tl-body"><strong>"Opposition to Henderson County Flock cameras bridges ideological divide."</strong> The Times-News headline; the article sits behind a paywall (<a href="https://x.com/BlueRidgeNow/status/2089683794244591738">BlueRidgeNow</a>).</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">August 22, 2026</div><div class="tl-body"><strong>The sheriff's portal lists 2,048 agencies with access to the county's data</strong>, including the FBI and the US Postal Inspection Service (see the inventory below).</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">August 10–17, 2026</div><div class="tl-body"><strong>The petition more than doubles in a week.</strong> 937 signatures on Aug 10, 1,000+ by Aug 14, <strong>2,071 by Aug 17</strong> (<a href="https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc">the defund petition</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a> · <a href="../The-Wider-Fight/How-Cities-Won">How Cities Won</a></div></div>
+</div>
 
 ## Links of note
 
@@ -22,7 +26,7 @@ Henderson County is the region's most active live fight.
 - [Hendersonville PD portal](https://transparency.flocksafety.com/hendersonville-nc-pd): the city's own numbers
 - [The defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): WNC's fastest-growing removal push
 - [Hendersonville Lightning](https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html): the citizen-uprising story; best local press
-- [WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community): Rhodes on Flock's "honor system" safeguards
+- [WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community): the petition organizer on Flock's "honor system" safeguards
 
 ## The inventory (verified against Flock's own portals, Aug 22, 2026)
 
@@ -34,11 +38,11 @@ Henderson County is the region's most active live fight.
 
 ## The resident campaign to remove the cameras
 
-**Austin Rhodes**, a 30-year-old Edneyville berry farmer and beekeeper, started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17**, more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) Rhodes spoke at the Aug 3 commissioners' meeting and runs the DeFlock Henderson County group; his response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
+**An Edneyville resident** started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17**, more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) The same resident spoke at the Aug 3 commissioners' meeting and runs the DeFlock Henderson County group; their response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
 
 ## Who decides here
 
-[[Lowell Griffin]] (sheriff, unopposed in November) · [[Bill Lapsley]] (commission chair, retiring, no vote scheduled) · [[Blair Myhand]] (Hendersonville chief) · [[Austin Rhodes]] (the petition). The other four commissioners have not been quoted on the cameras in any source found.
+[[Lowell Griffin]] (sheriff, unopposed in November) · [[Bill Lapsley]] (commission chair, retiring, no vote scheduled) · [[Blair Myhand]] (Hendersonville chief) · the petition organizer. The other four commissioners have not been quoted on the cameras in any source found.
 
 ## The sheriff and ICE
 

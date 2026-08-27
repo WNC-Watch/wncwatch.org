@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       sortFn: (a, b) => {
         // Section order for the sidebar: the way the site reads, not the alphabet.
-        const order = ["The-Record", "The-System", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
+        const order = ["The-Record", "The-System", "Briefings", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
         const ra = order.indexOf(a.slugSegment)
         const rb = order.indexOf(b.slugSegment)
         if (a.isFolder && b.isFolder && (ra !== -1 || rb !== -1)) {
@@ -77,7 +77,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       sortFn: (a, b) => {
         // Section order for the sidebar: the way the site reads, not the alphabet.
-        const order = ["The-Record", "The-System", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
+        const order = ["The-Record", "The-System", "Briefings", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
         const ra = order.indexOf(a.slugSegment)
         const rb = order.indexOf(b.slugSegment)
         if (a.isFolder && b.isFolder && (ra !== -1 || rb !== -1)) {

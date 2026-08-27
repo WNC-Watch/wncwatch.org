@@ -7,10 +7,14 @@ Jackson County's four Flock cameras read 1.19 million plates a month to serve 56
 
 ## Timeline
 
-- **2024: Sheriff signs on.** Sheriff Doug Farmer's office takes a **5-year, $55,000+ Flock contract** for 4 cameras, paid through annual budget allocations ([Sylva Herald](https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html)). [[Getting Flock Out]]
-- **June 30–July 30, 2026: One month of the county's own records.** **1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits**: 99.95% of everything captured belongs to people suspected of nothing; data shared with 280 in-state agencies ([Sylva Herald, "What the FLOCK?"](https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html) · [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/)).
-- **August 4, 2026: Farmer defends the cameras at a work session.** "Force multiplier," zero documented misuse; commissioners Michael Jennings and Todd Bryson raise real concerns. **No vote taken, none scheduled** ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/)).
-- **August 2026: WCU's own records response documents a live legal violation.** The university's Genetec parking reader retains "hits" for **365 days** against NC's 90-day ALPR cap (G.S. 20-183.32(a)) ([DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/)).
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+
+<div class="avl-tl">
+<div class="tl-item tl-expand"><div class="tl-date">2024</div><div class="tl-body"><strong>Sheriff signs on.</strong> Sheriff Doug Farmer's office takes a <strong>5-year, $55,000+ Flock contract</strong> for 4 cameras, paid through annual budget allocations (<a href="https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html">Sylva Herald</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
+<div class="tl-item tl-resist"><div class="tl-date">June 30–July 30, 2026</div><div class="tl-body"><strong>One month of the county's own records.</strong> <strong>1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits</strong>: 99.95% of everything captured belongs to people suspected of nothing; data shared with 280 in-state agencies (<a href="https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html">Sylva Herald, "What the FLOCK?"</a> · <a href="https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/">Smoky Mountain News</a>).</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">August 4, 2026</div><div class="tl-body"><strong>Farmer defends the cameras at a work session.</strong> "Force multiplier," zero documented misuse; commissioners Michael Jennings and Todd Bryson raise real concerns. <strong>No vote taken, none scheduled</strong> (<a href="https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/">Smoky Mountain News</a>).</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">August 2026</div><div class="tl-body"><strong>WCU's own records response documents a live legal violation.</strong> The university's Genetec parking reader retains "hits" for <strong>365 days</strong> against NC's 90-day ALPR cap (G.S. 20-183.32(a)) (<a href="https://deflockilm.org/flock-in-north-carolina/">DeFlockILM tracker</a>).</div></div>
+</div>
 
 ## Links of note
 

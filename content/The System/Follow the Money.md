@@ -30,7 +30,7 @@ The $1.14M is a DOJ earmark; the 7.5-year [[What Axon Contracts Do|Axon contract
 - **The Chamber recruited for the surveillance network by name.** Its February 2023 ["Public Safety for All" campaign](https://www.ashevillechamber.org/news-events/public-safety-for-all/) explicitly invited businesses to "plug into Buncombe County's Community Camera Registry Program" (the Fusus network) and to lobby council for public-safety funding. **Explore Asheville, the TDA's marketing arm, hosted the same campaign material.** That's the documented TDA-adjacent touchpoint: advocacy, not funding.
 - **Business pressure produced the policing escalation.** A September 2023 letter from ~40 restaurant, hotel, and business owners demanded visible police presence and "removal of vagrants from public property and our city streets"; the Sheriff answered with a $186K downtown patrol proposal that included **a Real Time Intelligence Center officer**. ([Citizen Times via Yahoo](https://www.yahoo.com/news/buncombe-sheriff-proposes-downtown-patrols-100946019.html))
 - **The 2022 plan to wire downtown businesses into Fusus at $60/camera/year mostly didn't materialize**: fewer than 20 downtown business cameras as of early 2023. The RTIC's registration drive is that plan's second life, now with the BID and Chamber as the organizing infrastructure.
-- **The same people oppose both.** Jen Hampton and Food & Beverage United, the DSA, Firestorm: the anti-BID coalition of 2024 is the anti-RTIC coalition of 2026.
+- **The same groups oppose both.** Food & Beverage United, the DSA, Firestorm: the anti-BID coalition of 2024 is the anti-RTIC coalition of 2026.
 
 ## The voting pattern: one table
 

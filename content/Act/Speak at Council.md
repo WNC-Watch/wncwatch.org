@@ -11,7 +11,8 @@ You get three minutes. The [[2026-05-12 City Council|May 12 vote]] proved that s
 
 ## Where and when
 
-- **City Council**: 2nd and 4th Tuesdays, 5 PM, Council Chamber, City Hall (70 Court Plaza). **Next: Tuesday, Aug 25, and it's a big one: the termination resolution is confirmed as the last new-business item**, previewed at the [[2026-08-20 Agenda Briefing|Aug 20 briefing]], with public comment expected and extra overflow rooms planned (the mayor committed to opening the sixth floor). The eight demands that make that vote a real exit, and who should carry which, are at [[Getting Flock Out]]. The agenda [posted August 21](https://www.ashevillenc.gov/government/city-council-agenda/): the Flock resolution is New Business VI.A, with its own comment period; two consent items are worth a glance too, II.J (three data-sharing interlocals with the county renewed) and II.T (an $80,898 DOJ Byrne JAG grant, the same program as the $1.14M). The resolution's text, scored against the eight demands, is on [[Getting Flock Out]].
+- **City Council**: 2nd and 4th Tuesdays, 5 PM, Council Chamber, City Hall (70 Court Plaza). The agenda [posts each Friday](https://www.ashevillenc.gov/government/city-council-agenda/); check the consent agenda for surveillance-adjacent items (data-sharing interlocals and DOJ grants have both traveled that way). The Aug 25 Flock termination vote is done ([[2026-08-25 City Council|the record]]); what a full exit still requires is at [[Getting Flock Out]].
+- **Around the region in September**: Brevard's information session Tue Sept 1 (6–8 PM, Mary C. Jenkins Community Center) and council vote Tue Sept 8 (5:30 PM, 95 W Main St); Hendersonville City Council Thu Sept 3 (5:45 PM); Henderson County commissioners Sept 8. Public comment is taken at each; the documents to read first are on [[Transylvania County]] and [[Henderson County]].
 - **[[The Committee|Public Safety Committee]]**: last Thursday of odd-numbered months, 11 AM, virtual ([livestream](https://publicinput.com/d81053)). **Next: Thursday, Sept 24** (confirmed on the [city's committee page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)). Chaired by [[Bo Hess]], the [[What Is the RTIC|RTIC]]'s strongest supporter, with [[Antanette Mosley|Mosley]] and [[Sheneika Smith|Smith]]. This is where implementation oversight actually happens, and almost nobody attends.
 - **Anytime:** email **avl-city-council@publicinput.com** (goes to all members and into the record) · voicemail 855-925-2801, code 10332 · individual members' emails are on the [city roster](https://www.ashevillenc.gov/government/meet-city-council/).
 - **RTIC tours**: every other Thursday, 2–4 PM, register at 828-259-5881. Go with the [[Promise Tracker]] and write down what they tell you.
@@ -45,11 +46,11 @@ These are the accountability demands already in motion ([[Get Involved|CAMS]]'s 
 
 The record so far, so new speakers extend rather than restate:
 
-- **Jen Hampton** (Food & Beverage United), April 14: named it plainly: "a centralized hub for spying on the people of Asheville."
-- **Sarah E. Kent** (security consultant), May 12: Axon doesn't negotiate: "customers sign what is on the page."
-- **Aaron Dolstorm**, May 12: documented Axon's ~25%/year price escalation, the "Flywheel of Growth."
-- **Jessica Myers** (contract negotiator), May 12: "We aren't protected by any of the policies you think we have."
-- **Rebecca Hecht** (business owner), July: "Who decides whether it's a real investigation or law enforcement use?"
+- **An organizer with Food & Beverage United**, April 14: named it plainly: "a centralized hub for spying on the people of Asheville."
+- **A security consultant**, May 12: Axon doesn't negotiate: "customers sign what is on the page."
+- **A researcher with Axon's own investor deck**, May 12: documented Axon's ~25%/year price escalation, the "Flywheel of Growth."
+- **A contract negotiator**, May 12: "We aren't protected by any of the policies you think we have."
+- **A business owner**, July: "Who decides whether it's a real investigation or law enforcement use?"
 - **GAP of Asheville**, May 11: [the full oversight bill of particulars](https://gapavl.org/asheville-should-reject-the-proposed-rtic-axon-surveillance-expansion-until-real-oversight-and-accountability-exist/): no civilian oversight, no facial recognition ban, vendor lock-in, contract unseen.
 
 What the record still lacks: sustained comment at the **Public Safety Committee** (where the RTIC reports will actually land), testimony from people in the communities most exposed (immigrant residents, unhoused residents, protest organizers), and anyone tracking the [[Promise Tracker]] items meeting by meeting.

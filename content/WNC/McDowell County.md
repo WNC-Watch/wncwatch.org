@@ -7,8 +7,12 @@ In McDowell County, no one is checking at all.
 
 ## Timeline
 
-- **August 10, 2026: A new sheriff.** Ricky "Buck" Buchanan retires August 1; **Nathan Mace** is sworn in as McDowell's 26th sheriff, with Paul Alkire as chief deputy ([Fox Carolina](https://www.foxcarolina.com/2026/08/10/new-mcdowell-county-sheriff-officially-sworn-into-office/)). Mace won the March Republican primary and appears to have no November opponent. He inherits the cameras and has said nothing public about them.
-- **By September 2025: 12+ cameras on the record, and that's the entire record.** Per public records compiled by [EFF's Atlas of Surveillance](https://www.atlasofsurveillance.org/search?location=McDowell+County%2C+NC), the **Sheriff's Office runs 8 Flock cameras** and **Marion PD runs 4**, with two more mapped in Old Fort. No commission vote, no council vote, no news story precedes or follows. ([[Getting Flock Out]])
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+
+<div class="avl-tl">
+<div class="tl-item tl-expand"><div class="tl-date">August 10, 2026</div><div class="tl-body"><strong>A new sheriff.</strong> Ricky "Buck" Buchanan retires August 1; <strong>Nathan Mace</strong> is sworn in as McDowell's 26th sheriff, with Paul Alkire as chief deputy (<a href="https://www.foxcarolina.com/2026/08/10/new-mcdowell-county-sheriff-officially-sworn-into-office/">Fox Carolina</a>). Mace won the March Republican primary and appears to have no November opponent. He inherits the cameras and has said nothing public about them.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">By September 2025</div><div class="tl-body"><strong>12+ cameras on the record, and that's the entire record.</strong> Per public records compiled by <a href="https://www.atlasofsurveillance.org/search?location=McDowell+County%2C+NC">EFF's Atlas of Surveillance</a>, the <strong>Sheriff's Office runs 8 Flock cameras</strong> and <strong>Marion PD runs 4</strong>, with two more mapped in Old Fort. No commission vote, no council vote, no news story precedes or follows. (<a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
+</div>
 
 ## Links of note
 

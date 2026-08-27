@@ -5,13 +5,13 @@ aliases:
   - "What They Can Actually Learn About You"
 ---
 
-Start with a number that rarely appears in a vendor presentation: when the Electronic Frontier Foundation obtained 2.5 billion license-plate scans from 200 law-enforcement agencies, **99.5% of the plates scanned belonged to people suspected of nothing**. ([EFF Data Driven dataset](https://www.eff.org/pages/automated-license-plate-reader-dataset)) These systems are pointed at everyone, on the theory that a criminal will eventually drive past.
+One scan is a photo of your car. A database of scans is a diary of your life. That single step, from a camera answering a bounded question to an archive joined to a network, is the entire subject of this page, and the numbers involved rarely appear in a vendor presentation: when the Electronic Frontier Foundation obtained 2.5 billion license-plate scans from 200 law-enforcement agencies, **99.5% of the plates scanned belonged to people suspected of nothing**. ([EFF Data Driven dataset](https://www.eff.org/pages/automated-license-plate-reader-dataset)) Retained and pooled, those scans of everyone become searchable history about anyone.
 
 This page walks through what that means for you, concretely, using court opinions, leaked audit logs, a U.S. Senate investigation, and Asheville Police Department's own statements to council.
 
 ## A plate scan is a location record
 
-One scan is a photo of your car. A database of scans is a diary of your life. The highest court of Massachusetts said it plainly in *Commonwealth v. McCarthy* (2020): aggregated plate-reader data can produce
+The highest court of Massachusetts said it plainly in *Commonwealth v. McCarthy* (2020): aggregated plate-reader data can produce
 
 > "a highly detailed profile, not simply of where we go, but by easy inference, of our associations — political, religious, amicable and amorous."
 
@@ -80,5 +80,7 @@ Put the pieces in a row:
 5. And the vendor is building the product that turns the plate into a person.
 
 Each step is documented above from primary sources. No step requires a warrant, a judge, or a council vote. That is what Asheville bought, and what every promise on the [[Promise Tracker]] is supposed to contain.
+
+Worth marking the floor as clearly as the ladder: step 1 by itself, a camera reading the plate in front of it, checked against a hot list and then discarded under a local retention policy with an audit trail someone reads, is a different object from steps 2 through 5, and it is not what this page warns about. Every rung above it is a separate decision: to retain, to pool, to join the national lookup, to add the live layer, to buy the person-lookup product. Each of those decisions has a default set by the vendor, and each can be declined, capped, or put under a public vote. The communities in [[The Wider Fight/How Cities Won|How Cities Won]] did exactly that.
 
 *Related: [[Who Gets Watched]] · [[Watching the Poor|Cameras in Public Housing]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[The Abuse Record]] · [[Their Claims vs The Record|The Claims, Checked]]*

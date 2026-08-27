@@ -18,7 +18,7 @@ The numbers that moved them: the sheriff's office was logging **1 to 3 million p
 - Commissioner Barry Breeden: "there's a lot of unknowns in where the data goes."
 - A resident at public comment: "I love my government, but I don't trust you as much as I trust my mother."
 
-And a fact Asheville's council should notice: **the opposition was led substantially by Republicans.** The Macon County GOP organized against Flock; Republican commission candidate Dylan Castle campaigned against it at public comment. When the most successful anti-surveillance politics in the region is coming from conservative counties, this isn't a left-right fight. It's residents versus the agencies watching them, and residents are winning where they organize.
+And a fact worth noticing: **the opposition was led substantially by Republicans.** The Macon County GOP organized against Flock; Republican commission candidate Dylan Castle campaigned against it at public comment. When the most successful oversight politics in the region comes from conservative counties, this isn't a left-right fight, and it isn't residents against their own police either. In county after county, the proposal arrived from an outside vendor's sales call, not from public outcry, and what residents pushed back on was the network and the terms: who else can search their county's cameras, under what rules, changeable by whom. That question crosses every political line, and communities are answering it where they organize.
 
 ## County deep dives
 
@@ -33,7 +33,7 @@ Also organizing nearby: **Mountain Indivisible** ([mountainindivisible.org](http
 | **Buncombe (Sheriff)** | Expanding | Fusus network since ~2022: ~1,800–2,000 cameras (about 1,500 inside county schools), 20 stationary + 2 mobile plate readers, 59 people authorized to run Flock searches. No facial recognition per BCSO. The sheriff's own RTIC, plate-reader, and drone policies, and the forfeiture money behind them, are on [[Buncombe County]]; what commissioners can do about any of it is on [[What the Law Lets the County Do]]. On the ballot in November; see [[Election 2026]]. ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html) · [Mountain Xpress explainer](https://mountainx.com/news/local-government/wtf-buncombe-sheriffs-office-surveillance-technology-explained/)) |
 | **Asheville (APD)** | Expanding | 11 Flock readers, ~24 drones, Axon in-car readers, RTIC operational ~2027. See [[What Is the RTIC]]. |
 | **Macon** | **Removed** | 5–0 defund vote July 2026, 12 cameras down. Sheriff Holbrooks defended them; commissioners overrode. |
-| **Henderson** | Contested | ~39 cameras across sheriff + municipal agencies; resident Austin Rhodes' removal petition has ~937 signatures. ([WLOS](https://wlos.com/news/local/henderson-county-flock-camera-petition-privacy-concerns-license-plate-readers-sheriffs-office-lowell-griffin)) |
+| **Henderson** | Contested | ~39 cameras across sheriff + municipal agencies; a resident's removal petition has ~937 signatures. ([WLOS](https://wlos.com/news/local/henderson-county-flock-camera-petition-privacy-concerns-license-plate-readers-sheriffs-office-lowell-griffin)) |
 | **Haywood** | Kept | ~8 cameras since 2024; commissioners voted to keep them a week after Macon's removal, crediting overdose reductions. ([WLOS](https://wlos.com/news/local/)) |
 | **Madison** | Contested | 15 cameras; opposition group **Madison for Privacy** active. |
 | **Jackson** | Under review | 4 cameras, under public review. |
@@ -71,6 +71,6 @@ While counties remove cameras, Raleigh is installing them. The **July 2026 state
 
 ## Use this page
 
-When someone says "this is just what cities do now," the answer is a list: Macon, Hillsborough, Pittsboro, Chatham, Boone. When someone says "the policies protect you," the answer is Charlotte and Mooresville: the protection was an audit log, discovered after the fact. And when Asheville's council says removal is impossible, the answer is that a county an hour west did it unanimously, on a motion from Republicans, in twenty minutes.
+Three patterns in the record, for any conversation about what's possible here. Communities in this state have reconsidered these systems and changed course: Macon, Hillsborough, Pittsboro, Chatham, Boone, each documented above. Written policy alone has not been the safeguard its sellers describe: in Charlotte and Mooresville the policies were in place, and the misuse was found by an audit log, after the fact, which is why the standing ask everywhere is audits someone reads and publishes. And change has come fastest where officials and residents worked from the same documents: Macon's commissioners voted 5 to 0, on a motion from Republicans, in twenty minutes, and Boone's chief cut his own sharing list 96 percent after pulling the log himself.
 
 *Related: [[The National Wave]] · [[Election 2026]] · [[Claims Library]]*

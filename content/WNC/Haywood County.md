@@ -7,10 +7,14 @@ Haywood decided to keep its Flock cameras a week after [[Macon County]] tore its
 
 ## Timeline
 
-- **2024: Cameras go live, no vote taken.** The Sheriff's Office puts **~8–10 Flock cameras** into use; like [[Madison County]], they enter through the sheriff's operations with no formal deployment vote. [[Getting Flock Out]]
-- **FY26 budget: Maggie Valley PD buys two plate readers.** $7,300 the first year, $6,000/year after, paid from the drug-seizure account, with access to state and national LPR databases. A budget-retreat consensus, not a public-hearing item ([The Mountaineer](https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html)).
-- **March 3, 2026: The sheriff loses his primary.** Republican challenger **Mark Mease** defeats incumbent Sheriff Bill Wilke (about 58%); Mease faces Democrat **Tyler Howell**, a Waynesville police officer, on November 3 ([Ballotpedia](https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026)). Neither has been asked about the cameras.
-- **July 2026: Haywood keeps its cameras.** A week after Macon County's removal, Commission Chairman Kevin Ensley tells a reporter the county will keep them, citing falling overdose deaths and "no complaints"; a chairman's statement, not a vote ([WLOS, July 21, 2026](https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina)). [[How Cities Won]]
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+
+<div class="avl-tl">
+<div class="tl-item tl-expand"><div class="tl-date">2024</div><div class="tl-body"><strong>Cameras go live, no vote taken.</strong> The Sheriff's Office puts <strong>~8–10 Flock cameras</strong> into use; like <a href="./Madison-County">Madison County</a>, they enter through the sheriff's operations with no formal deployment vote. <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
+<div class="tl-item tl-expand"><div class="tl-date">FY26 budget</div><div class="tl-body"><strong>Maggie Valley PD buys two plate readers.</strong> $7,300 the first year, $6,000/year after, paid from the drug-seizure account, with access to state and national LPR databases. A budget-retreat consensus, not a public-hearing item (<a href="https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html">The Mountaineer</a>).</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">March 3, 2026</div><div class="tl-body"><strong>The sheriff loses his primary.</strong> Republican challenger <strong>Mark Mease</strong> defeats incumbent Sheriff Bill Wilke (about 58%); Mease faces Democrat <strong>Tyler Howell</strong>, a Waynesville police officer, on November 3 (<a href="https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026">Ballotpedia</a>). Neither has been asked about the cameras.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">July 2026</div><div class="tl-body"><strong>Haywood keeps its cameras.</strong> A week after Macon County's removal, Commission Chairman Kevin Ensley tells a reporter the county will keep them, citing falling overdose deaths and "no complaints"; a chairman's statement, not a vote (<a href="https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina">WLOS, July 21, 2026</a>). <a href="../The-Wider-Fight/How-Cities-Won">How Cities Won</a></div></div>
+</div>
 
 ## Links of note
 

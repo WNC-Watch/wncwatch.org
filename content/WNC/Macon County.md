@@ -7,10 +7,14 @@ Macon County is WNC's proof that removal is winnable.
 
 ## Timeline
 
-- **July 14, 2026: commissioners vote 5–0 to de-Flock.** The board barred the Sheriff's Office from spending county funds on Flock and moved to terminate the contract "as soon as possible" (ahead of its October expiration), with over 100 residents packing the room. ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [the meeting video](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA/videos) · [[How Cities Won]] · [[Getting Flock Out]])
-- **After the vote: access cut.** MCSO lost access to all 16 cameras ("no one has access now"); the four school cameras entered limbo, deferred to school leaders who say neither MCSO nor Flock has contacted them.
-- **By mid-August 2026: the removal is holding.** No reinstatement effort, and no crime-spike claims. Sheriff Holbrooks says he "respects the decision" while still defending the tool.
-- **November 2026: the election carries it forward.** Commission candidate **Dylan Castle** (Republican, pastor, county GOP vice-chair) spoke against Flock on constitutional grounds and advanced to the November general (an MCSO captain lost the same primary). Macon may elect WNC's first explicitly anti-ALPR commissioner.
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+
+<div class="avl-tl">
+<div class="tl-item tl-resist"><div class="tl-date">July 14, 2026</div><div class="tl-body"><strong>commissioners vote 5–0 to de-Flock.</strong> The board barred the Sheriff's Office from spending county funds on Flock and moved to terminate the contract "as soon as possible" (ahead of its October expiration), with over 100 residents packing the room. (<a href="https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/">Smoky Mountain News</a> · <a href="https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA/videos">the meeting video</a> · <a href="../The-Wider-Fight/How-Cities-Won">How Cities Won</a> · <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">After the vote</div><div class="tl-body"><strong>access cut.</strong> MCSO lost access to all 16 cameras ("no one has access now"); the four school cameras entered limbo, deferred to school leaders who say neither MCSO nor Flock has contacted them.</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">By mid-August 2026</div><div class="tl-body"><strong>the removal is holding.</strong> No reinstatement effort, and no crime-spike claims. Sheriff Holbrooks says he "respects the decision" while still defending the tool.</div></div>
+<div class="tl-item tl-future tl-now"><div class="tl-date">November 2026</div><div class="tl-body"><strong>the election carries it forward.</strong> Commission candidate <strong>Dylan Castle</strong> (Republican, pastor, county GOP vice-chair) spoke against Flock on constitutional grounds and advanced to the November general (an MCSO captain lost the same primary). Macon may elect WNC's first explicitly anti-ALPR commissioner.</div></div>
+</div>
 
 ## Links of note
 
@@ -20,7 +24,7 @@ Macon County is WNC's proof that removal is winnable.
 
 ## Who decides here
 
-[[Josh Young]] (chair) · [[John Shearl]] (made the motion; on the ballot) · [[Barry Breeden]] (seconded) · candidate [[Dylan Castle]] · Sheriff [[Brent Holbrooks]] (lost the vote, kept the job) · [[Bobby Coggins]] (the camera in the room).
+[[Josh Young]] (chair) · [[John Shearl]] (made the motion; on the ballot) · [[Barry Breeden]] (seconded) · candidate [[Dylan Castle]] · Sheriff [[Brent Holbrooks]] (lost the vote, kept the job) · [Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ) (the camera in the room).
 
 ## The vote: how it happened
 
@@ -39,6 +43,6 @@ Removing the cameras did not remove the county from the network. "Macon County N
 
 ## Watchdogs and video
 
-Independent journalist **Bobby Coggins / [Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ)** films Franklin council (which has no official video) and county meetings; the [county commissioners' channel](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA) carries the official record, including the July 14 vote. Smoky Mountain News (Kyle Perrotti) has the deepest coverage.
+The independent outlet **[Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ)** films Franklin council (which has no official video) and county meetings; the [county commissioners' channel](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA) carries the official record, including the July 14 vote. Smoky Mountain News (Kyle Perrotti) has the deepest coverage.
 
 *Related: [[WNC and NC]] · [[How Cities Won]] · [[Getting Flock Out]]*
