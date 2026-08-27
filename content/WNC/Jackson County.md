@@ -1,6 +1,6 @@
 ---
 title: Jackson County
-description: 1.19 million plate reads a month against 563 searches, and a university parking system quietly breaking the state retention law.
+description: 1.19 million plate reads a month against 563 searches, and a university parking system holding plate data past the state retention limit.
 ---
 
 Jackson County's four Flock cameras read 1.19 million plates a month to serve 563 searches, and for once, the local paper is doing the digging.

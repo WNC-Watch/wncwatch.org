@@ -9,6 +9,6 @@ aliases:
 
 ## Surveillance record
 
-When council voted 4 to 1 in January 2023 to buy APD access to the county's Fusus network, Nash spoke in favor, arguing HACA properties were, if anything, "underpoliced" ([Mountain Xpress](https://mountainx.com/news/asheville-joins-buncombe-county-surveillance-system/) · [[Watching the Poor]]). Roughly 500 cameras in housing communities and businesses feed the network; no property list or resident-notice process was published under his tenure or since. HACA's June 2026 executive report records its new partnerships director having "connected with David Nash" in an informal capacity ([HACA](https://haca.org/wp-content/uploads/2026/08/Executive-Report-08262026.pdf)); he holds no role at the authority.
+When council voted 4 to 1 in January 2023 to buy APD access to the county's Fusus network, Nash spoke in favor, arguing HACA properties were, if anything, "underpoliced" ([Mountain Xpress](https://mountainx.com/news/asheville-joins-buncombe-county-surveillance-system/) · [[Watching the Poor|Cameras in Public Housing]]). Roughly 500 cameras in housing communities and businesses feed the network; no property list or resident-notice process was published under his tenure or since. HACA's June 2026 executive report records its new partnerships director having "connected with David Nash" in an informal capacity ([HACA](https://haca.org/wp-content/uploads/2026/08/Executive-Report-08262026.pdf)); he holds no role at the authority.
 
 *Region: Asheville · Last updated: Aug 22, 2026*

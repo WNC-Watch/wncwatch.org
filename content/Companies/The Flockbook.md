@@ -45,4 +45,4 @@ This doesn't prove any official was insincere. It proves **the arguments Ashevil
 
 *The company behind the script: [[Flock Safety]]. What its products have done elsewhere, dated: [[Stories That Check Out]].*
 
-*Related: [[Their Claims vs The Record]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings]] · [[What Axon Contracts Do]]*
+*Related: [[Their Claims vs The Record|The Claims, Checked]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings]] · [[What Axon Contracts Do]]*

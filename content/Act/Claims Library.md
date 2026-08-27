@@ -34,7 +34,7 @@ Every tactic below is documented in Asheville's own record. Name the tactic out 
 | **Motion pre-loaded**: moved and seconded *before* the public speaks | May 12: motion pending through the entire hour of comment | Ask on the record: "Is there already a pending motion on this item?" Make the pre-decision visible |
 | **The off-mic vote**: inaudible, instant, deniable | May 12: vote taken amid shouting, [[2026-05-12 City Council|announced after the fact]]: "in case you didn't notice, there was just a vote" | Demand recorded roll-call votes on major items, on the record and in advance; film the dais (legal at public meetings); note-takers log the exact time of every motion |
 | **The three-by-threes**: deliberation moved to unminuted private groups sized to dodge the law | [[The Check-In Meetings]]: since ~2018, "ended" 2023, resumed; [[Kim Roney|Roney]]: staff "counting votes throughout the day" | The three asks on the [[The Check-In Meetings|check-ins page]], and the candidate question: "Will you refuse to participate in unminuted check-ins?" |
-| **Transparency theater**: tours and resolutions instead of records and audits | RTIC tours while the city [refuses to release Flock audit logs](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/) and the promised ALPR dashboards 404; a "civil liberties resolution" with no enforcement | Take the tour with the [[Promise Tracker]]; file the requests on the [[Documents]] page; ask for the *thing*, not the gesture: the audit, the contract, the dashboard |
+| **Tours and resolutions instead of records and audits** | RTIC tours while the city [refuses to release Flock audit logs](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/) and the promised ALPR dashboards 404; a "civil liberties resolution" with no enforcement | Take the tour with the [[Promise Tracker]]; file the requests on the [[Documents]] page; ask for the *thing*, not the gesture: the audit, the contract, the dashboard |
 
 ## "The scale is out of proportion"
 
@@ -88,4 +88,4 @@ Every one of these is a measurable commitment or a revealing priority. The [[Pro
 
 *Building something with these? [[Speak at Council]] has the delivery kit. Want the full stories behind the claims? [[The National Wave]] and [[Timeline]].*
 
-*These are your claims, sourced. Theirs, quoted exactly and answered, are on [[Their Claims vs The Record]].*
+*These are your claims, sourced. Theirs, quoted exactly and answered, are on [[Their Claims vs The Record|The Claims, Checked]].*

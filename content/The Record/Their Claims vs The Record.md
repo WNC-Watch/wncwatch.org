@@ -1,11 +1,12 @@
 ---
-title: Their Claims vs. The Record
+title: The Claims, Checked
 description: Every claim used to sell the RTIC (quoted exactly, sourced) paired with the documented record that answers it.
 aliases:
   - "Their Claims vs The Record"
+  - "Their Claims vs. The Record"
 ---
 
-The [[What Is the RTIC|RTIC]] was sold with specific, quotable claims. This page holds each one next to the record. Nothing here is paraphrased unfairly: quotes are verbatim from the cited coverage, and where only a paraphrase exists, we say so. Use it at the podium, in letters, and whenever someone repeats the sales pitch.
+The [[What Is the RTIC|RTIC]] was sold with specific, quotable claims. This page holds each one next to the record. Nothing here is paraphrased unfairly: quotes are verbatim from the cited coverage, and where only a paraphrase exists, we say so. Use it at the podium, in letters, and whenever one of these claims comes up. The point is not to catch anyone out; it is that a community deciding whether to keep a system deserves the claim and the record side by side.
 
 ## "It solves crime" / "This is about victims"
 
@@ -17,7 +18,7 @@ The [[What Is the RTIC|RTIC]] was sold with specific, quotable claims. This page
 
 **The claim.** [[Jackie Stepp|Stepp]], May 12: "There's a really robust audit trail built into all of this." Tech manager [[Jimmy Wingo|Wingo]], Aug 6: "Our lieutenant does quarterly audits. He just did an audit, and **100% of the time, we have reasons.**" ([828NewsNow](https://828newsnow.com/news/228822-flock-cameras-asheville-police-explain-use-of-11-license-plate-readers/))
 
-**The record.** "Having a reason" is not the safeguard it sounds like. Mooresville's officer had a reason logged for all 31 alleged stalking searches: **she made them up**, and they passed review ([[The Abuse Record]]). EFF found **14%+ of 11.4 million Flock searches** justified with the single word "investigation." And Asheville's audits are internal and unpublished. When a resident formally requested the city's Flock audit records in July 2025, **the city refused**, and the promised public ALPR dashboards return a 404 ([[Documents]]). An audit trail the public can't see, scored by the people it audits, reporting 100% compliance, is not accountability. The short version: **they tell us to trust the audit trail, and when residents legally asked to see it, the city refused.** Both halves are in the city's own record.
+**The record.** "Having a reason" is not the safeguard it sounds like. Mooresville's officer had a reason logged for all 31 alleged stalking searches: **she made them up**, and they passed review ([[The Abuse Record]]). EFF found **14%+ of 11.4 million Flock searches** justified with the single word "investigation." And Asheville's audits are internal and unpublished. When a resident formally requested the city's Flock audit records in July 2025, **the city refused**, and the promised public ALPR dashboards return a 404 ([[Documents]]). An audit trail the public can't see, scored by the people it audits, reporting 100% compliance, is not accountability. The short version: **residents are asked to trust the audit trail, and when a resident legally asked to see it, the city refused.** Both halves are in the city's own record.
 
 ## "We own the data and control all sharing" / "We will not be sharing with federal immigration"
 
@@ -41,7 +42,7 @@ The [[What Is the RTIC|RTIC]] was sold with specific, quotable claims. This page
 
 **The claim.** Aardema: "We have been clear from the get-go that this is a reactive system, it's not predictive police and the primary focus is going to be on violent crime." [[Jackie Stepp|Stepp]]: "We're not going to just randomly surveil or monitor people."
 
-**The record.** Nothing in the approved package structurally limits the system to violent crime: the limits are revisable policy ([[Promise Tracker]]). Where these systems drifted, they drifted exactly here: Austin's audit found 10–20% of searches with no documented purpose at all; San Francisco's police tapped a private camera network to watch protests live; Memphis surveilled activists in violation of a federal consent decree ([[The Abuse Record]]). "Reactive" also quietly concedes the efficacy point: a reactive system doesn't prevent the violent crime it's sold on.
+**The record.** Nothing in the approved package structurally limits the system to violent crime: the limits are revisable policy ([[Promise Tracker]]). Where these systems drifted, they drifted exactly here: Austin's audit found 10–20% of searches with no documented purpose at all; San Francisco's police tapped a private camera network to watch protests live; Memphis surveilled activists in violation of a federal consent decree ([[The Abuse Record]]). "Reactive" also concedes the efficacy point: a reactive system doesn't prevent the violent crime it's sold on.
 
 ## "No facial recognition"
 
@@ -69,7 +70,7 @@ The [[What Is the RTIC|RTIC]] was sold with specific, quotable claims. This page
 
 **The record.** The last public figure was **90%** (WLOS, Oct 2023); no public document supports "over 95%"; a [[Records Center|records request]] for the roster would settle it. More fundamentally: the DOJ's own evidence clearinghouse rates CIT **"Ineffective"** at reducing use of force and arrests (the meta-analytic literature finds benefits in officer attitudes and referrals, not force outcomes), and CIT's Memphis-model founders themselves insist it's a specialist-team model, **not a training percentage**. Even if the number were true, it wouldn't demonstrate what it's offered to prove. ([WLOS 2023](https://wlos.com/news/local/a-way-out-crisis-intervention-training-cit-law-enforcement-respond-mental-health-crisis-calls-officers-police-buncombe-asheville) · [DOJ CrimeSolutions](https://crimesolutions.ojp.gov/ratedpractices/crisis-intervention-teams-cits) · [Taheri meta-analysis](https://journals.sagepub.com/doi/abs/10.1177/0887403414556289))
 
-**Positioning:** the Public Safety Committee, which Hess chairs, meets **Sept 24, 11 AM** ([city page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)); the LAPD IG audit and the Durham inversion land hardest in his own venue. The CIT number is best tested by records request, not speech: either the document exists (then cite DOJ's rating) or it doesn't (then the claim dies quietly).
+**Positioning:** the Public Safety Committee, which Hess chairs, meets **Sept 24, 11 AM** ([city page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)); the LAPD IG audit and the Durham inversion land hardest in his own venue. The CIT number is best tested by records request, not speech: either the document exists (then cite DOJ's rating) or it doesn't (then the claim has no document behind it).
 
 ## "Trust will not be assumed. It will be demonstrated."
 

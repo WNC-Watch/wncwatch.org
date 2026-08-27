@@ -15,7 +15,7 @@ That councilmember was [[Kim Roney]], and she told the room how she'd found out 
 
 > "My first issue was **finding out about it online** — so I'm the one who asked questions of the city manager's office and the chair of Environment and Safety **after reading an article**... hearing that we already have some systems in place I think would be **news to the community**."
 
-A sitting councilmember learned about her city's surveillance program from the press, and the committee that should have reviewed it wasn't meeting. That's the oversight baseline everything since was built on. ([[Oversight Theater]])
+A sitting councilmember learned about her city's surveillance program from the press, and the committee that should have reviewed it wasn't meeting. That's the oversight baseline everything since was built on. ([[Oversight Theater|The Oversight Record]])
 
 ## "Just so you all know": the timeline admissions [(1:07:41)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4061s)
 
@@ -51,4 +51,4 @@ What's detected, per the presentation [(1:13:43)](https://www.youtube.com/watch?
 
 Nothing was voted on March 7. That's the point: by the time council got its first briefing, the plate readers had been running up to two years, the regional sharing was live, the 177,000-camera access was old news inside APD, and eleven more cameras were under contract with two already bolted up. Eighteen days later, the first [[What Is the RTIC|RTIC]] money would move, on the consent agenda. ([[2025-03-25 City Council]])
 
-*Related: [[Timeline]] · [[Oversight Theater]] · [[What They Can Actually Learn About You]] · [[Promise Tracker]] · [[2025-03-25 City Council]]*
+*Related: [[Timeline]] · [[Oversight Theater|The Oversight Record]] · [[What They Can Actually Learn About You]] · [[Promise Tracker]] · [[2025-03-25 City Council]]*

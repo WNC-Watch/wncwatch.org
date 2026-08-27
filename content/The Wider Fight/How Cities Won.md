@@ -56,4 +56,4 @@ The Axon bundle forecloses the easy non-renewal gate until the 2030s. What remai
 
 One more honest note: **no city that removed these systems has documented a crime increase attributable to removal**, while Atlanta's homicide clearance rate *fell* during a 5,000-camera buildout. The burden of proof never belonged to the opposition.
 
-*Related: [[The National Wave]] · [[Speak at Council]] · [[Promise Tracker]] · [[WNC and NC]] · [[Oversight Theater]]*
+*Related: [[The National Wave]] · [[Speak at Council]] · [[Promise Tracker]] · [[WNC and NC]] · [[Oversight Theater|The Oversight Record]]*

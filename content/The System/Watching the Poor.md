@@ -1,8 +1,9 @@
 ---
-title: Watching the Poor
-description: Police-integrated cameras in public housing. The national record of eviction-by-surveillance, the consent nobody asked residents for, and the ~500 cameras already watching Asheville's housing communities.
+title: Cameras in Public Housing
+description: Police-integrated cameras in public housing. The national record of camera footage in eviction cases, the ~500 cameras already on Asheville's housing communities, and the notice and consent records that have not been published.
 aliases:
   - "Watching the Poor"
+  - "Cameras in Public Housing"
 ---
 
 In Toledo, Ohio, police with access to the Fusus platform (the same platform at the center of Asheville's RTIC) spent **18,751 hours in nine months** watching live feeds from 275 cameras at twelve subsidized-housing complexes. That was **double** the time they spent watching the other 439 cameras in the entire rest of the city. One public-housing complex alone drew 3,822 hours of live police viewing. Over 80% of Toledo's public-housing tenants are not white. A legal-aid attorney's assessment: "It's clearly discrimination on some level." ([Gizmodo, records-based](https://gizmodo.com/clearly-discrimination-how-a-city-uses-fusus-to-spy-on-its-poorest-residents-2000561795))
@@ -45,8 +46,8 @@ This isn't a warning about what the RTIC might someday touch. It's already wired
 
 Put the local facts against the national record: Toledo shows where police attention goes when Fusus includes housing feeds: to the housing feeds, double-time. Steubenville and New Bedford show what the footage becomes: eviction exhibits. Asheville has the same platform, the same integration, a sharper racial skew, and, at the moment, less published policy than any of them.
 
-Nobody at a HACA property voted for this. Nobody asked them. That's the entire architecture of this buildout, and it lands hardest on the residents with the least power to refuse it.
+No published record shows HACA residents were given notice, a consultation, or an opt-out before their homes joined the network. If such a record exists, we will link it here; until then, it is the subject of a standing records request. The residents most recorded by this system have so far had the least opportunity to weigh in on it, and that is the specific thing a resident, or a commissioner, can ask to change.
 
-**Update, August 2026.** HACA's own records show how the relationship works in practice: in March 2026 its IT staff were updating DVR passwords "for all users who access the camera DVRs, including BCSD and APD"; on May 20, 2026 Interim Chief Stepp told the HACA board that "a member of the HACA team will be joining the program policy board" of the RTIC, and no commissioner asked a question. APD's Deputy Chief of Operations, [[Sean Aardema]], sits on that board. ([[Ella Santos]] · [board minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf))
+**Update, August 2026.** HACA's own records show how the relationship works in practice: in March 2026 its IT staff were updating DVR passwords "for all users who access the camera DVRs, including BCSD and APD"; on May 20, 2026 Interim Chief Stepp told the HACA board that "a member of the HACA team will be joining the program policy board" of the RTIC, and the minutes record no commissioner questions. APD's Deputy Chief of Operations, [[Sean Aardema]], sits on that board. ([[Ella Santos]] · [board minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf))
 
-*Related: [[What They Can Actually Learn About You]] · [[Who Gets Watched]] · [[Follow the Money]] · [[Oversight Theater]] · [[What Is the RTIC]] · [[Get Involved]]*
+*Related: [[What They Can Actually Learn About You]] · [[Who Gets Watched]] · [[Follow the Money]] · [[Oversight Theater|The Oversight Record]] · [[What Is the RTIC]] · [[Get Involved]]*

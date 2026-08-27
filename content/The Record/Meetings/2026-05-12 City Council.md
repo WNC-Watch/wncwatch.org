@@ -1,5 +1,5 @@
 ---
-title: "2026-05-12: Anatomy of the RTIC Vote"
+title: "2026-05-12: The RTIC Vote, Minute by Minute"
 description: The minute-by-minute record of how Asheville's surveillance center was approved, reconstructed from the city's own meeting video, with timestamps.
 aliases:
   - "Meetings/2026-05-12 City Council"
@@ -37,7 +37,7 @@ Twenty-three residents spoke; twenty-two opposed. That hour was not venting. It 
 - **The researcher with Axon's own investor deck**: Aaron Dahlstrom (125% net revenue retention, the city's own 86% bodycam cost jump) submitted the deck itself as public comment; it's in the city's meeting folder ([5:21:28](https://www.youtube.com/watch?v=AfdrH-a92As&t=19288s)).
 - **The contract attorney**: Jessica Myers: "They're not going to let you negotiate the master services agreement... You're not going to be able to promise that the federal agencies are not going to have access to this" ([6:02:17](https://www.youtube.com/watch?v=AfdrH-a92As&t=21737s)), and then read the existing Flock contract's section 5.3 disclosure clause aloud: "you can drive a truck through this" ([6:04:46](https://www.youtube.com/watch?v=AfdrH-a92As&t=21886s)).
 - **The technologist from the abortion-access space**: Nicole Lopez: "Council should also be thinking of the federal government as a threat actor... The enforcement mechanism must have teeth" ([5:55:21](https://www.youtube.com/watch?v=AfdrH-a92As&t=21321s)).
-- **The neighbor under the cameras**: Wendell Wilson, who lives near Pisgah View: "It doesn't make me feel safe to be tracked all the time. It makes me scared" ([5:57:20](https://www.youtube.com/watch?v=AfdrH-a92As&t=21440s)), the lived version of everything on [[Watching the Poor]].
+- **The neighbor under the cameras**: Wendell Wilson, who lives near Pisgah View: "It doesn't make me feel safe to be tracked all the time. It makes me scared" ([5:57:20](https://www.youtube.com/watch?v=AfdrH-a92As&t=21440s)), the lived version of everything on [[Watching the Poor|Cameras in Public Housing]].
 - **The transparency advocate**: Patrick Conant: "we are removing citizen oversight and expanding surveillance. That is a dangerous combination... a 7-and-1/2-year, multi-million-dollar vendor commitment whose binding operational terms do not yet exist in reviewable form" ([5:58:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=21509s)).
 - **The mother and minister**: Cassandra Howe: "What do all these cameras teach our children?... we start believing... that we're to be feared" ([5:54:05](https://www.youtube.com/watch?v=AfdrH-a92As&t=21245s)).
 - **The process question nobody answered**: Ann Craig: "Since there is no deadline to accept this grant... what is the urgency here?" ([5:43:38](https://www.youtube.com/watch?v=AfdrH-a92As&t=20618s)), a question staff had already conceded on April 28 ("Is there a deadline?" "There's not").
@@ -105,4 +105,4 @@ Deeper findings from the staff reports, presentations, and minutes (all linked a
 6. Council's engagement with the substance (the ACLU letter, the Flock contract's disclosure loophole, the contract terms nobody had seen) happened, where it happened at all, **after the vote**.
 7. **The opposition was not vague fear.** In one hour the public delivered constitutional analysis, the vendor's own investor financials, a reading of the operative contract language, and firsthand testimony from under the existing cameras; every argument this site has since documented at length was made *to council's face, before the vote*, and is preserved verbatim at [[The People Who Showed Up]].
 
-*Part of the Meetings series, built from the city's full meeting-video archive: 102 meetings' transcripts and counting. Companions: [[2026-05-07 Agenda Briefing|May 7: The Contract That Didn't Exist]] · [[2026-04-28 Work Session|April 28: The Sales Pitch]]. See [[The People Who Showed Up]] · [[Timeline]] · [[Speak at Council]] · [[Promise Tracker]]*
+*Part of the Meetings series, built from the city's full meeting-video archive: 102 meetings' transcripts and counting. Companions: [[2026-05-07 Agenda Briefing|May 7: The Contract That Didn't Exist]] · [[2026-04-28 Work Session|April 28: The Vendor Work Session]]. See [[The People Who Showed Up]] · [[Timeline]] · [[Speak at Council]] · [[Promise Tracker]]*

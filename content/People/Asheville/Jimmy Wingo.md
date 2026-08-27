@@ -37,6 +37,6 @@ None of this depends on doubting Wingo's sincerity. The critique of single-gate,
 
 *A standing accuracy note for anyone citing him: no press coverage or public testimony assigns Wingo a sworn rank; do not style him as an officer or give him one. His job title varies across outlets (Specialist/Manager/Supervisor), his start date and background are unpublished, and his formal civilian-versus-sworn classification is unverified in public sources. That the person who approves all outside data requests has no published bio, org-chart entry, or job classification is itself a transparency problem.*
 
-*Related: [[Jackie Stepp]] · [[The Committee]] · [[Their Claims vs The Record]] · [[Before You Plug In]] · [[Records Center]]*
+*Related: [[Jackie Stepp]] · [[The Committee]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Before You Plug In]] · [[Records Center]]*
 
 *Region: Asheville · Last updated: Aug 23, 2026*

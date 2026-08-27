@@ -9,7 +9,7 @@ This site documents what officials said. Public records show what they did. Nort
 
 **Two things to know before your first request:**
 
-**Refusals are evidence.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record]]). You cannot lose: a released record answers a question, and a refusal proves the safeguard is unauditable.
+**Refusals are evidence.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record|The Claims, Checked]]). You cannot lose: a released record answers a question, and a refusal proves the safeguard is unauditable.
 
 **"You're wasting tax money" has it backwards.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus, one the public is entitled to price in.
 
@@ -173,4 +173,4 @@ Expect these, and know what each refusal means:
 
 Every response (and every non-response) feeds back into this site: the [[Promise Tracker]], [[Documents]], and the pages above. File one, tell us, and we'll track it here.
 
-*Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Their Claims vs The Record]] · [[Speak at Council]]*
+*Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Speak at Council]]*

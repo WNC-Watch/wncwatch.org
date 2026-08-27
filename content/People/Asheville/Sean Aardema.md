@@ -14,7 +14,7 @@ Aardema's name carries the most-cited immigration promise in the RTIC record: "W
 
 ## The other seat
 
-Aardema is also a commissioner on the Housing Authority of the City of Asheville's board, appointed by the mayor. At HACA's May 20, 2026 meeting he made and seconded motions on the same agenda where his chief presented the RTIC and announced a HACA seat on its policy board; no commissioner asked a question ([minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf) · [[Ella Santos]]). The ~500 cameras in public housing are the network's largest non-school block ([[Watching the Poor]]).
+Aardema is also a commissioner on the Housing Authority of the City of Asheville's board, appointed by the mayor. At HACA's May 20, 2026 meeting he made and seconded motions on the same agenda where his chief presented the RTIC and announced a HACA seat on its policy board; no commissioner asked a question ([minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf) · [[Ella Santos]]). The ~500 cameras in public housing are the network's largest non-school block ([[Watching the Poor|Cameras in Public Housing]]).
 
 ## The question for him
 

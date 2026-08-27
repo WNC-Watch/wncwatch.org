@@ -1,5 +1,5 @@
 ---
-title: "2026-04-28: The Sales Pitch"
+title: "2026-04-28: The Vendor Work Session"
 description: The vendor work session that substituted for public process; Axon, Flock, and APD's claims, verbatim from the city's video, with the record beside each.
 aliases:
   - "Meetings/2026-04-28 Work Session"
@@ -19,7 +19,7 @@ Stated flatly, twice, by the vendor side after questions about the widely report
 
 Also, at [(1:38:23)](https://www.youtube.com/live/7tmfAjpPocA?t=5903): "we do not use or track or report immigration status."
 
-**The record:** the filter screens the *reason category the searching officer selects*. The Texas deputy who searched 83,000 cameras over an abortion had the search **relabeled as a "missing person" case**; the ACLU documented officers **coaching each other to stop typing honest reasons** once audits drew attention; 4,000+ immigration lookups nationally were run by local officers as favors, many under vague labels. The filter only screens the reason the officer chooses to give. It catches honest officers; a dishonest label sails through. ([[The Abuse Record]] · [[Their Claims vs The Record]])
+**The record:** the filter screens the *reason category the searching officer selects*. The Texas deputy who searched 83,000 cameras over an abortion had the search **relabeled as a "missing person" case**; the ACLU documented officers **coaching each other to stop typing honest reasons** once audits drew attention; 4,000+ immigration lookups nationally were run by local officers as favors, many under vague labels. The filter only screens the reason the officer chooses to give. It catches honest officers; a dishonest label sails through. ([[The Abuse Record]] · [[Their Claims vs The Record|The Claims, Checked]])
 
 ## Facial recognition: "Fusus will not pull in the facial recognition part of that camera" [(1:32:11)](https://www.youtube.com/live/7tmfAjpPocA?t=5531); and APD: "We've never had a contract with Clearview... we do not use facial recognition" [(1:50:13)](https://www.youtube.com/live/7tmfAjpPocA?t=6613)
 
@@ -55,10 +55,10 @@ Staff's peer-cities slide listed Durham's center as "in process" via "the same f
 
 ## "I'm not here to sway a vote" [(1:54:10)](https://www.youtube.com/live/7tmfAjpPocA?t=6850)
 
-[[Jackie Stepp|Stepp]] closed the hour: "I'm not here to sway a vote, but I am here to make sure that you feel educated enough and informed enough to make a vote." The hour in question: the chief plus two vendor representatives flown in, no opposing expert, no public comment permitted. Three more process facts from the same closing minutes: [[Esther Manheimer|Mayor Manheimer]] asked "Is there a deadline with the grant?"; staff: "**There's not**"; "Okay, so we have time to breathe" [(1:54:58)](https://www.youtube.com/live/7tmfAjpPocA?t=6898). Asked whether the item would go to the [[The Committee|Public Safety Committee]] next: "**No. No, I don't think so**" [(1:54:37)](https://www.youtube.com/live/7tmfAjpPocA?t=6877); the RTIC skipped the one committee built for it, whose chair was its loudest advocate ([[Oversight Theater]]). And Stepp herself noted the city was buying a second RTIC while "**the Sheriff and I both walked away and agreed one is better**" [(1:04:10)](https://www.youtube.com/live/7tmfAjpPocA?t=3850). No deadline, no committee review, a duplicate facility its own chief questioned, and a vote in fourteen days.
+[[Jackie Stepp|Stepp]] closed the hour: "I'm not here to sway a vote, but I am here to make sure that you feel educated enough and informed enough to make a vote." The hour in question: the chief plus two vendor representatives flown in, no opposing expert, no public comment permitted. Three more process facts from the same closing minutes: [[Esther Manheimer|Mayor Manheimer]] asked "Is there a deadline with the grant?"; staff: "**There's not**"; "Okay, so we have time to breathe" [(1:54:58)](https://www.youtube.com/live/7tmfAjpPocA?t=6898). Asked whether the item would go to the [[The Committee|Public Safety Committee]] next: "**No. No, I don't think so**" [(1:54:37)](https://www.youtube.com/live/7tmfAjpPocA?t=6877); the RTIC skipped the one committee built for it, whose chair was its loudest advocate ([[Oversight Theater|The Oversight Record]]). And Stepp herself noted the city was buying a second RTIC while "**the Sheriff and I both walked away and agreed one is better**" [(1:04:10)](https://www.youtube.com/live/7tmfAjpPocA?t=3850). No deadline, no committee review, a duplicate facility its own chief questioned, and a vote in fourteen days.
 
 ## Why this page exists
 
 This session was the process. No public comment, sales reps as the expert witnesses, claims delivered with confidence that the documented record (audits, terminations, federal investigations) contradicts or narrows to nothing. Two weeks later the motion was [[2026-05-12 City Council|seconded before the public spoke]]. Every claim above is now on the record with a timestamp; several are testable by records request; and per [[How Cities Won]], **a vendor caught in a false statement to a council is the single fastest flipper of council votes in the country.** Keep checking.
 
-*Related: [[Their Claims vs The Record]] · [[2026-05-12 City Council]] · [[Promise Tracker]] · [[Documents]]*
+*Related: [[Their Claims vs The Record|The Claims, Checked]] · [[2026-05-12 City Council]] · [[Promise Tracker]] · [[Documents]]*

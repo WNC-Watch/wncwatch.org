@@ -74,4 +74,4 @@ Ready for the podium. Full citations above; the frame is always: *Asheville sign
 
 *The company itself, its streetlight plate readers, and its facial-recognition research: [[Axon]].*
 
-*Related: [[Getting Flock Out]] · [[Documents]] · [[Their Claims vs The Record]] · [[Follow the Money]]*
+*Related: [[Getting Flock Out]] · [[Documents]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Follow the Money]]*

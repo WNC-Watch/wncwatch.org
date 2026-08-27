@@ -35,8 +35,8 @@ For the ledger, the counts as stated here [(44:41)](https://www.youtube.com/watc
 
 ## A civil-liberties resolution, assembled in five days [(46:16)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2776s)
 
-This briefing is also the origin of the "civil liberties resolution" that would pass alongside the [[What Is the RTIC|RTIC]] on May 12. [[Bo Hess|Hess]] asked to add a same-day companion "affirming our values to privacy, civil liberties, not using facial technology, and not using AI," to be drafted by the city attorney, "hoping that we could pass these at the same time." The document later cited as proof of careful safeguards was a political companion piece, requested five days before the vote, drafted in the same window, with no enforcement mechanism, no reporting duty, and no penalties. ([[Oversight Theater]] has the longer history of that move.)
+This briefing is also the origin of the "civil liberties resolution" that would pass alongside the [[What Is the RTIC|RTIC]] on May 12. [[Bo Hess|Hess]] asked to add a same-day companion "affirming our values to privacy, civil liberties, not using facial technology, and not using AI," to be drafted by the city attorney, "hoping that we could pass these at the same time." The document later cited as proof of careful safeguards was a political companion piece, requested five days before the vote, drafted in the same window, with no enforcement mechanism, no reporting duty, and no penalties. ([[Oversight Theater|The Oversight Record]] has the longer history of that move.)
 
 *A note on sourcing: quotes are cleaned from the city's unlabeled auto-captions; speaker attributions are contextual. Timestamps link to the moment so you can verify every word.*
 
-*Related: [[2026-05-12 City Council]] · [[2026-04-28 Work Session]] · [[Getting Flock Out]] · [[Their Claims vs The Record]] · [[Timeline]] · [[Bo Hess]]*
+*Related: [[2026-05-12 City Council]] · [[2026-04-28 Work Session]] · [[Getting Flock Out]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Timeline]] · [[Bo Hess]]*

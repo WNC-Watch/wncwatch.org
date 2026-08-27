@@ -16,12 +16,12 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[The Record/index|The Record]]: how it happened
 
-- **[[Timeline]]** · **[[The People Who Showed Up]]** (36 residents, verbatim) · **[[Promise Tracker]]** · **[[Their Claims vs The Record|Their Claims vs. The Record]]** · **[[The RTIC Policy]]** · **[[The Committee|The Public Safety Committee]]** · **[[The Check-In Meetings|Council's Private Check-Ins]]** · **[[Oversight Theater]]**
+- **[[Timeline]]** · **[[The People Who Showed Up]]** (36 residents, verbatim) · **[[Promise Tracker]]** · **[[Their Claims vs The Record|The Claims, Checked]]** · **[[The RTIC Policy]]** · **[[The Committee|The Public Safety Committee]]** · **[[The Check-In Meetings|Council's Private Check-Ins]]** · **[[Oversight Theater|The Oversight Record]]**
 - [[The Record/Meetings/index|The meetings]], minute by minute: [[2026-08-20 Agenda Briefing|Aug 20, 2026]] · [[2026-05-12 City Council|May 12, 2026]] · [[2026-05-07 Agenda Briefing|May 7, 2026]] · [[2026-04-28 Work Session|April 28, 2026]] · [[2025-03-25 City Council|March 25, 2025]] · [[2025-03-07 Agenda Briefing|March 7, 2025]]
 
 ## [[The System/index|The System]]: what was approved
 
-- **[[What Is the RTIC]]** · **[[What They Can Actually Learn About You]]** · **[[Who Gets Watched]]** · **[[Watching the Poor]]** · **[[Sheriffs Audit Log|The Sheriff's Audit Log]]** (28 months of the county's own access records) · **[[Follow the Money]]** · **[[Before You Plug In|Before You Connect Your Cameras]]**
+- **[[What Is the RTIC]]** · **[[What They Can Actually Learn About You]]** · **[[Who Gets Watched]]** · **[[Watching the Poor|Cameras in Public Housing]]** · **[[Sheriffs Audit Log|The Sheriff's Audit Log]]** (28 months of the county's own access records) · **[[Follow the Money]]** · **[[Before You Plug In|Before You Connect Your Cameras]]**
 
 ## [[WNC/index|Western North Carolina]]: the region and the law
 

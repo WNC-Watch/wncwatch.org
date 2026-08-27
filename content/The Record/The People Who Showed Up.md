@@ -97,7 +97,7 @@ Some of the strongest testimony wasn't technical at all. It was people describin
 > "This is my first ever city council meeting. … I haven't seen anything that can guarantee that my data will not be used against me and the people that I love and care about in this community. That deeply, deeply scares me."
 > — Cecil Utterback, May 12, 2026 ([6:19:41](https://www.youtube.com/watch?v=AfdrH-a92As&t=22781s))
 
-What the cameras over Pisgah View actually mean, nationally and here: [[Watching the Poor]].
+What the cameras over Pisgah View actually mean, nationally and here: [[Watching the Poor|Cameras in Public Housing]].
 
 ## "What do they teach our children?"
 

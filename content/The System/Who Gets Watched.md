@@ -43,4 +43,4 @@ This is not new; it's just newly visible in the logs. In 2020, license-plate rea
 
 Every group on this page was promised the same thing Asheville was promised: local control, narrow purpose, audited access. Every audit that has actually been pulled (Illinois, Washington, Colorado, Oregon, Minnesota, Texas) found the promise broken, usually within months, discovered only because someone filed a records request. The safeguard that failed everywhere else is the only safeguard Asheville has. The people it fails first are the ones with the most to lose from being seen driving to a clinic, a church, or a march.
 
-*Related: [[What They Can Actually Learn About You]] · [[Watching the Poor]] · [[The Abuse Record]] · [[Their Claims vs The Record]] · [[Getting Flock Out]] · [[Speak at Council]]*
+*Related: [[What They Can Actually Learn About You]] · [[Watching the Poor|Cameras in Public Housing]] · [[The Abuse Record]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Getting Flock Out]] · [[Speak at Council]]*

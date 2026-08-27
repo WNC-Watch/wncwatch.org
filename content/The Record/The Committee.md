@@ -41,10 +41,10 @@ By November, APD reported the results to the same committee: **eight special ope
 
 ## The numbers presented there, unchallenged
 
-The committee accepts APD's statistics without challenge. Documented to it, on the record: Chief Lamb describing "**predictive policing**" and "predictive analytics" (July 2025), the words the city's later "reactive, not predictive" messaging had to erase ([[Their Claims vs The Record]]); a claimed "multi-year 100% clearance rate for homicides" minutes before a deputy chief's own figures showed **two 2024 homicides still open**; and a violent-crime reduction that was "37%" in July's telling, "over 36%" in the chair's November tribute to the retiring chief, and **24%** in the final annual figure reported that January. No member flagged any of it.
+The committee accepts APD's statistics without challenge. Documented to it, on the record: Chief Lamb describing "**predictive policing**" and "predictive analytics" (July 2025), the words the city's later "reactive, not predictive" messaging had to erase ([[Their Claims vs The Record|The Claims, Checked]]); a claimed "multi-year 100% clearance rate for homicides" minutes before a deputy chief's own figures showed **two 2024 homicides still open**; and a violent-crime reduction that was "37%" in July's telling, "over 36%" in the chair's November tribute to the retiring chief, and **24%** in the final annual figure reported that January. No member flagged any of it.
 
 ## Why this page exists
 
 The RTIC's defenders point to this committee as the safeguard. Its chair is the RTIC's [[Bo Hess|most vocal advocate]]. Its meetings are remote-only, bimonthly, with public comment that has been forgotten, stranded by failed phone bridges, or met with a sardonic "thousands of people waiting" before an empty queue. Its record on the technology it exists to watch is a flat zero, while its one energetic output put 93 of the city's poorest residents through the courts. The committee doesn't need reform to do oversight; it needs to be *asked, in public, on the record*, why it never has. Its next meeting is **September 24, 2026, 11:00 AM**. That's the venue, and [[Speak at Council]] has the how. Bring one question: *where are the audit reports state law requires?*
 
-*Related: [[Oversight Theater]] · [[Bo Hess]] · [[Their Claims vs The Record]] · [[Records Center]] · [[Promise Tracker]]*
+*Related: [[Oversight Theater|The Oversight Record]] · [[Bo Hess]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Records Center]] · [[Promise Tracker]]*

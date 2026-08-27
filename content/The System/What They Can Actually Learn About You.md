@@ -5,7 +5,7 @@ aliases:
   - "What They Can Actually Learn About You"
 ---
 
-Start with the number the sales pitch never mentions: when the Electronic Frontier Foundation obtained 2.5 billion license-plate scans from 200 law-enforcement agencies, **99.5% of the plates scanned belonged to people suspected of nothing**. ([EFF Data Driven dataset](https://www.eff.org/pages/automated-license-plate-reader-dataset)) These systems are not pointed at criminals. They are pointed at everyone, on the theory that a criminal will eventually drive past.
+Start with a number that rarely appears in a vendor presentation: when the Electronic Frontier Foundation obtained 2.5 billion license-plate scans from 200 law-enforcement agencies, **99.5% of the plates scanned belonged to people suspected of nothing**. ([EFF Data Driven dataset](https://www.eff.org/pages/automated-license-plate-reader-dataset)) These systems are pointed at everyone, on the theory that a criminal will eventually drive past.
 
 This page walks through what that means for you, concretely, using court opinions, leaked audit logs, a U.S. Senate investigation, and Asheville Police Department's own statements to council.
 
@@ -41,7 +41,7 @@ After months of oversight correspondence with Flock, Senator Ron Wyden's office 
 
 > "**Abuse of Flock cameras is inevitable**, and Flock has made it clear it takes no responsibility to prevent or detect that."
 
-The letter quotes Flock's own Chief Communications Officer: "it is not Flock's job to police the police." And it documents why the "reason" box is theater: in EFF's dataset of **11.4 million nationwide searches over six months**, more than 14% of the reasons were just the word "investigation": no case number, no crime. The ACLU found officers could type "hehehe" as a reason and run the search. ([ACLU](https://www.aclu.org/news/privacy-technology/despite-new-updates-flocks-creepy-cameras-remain-major-civil-liberties-threat))
+The letter quotes Flock's own Chief Communications Officer: "it is not Flock's job to police the police." And it documents why the "reason" box is not the safeguard it sounds like: in EFF's dataset of **11.4 million nationwide searches over six months**, more than 14% of the reasons were just the word "investigation": no case number, no crime. The ACLU found officers could type "hehehe" as a reason and run the search. ([ACLU](https://www.aclu.org/news/privacy-technology/despite-new-updates-flocks-creepy-cameras-remain-major-civil-liberties-threat))
 
 Keep that in mind when APD says, as it did in August 2026, that only 18 people can search its cameras and "you have to put the reason." ([828NewsNow](https://828newsnow.com/news/228822-flock-cameras-asheville-police-explain-use-of-11-license-plate-readers/)) The reason box is the safeguard a U.S. Senate investigation already found meaningless, and 18 local searchers says nothing about the thousands of outside agencies the network serves.
 
@@ -67,7 +67,7 @@ A hotlist "hit" is not a fact. It's an automated alert built from human data ent
 
 The RTIC isn't just plate readers; that's the part Asheville already had. What the [[What Axon Contracts Do|Axon contract]] adds is **Fusus**, and Axon's own marketing describes it better than any critic could: a CORE device placed on a private camera network "detects, analyzes and connects to **every camera on the building's network**," and the platform "extracts and unifies live video, data and sensor feeds from virtually any source," giving police "a live, map-based view of both public and private camera networks." ([Axon's product page](https://www.axon.com/products/axon-fusus))
 
-Asheville's version of this was described on the record at the [[2025-03-25 City Council|March 25, 2025 council meeting]] by APD technology specialist [[Jimmy Wingo]] ([video, 42:09](https://www.youtube.com/watch?v=Bc-VVlvBx0U)): private participation comes in two tiers: "a registry, just so we know where a camera is in a city, and then there's also one where you could provide us **full viewing capability**." That includes, in his example, "the Ring camera at your home." When Councilmember [[Kim Roney|Roney]] pointed out that courts elsewhere have compelled private footage, Wingo conceded: "if the court comes to your house and has a warrant for that Ring camera footage, then you would have to give it to us." The "voluntary" in voluntary integration belongs to the camera's owner, never to the people it records. See [[Before You Plug In]] for what that means if you own the camera, and [[Watching the Poor]] for what it means if you live under one you never agreed to.
+Asheville's version of this was described on the record at the [[2025-03-25 City Council|March 25, 2025 council meeting]] by APD technology specialist [[Jimmy Wingo]] ([video, 42:09](https://www.youtube.com/watch?v=Bc-VVlvBx0U)): private participation comes in two tiers: "a registry, just so we know where a camera is in a city, and then there's also one where you could provide us **full viewing capability**." That includes, in his example, "the Ring camera at your home." When Councilmember [[Kim Roney|Roney]] pointed out that courts elsewhere have compelled private footage, Wingo conceded: "if the court comes to your house and has a warrant for that Ring camera footage, then you would have to give it to us." The "voluntary" in voluntary integration belongs to the camera's owner, never to the people it records. See [[Before You Plug In]] for what that means if you own the camera, and [[Watching the Poor|Cameras in Public Housing]] for what it means if you live under one you never agreed to.
 
 ## What a scan becomes
 
@@ -81,4 +81,4 @@ Put the pieces in a row:
 
 Each step is documented above from primary sources. No step requires a warrant, a judge, or a council vote. That is what Asheville bought, and what every promise on the [[Promise Tracker]] is supposed to contain.
 
-*Related: [[Who Gets Watched]] · [[Watching the Poor]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[The Abuse Record]] · [[Their Claims vs The Record]]*
+*Related: [[Who Gets Watched]] · [[Watching the Poor|Cameras in Public Housing]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[The Abuse Record]] · [[Their Claims vs The Record|The Claims, Checked]]*

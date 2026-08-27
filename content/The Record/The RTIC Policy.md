@@ -30,7 +30,7 @@ What the county's version of the policy produces is measurable. The Sheriff's Of
 
 ## What changed between drafts
 
-The releases include three dated drafts ([June 25](assets/policy-1703/policy1703-draft-0625.pdf) · [June 29](assets/policy-1703/policy1703-draft-0629.pdf) · [July 9](assets/policy-1703/policy1703-draft-0709.pdf), which matches the final). Laying them side by side shows what the process added, and what it quietly dropped.
+The releases include three dated drafts ([June 25](assets/policy-1703/policy1703-draft-0625.pdf) · [June 29](assets/policy-1703/policy1703-draft-0629.pdf) · [July 9](assets/policy-1703/policy1703-draft-0709.pdf), which matches the final). Laying them side by side shows what the process added, and what it dropped.
 
 **Added during the process:**
 
@@ -54,7 +54,7 @@ Whether each deletion was a simplification or a retreat is exactly the kind of q
 
 ## What never made it in
 
-Measure the four pages against the promises made to sell the RTIC ([[Promise Tracker]], [[Their Claims vs The Record]]). Not in the policy, in any draft:
+Measure the four pages against the promises made to sell the RTIC ([[Promise Tracker]], [[Their Claims vs The Record|The Claims, Checked]]). Not in the policy, in any draft:
 
 - **Immigration and ICE.** Zero mentions. Deputy Chief Sean Aardema's "we will not be sharing information with federal immigration" exists only in WLOS's coverage; the written rulebook's only sharing limit is the "permitted by law or compelling need" clause.
 - **Retention periods.** No numbers anywhere; retention lives in other documents and vendor settings.

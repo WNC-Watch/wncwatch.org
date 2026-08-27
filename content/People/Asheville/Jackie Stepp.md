@@ -16,7 +16,7 @@ Stepp is the [[What Is the RTIC|RTIC]]'s chief salesperson and its chief operato
 
 ## Her numbers contradict each other across meetings
 
-Before the claim-by-claim, one pattern to hold. **March 7, 2025**, to council: APD has access to "over **177,000 cameras** across the Eastern US... and we've had that access." **July 31, 2025**, to the Public Safety Committee: the network is "connected to over **19,000 cameras** across a 500 mile radius." An order of magnitude apart, both hers, never reconciled. Same pattern on money: the [[2026-04-28 Work Session|April 28]] breakdown was ~$400K video wall / $467,602 Fusus / ~$250K buildout; by May 12 the wall was "approximately $500,000" and the buildout "the remainder." The city's own staff report documented bundling savings of **$46,948.25** over the full 7.5-year contract; her May 12 presentation claimed "**projected savings of over 4 million**." When numbers this precise-sounding change by an order of magnitude between meetings, they aren't measurements. They were never checked. ([[Their Claims vs The Record]])
+Before the claim-by-claim, one pattern to hold. **March 7, 2025**, to council: APD has access to "over **177,000 cameras** across the Eastern US... and we've had that access." **July 31, 2025**, to the Public Safety Committee: the network is "connected to over **19,000 cameras** across a 500 mile radius." An order of magnitude apart, both hers, never reconciled. Same pattern on money: the [[2026-04-28 Work Session|April 28]] breakdown was ~$400K video wall / $467,602 Fusus / ~$250K buildout; by May 12 the wall was "approximately $500,000" and the buildout "the remainder." The city's own staff report documented bundling savings of **$46,948.25** over the full 7.5-year contract; her May 12 presentation claimed "**projected savings of over 4 million**." When numbers this precise-sounding change by an order of magnitude between meetings, they aren't measurements. They were never checked. ([[Their Claims vs The Record|The Claims, Checked]])
 
 ## The May 12 argument, claim by claim
 
@@ -66,6 +66,6 @@ Her memo to council, dated August 14, 2026 and public as an agenda attachment si
 - **Her own announced venues:** the town halls and listening sessions she promised are the place to ask, on the record: *Where are the audit reports state law requires ([[Records Center|G.S. 20-183.31(a)(7)]])? Why do the dashboards 404? Has the city revoked ACEIP Tier 1?*
 - **Her own standard:** "Trust will not be assumed. It will be demonstrated." Agreed. The [[Promise Tracker]] is the scoreboard.
 
-*Related: [[D.K. Wesley]] · [[Jimmy Wingo]] · [[Their Claims vs The Record]] · [[2026-05-12 City Council]] · [[The Flockbook]] · [[Promise Tracker]] · [[The Committee]]*
+*Related: [[D.K. Wesley]] · [[Jimmy Wingo]] · [[Their Claims vs The Record|The Claims, Checked]] · [[2026-05-12 City Council]] · [[The Flockbook]] · [[Promise Tracker]] · [[The Committee]]*
 
 *Region: Asheville · Last updated: Aug 23, 2026*
