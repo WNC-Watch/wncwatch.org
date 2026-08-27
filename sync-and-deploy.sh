@@ -5,6 +5,11 @@ REPO="$(cd "$(dirname "$0")" && pwd)"
 VAULT="$HOME/Documents/Obsidian Vault/AVL Surveillance Watch"
 
 rsync -av --delete --exclude '.obsidian' --delete-excluded --exclude 'private' "$VAULT/" "$REPO/content/"
+
+OPS_REPO="$(cd "$REPO/../repo" && pwd)"
+python3 "$OPS_REPO/tools/name_gate.py" "$REPO/content"
+python3 "$OPS_REPO/tools/tag_lint.py" "$REPO/content"
+
 cd "$REPO"
 git add -A
 if git diff --cached --quiet; then
