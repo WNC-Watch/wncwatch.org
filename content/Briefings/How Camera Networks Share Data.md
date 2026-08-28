@@ -24,6 +24,8 @@ A registry records where a camera is. Full viewing capability lets the center wa
 
 Flock's nationwide search is a feature of an agency's account. An agency whose account has the national lookup setting on can search the shared reads of roughly 80,000 cameras across the country in one step, whatever number of cameras the agency owns. Searches leave the agency's town through that account, and other agencies' searches arrive into it the same way. The camera count changes none of it; during Asheville's wind-down, the plan for a time was to keep a single Flock camera, described by councilmember Turner as pointed at a wall, and that camera would have kept the account, and the account keeps the national search.
 
+The terms of the trade were stated on the record one county west. Asked at Jackson County's August 4, 2026 work session whether his county can get plate data from other agencies, Sheriff Doug Farmer answered that sharing Jackson County's own data is the only way to receive theirs ([the recording, at 1:31:23](https://www.youtube.com/watch?v=QJUfAAppweI&t=5483s)). That is the bargain in the operator's own description: an agency's access to the network is paid for with its own community's reads ([[Jackson County]]).
+
 ## What the local record shows
 
 Asheville's officials confirmed this on the record, before the votes.
