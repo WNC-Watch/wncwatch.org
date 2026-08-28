@@ -1,6 +1,6 @@
 ---
 title: Henderson County
-description: 39+ cameras, no vote ever taken, the only 287(g) jail agreement in WNC, a sharing list of 2,048 agencies including the FBI, and the region's fastest-growing removal petition.
+description: 39+ cameras, no vote ever taken and the budget ordinance that explains why, the only 287(g) jail agreement in WNC, a sharing list of 2,048 agencies including the FBI, and the region's fastest-growing removal petition.
 ---
 
 Henderson County is the region's most active live fight.
@@ -36,6 +36,24 @@ Henderson County is the region's most active live fight.
 - **Fletcher PD** (since fall 2025) and **Laurel Park PD** (4 cameras, early 2026): counts and contracts largely unpublished. Countywide: **~39–42 cameras** per DeFlock mapping.
 - **No commission vote has ever been taken on any of it.** Chair Bill Lapsley has signaled the board may not even take the question up. ([Hendersonville Lightning](https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html))
 
+## Why there has never been a vote
+
+We read the county's adopted FY27 budget ordinance to answer the question residents keep raising at the podium. Clause K, on page 2, sets the rule ([the ordinance, on the county's site](https://www.hendersoncountync.gov/sites/default/files/fileattachments/budget/page/3951/revised_-_fy27_budget_ordinance_with_appendices_a-e.pdf)):
+
+> "In addition to the foregoing, the Sheriff may execute contracts that require no financial expenditure and have no fiscal impact on the County Government budget (for example, a grant contract requiring no county match in personnel or funding). Contracts or agreements that require any type of County match outside of the Sheriff's approved budget must be approved by the Board of Commissioners."
+
+Board approval is triggered by a contract that needs money from outside the sheriff's approved budget. A contract paid from inside that budget does not come back to the board. Once commissioners adopt the sheriff's total, $30,724,842 this year, the purchases within it are his to execute.
+
+The ordinance does not itemize vendors, so the adopted budget does not say which account pays for the Flock subscription. The sheriff's contracted-services line is $144,698 (ordinance page 28). The county's FY27 capital documents contain no surveillance item of any kind; the sheriff's capital request this year was bomb-squad helmets, which were not approved, and vehicle radios. Which line the cameras are paid from is a records question. What the documents already establish is the structure: a camera subscription here can begin, renew, and grow without any individual vote on it, and a resident reading the adopted budget cannot find it, because no line says Flock.
+
+A budget built this way is ordinary and legal, and counties with no cameras at all are built the same way. Nothing had to be concealed for the vote never to happen; the procedure never required one. The remedies are procedural too, and the board could adopt any of them: publish which account the contract is paid from and its annual amount, set a dollar threshold above which a surveillance technology contract comes to the board regardless of which line it sits in, and put renewals on an agenda before they renew.
+
+## What the meeting videos show
+
+The county publishes its commissioners' meetings on Vimeo, and the published archive begins July 15, 2026. It holds four meetings. We scanned all four. Flock, ALPR, or Axon appears in one of them, and that one appearance is a resident's public comment on August 3, not a commissioner's remark, a staff report, or an agenda item. In the other three, the words camera, surveillance, and license plate do not occur at all. Three of the four meetings included closed sessions, and a keyword scan can miss a discussion held in other words, so absence from these recordings is not proof the board has never discussed the cameras; it shows what the public record contains, and no more. A resident who wants to know where a commissioner stands before September 8 cannot learn it from the video, and nothing before July 15 can be reviewed by anyone, because no earlier recording is published.
+
+Hendersonville's council record on YouTube runs deeper, and says the same thing. Across the twelve council meetings held in 2026 before the September 3 presentation, Flock, ALPR, or Axon comes up twice: a February budget aside about taser subscriptions, and an August 6 public comment from a resident who credited the police department for publishing its safeguard policies and asked council to hold a public presentation on how the cameras are used and how the data is protected. Four weeks later, the chief's presentation is on the calendar; whether the comment prompted it, the record does not say. Neither mention was an agenda item.
+
 ## The resident campaign to remove the cameras
 
 **An Edneyville resident** started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17**, more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) The same resident spoke at the Aug 3 commissioners' meeting and runs the DeFlock Henderson County group; their response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
@@ -54,7 +72,7 @@ Henderson County is the only WNC sheriff's office with a 287(g) agreement: a Jai
 
 No renewal date is public and no vote is scheduled, so the levers are the **annual budget** (the sheriff's line item), the petition's growth curve, and the [[How Cities Won|Macon precedent]] one ridge west: same kind of county, unanimous removal, driven by constituent volume. The [[Election 2026|NC-11 candidate Jennifer Balkcom]] is from Henderson County and has never been asked about her home county's petition.
 
-**Video:** commissioners stream on **Vimeo** (no auto-captions; the one WNC body our transcript pipeline can't cheaply cover); [Hendersonville City Council is on YouTube](https://www.youtube.com/channel/UCT4upsJqDADQjBsBBUd19TA). Best press: the Hendersonville Lightning.
+**Video:** commissioners stream on **Vimeo**, with a published archive that begins July 15, 2026, so nothing earlier can be reviewed by anyone; [Hendersonville City Council is on YouTube](https://www.youtube.com/channel/UCT4upsJqDADQjBsBBUd19TA). Best press: the Hendersonville Lightning.
 
 ## Late August: the sheriff's written case, and two September dates
 
@@ -66,5 +84,22 @@ The dates:
 - A counter-petition to increase Flock funding launched Aug 6; the removal petition passed 1,000 signatures mid-August.
 
 None of the other four commissioners, and none of Hendersonville's five elected officials, has made a public statement on the cameras.
+
+## What Hendersonville's adopted budget already contains
+
+The public conversation ahead of September 3 is about Flock cameras. The city's adopted FY27 budget, voted by council, covers more ([the adopted budget](https://www.hendersonvillenc.gov/sites/default/files/uploads/departments/administration/budget/fy2026-2027_adopted_budget.pdf), capital improvement plan at printed page 85). The plan separates two columns, and the difference between them matters:
+
+- **Appropriated this year**, meaning money council has actually voted: a police mobile deployment drone at $20,000, and the first $25,000 of a six-year, $150,000 camera infrastructure program.
+- **Scheduled for FY28**, meaning in the adopted plan but not yet funded: a **Real Time Crime Center at $3,000,000**, a Drone as First Responder program at $265,000 with $23,500 a year recurring, and a mobile surveillance trailer at $190,000 with $15,000 a year recurring.
+
+An out-year line needs a future appropriation, and councils drop out-year lines routinely, so the crime center remains a plan that would need a future vote. The plan also does not say what the center would do, what data would feed it, or whether the Flock cameras would be one of the feeds; the line is a title and a number. September 3 is a public meeting where the city can answer that.
+
+Questions a resident can ask in two minutes, each answerable from documents the city already holds:
+
+1. The FY28 capital plan includes a $3,000,000 Real Time Crime Center. What would it do, what data would flow into it, and would the Flock cameras be one of the feeds?
+2. Would the center's data retention and audit rules be the police department's own policy, or would council set them?
+3. Drone as First Responder is planned at $265,000 with $23,500 a year recurring. What does the recurring fee buy, and from which vendor?
+4. What does the six-year camera infrastructure program cover, and are any of those cameras on public streets?
+5. What is the city's annual Axon subscription amount, and does any part of it pay for data storage?
 
 *Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Getting Flock Out]] · [[How Cities Won]]*
