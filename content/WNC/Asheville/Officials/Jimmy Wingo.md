@@ -32,12 +32,12 @@ Each assurance has a documented national counterpart:
 - **"You have to put the reason"** is the safeguard a U.S. Senate investigation already dismantled: in EFF's 11.4-million-search dataset, 14%+ of reasons were the single word "investigation"; the ACLU found "hehehe" passed review; the Texas deputy's reason ("had an abortion, search for female") *was* a reason. Having reasons and having oversight are different things. ([[What They Can Actually Learn About You]] · [Wyden letter](https://www.wyden.senate.gov/imo/media/doc/wyden_letter_to_flock.pdf))
 - **"100% of the time, we have reasons"** is also what Mooresville's audit would have shown: the officer accused of using cameras to stalk logged a reason every time. She made them up, and they passed review. ([[The Abuse Record]])
 - **"18 people"** counts APD's searchers, not the network's: the county's Fusus side lists 59 authorized Flock searchers, and the national network Asheville's cameras answer to has run millions of outside-agency queries against local data elsewhere; over 95% of searches on Spokane County's data came from outside agencies. ([[Who Gets Watched]])
-- **The self-audit** is the structure that has failed everywhere it's been tested, and when a resident asked to *see* Asheville's audit records, [[Records Center|the city refused]]. The audit is [[Their Claims vs The Record|conducted by APD, on APD]], reports 100% compliance, and the public is not allowed to read it.
+- **The self-audit** is the structure that has failed everywhere it's been tested, and when a resident asked to *see* Asheville's audit records, [[Records Center|the city refused]]. The audit is [[Their Claims vs The Record|Asheville's RTIC claims and the record]], reports 100% compliance, and the public is not allowed to read it.
 
 None of this depends on doubting Wingo's sincerity. The critique of single-gate, self-audited, reason-box oversight is *structural*: it depends entirely on every future occupant of one desk being careful forever, in a system where [[Oversight Theater|no one above that desk is checking]].
 
 *A standing accuracy note for anyone citing him: no press coverage or public testimony assigns Wingo a sworn rank; do not style him as an officer or give him one. His job title varies across outlets (Specialist/Manager/Supervisor), his start date and background are unpublished, and his formal civilian-versus-sworn classification is unverified in public sources. That the person who approves all outside data requests has no published bio, org-chart entry, or job classification is itself a transparency problem.*
 
-*Related: [[Jackie Stepp]] · [[The Committee]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Before You Plug In]] · [[Records Center]]*
+*Related: [[Jackie Stepp]] · [[The Committee]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Before You Plug In]] · [[Records Center]]*
 
 *Region: Asheville · Last updated: Aug 23, 2026*

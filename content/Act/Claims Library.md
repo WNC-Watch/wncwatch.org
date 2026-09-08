@@ -88,4 +88,4 @@ Every one of these is a measurable commitment or a revealing priority. The [[Pro
 
 *Building something with these? [[Speak at Council]] has the delivery kit. Want the full stories behind the claims? [[The National Wave]] and [[Timeline]].*
 
-*These are your claims, sourced. Theirs, quoted exactly and answered, are on [[Their Claims vs The Record|The Claims, Checked]].*
+*These are your claims, sourced. Theirs, quoted exactly and answered, are on [[Their Claims vs The Record|Asheville's RTIC claims and the record]].*

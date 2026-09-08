@@ -84,4 +84,4 @@ Each step is documented above from primary sources. No step requires a warrant, 
 
 Worth marking the floor as clearly as the ladder: step 1 by itself, a camera reading the plate in front of it, checked against a hot list and then discarded under a local retention policy with an audit trail someone reads, is a different object from steps 2 through 5, and it is not what this page warns about. Every rung above it is a separate decision: to retain, to pool, to join the national lookup, to add the live layer, to buy the person-lookup product. Each of those decisions has a default set by the vendor, and each can be declined, capped, or put under a public vote. The communities in [[Companies/How Cities Won|How Cities Won]] did exactly that.
 
-*Related: [[Who Gets Watched]] · [[Watching the Poor|Cameras in Public Housing]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[The Abuse Record]] · [[Their Claims vs The Record|The Claims, Checked]]*
+*Related: [[Who Gets Watched]] · [[Watching the Poor|Cameras in Public Housing]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[The Abuse Record]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]]*

@@ -38,7 +38,7 @@ More than a hundred pages. Start with what you need:
 <div class="door"><span class="door-k">Who decides</span><p class="door-t">Know your leaders' positions</p><ol>
 <li><a href="./WNC/index">Every official and candidate, profiled</a></li>
 <li><a href="./Act/Election-2026">The November ballot</a></li>
-<li><a href="./WNC/Asheville/Record/Their-Claims-vs-The-Record">How Asheville's claims checked out</a></li>
+<li><a href="./WNC/Asheville/Record/Their-Claims-vs-The-Record">Asheville's RTIC claims and the record</a></li>
 </ol></div>
 <div class="door"><span class="door-k">The Asheville record</span><p class="door-t">The region's deepest case</p><ol>
 <li><a href="./Briefings/What-Is-the-RTIC">What is the RTIC?</a></li>

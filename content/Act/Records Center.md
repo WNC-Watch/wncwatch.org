@@ -9,7 +9,7 @@ This site documents what officials said. Public records show what they did. Nort
 
 **Two things to know before your first request:**
 
-**A refusal is also a record.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record|The Claims, Checked]]). A released record answers the question; a refusal shows the safeguard cannot be checked from outside.
+**A refusal is also a record.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record|Asheville's RTIC claims and the record]]). A released record answers the question; a refusal shows the safeguard cannot be checked from outside.
 
 **On the cost objection.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus, one the public is entitled to price in.
 
@@ -173,4 +173,4 @@ Expect these, and know what each refusal means:
 
 Every response (and every non-response) feeds back into this site: the [[Promise Tracker]], [[Documents]], and the pages above. File one, tell us, and we'll track it here.
 
-*Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Speak at Council]]*
+*Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Speak at Council]]*
