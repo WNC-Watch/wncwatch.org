@@ -23,13 +23,13 @@ Voted yes at every stage of the buildout: the 2023 Fusus interlocal, the 2025 gr
 
 Mosley holds the council's **non-voting seat on the board of the Asheville Downtown Improvement District**, the Chamber/Downtown Association-created nonprofit that operates the BID she voted to create (6–1, [[Kim Roney|Roney]] no). See [[Follow the Money]] for how the BID, the Chamber's camera-registry advocacy, and the RTIC's downtown camera-recruitment program interlock, and why a council member sitting on the operator's board while seeking re-election is itself a question for the campaign.
 
-## Questions she hasn't answered
+## What is pending with her
 
 As Vice Mayor, a Public Safety Committee member, an attorney, and a candidate: Does she support releasing the executed [[What Axon Contracts Do|Axon contract]]? Publishing the quarterly audits? Making the safeguards binding by ordinance ([[Promise Tracker]])? Voters can ask: antanettemosley@avlcouncil.com, or at any forum; see [[Election 2026]] for the questions that can't be answered with a slogan.
 
-## August 25: the no vote, explained
+## The Aug 25 vote
 
-At the [[2026-08-25 City Council|termination vote]] she cast one of the two no votes, after years in the majority with no public explanation. Her statement endorsed the critics' concerns while rejecting the vehicle: concerns about "privacy, data sharing, civil liberties and accountability... are not new for me," citing her years representing J. Rush, the pedestrian beaten by an APD officer in 2017. But: "This whole thing feels deeply political to me. We are [in] the middle of an election season... My job is not to participate in political theater. My job is to govern... I cannot support this resolution in [its] current [form] tonight." Asked what change would win her vote: "what we're attempting to do quite frankly is a bait and switch, and I think we're not giving our citizens credit for seeing that." She read into the record a letter from the housing authority's executive director: residents "want cameras... more security not less," and "their absence at council meetings should not be mistaken for silence."
+At the [[2026-08-25 City Council|termination vote]] she cast one of the two no votes, her first no vote on these items. Her statement stated the concerns and voted against the resolution: concerns about "privacy, data sharing, civil liberties and accountability... are not new for me," citing her years representing J. Rush, the pedestrian beaten by an APD officer in 2017. But: "This whole thing feels deeply political to me. We are [in] the middle of an election season... My job is not to participate in political theater. My job is to govern... I cannot support this resolution in [its] current [form] tonight." Asked what change would win her vote: "what we're attempting to do quite frankly is a bait and switch, and I think we're not giving our citizens credit for seeing that." She read into the record a letter from the housing authority's executive director: residents "want cameras... more security not less," and "their absence at council meetings should not be mistaken for silence."
 
 ## Ballot note
 

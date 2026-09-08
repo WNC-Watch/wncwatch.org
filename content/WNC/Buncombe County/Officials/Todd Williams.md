@@ -7,7 +7,7 @@ aliases:
 
 **Title:** District Attorney, Prosecutorial District 40 (Buncombe County) · Democrat
 **In this role since:** January 2015 (elected 2014)
-**Term ends:** December 31, 2026; not seeking re-election. [[Martin Moore]] won the Democratic primary and has no Republican opponent.
+**Current term ends:** December 31, 2026; not seeking re-election. [[Martin Moore]] won the Democratic primary and has no Republican opponent.
 
 ## Surveillance record
 

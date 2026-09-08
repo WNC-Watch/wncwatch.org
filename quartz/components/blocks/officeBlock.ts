@@ -17,7 +17,7 @@ const ALLOWED = new Set([
   "Title",
   "In this role since",
   "Current term ends",
-  "Term ends",
+  "Term length",
   "Term",
   "The seat",
   "Next voter decision",

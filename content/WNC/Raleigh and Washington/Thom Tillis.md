@@ -6,7 +6,7 @@ aliases:
 ---
 
 **Title:** U.S. Senator (R-NC), since 2015
-**Term ends:** January 2027; announced June 29, 2025 that he will not seek re-election ([Ballotpedia](https://news.ballotpedia.org/2025/06/30/sen-thom-tillis-announces-he-will-not-seek-re-election-to-the-u-s-senate-in-2026/))
+**Current term ends:** January 2027; announced June 29, 2025 that he will not seek re-election ([Ballotpedia](https://news.ballotpedia.org/2025/06/30/sen-thom-tillis-announces-he-will-not-seek-re-election-to-the-u-s-senate-in-2026/))
 **Next voter decision:** the open seat: Roy Cooper (D) vs Michael Whatley (R), plus Green, Libertarian, and independent candidates, November 3, 2026 ([Ballotpedia](https://news.ballotpedia.org/2026/04/06/roy-cooper-d-michael-whatley-r-and-three-other-candidates-are-running-in-north-carolinas-u-s-senate-election-on-november-3-2026/))
 
 ## Record on these issues

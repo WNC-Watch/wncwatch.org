@@ -6,7 +6,7 @@ aliases:
 ---
 
 **Title:** U.S. Senator (R-NC), since 2023
-**Term ends:** January 2029
+**Current term ends:** January 2029
 **Next voter decision:** November 2028
 
 ## Record on these issues
