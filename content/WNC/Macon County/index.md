@@ -20,7 +20,7 @@ Macon County is WNC's proof that removal is winnable.
 <div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
 
 <div class="avl-tl">
-<div class="tl-item tl-resist"><div class="tl-date">July 14, 2026</div><div class="tl-body"><strong>commissioners vote 5–0 to de-Flock.</strong> The board barred the Sheriff's Office from spending county funds on Flock and moved to terminate the contract "as soon as possible" (ahead of its October expiration), with over 100 residents packing the room. (<a href="https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/">Smoky Mountain News</a> · <a href="https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA/videos">the meeting video</a> · <a href="../Companies/How-Cities-Won">How Cities Won</a> · <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">July 14, 2026</div><div class="tl-body"><strong>commissioners vote 5–0 to de-Flock.</strong> The board barred the Sheriff's Office from spending county funds on Flock and moved to terminate the contract "as soon as possible" (ahead of its October expiration), with over 100 residents packing the room. (<a href="https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/">Smoky Mountain News</a> · <a href="https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA/videos">the meeting video</a> · <a href="../Companies/Communities-That-Ended-or-Limited-Contracts">Communities that ended or limited camera contracts</a> · <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">After the vote</div><div class="tl-body"><strong>access cut.</strong> MCSO lost access to all 16 cameras ("no one has access now"); the four school cameras entered limbo, deferred to school leaders who say neither MCSO nor Flock has contacted them.</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">By mid-August 2026</div><div class="tl-body"><strong>the removal is holding.</strong> No reinstatement effort, and no crime-spike claims. Sheriff Holbrooks says he "respects the decision" while still defending the tool.</div></div>
 <div class="tl-item tl-future tl-now"><div class="tl-date">September 8, 2026</div><div class="tl-body"><strong>the board meets for the first time since the vote.</strong> Regular meeting, 6 PM. The open items: the four school cameras, and what becomes of the $47,000 that was budgeted for the contract.</div></div>
@@ -54,7 +54,7 @@ The full July 14 recording is public ([the meeting video](https://www.youtube.co
 ## What's happened since the vote
 
 - **The four school cameras are still unresolved**: commissioners deferred them to school leaders; the school system says **neither MCSO nor Flock has contacted them** about the cameras on their buildings. No school-board vote has ever been taken.
-- **A cautionary note:** the fight's social-media spillover included **false claims that Franklin had Flock cameras** (it has none), escalating to threats against town officials, which handed officials a warning-about-the-opposition story. Getting facts wrong hands officials a weapon; see [[How Cities Won]] on what backfires.
+- **A cautionary note:** the fight's social-media spillover included **false claims that Franklin had Flock cameras** (it has none), escalating to threats against town officials, which handed officials a warning-about-the-opposition story. Getting facts wrong hands officials a weapon; see [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] on what backfires.
 
 ## After the vote: the paperwork that still applies
 
@@ -64,4 +64,4 @@ Removing the cameras did not remove the county from the network. "Macon County N
 
 The independent outlet **[Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ)** films Franklin council (which has no official video) and county meetings; the [county commissioners' channel](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA) carries the official record, including the July 14 vote. Smoky Mountain News (Kyle Perrotti) has the deepest coverage.
 
-*Related: [[WNC and NC]] · [[How Cities Won]] · [[Getting Flock Out]]*
+*Related: [[WNC and NC]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Getting Flock Out]]*

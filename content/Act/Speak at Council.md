@@ -60,7 +60,7 @@ What the record still lacks: sustained comment at the **Public Safety Committee*
 You'll hear these from the dais; have the reply ready:
 
 - *"It's for violent crime."* → Nothing in the approved package limits it to that; the limits are revisable APD policy. Austin's audit found 10–20% of searches had no documented reason at all.
-- *"We have strong safeguards."* → Identical safeguards preceded the ICE lookups, the abortion search, and ~50 stalking charges elsewhere. See [[The National Wave]]. Safeguards that aren't law are marketing.
+- *"We have strong safeguards."* → Identical safeguards preceded the ICE lookups, the abortion search, and ~50 stalking charges elsewhere. See [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]. Safeguards that aren't law are marketing.
 - *"The grant saves us money."* → The grant covers the buildout; the 7.5-year [[What Axon Contracts Do|Axon contract]] and its escalations are Asheville's. LA, Austin, and Denver all found the ongoing costs weren't worth the results.
 - *"Cameras solve crimes."* → Sometimes, after the fact. The studies show no deterrent effect, and Flock's own headline claim collapsed under academic review. Ask what the 3.1 million plate scans have actually produced here; nobody's published that number.
 

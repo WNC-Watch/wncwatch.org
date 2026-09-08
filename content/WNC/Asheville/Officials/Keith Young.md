@@ -19,7 +19,7 @@ No votes on the current buildout (he left council before it). But Young is **the
 - Ensure local government "is not feeding a pipeline into enforcement through data, technology, or informal collaboration"
 - "Strong privacy and data minimization rules"; nonpublic records "not accessed without a proper judicial warrant"
 
-Read those against the [[What Is the RTIC|RTIC]]'s design, with its 500-mile data-sharing radius and informal inter-agency lookups as the documented ICE pathway ([[The National Wave]]), and his language describes the problem almost exactly. **He has never named the RTIC, Fusus, or Flock.** His [Chamber survey](https://www.ashevillechamber.org/news-events/2026-city-council-candidate-survey-keith-young/) frames public safety as staffing and response times.
+Read those against the [[What Is the RTIC|RTIC]]'s design, with its 500-mile data-sharing radius and informal inter-agency lookups as the documented ICE pathway ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]), and his language describes the problem almost exactly. **He has never named the RTIC, Fusus, or Flock.** His [Chamber survey](https://www.ashevillechamber.org/news-events/2026-city-council-candidate-survey-keith-young/) frames public safety as staffing and response times.
 
 ## The question for him
 

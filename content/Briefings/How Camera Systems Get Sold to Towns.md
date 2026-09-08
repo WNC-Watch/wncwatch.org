@@ -47,7 +47,7 @@ The signed Durham contract shows what the paper provides for once the sequence c
 
 ## The vendor swap
 
-When a community ends one vendor's contract, the record shows the channel delivering the next vendor for the same function. Interim Chief Stepp's August 14 memo to Asheville's council states APD is "not pursuing a full transition away from Flock" while "expanding and integrating Axon's automated license plate reader capabilities," operational by February 2027. Denver declined a new Flock contract, removed about 110 cameras, and contracted with Axon for 50 ([[The National Wave]]). Brevard's county sheriff runs Flock and the city is being offered Axon; whether one led to the other is not established, and this page does not claim it.
+When a community ends one vendor's contract, the record shows the channel delivering the next vendor for the same function. Interim Chief Stepp's August 14 memo to Asheville's council states APD is "not pursuing a full transition away from Flock" while "expanding and integrating Axon's automated license plate reader capabilities," operational by February 2027. Denver declined a new Flock contract, removed about 110 cameras, and contracted with Axon for 50 ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]). Brevard's county sheriff runs Flock and the city is being offered Axon; whether one led to the other is not established, and this page does not claim it.
 
 ## The asks
 

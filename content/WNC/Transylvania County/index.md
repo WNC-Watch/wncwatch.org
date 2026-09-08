@@ -48,7 +48,7 @@ Brevard is the one community in WNC deciding before signing: the draft policy an
 
 The "free" cameras come with monthly data-storage fees. The city attorney reviewed it favorably; the deputy chief previously ran Hendersonville's Flock system.
 
-The opening is real: a small city, a genuinely undecided council, and a decision not yet made. Everything on this site (the [[What Axon Contracts Do|contract record]], [[Camera Network Misuse|Camera network misuse, documented cases]], [[How Cities Won|how other communities negotiated]]) is there for anyone who shows up with questions.
+The opening is real: a small city, a genuinely undecided council, and a decision not yet made. Everything on this site (the [[What Axon Contracts Do|contract record]], [[Camera Network Misuse|Camera network misuse, documented cases]], [[Communities That Ended or Limited Contracts|how other communities negotiated]]) is there for anyone who shows up with questions.
 
 ## The county
 
@@ -98,6 +98,6 @@ What the draft leaves open, each phrased as a question the Sept 1 session can an
 - **Cloud appendix §13**: for usage data, "including query logs and metadata," Axon is an "independent Data Controller," processing it for its own product purposes, with third-party disclosure permitted once "anonymized, de-identified, and/or aggregated."
 - **The ACEIP appendix**: "By default, Customer will be a participant in ACEIP Tier 1," Axon's program for using customer content across customers to develop its products, with privacy-preserving extraction. Opting out requires the customer to revoke consent in writing. The draft policy does not mention it.
 
-For comparison, Denver asked before signing and negotiated a one-year term, a camera cap, no national-database participation, and a per-query audit trail ([[The National Wave]]). Every one of those protections was winnable by a customer that asked first, which is exactly the position Brevard is in until Sept 8.
+For comparison, Denver asked before signing and negotiated a one-year term, a camera cap, no national-database participation, and a per-query audit trail ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]). Every one of those protections was winnable by a customer that asked first, which is exactly the position Brevard is in until Sept 8.
 
-*Related: [[WNC and NC]] · [[What Axon Contracts Do]] · [[How Cities Won]]*
+*Related: [[WNC and NC]] · [[What Axon Contracts Do]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*

@@ -92,14 +92,14 @@ The memo also settles some numbers. It counts **86 Flock cameras in Buncombe Cou
 
 ## The cities that already did this, so nobody has to guess
 
-This isn't theoretical; it's the [[The National Wave|national record]], and the [[How Cities Won|full page on how cities won]] has the mechanics. The short version, closest to home first:
+This isn't theoretical; it's the [[Communities That Ended or Limited Contracts|national record]], and the [[Communities That Ended or Limited Contracts|full page on how cities won]] has the mechanics. The short version, closest to home first:
 
 - **[[WNC/Macon County/index|Macon County]], NC (July 2026):** commissioners voted **5–0** to let the Flock contract lapse; twelve cameras came down immediately. The push came largely from Republican residents: this is not a partisan ask.
 - **Pittsboro, NC:** the instructive sequence: a "keep with guardrails" compromise **failed**, then outright termination **passed**, with a removal deadline in the motion ("no later than July 1"). The full ask was the winnable ask.
 - **Hillsborough, NC:** terminated unanimously; cameras out in **five weeks**. The NC benchmark for how fast this goes when a council means it.
 - **Austin, TX (the account warning):** removed every camera, and APD kept searching Flock's network through two neighboring towns until journalists caught it. Council member Mike Siegel: "a violation of the intent of council policy." ([KUT](https://www.kut.org/crime-justice/2026-02-12/austin-tx-apd-flock-cameras-license-plate-readers)) This is why demand 3 exists.
 - **Evanston, IL (the paperwork warning):** terminated, then Flock **reinstalled cameras anyway**; the last came down six months later, after press inquiry. This is why demands 1, 2, and 5 exist.
-- **And the wave itself:** Guadalupe County, TX terminated its contract on August 7, citing "public scrutiny" ([KSAT](https://www.ksat.com/news/local/2026/08/08/guadalupe-county-terminates-contract-with-flock-safety-citing-public-scrutiny/)), and more than 20 jurisdictions ended or began ending Flock use in July 2026 alone, the most in a single month on record ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). The 50+ community record, across the political spectrum: [[The National Wave]].
+- **And the wave itself:** Guadalupe County, TX terminated its contract on August 7, citing "public scrutiny" ([KSAT](https://www.ksat.com/news/local/2026/08/08/guadalupe-county-terminates-contract-with-flock-safety-citing-public-scrutiny/)), and more than 20 jurisdictions ended or began ending Flock use in July 2026 alone, the most in a single month on record ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). The 50+ community record, across the political spectrum: [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]].
 
 ## The Axon side isn't the safe harbor
 
@@ -158,8 +158,8 @@ Say the vote passes, the poles come down, the accounts close, the certification 
 - **The [[Promise Tracker|promises]]**: no facial recognition, no ICE sharing, audits, dashboards; every one still a revisable policy rather than law. The structural fix has a name, [CCOPS](https://www.aclu.org/community-control-over-police-surveillance), an ordinance ~26 cities have passed, and no Asheville official has committed to it.
 - **The [[Election 2026|election]]**: four of the six votes that built this are on the November 3 ballot. A Flock exit eleven weeks before Election Day is a data point; what candidates commit to in writing about the rest of the system is the answer.
 
-Flock is the most visible piece and the most winnable fight, which is exactly why it can't be the last one. The cities that treated the Flock vote as the finish line got the [[The National Wave|vendor swap]]; Syracuse's critics said the Axon switch "solved nothing." The finish line is structural: the contract public, the promises in law, the audits published, and no camera network, city or county, operating without a public vote and a public record.
+Flock is the most visible piece and the most winnable fight, which is exactly why it can't be the last one. The cities that treated the Flock vote as the finish line got the [[Communities That Ended or Limited Contracts|vendor swap]]; Syracuse's critics said the Axon switch "solved nothing." The finish line is structural: the contract public, the promises in law, the audits published, and no camera network, city or county, operating without a public vote and a public record.
 
 *The two vendors, side by side: [[Flock Safety]] and [[Axon]].*
 
-*Related: [[Speak at Council]] · [[Get Involved]] · [[Records Center]] · [[Promise Tracker]] (rows 11–12) · [[What Axon Contracts Do]] · [[How Cities Won]] · [[The National Wave]] · [[Sage Turner]] · [[Documents]]*
+*Related: [[Speak at Council]] · [[Get Involved]] · [[Records Center]] · [[Promise Tracker]] (rows 11–12) · [[What Axon Contracts Do]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Sage Turner]] · [[Documents]]*

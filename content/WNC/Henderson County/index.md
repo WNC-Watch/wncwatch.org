@@ -28,7 +28,7 @@ Henderson County's cameras were bought inside the sheriff's approved budget, so 
 <div class="tl-item tl-resist"><div class="tl-date">August 3, 2026</div><div class="tl-body"><strong>the petition organizer addresses the commissioners.</strong> The Edneyville resident behind the DeFlock Henderson County group takes the fight to the board (<a href="https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community">WLOS</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
 <div class="tl-item tl-resist"><div class="tl-date">August 18, 2026</div><div class="tl-body"><strong>"Opposition to Henderson County Flock cameras bridges ideological divide."</strong> The Times-News headline; the article sits behind a paywall (<a href="https://x.com/BlueRidgeNow/status/2089683794244591738">BlueRidgeNow</a>).</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">August 22, 2026</div><div class="tl-body"><strong>The sheriff's portal lists 2,048 agencies with access to the county's data</strong>, including the FBI and the US Postal Inspection Service (see the inventory below).</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">August 10–17, 2026</div><div class="tl-body"><strong>The petition more than doubles in a week.</strong> 937 signatures on Aug 10, 1,000+ by Aug 14, <strong>2,071 by Aug 17</strong> (<a href="https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc">the defund petition</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a> · <a href="../Companies/How-Cities-Won">How Cities Won</a></div></div>
+<div class="tl-item tl-resist"><div class="tl-date">August 10–17, 2026</div><div class="tl-body"><strong>The petition more than doubles in a week.</strong> 937 signatures on Aug 10, 1,000+ by Aug 14, <strong>2,071 by Aug 17</strong> (<a href="https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc">the defund petition</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a> · <a href="../Companies/Communities-That-Ended-or-Limited-Contracts">Communities that ended or limited camera contracts</a></div></div>
 </div>
 
 ## Links of note
@@ -81,7 +81,7 @@ Henderson County is the only WNC sheriff's office with a 287(g) agreement: a Jai
 
 ## The pressure points
 
-No renewal date is public and no vote is scheduled, so the levers are the **annual budget** (the sheriff's line item), the petition's growth curve, and the [[How Cities Won|Macon precedent]] one ridge west: same kind of county, unanimous removal, driven by constituent volume. The [[Election 2026|NC-11 candidate Jennifer Balkcom]] is from Henderson County and has never been asked about her home county's petition.
+No renewal date is public and no vote is scheduled, so the levers are the **annual budget** (the sheriff's line item), the petition's growth curve, and the [[Communities That Ended or Limited Contracts|Macon precedent]] one ridge west: same kind of county, unanimous removal, driven by constituent volume. The [[Election 2026|NC-11 candidate Jennifer Balkcom]] is from Henderson County and has never been asked about her home county's petition.
 
 **Video:** commissioners stream on **Vimeo**, with a published archive that begins July 15, 2026, so nothing earlier can be reviewed by anyone; [Hendersonville City Council is on YouTube](https://www.youtube.com/channel/UCT4upsJqDADQjBsBBUd19TA). Best press: the Hendersonville Lightning.
 
@@ -99,4 +99,4 @@ None of the other four commissioners has made a public statement on the cameras.
 
 Hendersonville's cameras, the chief's Sept 3 presentation, and what the city's adopted budget already contains are on [[WNC/Hendersonville/index|Hendersonville]].
 
-*Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Getting Flock Out]] · [[How Cities Won]]*
+*Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Getting Flock Out]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*

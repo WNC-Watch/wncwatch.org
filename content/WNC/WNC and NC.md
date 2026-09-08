@@ -83,4 +83,4 @@ While counties remove cameras, Raleigh is installing them. The **July 2026 state
 
 Three patterns in the record, for any conversation about what's possible here. Communities in this state have reconsidered these systems and changed course: Macon, Hillsborough, Pittsboro, Chatham, Boone, each documented above. Written policy alone has not been the safeguard its sellers describe: in Charlotte and Mooresville the policies were in place, and the misuse was found by an audit log, after the fact, which is why the standing ask everywhere is audits someone reads and publishes. And change has come fastest where officials and residents worked from the same documents: Macon's commissioners voted 5 to 0, on a motion from Republicans, in twenty minutes, and Boone's chief cut his own sharing list 96 percent after pulling the log himself.
 
-*Related: [[The National Wave]] · [[Election 2026]] · [[Claims Library]]*
+*Related: [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Election 2026]] · [[Claims Library]]*

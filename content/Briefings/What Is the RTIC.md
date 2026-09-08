@@ -36,7 +36,7 @@ What the county's version of this does all day is now on the record: the Sheriff
 ## What it is *not* (yet)
 
 - **Facial recognition:** APD says it will not be used, and the civil-liberties resolution (26-97) contains an exclusion. But a resolution is **not an ordinance**: no enforcement mechanism, no penalty, reversible by any future council in a single vote, and the (still-unreleased) contract's terms are unknown. GAP of Asheville asked for an enforceable ban; that was never on the table.
-- **Federal/ICE access:** APD says data won't be shared with immigration enforcement without a court order, and that search terms related to immigration and reproductive care are blocked. These blocks are APD-administered keyword filters; nationally, equivalent safeguards have been [[The National Wave|routinely circumvented]] with vague search entries, and ICE has reached identical systems through informal requests to neighboring agencies.
+- **Federal/ICE access:** APD says data won't be shared with immigration enforcement without a court order, and that search terms related to immigration and reproductive care are blocked. These blocks are APD-administered keyword filters; nationally, equivalent safeguards have been [[Communities That Ended or Limited Contracts|routinely circumvented]] with vague search entries, and ICE has reached identical systems through informal requests to neighboring agencies.
 - **Independent oversight:** none exists. The "civil liberties resolution" attached to the vote states the technology will be used "solely for lawful purposes." It is a statement of intent, not an ordinance. It creates no enforcement mechanism, no reporting duty to the public, and no consequences.
 
 ## Who runs it

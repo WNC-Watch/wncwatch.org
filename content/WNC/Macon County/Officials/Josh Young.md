@@ -12,7 +12,7 @@ aliases:
 
 ## Surveillance record
 
-On July 14, 2026 Young chaired the unanimous vote to bar the Sheriff's Office from spending county money on Flock and terminate the contract. He had leaned toward Sheriff [[Brent Holbrooks]]' position until he asked around town and, in the Smoky Mountain News's paraphrase, found those who knew about the cameras "almost entirely against them," across the political spectrum; on the record: "the people that I represent... they don't want the cameras." ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [[WNC/Macon County/index|Macon County]] · [[How Cities Won]])
+On July 14, 2026 Young chaired the unanimous vote to bar the Sheriff's Office from spending county money on Flock and terminate the contract. He had leaned toward Sheriff [[Brent Holbrooks]]' position until he asked around town and, in the Smoky Mountain News's paraphrase, found those who knew about the cameras "almost entirely against them," across the political spectrum; on the record: "the people that I represent... they don't want the cameras." ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [[WNC/Macon County/index|Macon County]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]])
 
 He is the regional demonstration that a commission chair can use the budget lever the law gives him ([[What the Law Lets the County Do]]), and that a Republican board can do it in twenty minutes.
 

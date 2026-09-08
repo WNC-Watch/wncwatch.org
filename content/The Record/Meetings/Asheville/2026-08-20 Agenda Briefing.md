@@ -38,7 +38,7 @@ Put that beside the record: the [[What Axon Contracts Do|Axon contract]] already
 
 Roney's other asks, each tracking a documented failure mode [(1:02:05)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3725s):
 
-- **Cover the cameras.** "In cities across the country that are ending their Flock contracts, **Flock isn't taking the cameras down**, and there have been some questions about whether or not they turn them back on. So cities are learning that they have to cover them up." That's the [[How Cities Won|Evanston lesson]], now on the dais.
+- **Cover the cameras.** "In cities across the country that are ending their Flock contracts, **Flock isn't taking the cameras down**, and there have been some questions about whether or not they turn them back on. So cities are learning that they have to cover them up." That's the [[Communities That Ended or Limited Contracts|Evanston lesson]], now on the dais.
 - **Publish the ACEIP documents** [(1:04:25)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3865s): "the Axon Customer Experience Improvement Program documents... if it's going to be available in a public records request... we just put it on the dashboard." Those are [[The RTIC Policy|the documents released the same morning]].
 - **The RTIC isn't settled** [(1:03:31)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3811s): "The ACLU also has provided guidance warning against real-time intelligence centers and the combination of our cameras... So we still have some work to do there."
 - **Plan for the crowd** [(1:04:46)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3886s): at the May 12 vote "a large crowd outside... stood outside for hours without access to a bathroom"; she asked for multiple overflow rooms. Manheimer: "I'll open sixth floor."

@@ -134,4 +134,4 @@ The mechanism, step by step, is on [[What They Can Actually Learn About You]]. T
 | Aug 18, 2026 | The National Park Service is using Flock at Yosemite and Golden Gate; a ranger: "I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate" | [404 Media](https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/) |
 | Jul 14, 2026 **NC** | Macon County commissioners voted 5 to 0 to end Flock; the sheriff: "I respect the decision" | [[WNC/Macon County/index\|Macon County]] |
 
-*Related: [[Flock Safety]] · [[Axon]] · [[The National Wave]] · [[What They Can Actually Learn About You]] · [[Who Gets Watched]] · [[Promise Tracker]]*
+*Related: [[Flock Safety]] · [[Axon]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[What They Can Actually Learn About You]] · [[Who Gets Watched]] · [[Promise Tracker]]*

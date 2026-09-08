@@ -33,7 +33,7 @@ Also worth knowing: APD's [ALPR policy (Policy 505)](https://public.powerdms.com
 
 ## Why promises fail: the pattern
 
-Every city in [[The National Wave]] heard versions of rows 1–8. The failures didn't come from officials lying on day one; they came from **turnover, pressure, and structure**: a new chief revises a policy; a federal agency asks a favor and an officer obliges; a vendor error shares data out of state; a dishonest reason field slips past a keyword filter. Asheville's promises are held by the same thread: personnel goodwill, no law.
+Every city in [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] heard versions of rows 1–8. The failures didn't come from officials lying on day one; they came from **turnover, pressure, and structure**: a new chief revises a policy; a federal agency asks a favor and an officer obliges; a vendor error shares data out of state; a dishonest reason field slips past a keyword filter. Asheville's promises are held by the same thread: personnel goodwill, no law.
 
 Two local stress tests are already visible. The RTIC will be running during the **2027 protest cycles and beyond**: the same APD that tear-gassed protesters and destroyed a medic station in 2020 will hold the live feeds. And the promises' authors may not be in the building: [[Jackie Stepp|Stepp]] is *interim* chief, and the mayor and three council seats are on the [[Election 2026|November ballot]].
 
