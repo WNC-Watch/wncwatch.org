@@ -8,15 +8,8 @@ Two companies, <a href="./Companies/Axon">Axon</a> and <a href="./Companies/Floc
 This site is kept by Asheville and WNC residents. We keep the records: meeting transcripts, the cities' own videos and documents, the sheriffs' policies, the contracts, the audit logs. Everything here is sourced. Quotes link to timestamps in the government's own videos; documents link to the originals; you can check any claim yourself. We're not neutral (our views are on the page), but the site is built to be useful whether you share them or not.
 
 <div class="avl-now">
-<p><strong>The September calendar.</strong> Two sessions held, one vote ahead, one region deciding:</p>
-<ul>
-<li><strong>Tue Sept 1</strong>: Brevard's ALPR information session, held. We have found no recording or published account of it; the draft policy and the Axon contract remain <a href="https://www.cityofbrevard.com/1546/ALPR-Program">posted to read</a>. <a href="./WNC/Transylvania-County/index">Transylvania County</a></li>
-<li><strong>Thu Sept 3</strong>: Hendersonville City Council heard its police chief on the city's 15 cameras. No vote was taken; the mayor said public input sessions will be advertised, with no date yet. <a href="./WNC/Hendersonville/index#what-the-chief-told-council-sept-3">What he said, timestamped</a></li>
-<li><strong>Tue Sept 8, 5:30 PM</strong>: Brevard City Council decides on the Axon cameras, 95 W Main St, public comment taken. The same evening Henderson County commissioners meet with no camera item on the agenda; informal public comment is the only slot. <a href="./WNC/Transylvania-County/index">Brevard</a> · <a href="./WNC/Henderson-County/index">Henderson</a></li>
-<li><strong>Thu Sept 24, 11 AM</strong>: Asheville's Public Safety Committee. The question that hasn't been answered: where are the plate reader audit reports state law already requires? <a href="./WNC/Asheville/Record/The-Committee">The Committee</a></li>
-<li><strong>Oct 1</strong>: the state deadline for the Highway Patrol, SBI, and prisons to enter ICE 287(g) agreements. <a href="./WNC/WNC-and-NC">WNC and NC</a></li>
-<li><strong>Oct 15 – Nov 3</strong>: early voting, then the election. <a href="./Act/Election-2026">Election 2026</a></li>
-</ul>
+<p><strong>The calendar.</strong> Each body's next meeting, from its own posted schedule, and the election dates. Every county page carries the meeting after that.</p>
+<div data-cal-list="upcoming"></div>
 </div>
 
 ## Where to start
