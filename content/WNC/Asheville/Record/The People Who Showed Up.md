@@ -8,13 +8,13 @@ aliases:
 
 Between January 2025 and May 2026, across nine public meetings, 36 Asheville residents stood at the podium or called in to speak on the record about the city's surveillance buildout, and five more signed up just to cede their time so a neighbor could finish an argument. All but one spoke in opposition. On May 12, 2026, the night council voted on the [[What Is the RTIC|Real-Time Intelligence Center]], 23 residents spoke after waiting through a six-hour agenda; 22 of them said no. Council passed both items 6–1 anyway.
 
-The vote doesn't erase the record. The record shows lawyers, security engineers, ministers, veterans, moms, public-housing staff, and people attending their first-ever council meeting, speaking carefully, specifically, and repeatedly, most in opposition, many with the documents in hand. Read closely, the strongest arguments were rarely about cameras at all: they were about the network the data joins once it leaves town, the contract terms nobody had read, and the oversight that existed on paper only. Three months later, several of those arguments moved the council that had voted yes. This page collects them so future speakers can build on them, and so everyone who spoke knows: it was heard, it was preserved, and you are not alone.
+Speakers included lawyers, security engineers, ministers, veterans, parents, public-housing staff, and first-time attendees. Most addressed the network the data joins, the contract terms, and oversight rather than the cameras themselves.
 
 Every quote below is transcribed from the city's meeting videos and linked to its timestamp. Speakers are identified by role or as residents rather than by name; the timestamps lead to the full public record for anyone who needs it. Auto-caption punctuation has been added and obvious caption misspellings of product names (e.g., "Fusus") normalized; wording is otherwise verbatim.
 
-## "If you pass this, ICE will come"
+## Federal access to local data
 
-The earliest and most persistent argument: surveillance infrastructure built for one purpose will be used against Asheville's most vulnerable neighbors, and no local policy can stop it once the data leaves town.
+The earliest and most frequent subject: whether data leaving the city's network can be kept from federal immigration enforcement.
 
 > "I am the son of two Mexican-American immigrants. I am a veteran, and frankly, I am terrified. … I came here to ask a very scary question: what are you going to do? … I said then that the same people who put cameras on the wall in Gaza put cameras on the walls in the southern border. … What are you going to do?"
 > — a resident, January 14, 2025 ([3:13:08](https://www.youtube.com/watch?v=rW6a8D3jXKU&t=11588s))
@@ -28,9 +28,9 @@ The earliest and most persistent argument: surveillance infrastructure built for
 > "APD has said they don't share data with ICE. But APD Flock data is shared with more than 1,400 outside agencies, including Florida's Fish and Wildlife. And recent 404 Media reporting shows Florida Fish and Wildlife shares that data directly with ICE. The 'we don't share with ICE' promise is meaningless the moment the data leaves our network."
 > — Patrick Conant, April 14, 2026 ([2:29:04](https://www.youtube.com/watch?v=QHT2NetBNmI&t=8944s))
 
-## "A significant threat to our constitutional and civil rights"
+## Constitutional limits
 
-Residents didn't just invoke the Constitution: they explained, precisely, why it won't protect anyone here.
+Residents on what the Fourth Amendment does and does not reach:
 
 > "The item before you has an enormous number of constitutional challenges … it's the Fourth Amendment and the Fourteenth Amendment, and it talks about unreasonable searches and seizures. … I want this council to be a little brave."
 > — a resident, March 25, 2025 ([20:26](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1226s))
@@ -46,9 +46,9 @@ Residents didn't just invoke the Constitution: they explained, precisely, why it
 
 That was said in March 2025, more than a year before the RTIC vote, and months before most of the city had heard the words "real-time intelligence center." [[Who Gets Watched]] documents what has happened since.
 
-## "We, the people of Asheville, were the product"
+## The business model
 
-Technologists and researchers came with the receipts: the business model, the metadata, the price escalators, and what the vendors' own documents say.
+Technologists and researchers on the business model, the metadata, the price escalators, and the vendors' documents:
 
 > "The business model for Flock, Fusus, Axon, and the rest of these vendors is not public safety, it's data. The city lets them install cameras and license plate readers on our streets, and in exchange, all those vendors get a 24/7 data set of resident behavior that they license, analyze, and use to train AI models. That's the trade. We, the people of Asheville, were the product here."
 > — Patrick Conant, April 14, 2026 ([2:28:28](https://www.youtube.com/watch?v=QHT2NetBNmI&t=8908s))
@@ -62,9 +62,9 @@ Technologists and researchers came with the receipts: the business model, the me
 > "This is not just license plate readers. This is an advanced network of AI-powered facial and object recognition cameras in public spaces, businesses, daycare centers, pools, gyms. … Flock even quietly changed their terms of service, removing a line assuring customers that the company does not own and will not sell customer data."
 > — a resident, April 14, 2026 ([2:22:48](https://www.youtube.com/watch?v=QHT2NetBNmI&t=8568s))
 
-## "You can't negotiate against Skynet"
+## The contract terms
 
-Council voted to authorize a seven-and-a-half-year vendor commitment [[2026-05-07 Agenda Briefing|before any contract existed in reviewable form]]. The people who negotiate contracts for a living explained what that means.
+Council voted to authorize a seven-and-a-half-year vendor commitment [[2026-05-07 Agenda Briefing|before any contract existed in reviewable form]]. Two speakers who negotiate contracts professionally:
 
 > "You have 30 to 60 days to negotiate a master services agreement. They're not going to let you negotiate the master services agreement. That's not how it works. You might get a few things like venue or choice of law. You might get North Carolina law. Congratulations. You're not going to be able to promise that the federal agencies are not going to have access to this."
 > — a resident, contract attorney, May 12, 2026 ([6:02:17](https://www.youtube.com/watch?v=AfdrH-a92As&t=21737s))
@@ -72,7 +72,7 @@ Council voted to authorize a seven-and-a-half-year vendor commitment [[2026-05-0
 > "[Reading the Flock contract, section 5.3:] 'Flock may disclose the footage to law enforcement authorities, government officials, and/or third parties … if Flock has a good faith belief that disclosure is reasonably necessary to detect, prevent, or otherwise address security, privacy, fraud, technical issues, emergency situations' — you can drive a truck through this."
 > — a resident, May 12, 2026 ([6:04:46](https://www.youtube.com/watch?v=AfdrH-a92As&t=21886s))
 
-She also offered the record's most counterintuitive insight, that inefficiency is a civil-liberties feature: "There is a reason that IRS didn't talk to housing … That's so inefficient on purpose. Law enforcement doesn't need to run at the speed of light. That's how mistakes are made." ([6:10:11](https://www.youtube.com/watch?v=AfdrH-a92As&t=22211s))
+She added: "There is a reason that IRS didn't talk to housing … That's so inefficient on purpose. Law enforcement doesn't need to run at the speed of light. That's how mistakes are made." ([6:10:11](https://www.youtube.com/watch?v=AfdrH-a92As&t=22211s))
 
 > "I am upset that there is no contract with Axon at this moment, and I think that the city council should not be voting on this item if there is not a contract present. … I know your names. I vote in every election."
 > — a resident, May 12, 2026 ([5:38:14](https://www.youtube.com/watch?v=AfdrH-a92As&t=20294s))
@@ -80,11 +80,11 @@ She also offered the record's most counterintuitive insight, that inefficiency i
 > "In the abortion access space, we are used to thinking of the government as a threat actor that could harm people with the data we collect. Council should also be thinking of the federal government as a threat actor. … Policy alone is not a sufficient safeguard to ensure that local surveillance data does not fall into malicious hands. The enforcement mechanism must have teeth and must be made transparent."
 > — a resident, technologist, May 12, 2026 ([5:55:21](https://www.youtube.com/watch?v=AfdrH-a92As&t=21321s))
 
-Lopez, who spoke at four meetings across two years, had already told council on April 14 that "the City of Asheville has refused to release a network audit of our Flock camera fleet that could have proven whether our network has been searched by unintended actors like rogue prosecutors tracking abortion clients." ([2:48:34](https://www.youtube.com/watch?v=QHT2NetBNmI&t=10114s))
+The same speaker, who addressed council at four meetings across two years, had already told council on April 14 that "the City of Asheville has refused to release a network audit of our Flock camera fleet that could have proven whether our network has been searched by unintended actors like rogue prosecutors tracking abortion clients." ([2:48:34](https://www.youtube.com/watch?v=QHT2NetBNmI&t=10114s))
 
-## "It doesn't make me feel safe. It makes me scared."
+## Living under the cameras
 
-Some of the strongest testimony wasn't technical at all. It was people describing what it is like to live under the cameras that already exist.
+Residents on the cameras that already exist:
 
 > "I can't leave my neighborhood without being surveilled. 'Cause I live near Pisgah View. Because Pisgah View is a minority community, and so we surveil it. It doesn't make me feel safe to be tracked all the time. It makes me scared. I implore you, please vote no on this."
 > — a resident, May 12, 2026 ([5:57:20](https://www.youtube.com/watch?v=AfdrH-a92As&t=21440s))
@@ -98,11 +98,11 @@ Some of the strongest testimony wasn't technical at all. It was people describin
 > "This is my first ever city council meeting. … I haven't seen anything that can guarantee that my data will not be used against me and the people that I love and care about in this community. That deeply, deeply scares me."
 > — a resident, May 12, 2026 ([6:19:41](https://www.youtube.com/watch?v=AfdrH-a92As&t=22781s))
 
-What the cameras over Pisgah View actually mean, nationally and here: [[Cameras in Public Housing|Cameras in Public Housing]].
+The housing cameras, nationally and here: [[Cameras in Public Housing|Cameras in Public Housing]].
 
-## "What do they teach our children?"
+## What the cameras teach
 
-Ministers and neighbors asked the question underneath the procurement question: what kind of city does constant watching make?
+Ministers and neighbors:
 
 > "I have a 4-year-old. I also have an 8-year-old and a 10-year-old. And I wonder, what do we want to teach our children? What will all these cameras — what do they teach our children? What do they teach us? If we see them every day, what do we start believing about ourselves? Do we think that we're trustworthy people? No, we think that we're to be feared. And then over time, we start acting out on that belief."
 > — a resident, mom and minister, May 12, 2026 ([5:54:05](https://www.youtube.com/watch?v=AfdrH-a92As&t=21245s))
@@ -110,9 +110,9 @@ Ministers and neighbors asked the question underneath the procurement question: 
 > "When you stand in this room and you vote on rules, you choose to sharpen the teeth of authority or to dull them."
 > — a resident, April 14, 2026 ([2:11:40](https://www.youtube.com/watch?v=QHT2NetBNmI&t=7900s))
 
-## What actually keeps us safe
+## Alternatives to surveillance spending
 
-Speaker after speaker made the same affirmative case: everyone in the room wants their neighbors safe, and these speakers argued the money buys more safety elsewhere. Their evidence is quoted so you can weigh it.
+Speakers on where safety spending goes:
 
 > "I don't believe that surveillance cuts down on crime. I don't believe it necessarily solves crime. I think the things that prevent crime are social programming, making sure people have affordable food, affordable health care, and affordable places to live."
 > — a resident, March 25, 2025 ([24:39](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1479s))
@@ -126,9 +126,9 @@ Speaker after speaker made the same affirmative case: everyone in the room wants
 > "In Chicago, major studies found that CVI [community violence intervention] programs reduce violent crime arrests by nearly 50% while also increasing high school graduation rates. In Richmond, California, which is a city very similar in size to ours, a CVI-based strategy contributed to an 85% reduction in homicides over several years. Meanwhile, research on expanding surveillance and police staffing shows mixed or inconsistent results. … If we discovered a cheaper and more effective source of clean energy, why would we double down on fossil fuels?"
 > — a resident, May 26, 2026 ([53:00](https://www.youtube.com/watch?v=Ve1dEYMm6o0&t=3180s))
 
-## "Who are you listening to?"
+## The process
 
-The process itself became evidence. A $1.1 million surveillance expansion first appeared on a consent agenda. On decision night, the public got one hour, two minutes each, after a six-hour wait, while the interim chief and two vendor representatives flown in for the occasion got the afternoon. One resident put the obvious question on the record: "Since there is no deadline to accept this grant … I ask you, what is the urgency here?" ([5:43:38](https://www.youtube.com/watch?v=AfdrH-a92As&t=20618s))
+On the process. A $1.1 million surveillance expansion first appeared on a consent agenda. On decision night, the public got one hour, two minutes each, after a six-hour wait, while the interim chief and two vendor representatives got the afternoon. One resident put the obvious question on the record: "Since there is no deadline to accept this grant … I ask you, what is the urgency here?" ([5:43:38](https://www.youtube.com/watch?v=AfdrH-a92As&t=20618s))
 
 > "It seems like y'all buried this $1.1 million expansion of police surveillance in jargon, calling it a real-time intelligence center. But let's call it what it actually is. … Burying this in the consent agenda was a deliberate choice."
 > — a resident, April 14, 2026 ([2:25:52](https://www.youtube.com/watch?v=QHT2NetBNmI&t=8752s))
@@ -144,20 +144,18 @@ The process itself became evidence. A $1.1 million surveillance expansion first 
 
 Two weeks after the vote, one of the May 12 speakers came back to ask council to open its private briefings to the public, because "sometimes angels dwell among the minutia," and a citizen might spot what council misses. ([May 26, 2026, 2:15:43](https://www.youtube.com/watch?v=Ve1dEYMm6o0&t=8143s))
 
-## Coda
+## The last speaker, May 12
 
 One resident attended the afternoon committee meeting on April 28, then came to the evening session to report what he'd heard: "45 minutes of interim police chief and two paid representatives for private surveillance companies flown out here does not seem like a really balanced way to gauge the facts." ([1:49:06](https://www.youtube.com/watch?v=BtV1NRZCV0k&t=6546s)) On May 12, he kept his final turn at the podium to thirty seconds:
 
 > "Have you all seen Star Wars? Don't take federal grant money for the Death Star, please. … As brevity is the soul of wit, I will summarize the best single thing that was said there [by the interim police chief, in her own presentation that night]: **public safety cannot come at the expense of community values.**"
 > — a resident, May 12, 2026 ([6:18:50](https://www.youtube.com/watch?v=AfdrH-a92As&t=22730s))
 
-He was quoting Chief [[Jackie Stepp]] back to the council: her exact words at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s) that same night were "public safety **should** not come at the expense of community values"; the speaker's rendering sharpened *should* to *cannot*. Either way: hold the city to it.
+He was quoting Chief [[Jackie Stepp]] back to the council: her exact words at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s) that same night were "public safety **should** not come at the expense of community values"; the speaker's rendering sharpened *should* to *cannot*.
 
-## Add your voice
+## Since then
 
-The vote on May 12 was not the end. Contracts get renewed, budgets get amended, and every argument on this page is still on the record, available to build on. The people above showed that two minutes at a podium becomes a permanent public record, one that other cities' residents, journalists, and future councils can build on; on August 25, a council that heard these arguments voted to end the Flock contract.
-
-You can be next: [[Speak at Council]].
+On Aug 25, 2026 council voted 5 to 2 to end the Flock contract ([[2026-08-25 City Council|the record]]). Public comment procedure is on [[Speak at Council]].
 
 ## The meetings
 
@@ -173,6 +171,6 @@ You can be next: [[Speak at Council]].
 | May 12, 2026 | Regular City Council: [[2026-05-12 City Council|**the RTIC vote**]] (both items passed 6–1) | [youtube.com/watch?v=AfdrH-a92As](https://www.youtube.com/watch?v=AfdrH-a92As) |
 | May 26, 2026 | Regular City Council / budget hearing | [youtube.com/watch?v=Ve1dEYMm6o0](https://www.youtube.com/watch?v=Ve1dEYMm6o0) |
 
-*Spot an error in a name or quote? Every entry links to the video; tell us and it will be fixed. That's the standard this page holds council to, so it's the standard we hold ourselves to.*
+*Spot an error in a name or quote? Every entry links to the video; tell us and it will be fixed.*
 
 *Related: [[Speak at Council]] · [[2026-05-12 City Council]] · [[Who Gets Watched]] · [[Get Involved]]*
