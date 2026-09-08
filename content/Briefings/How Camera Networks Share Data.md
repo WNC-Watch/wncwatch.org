@@ -14,7 +14,7 @@ Everyone in these meeting rooms wants their neighbors safe, and the tools have r
 
 ## Two products, in the department's own words
 
-The clearest description of the two decisions came from the police department itself, eighteen months before the argument reached a vote. In March 2025, briefing council on camera registration, APD technology specialist [[Jimmy Wingo]] described the options for a private camera owner ([[2025-03-25 City Council|March 25, 2025, at 42:09]]):
+The clearest description of the two decisions came from the police department itself, eighteen months before the argument reached a vote. In March 2025, briefing council on camera registration, APD technology specialist James Wingo described the options for a private camera owner ([[2025-03-25 City Council|March 25, 2025, at 42:09]]):
 
 > "whether it's businesses or the Ring camera at your home, it can be optioned to feed into the public's real-time intelligence center data... There's a registry, just so we know where a camera is in a city — and then there's also one where you could provide us full viewing capability."
 

@@ -80,7 +80,7 @@ Every pattern below is documented in Asheville's own record. None of them requir
 For quoting back at the podium; each of these is on the record:
 
 - Deputy Chief Sean Aardema, to WLOS at the RTIC's approval (May 2026): "We control Axon Fusus and we will not be sharing information with federal immigration."
-- APD Tech Manager [[Jimmy Wingo|James Wingo]], July 8: blocks cover "anything to do with immigration, anything to do with reproductive issues." ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations))
+- APD Tech Manager James Wingo, July 8: blocks cover "anything to do with immigration, anything to do with reproductive issues." ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations))
 - [[Jackie Stepp|Interim Chief Jackie Stepp]]: "There's a really robust audit trail built into all of this." ([Annie Dance](https://anniedance.substack.com/p/asheville-expands-regional-surveillance))
 - Capt. Brandon Moore, on why speed mattered more than deliberation: "The longer it takes for us to get some of this, the less access to information we have." ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations))
 

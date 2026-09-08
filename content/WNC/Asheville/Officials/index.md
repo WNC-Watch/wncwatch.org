@@ -3,6 +3,10 @@ title: Officials
 description: "The mayor, council members, candidates, city staff, police command, housing authority, and downtown institutions with a recorded role on the city's cameras, ordered by the next date voters decide."
 aliases:
   - "People/Asheville/index"
+  - "Jimmy Wingo"
+  - "People/Jimmy Wingo"
+  - "People/Asheville/Jimmy Wingo"
+  - "WNC/Asheville/Officials/Jimmy Wingo"
 ---
 
 The city is where the RTIC was approved and where the Flock contract was ended on Aug 25, 2026. Each person here voted on it, administers it, or asked others to join it. Elected officials first, by the date voters next see them; then the staff who run it without a ballot.
@@ -42,7 +46,7 @@ The city is where the RTIC was approved and where the Flock contract was ended o
 | [[Jackie Stepp]] | Interim police chief | Presented the RTIC at five meetings; the Aug 14 memo: "not pursuing a full transition away from Flock" |
 | [[Sean Aardema]] | Deputy chief, operations | The "will not be sharing with federal immigration" promise; also a Housing Authority commissioner |
 | [[Brandon Moore]] | Captain, special services | "Short of a court order"; the workgroup's operational voice |
-| [[Jimmy Wingo]] | Technology manager | Approves outside-agency data requests; "100% of the time, we have reasons" |
+| James Wingo | Technology manager | Approves outside-agency data requests; "100% of the time, we have reasons" |
 | [[Brad Branham]] | City attorney | The legal opinion promised April 28, 2026, not yet public; signs the Aug 25 resolution |
 
 ## Housing and downtown

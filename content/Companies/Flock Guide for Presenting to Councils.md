@@ -33,7 +33,7 @@ Read it next to Asheville's record. This page does exactly that, and one thing s
 ## The marketing phrases, traced to source
 
 - **"One pane of glass"**: Axon/Fusus's core product tagline ([their marketing](https://www.axon.com/products/axon-fusus)), used verbatim by APD's technology manager on camera ([[2026-04-28 Work Session]]).
-- **"Force multiplier"**: standard vendor framing; APD's local variant: "We don't have officers that can stand on every corner" ([[Jimmy Wingo|Wingo]]). The [[WNC/Jackson County/index|Jackson County]] sheriff used "force multiplier" itself, one county west.
+- **"Force multiplier"**: standard vendor framing; APD's local variant: "We don't have officers that can stand on every corner" (Wingo). The [[WNC/Jackson County/index|Jackson County]] sheriff used "force multiplier" itself, one county west.
 - **"Reactive, not predictive" / "no facial recognition" / "we track cars, not people"**: Flock and Axon's standard national rebuttal set, delivered by APD in nearly every appearance.
 
 As said at the top: this doesn't prove any official was insincere. It proves **the arguments Asheville heard were not Asheville's**. When you hear these phrases at the podium or in the next campaign, you now know their provenance, and so does everyone you show this page to.
