@@ -101,7 +101,9 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Hendersonville/Officials/index|Officials]]
 
+- **[[Barbara Volk]]**: Mayor of Hendersonville. Presided over the Sept 3, 2026 presentation on the city's plate readers, which ended with no vote, and said public input sessions would be advertised; no date has been set. Not on the November ballot.
 - **[[Blair Myhand]]**: Hendersonville Police Chief. Presented the city's 15 plate readers to council on Sept 3, 2026: seven-day retention, monthly audits, sharing with every NC agency and a 100-mile ring, and a seat on the IACP board that is writing the national model policy.
+- **[[Jennifer Hensley]]**: Hendersonville Mayor Pro Tem, on council since 2019 and a candidate for mayor on November 3, 2026. Asked council's questions on the city's plate readers on Sept 3: documented misuse, how other agencies get access, phone tracing, and an unanswered records request.
 
 ### [[WNC/Jackson County/index|Jackson County]]
 

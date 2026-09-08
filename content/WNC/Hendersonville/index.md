@@ -69,6 +69,6 @@ Questions a resident can ask in two minutes, each answerable from documents the 
 
 ## Who decides here
 
-Mayor Barbara Volk; Mayor Pro Tem Jennifer Hensley, a candidate for mayor in November; City Manager John Connet; Police Chief [[Blair Myhand]]. No public input session on the cameras has a date; the mayor said sessions would be advertised ([1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s)).
+Mayor [[Barbara Volk]], whose seat is on the November ballot; Mayor Pro Tem [[Jennifer Hensley]], a candidate for mayor in November; Council Members Gina Baxter and Melinda Lowrance, both on the November ballot, and Lyndsey Simpson ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members) · [the candidate list](https://www.hendersonvillelightning.com/four-seasons-politics/15729-elx-4.html)); City Manager John Connet; Police Chief [[Blair Myhand]]. No public input session on the cameras has a date; the mayor said sessions would be advertised ([1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s)).
 
 *Related: [[WNC/Henderson County/index|Henderson County]] · [[Blair Myhand]] · [[How Camera Systems Get Sold to Towns]] · [[What the Law Lets the County Do]]*
