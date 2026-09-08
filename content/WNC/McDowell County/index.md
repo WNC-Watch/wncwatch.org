@@ -7,6 +7,7 @@ standing: "no public review found"
 standing_kind: expand
 systems:
   - vendor: "Flock Safety"
+    kind: expand
     detail: "12 or more cameras per EFF's Atlas of Surveillance, 8 of them the sheriff's office's and the rest Marion PD's; no vote found and no published paperwork."
     links:
       - "Companies/Flock Safety"

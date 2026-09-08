@@ -7,6 +7,7 @@ standing: "no county process on the record"
 standing_kind: expand
 systems:
   - vendor: "Flock Safety"
+    kind: expand
     detail: "County count unresolved; the sheriff pitched an 8-camera network in February 2025. Forest City's cameras include audio detection."
     links:
       - "Companies/Flock Safety"

@@ -7,6 +7,7 @@ standing: "contested; organizing active, records requests refused"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
+    kind: future
     detail: "15 cameras countywide by March 2026, deployed by the sheriff's office with no commission vote or public discussion; records requests refused."
     links:
       - "Companies/Flock Safety"

@@ -7,6 +7,7 @@ standing: "removed; network membership still listed"
 standing_kind: resist
 systems:
   - vendor: "Flock Safety"
+    kind: resist
     detail: "12 county cameras removed after the commissioners' July 14, 2026 vote, 5 to 0; the sheriff's office lost access to all 16 on the account; four school cameras unresolved; the county still appears on network membership lists."
     links:
       - "Companies/Flock Safety"

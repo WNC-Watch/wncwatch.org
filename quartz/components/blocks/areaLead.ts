@@ -8,14 +8,15 @@ import { AGENDA_LABEL, CalendarItem, formatDate, loadCalendar, todayISO } from "
 // drawn from data: where the community stands (frontmatter `standing`, with
 // `standing_kind` expand | resist | future for the colour the timelines use);
 // the systems in place, one line per vendor (frontmatter `systems`, a list of
-// {vendor, detail, links}, links being content paths whose titles render as
-// the line's links; a plain `system` string is the fallback); and the area's
+// {vendor, detail, links, kind}, links being content paths whose titles render
+// as the line's links and kind the colour of that vendor's own status dot,
+// expand | resist | future; a plain `system` string is the fallback); and the area's
 // next dates from calendar.yml (items whose `page` is this page, today or
 // later, up to three). A missing field renders no row; a page with none of
 // the three renders nothing.
 
 const LABELS = { standing: "Where it stands", system: "The systems", next: "Next" }
-type SystemEntry = { vendor?: string; detail?: string; links?: string[] }
+type SystemEntry = { vendor?: string; detail?: string; links?: string[]; kind?: string }
 const KINDS = new Set(["expand", "resist", "future"])
 const MAX_NEXT = 3
 
@@ -65,6 +66,7 @@ export const AreaLead: BodyBlock = {
       for (const raw of fm.systems as SystemEntry[]) {
         if (!raw || typeof raw !== "object") continue
         const children: ElementContent[] = []
+        if (raw.kind && KINDS.has(raw.kind)) children.push(el("span", { className: ["bd-dot", `bd-${raw.kind}`] }, []))
         if (raw.vendor) children.push(el("strong", {}, [text(`${raw.vendor.trim()}.`)]), text(" "))
         if (raw.detail) children.push(text(raw.detail.trim()))
         const links: ElementContent[] = []

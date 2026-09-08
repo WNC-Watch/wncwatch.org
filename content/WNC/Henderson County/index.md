@@ -7,6 +7,7 @@ standing: "removal ask; no camera item on the Sept 8 agenda"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
+    kind: future
     detail: "The sheriff's office: 13 cameras bought in 2025 for $44,150 inside the approved budget, no commission vote. Portal read Aug 22, 2026: 465,415 vehicles in 30 days, 310 searches; 2,048 agencies granted access, the FBI among them. Fletcher PD (since fall 2025) and Laurel Park PD (4 cameras, early 2026) run their own; counts and contracts largely unpublished."
     links:
       - "WNC/Henderson County/Officials/Lowell Griffin"

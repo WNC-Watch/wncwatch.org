@@ -7,6 +7,7 @@ standing: "commissioners voted to keep them"
 standing_kind: expand
 systems:
   - vendor: "Flock Safety"
+    kind: expand
     detail: "About 8 cameras since 2024. Commissioners decided in July 2026 to keep them; no formal vote on the original deployment is on the record."
     links:
       - "Companies/Flock Safety"
