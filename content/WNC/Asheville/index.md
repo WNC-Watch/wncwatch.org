@@ -3,9 +3,25 @@ title: Asheville
 description: The city's surveillance implementation timeline in the regional format, every step dated, sourced, and linked to the full record of how it happened.
 aliases:
   - "WNC/Asheville"
-system: "Flock contract ended Aug 25; Axon contract to 2033, RTIC toward 2027"
-standing: "ended one vendor; the other's contract stands"
+standing: "Flock contract terminated Aug 25, 2026; the Axon contract and the RTIC stand. Pending: the 11 cameras down and APD's Flock accounts closed, the data-deletion notice to council, the executed Axon contract released, the audit reports at the Sept 24 committee."
 standing_kind: resist
+systems:
+  - vendor: "Flock Safety"
+    detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2, and asked Flock to remove the cameras; account termination and the deletion notice are pending."
+    links:
+      - "The Record/Meetings/Asheville/2026-08-25 City Council"
+      - "Act/Getting Flock Out"
+      - "Companies/Flock Safety"
+  - vendor: "Axon"
+    detail: "Real-Time Intelligence Center contract authorized May 12, 2026, sent for signature July 16, running to 2033; the RTIC is projected operational in 2027. Fixed plate readers are pre-authorized under the contract, and a second contract for 20 in-car plate readers was in signature in July 2026. The executed contract has not been released."
+    links:
+      - "Companies/What Axon Contracts Do"
+      - "WNC/Asheville/Record/The RTIC Policy"
+      - "WNC/Asheville/Record/Promise Tracker"
+  - vendor: "Fusus (Axon)"
+    detail: "APD access to the county sheriff's Fusus camera network under a December 2022 MOU and a January 2023 interlocal agreement; about 1,800 cameras at the 2023 vote, about 2,000 today."
+    links:
+      - "WNC/Buncombe County/index"
 ---
 
 Asheville is this collection's home case, documented across forty-plus pages. This page is the regional view: the same timeline-first format as its [[WNC and NC|WNC neighbors]], so you can lay the city's buildout beside Hendersonville's, [[WNC/Macon County/index|Macon]]'s, or Woodfin's and read the city's sequence beside its neighbors'. Each entry links to the page that documents it in full.

@@ -3,9 +3,17 @@ title: Transylvania County
 description: "Brevard posted the draft policy and the Axon contract before deciding, and we read both: the 30-day purge and real audit requirements, the one-signature problem, the renewal terms, and the questions still open before the Sept 8 vote. The county sheriff's cameras have been up since 2024; the county board first took them up on Aug 24."
 aliases:
   - "WNC/Transylvania County"
-system: "Axon: 3 fixed plate readers offered \"at no charge\" in a ~$80K five-year package"
 standing: "deciding; documents posted, question session held Sept 1"
 standing_kind: future
+systems:
+  - vendor: "Flock Safety"
+    detail: "The sheriff's office began installing 8 cameras in August 2024 with no commission vote found; DeFlock maps about 13 countywide and a commissioner put the number at about 14 on Aug 24, 2026. No transparency portal or published policy."
+    links:
+      - "WNC/Transylvania County/Officials/Chuck Owenby"
+  - vendor: "Axon"
+    detail: "Offered to Brevard: 3 fixed plate readers at no charge inside a five-year, ~$80,000 package of tasers and body cameras, plus monthly data-storage fees. The draft policy and contract are posted; council votes Sept 8, 2026."
+    links:
+      - "Companies/What Axon Contracts Do"
 ---
 
 Brevard is the one community in WNC deciding before signing: the draft policy and the [[What Axon Contracts Do|Axon contract]] were posted, the city's question session was held Sept 1, and the vote comes Sept 8. The county sheriff's cameras have been up since 2024 with no commission vote found, and the county board first took the subject up on Aug 24, after residents raised it.

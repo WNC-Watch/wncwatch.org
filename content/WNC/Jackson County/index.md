@@ -3,9 +3,13 @@ title: Jackson County
 description: 1.19 million plate reads a month against 563 searches, and a university parking system holding plate data past the state retention limit.
 aliases:
   - "WNC/Jackson County"
-system: "Flock: 4 cameras; 280 in-state agencies shared with"
 standing: "under public review"
 standing_kind: future
+systems:
+  - vendor: "Flock Safety"
+    detail: "4 sheriff's cameras on a five-year, $55,000-plus contract from 2024: 1.19 million reads a month against 563 searches, shared with 280 in-state agencies."
+    links:
+      - "Companies/Flock Safety"
 ---
 
 Jackson County's four Flock cameras read 1.19 million plates a month to serve 563 searches, and for once, the local paper is doing the digging.
