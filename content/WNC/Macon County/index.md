@@ -3,6 +3,9 @@ title: Macon County
 description: The county that took its cameras down. The full story, and what's happened since.
 aliases:
   - "WNC/Macon County"
+system: "Flock: 12 cameras removed by 5 to 0 vote in July"
+standing: "removed; network membership still listed"
+standing_kind: resist
 ---
 
 Macon County is WNC's proof that removal is winnable.

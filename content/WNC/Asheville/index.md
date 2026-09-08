@@ -3,6 +3,9 @@ title: Asheville
 description: The city's surveillance implementation timeline in the regional format, every step dated, sourced, and linked to the full record of how it happened.
 aliases:
   - "WNC/Asheville"
+system: "Flock contract ended Aug 25; Axon contract to 2033, RTIC toward 2027"
+standing: "ended one vendor; the other's contract stands"
+standing_kind: resist
 ---
 
 Asheville is this collection's home case, documented across forty-plus pages. This page is the regional view: the same timeline-first format as its [[WNC and NC|WNC neighbors]], so you can lay the city's buildout beside Hendersonville's, [[WNC/Macon County/index|Macon]]'s, or Woodfin's and read the city's sequence beside its neighbors'. Each entry links to the page that documents it in full.

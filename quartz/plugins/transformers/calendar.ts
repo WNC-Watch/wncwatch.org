@@ -15,6 +15,10 @@ import { QuartzTransformerPlugin } from "../types"
 //     procedure when present. An unknown id leaves the span in place and
 //     prints a warning.
 //
+//   <div data-cal="ITEM-ID"></div>
+//     the card form of the same item: date, time, place, body and the comment
+//     procedure each on its own line, for a page section about one meeting.
+//
 //   <div data-cal-list="upcoming"></div>
 //     replaced with <ul class="cal-list"> holding every item dated today
 //     (America/New_York) or later, sorted by date, each <li> the same unit
@@ -63,7 +67,7 @@ function warn(msg: string) {
   console.warn(styleText("yellow", `Warning: Calendar: ${msg}`))
 }
 
-function loadCalendar(contentDir: string) {
+export function loadCalendar(contentDir: string) {
   if (cache) return cache
   const candidates = [
     path.resolve(contentDir, "..", "calendar.yml"),
@@ -105,7 +109,7 @@ function loadCalendar(contentDir: string) {
   return cache
 }
 
-function todayISO(): string {
+export function todayISO(): string {
   // The build may run in a UTC container; the calendar is on Eastern time.
   const parts = new Intl.DateTimeFormat("en-CA", {
     timeZone: "America/New_York",
@@ -117,7 +121,7 @@ function todayISO(): string {
   return `${get("year")}-${get("month")}-${get("day")}`
 }
 
-function formatDate(iso: string, withYear: boolean): string {
+export function formatDate(iso: string, withYear: boolean): string {
   const [y, m, d] = iso.split("-").map((n) => parseInt(n, 10))
   const dt = new Date(y, m - 1, d)
   const base = `${WEEKDAYS[dt.getDay()]}, ${MONTHS[m - 1]} ${d}`
@@ -134,7 +138,7 @@ function endsWithStop(s: string): boolean {
   return /[.!?]$/.test(s.trim())
 }
 
-function place(item: CalendarItem): string | undefined {
+export function place(item: CalendarItem): string | undefined {
   const venue = item.venue?.trim()
   const address = item.address?.trim()
   if (venue && address) {
@@ -175,7 +179,34 @@ function renderUnit(item: CalendarItem, today: string): Element {
   return el("span", { className: ["cal-unit"] }, children)
 }
 
-const AGENDA_LABEL: Record<string, string> = {
+// The card form: one line per fact, the comment procedure last.
+export function renderCard(item: CalendarItem, today: string): Element {
+  const withYear = item.date.slice(0, 4) !== today.slice(0, 4)
+  const dateText = formatDate(item.date, withYear)
+  const rows: [string, ElementContent[]][] = []
+  rows.push(["Date", [item.agenda_url ? el("a", { href: item.agenda_url }, [text(dateText)]) : text(dateText)]])
+  if (item.time) rows.push(["Time", [text(item.time)]])
+  if (item.body) rows.push(["Body", [text(item.body)]])
+  const where = place(item)
+  if (where) rows.push(["Place", [text(where)]])
+  if (item.status !== "held" && item.camera_item && AGENDA_LABEL[item.camera_item]) {
+    rows.push(["Agenda", [text(AGENDA_LABEL[item.camera_item])]])
+  }
+  if (item.comment) rows.push(["How to comment", [text(item.comment.trim())]])
+  if (item.status === "held") {
+    const held: ElementContent[] = [text("Held")]
+    if (item.account_url) held.push(text("; "), el("a", { href: item.account_url }, [text("the account")]))
+    held.push(text("."))
+    rows.push(["Status", held])
+  }
+  return el(
+    "dl",
+    { className: ["cal-card"] },
+    rows.map(([k, v]) => el("div", { className: ["cal-card-row"] }, [el("dt", {}, [text(k)]), el("dd", {}, v)])),
+  )
+}
+
+export const AGENDA_LABEL: Record<string, string> = {
   yes: "Plate readers are on the posted agenda.",
   no: "No camera item on the posted agenda.",
   unknown: "Agenda not yet posted.",
@@ -265,6 +296,16 @@ export const Calendar: QuartzTransformerPlugin = () => {
                 return
               }
               parent.children[index] = renderUnit(item, today)
+              return
+            }
+
+            if (node.tagName === "div" && typeof props.dataCal === "string") {
+              const item = byId.get(props.dataCal)
+              if (!item) {
+                warn(`${page}: unknown calendar id "${props.dataCal}" in <div data-cal>, left as is`)
+                return
+              }
+              parent.children[index] = renderCard(item, today)
               return
             }
 

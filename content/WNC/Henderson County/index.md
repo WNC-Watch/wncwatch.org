@@ -3,6 +3,9 @@ title: Henderson County
 description: 39+ cameras, no vote ever taken and the budget ordinance that explains why, the only 287(g) jail agreement in WNC, a sharing list of 2,048 agencies including the FBI, and what the Sept 8 county agenda does and does not contain.
 aliases:
   - "WNC/Henderson County"
+system: "Flock: sheriff's 13, sharing list in the thousands, federal agencies included"
+standing: "removal ask; no camera item on the Sept 8 agenda"
+standing_kind: future
 ---
 
 Henderson County's cameras were bought inside the sheriff's approved budget, so no commission vote has been taken, and none is scheduled. A resident petition to remove them passed 2,000 signatures on Aug 17, 2026. The city of Hendersonville's cameras have [[WNC/Hendersonville/index|their own page]].

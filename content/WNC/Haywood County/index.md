@@ -3,6 +3,9 @@ title: Haywood County
 description: The county that decided to keep its cameras, without ever formally voting on them in the first place.
 aliases:
   - "WNC/Haywood County"
+system: "Flock: ~8 cameras since 2024"
+standing: "commissioners voted to keep them"
+standing_kind: expand
 ---
 
 Haywood decided to keep its Flock cameras a week after [[WNC/Macon County/index|Macon County]] tore its system out, without ever having formally voted on them in the first place.
