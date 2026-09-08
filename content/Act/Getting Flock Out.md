@@ -2,6 +2,8 @@
 title: Getting Flock Out
 description: "The eight demands for a full exit from Flock, scored against council's Aug 25, 2026 resolution and the chief's Aug 14 memo, and what remains pending."
 aliases:
+  - "Tuesday August 25"
+  - "Act/Tuesday August 25"
   - "Getting Flock Out"
 ---
 
@@ -69,7 +71,6 @@ Assembled from the cities that exited for real (and the ones that thought they h
 
 ## The resolution, as posted: scored against the eight demands
 
-*For Tuesday itself, a guide to building your own comment from the record, the resolution section by section, where each member stands, and how to speak or write, with the amendments below as one worked example: [[Tuesday August 25|Tuesday, August 25: Make the Vote Count]].*
 
 The agenda posted Friday, August 21. The Flock item is **New Business VI.A**, not consent, so it gets its own discussion and public comment ([agenda](https://docs.google.com/document/d/1KQx06L9DUN1ReoOSCPcS_fwl8cJ1YlypJJjihwGwFWc/edit) · [resolution](https://docs.google.com/document/d/1uhGDUZtpecu4I31Y2ePjYNk1AcM4BPXVP7TbSrRbs40/edit) · [Chief Stepp's August 14 memo](https://docs.google.com/document/d/13kwmbwt6T9PiEjUgrFNb9ZHFGzaIsHi5cvsBHkpq-lY/edit)). Here is what the seven sections do, against the list above.
 

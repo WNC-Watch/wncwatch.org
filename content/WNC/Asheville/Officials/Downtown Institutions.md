@@ -6,7 +6,7 @@ aliases:
   - "People/Asheville/Downtown Institutions"
 ---
 
-The camera network was sold to commissioners as a business partnership ([[WNC/Buncombe County/index|Buncombe County]]) and to businesses as public safety ([[Follow the Money]] · [[Before You Plug In]]). These are the institutions in between.
+The camera network was sold to commissioners as a business partnership ([[WNC/Buncombe County/index|Buncombe County]]) and to businesses as public safety ([[Follow the Money]] · [[Before You Connect Your Cameras]]). These are the institutions in between.
 
 ## Kit Cramer, Asheville Area Chamber of Commerce
 

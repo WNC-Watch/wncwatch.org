@@ -2,6 +2,7 @@
 title: "Flock's guide for presenting to councils"
 description: "Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates."
 aliases:
+  - "Companies/The Flockbook"
   - "The Flockbook"
 ---
 
@@ -24,7 +25,7 @@ Read it next to Asheville's record. This page does exactly that, and one thing s
 → *Asheville:* "A real-time intelligence center is **not a technology project. It's a public safety function**" (Stepp), the same reframe the guide teaches.
 
 **The cost reframe:** steer away from camera cost toward "**the cost of unresolved crime**"; "a single recovered vehicle can often exceed the annual cost of a camera."
-→ *Asheville:* "This is not about software — **this is about victims**" (Stepp, May 12); the Foster-case anecdote as the recurring justification; [[Esther Manheimer|Manheimer]]'s savings framing ([[Their Claims vs The Record|Asheville's RTIC claims and the record]]).
+→ *Asheville:* "This is not about software — **this is about victims**" (Stepp, May 12); the Foster-case anecdote as the recurring justification; [[Esther Manheimer|Manheimer]]'s savings framing ([[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]).
 
 **Opposition as ignorance:** people object because they "**do not understand how it works or how it is governed.**"
 → *Asheville:* Stepp, to the Watchdog: "No matter how much factual, accurate information — even if I could get those people here to see and touch it and feel it — (some) are not going to believe it." And the [[What Is the RTIC|RTIC]] "education campaign" and public tours, engagement designed to *inform* the public, never to *ask* it.
@@ -45,4 +46,4 @@ As said at the top: this doesn't prove any official was insincere. It proves **t
 
 *The company behind the script: [[Flock Safety]]. What its products have done elsewhere, dated: [[Camera Network Misuse|Camera network misuse, documented cases]].*
 
-*Related: [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] · [[What Axon Contracts Do]]*
+*Related: [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] · [[What Axon Contracts Do]]*

@@ -16,7 +16,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[WNC/index|Western North Carolina]]
 
-- **[[WNC and NC|Western North Carolina and the state]]**: The regional overview: where each county's data goes, which sheriffs hold ICE agreements, and what each county has decided, with the state layer above them.
+- **[[Western North Carolina and the State|Western North Carolina and the state]]**: The regional overview: where each county's data goes, which sheriffs hold ICE agreements, and what each county has decided, with the state layer above them.
 
 ### [[WNC/Asheville/index|Asheville]]
 
@@ -46,10 +46,10 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Asheville/Record/index|Record]]
 
-- **[[Their Claims vs The Record|Asheville's RTIC claims and the record]]**: Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it.
-- **[[Watching the Poor|Cameras in Public Housing]]**: Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published.
+- **[[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]**: Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it.
+- **[[Cameras in Public Housing]]**: Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published.
 - **[[Follow the Money]]**: The Business Improvement District, the Tourism Development Authority, and the surveillance buildout: the three funding streams, the organizations behind each, and the council votes, with what is documented and what is not.
-- **[[Oversight Theater|Police oversight in Asheville, 1991 to 2026]]**: Requests by Asheville residents for police oversight over thirty-five years, and what each produced, with the enforcement mechanism noted where one exists.
+- **[[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]]**: Requests by Asheville residents for police oversight over thirty-five years, and what each produced, with the enforcement mechanism noted where one exists.
 - **[[Promise Tracker]]**: The commitments APD and the city made as the RTIC was approved, each dated and tracked to 2033.
 - **[[The Constitutionality Memo|The city attorney's constitutionality memo]]**: The city attorney's memo circulated the night before the Aug 25, 2026 Flock vote: what it says, and the two cases it does not mention, the Norfolk appeal in the Fourth Circuit and the Supreme Court's June 2026 location-data ruling.
 - **[[The People Who Showed Up]]**: Residents who spoke at council against the RTIC, quoted from the public record with dates and timestamps.
@@ -174,7 +174,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[Briefings/index|Briefings]]
 
-- **[[Before You Plug In|Before You Connect Your Cameras]]**: For Asheville business owners asked to register cameras with the police network: what the registration agreement says, what liability it carries, and the questions to ask in writing first.
+- **[[Before You Connect Your Cameras]]**: For Asheville business owners asked to register cameras with the police network: what the registration agreement says, what liability it carries, and the questions to ask in writing first.
 - **[[How Camera Networks Share Data]]**: What a camera records and what a network reaches are two different questions, answered from the region's own meeting videos, the county's released access log, and a signed contract. Written to be useful in any town before its decision.
 - **[[How Camera Systems Get Sold to Towns]]**: The channel that carries the same camera proposal into town after town, documented link by link from public records: the vendor's script, the outside money, the cooperative purchasing contract, the briefing venue, and the vote before the contract exists.
 - **[[The Camera Companies Safety Record|The Camera Companies' Safety Record]]**: What a safety culture is, a four-question test any reader can apply, and the dated record of the companies selling camera systems to WNC towns, with the local record run through the same test.
@@ -190,7 +190,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Camera Network Misuse|Camera network misuse, documented cases]]**: A dated, sourced ledger of what plate-reader and camera networks have done elsewhere and in North Carolina, organized by the kind of harm: federal and immigration reach, reproductive care and protest, officers using it on people they know, wrong-person stops, tracking people, concealment, leaks, and the companies' conduct when a town says no. Each entry links reporting or a primary document.
 - **[[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]**: A dated table of the cities, counties and agencies that ended, rejected or limited plate-reader and camera-network contracts, what each body did and by what tally, with the source; then the state actions of late August 2026, the court cases that bind North Carolina, and the vendors' responses when a town said no.
 - **[[Flock Safety]]**: The Atlanta company whose eleven Asheville cameras council voted to remove on Aug 25, 2026, whose network the county sheriff's office still searches, and whose documents, leaks, and audit logs make up much of the public record.
-- **[[The Flockbook|Flock's guide for presenting to councils]]**: Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates.
+- **[[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]]**: Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates.
 - **[[What Axon Contracts Do]]**: Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's executed contract has not been released.
 
 ### [[Companies/People/index|Company executives]]
@@ -206,7 +206,6 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Getting Flock Out]]**: The eight demands for a full exit from Flock, scored against council's Aug 25, 2026 resolution and the chief's Aug 14 memo, and what remains pending.
 - **[[Records Center]]**: The public-records requests that would answer this site's open questions, pre-written and addressed to the custodian, with each request's status.
 - **[[Speak at Council]]**: How public comment works at each body: sign-up, time limits, what has been said, and what remains unanswered.
-- **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]**: Council votes on ending the Flock contract. A guide to building your own three minutes or email from what's on this site: what is actually being decided, the angle that matters to you, the ask that fits it, and where to send it. One worked example at the end, not a script.
 
 ## [[The Record/index|The Record]]
 

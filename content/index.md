@@ -17,9 +17,9 @@ This site is kept by Asheville and WNC residents. We keep the records: meeting t
 More than a hundred pages. Start with what you need:
 
 <div class="avl-doors">
-<div class="door"><span class="door-k">My town is deciding</span><p class="door-t">Understand it before the vote</p><ol>
+<div class="door"><span class="door-k">My town is deciding</span><p class="door-t">Before your town's vote</p><ol>
 <li><a href="./Briefings/">The briefings: one idea per page, any town</a></li>
-<li><a href="./Briefings/What-the-Law-Lets-the-County-Do">What NC law actually allows</a></li>
+<li><a href="./Briefings/What-the-Law-Lets-the-County-Do">What NC law allows</a></li>
 <li><a href="./Companies/What-Axon-Contracts-Do">What the contract form did elsewhere</a></li>
 <li><a href="./WNC/Watauga-County/index">Watauga: what checking the log found</a></li>
 </ol></div>
@@ -29,28 +29,28 @@ More than a hundred pages. Start with what you need:
 <li><a href="./Briefings/What-They-Can-Actually-Learn-About-You">What a plate scan becomes</a></li>
 <li><a href="#the-region-right-now">The region, right now</a></li>
 </ol></div>
-<div class="door"><span class="door-k">Why should I care</span><p class="door-t">See what it means for people</p><ol>
+<div class="door"><span class="door-k">Why should I care</span><p class="door-t">Who the networks reach</p><ol>
 <li><a href="./Briefings/Who-Gets-Watched">Who gets watched</a></li>
 <li><a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The sheriff's Fusus access log, 2024 to 2026</a></li>
-<li><a href="./WNC/Asheville/Record/Watching-the-Poor">Cameras in public housing</a></li>
+<li><a href="./WNC/Asheville/Record/Cameras-in-Public-Housing">Cameras in public housing</a></li>
 <li><a href="./Companies/Camera-Network-Misuse">Camera network misuse, documented cases</a></li>
 </ol></div>
-<div class="door"><span class="door-k">Who decides</span><p class="door-t">Know your leaders' positions</p><ol>
-<li><a href="./WNC/index">Every official and candidate, profiled</a></li>
+<div class="door"><span class="door-k">Who decides</span><p class="door-t">Where your officials stand</p><ol>
+<li><a href="./WNC/index">Every official and candidate, one page each</a></li>
 <li><a href="./Act/Election-2026">The November ballot</a></li>
-<li><a href="./WNC/Asheville/Record/Their-Claims-vs-The-Record">Asheville's RTIC claims and the record</a></li>
+<li><a href="./WNC/Asheville/Record/Asheville-RTIC-Claims-and-the-Record">Asheville's RTIC claims and the record</a></li>
 </ol></div>
-<div class="door"><span class="door-k">The Asheville record</span><p class="door-t">The region's deepest case</p><ol>
+<div class="door"><span class="door-k">The Asheville record</span><p class="door-t">Asheville, 2022 to now</p><ol>
 <li><a href="./Briefings/What-Is-the-RTIC">What is the RTIC?</a></li>
 <li><a href="./WNC/Asheville/Timeline">The full timeline with sources</a></li>
-<li><a href="./The-Record/Meetings/Asheville/2026-05-12-City-Council">The May 12 vote, minute by minute</a></li>
+<li><a href="./The-Record/Meetings/Asheville/2026-05-12-City-Council">The May 12, 2026 vote</a></li>
 <li><a href="./The-Record/Meetings/Asheville/2026-08-25-City-Council">The Flock termination, Aug 25</a></li>
 </ol></div>
-<div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
+<div class="door"><span class="door-k">I want to act</span><p class="door-t">What one person can do</p><ol>
 <li><a href="./Act/Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
 <li><a href="./Act/Records-Center">File a records request (17 pre-written)</a></li>
 <li><a href="./Act/Claims-Library">Cite the facts, sourced</a></li>
-<li><a href="./Act/Get-Involved">Join the people already organizing</a></li>
+<li><a href="./Act/Get-Involved">The groups organizing, and how to reach them</a></li>
 </ol></div>
 </div>
 
@@ -65,14 +65,14 @@ Each community links to its full area page: the local record, the documents, and
 How it happened in Asheville, the region's deepest case, is kept meeting by meeting: <a href="./WNC/Asheville/Timeline">the full timeline</a> and <a href="./WNC/Asheville/index">the Asheville area page</a>.
 
 <div class="avl-now">
-<p><strong>What we're watching</strong> <em>(updated Aug 26, 2026)</em>: the termination vote ended a contract, not the question. Each item below turns into a post and a page update when it happens.</p>
+<p><strong>What we're watching</strong> <em>(updated Sept 8, 2026)</em>: the items pending after the Aug 25 vote, each tracked on the page linked.</p>
 <ul>
-<li><strong>The 11 Flock cameras verifiably down</strong>, and APD's Flock accounts closed, not just the poles. <a href="./Act/Getting-Flock-Out">What a full exit requires</a></li>
+<li><strong>The 11 Flock cameras removed</strong> and APD's Flock accounts closed. <a href="./Act/Getting-Flock-Out">What a full exit requires</a></li>
 <li><strong>The data deletion notice</strong> staff promised council on the record. <a href="./The-Record/Meetings/Asheville/2026-08-25-City-Council">The commitment, timestamped</a></li>
-<li><strong>The executed Axon contract released</strong>, with the second contract for 20 in-car plate readers that appears in no council presentation. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
+<li><strong>The executed Axon contract released</strong>, and the second contract for 20 in-car plate readers. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
 <li><strong>The audit reports</strong> state law already requires, at the Sept 24 Public Safety Committee. <a href="./WNC/Asheville/Record/The-Committee">The Committee</a></li>
-<li><strong>The numbers that keep moving</strong>: the city's plate data retention showed 90 days on its own portal through the night of the vote and reads 21 today; the vehicle reader count is 162 by APD's statement and 137 by its portal. We archived all of it. <a href="./WNC/Asheville/Record/Promise-Tracker">Promise Tracker</a></li>
-<li><strong>The sheriff's network underneath it all</strong>: 1,355 Flock networks of access, five-year Fusus retention, and an audit log showing most viewing pointed at public housing. <a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The audit log</a> · <a href="./WNC/Buncombe-County/index">Buncombe County</a></li>
+<li><strong>Retention and counts</strong>: the city's portal showed 90-day retention on Aug 25 and 21 days as of Sept 8; the vehicle reader count is 162 by APD's statement and 137 by its portal. Both archived. <a href="./WNC/Asheville/Record/Promise-Tracker">Promise Tracker</a></li>
+<li><strong>The sheriff's network</strong>: access to 1,355 Flock networks, five-year Fusus retention, and an access log with 58 percent of viewing on public housing. <a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The audit log</a> · <a href="./WNC/Buncombe-County/index">Buncombe County</a></li>
 </ul>
 </div>
 
@@ -83,7 +83,7 @@ Each section has its own front page with every page in it described, and every p
 - **[[The Record/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
 - **[[Briefings/index|Briefings]]**: long-form explainers, one idea per page, written to be useful in any town before its decision.
 - **[[WNC/index|Western North Carolina]]**: the ten communities around us and the state laws they all run under.
-- **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales script, the way out.
+- **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales guide, and the communities that ended contracts.
 - **[[Act/index|Act]]**: three minutes at the podium, records requests, citable facts, the ballot.
 - **[[Reference/index|Reference]]**: the primary documents and the full bibliography.
 
@@ -98,7 +98,7 @@ This site is built to be used. For anyone who wants to go deeper than a headline
 - **[[Claims Library|Cite the facts]].** Sourced, citable facts formatted for letters, op-eds, and petitions.
 - **[[Documents|Read the primary sources]]** (minutes, resolutions, policies, contracts) and [[Sources|the full bibliography]].
 - **[[Updates|See what changed]].** Every release, the pages it touched, and the documents behind it.
-- **[[The People Who Showed Up|Read what your neighbors said]].** 36 residents already made the arguments at council, on the record, verbatim.
+- **[[The People Who Showed Up|Read what your neighbors said]].** Residents' public comment at council, verbatim.
 
 ## Share it
 

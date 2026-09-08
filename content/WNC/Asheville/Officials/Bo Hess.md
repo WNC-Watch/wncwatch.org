@@ -28,7 +28,7 @@ aliases:
 - **Aug 25, 2026.** Voted yes to terminate the Flock contract ([[2026-08-25 City Council|the meeting record]]). From his statement: "ending one [vendor's] contract is not the same as rejecting responsible technology, and I will not personally allow this decision to become a back door to weakening or defunding the [Asheville] Police Department... I plan on allowing our law enforcement to have every single tool at their [disposal]." He listed safeguards as already in place: "restricted access which we have... short retention periods which we have, controlled data sharing which we have... regular audits which we have." [[Promise Tracker]] carries each of those against its source. He endorsed reviving a police oversight commission that would report to the Public Safety Committee. He did not second the motion for a moratorium on new plate reader purchases; no member did.
 - **The committee's record, May 2025 to July 2026.** Across the seven recorded meetings of the Public Safety Committee under his chairmanship, no RTIC audit was requested and no post-approval briefing was received. The July 29, 2026 agenda and recording carry no item on RTIC implementation, the Flock wind-down, or the quarterly audits ([[The Committee|the committee's record]]). The committee's questions on ICE agreements came from [[Antanette Mosley]] and on profiling from [[Sheneika Smith]].
 
-The claims in these statements are checked against the record on [[Their Claims vs The Record|Asheville's RTIC claims and the record]].
+The claims in these statements are checked against the record on [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]].
 
 ## In his words
 

@@ -2,6 +2,7 @@
 title: "Asheville's RTIC claims and the record"
 description: "Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it."
 aliases:
+  - "WNC/Asheville/Record/Their Claims vs The Record"
   - "Their Claims vs The Record"
   - "Their Claims vs. The Record"
   - "The Record/Their Claims vs The Record"

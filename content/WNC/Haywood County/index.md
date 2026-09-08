@@ -39,7 +39,7 @@ A week after Macon County removed its cameras, Haywood announced it would keep i
 Two facts about that decision:
 
 1. **No formal vote has ever been taken**: not on the original deployment, not on the July decision to keep them. Like [[WNC/Madison County/index|Madison County]], the cameras entered through the sheriff's operations, and the "decision" to keep them was a chairman's statement to a reporter.
-2. **The overdose claim is a causal leap**: overdose deaths fell sharply *statewide and nationally* in 2024–25 (largely attributed to naloxone availability and fentanyl supply changes). Nobody has published any analysis connecting Haywood's plate readers to its overdose numbers; it's the same correlation-as-causation pattern as [[Their Claims vs The Record|Asheville's RTIC claims and the record]].
+2. **The overdose claim is a causal leap**: overdose deaths fell sharply *statewide and nationally* in 2024–25 (largely attributed to naloxone availability and fentanyl supply changes). Nobody has published any analysis connecting Haywood's plate readers to its overdose numbers; it's the same correlation-as-causation pattern as [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]].
 
 Contract value, term, and renewal date: **not public**; no press coverage or tracker has them. A [[Records Center|records request]] would.
 
@@ -61,4 +61,4 @@ Whoever wins in November inherits the cameras: **Mark Mease (R)** vs **Tyler How
 
 County commission video: [Haywood County, NC Government on YouTube](https://www.youtube.com/@HaywoodCountyGovernment), captioned, with [agendas](https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos). No organized local opposition exists yet, and no renewal or budget decision is currently scheduled, which means the next natural pressure point is the **FY28 budget cycle (spring 2027)** and any candidate willing to ask why a mass-surveillance network never received a vote.
 
-*Related: [[WNC and NC|Western North Carolina and the state]] · [[Getting Flock Out]]*
+*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Getting Flock Out]]*

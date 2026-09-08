@@ -22,7 +22,7 @@ Of 225,439 camera events in the log, **130,003 were on Asheville Housing Authori
 
 The single most-watched place in Buncombe County, by the Sheriff's Office's own count, is **Pisgah View Apartments: 39,404 camera events**. Then Hillcrest (27,212), Maple Crest (19,840), Deaverview (9,864), Aston Park Towers (7,320), Bartlett Arms (6,039), the Edington Center (5,338), Southern Street (3,465), Erskine (3,363), Klondyke Homes (2,248), Asheville Terrace (971), Altamont (25). The busiest school, A.C. Reynolds High, had 7,389. The county courthouse had 564.
 
-[[Watching the Poor|Cameras in Public Housing]] documented that about 500 cameras in public housing feed the network and that residents were never asked. This is what feeding the network means in practice: the people who live in these communities are the most-watched people in the county, by a wide margin, and the watching is the ordinary business of the center, not an exception to it.
+[[Cameras in Public Housing|Cameras in Public Housing]] documented that about 500 cameras in public housing feed the network and that residents were never asked. This is what feeding the network means in practice: the people who live in these communities are the most-watched people in the county, by a wide margin, and the watching is the ordinary business of the center, not an exception to it.
 
 ## Watching, not investigating
 
@@ -61,7 +61,7 @@ Buncombe County Schools joined the network in 2021 by a memorandum the school bo
 
 ## The partners
 
-The businesses and nonprofits that plugged in appear by name, as their own organizations in the log: Pack's Tavern (3,715 events, 317 logged hours), the Miles Building (3,279, 309 hours, including 109 camera movements), the Western Carolina Rescue Mission (348 events; the Rescue Mission is a homeless shelter), the North Carolina Arboretum (70), Camp Dorothy Walls (1). Among the county's own sites: the Health and Human Services building at 40 Coxe Avenue (1,122), where people go for benefits, and Perry Lane Apartments (634). [[Before You Plug In]] explained what a business signs up for; this is what it looks like from the other end.
+The businesses and nonprofits that plugged in appear by name, as their own organizations in the log: Pack's Tavern (3,715 events, 317 logged hours), the Miles Building (3,279, 309 hours, including 109 camera movements), the Western Carolina Rescue Mission (348 events; the Rescue Mission is a homeless shelter), the North Carolina Arboretum (70), Camp Dorothy Walls (1). Among the county's own sites: the Health and Human Services building at 40 Coxe Avenue (1,122), where people go for benefits, and Perry Lane Apartments (634). [[Before You Connect Your Cameras]] explained what a business signs up for; this is what it looks like from the other end.
 
 ## What the county withheld, and why it matters
 
@@ -73,4 +73,4 @@ Two things the county's response does establish. It took the Sheriff's Office on
 
 The file is a comma-separated export of 337,838 rows with these populated columns: user, user organization, object type, operation, client, object organization, location name, and duration. Counts above are exact counts of rows. A "camera event" is a row whose object type is Camera: live view, recorded view, clip download, screenshot, or camera movement. Durations were parsed from entries like "1m21s"; 124,907 of 217,506 live views carry one, so every hour figure is a minimum. The file appears to be in chronological order (logins precede views; views of one camera cluster), and the "consecutive" counts assume that order; the county withheld the timestamps that would confirm it. Events are not people watched: one live view may show one camera or a wall of them, and a person walking past a camera does not appear in this log at all. The log covers the Sheriff's Office's organization only; cameras shared into it from the housing authority and the schools are identified by the owner's organization name. The requester is anonymous on MuckRock and is not connected to this site. A copy of the file is archived offline; the original is at the link above.
 
-*Related: [[Watching the Poor|Cameras in Public Housing]] · [[WNC/Buncombe County/index|Buncombe County]] · [[What Is the RTIC]] · [[The RTIC Policy]] · [[Board of Education]] · [[Records Center]] · [[Who Gets Watched]]*
+*Related: [[Cameras in Public Housing|Cameras in Public Housing]] · [[WNC/Buncombe County/index|Buncombe County]] · [[What Is the RTIC]] · [[The RTIC Policy]] · [[Board of Education]] · [[Records Center]] · [[Who Gets Watched]]*

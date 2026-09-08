@@ -13,7 +13,7 @@ aliases:
 
 ## Surveillance record
 
-As a state legislator she served while the General Assembly made the SBI highway plate-reader program permanent (July 2026 budget), but **no individual statement or vote record on surveillance technology has been found for her** (as of Aug 17, 2026). Her district, [[WNC/Henderson County/index|Henderson County]], has an active resident petition (~937 signatures) to remove its ~39 Flock cameras ([[WNC and NC|Western North Carolina and the state]]).
+As a state legislator she served while the General Assembly made the SBI highway plate-reader program permanent (July 2026 budget), but **no individual statement or vote record on surveillance technology has been found for her** (as of Aug 17, 2026). Her district, [[WNC/Henderson County/index|Henderson County]], has an active resident petition (~937 signatures) to remove its ~39 Flock cameras ([[Western North Carolina and the State|Western North Carolina and the state]]).
 
 ## The question for her
 

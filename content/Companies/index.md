@@ -16,6 +16,6 @@ Two companies sell camera systems to the towns of Western North Carolina. Ashevi
 
 **[[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]** is the dated table of the bodies that ended, rejected or limited contracts, the state actions of late August 2026, the court cases, and the vendors' responses.
 
-**[[What Axon Contracts Do]]**: what the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default. **[[The Flockbook|Flock's guide for presenting to councils]]**: Flock's leaked script for selling councils on cameras, laid beside what Asheville officials actually said.
+**[[What Axon Contracts Do]]**: what the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default. **[[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]]**: Flock's leaked script for selling councils on cameras, laid beside what Asheville officials actually said.
 
 The national cancellations are on [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]; what the data becomes is on [[What They Can Actually Learn About You|What a plate read becomes]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock), on [[Companies/People/index|The Vendors' Executives]].

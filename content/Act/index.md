@@ -8,7 +8,6 @@ Everything on this site points here. Pick the thing that fits the time you have.
 - **[[Speak at Council]]**: How public comment works at each body; the next dates are on the homepage calendar.
 - **[[Records Center]]**: Seventeen pre-written public records requests that would answer this site's open questions, with each request's status.
 - **[[Getting Flock Out]]**: Asheville voted Aug 25 to end the Flock contract. What a full exit still requires: accounts closed, data deleted, the checklist scored item by item.
-- **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]**: The Flock vote happened (terminated, 5 to 2); the page stays as the record of the ask, and as the model for building a comment in any town.
 
 - **[[Claims Library]]**: Citable, sourced facts for petitions, letters, and op-eds.
 - **[[Election 2026]]**: Where every candidate stands, including the ones staying silent. Early voting starts **Oct 15**.

@@ -100,4 +100,4 @@ What the draft leaves open, each phrased as a question the Sept 1 session can an
 
 For comparison, Denver asked before signing and negotiated a one-year term, a camera cap, no national-database participation, and a per-query audit trail ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]). Every one of those protections was winnable by a customer that asked first, which is exactly the position Brevard is in until Sept 8.
 
-*Related: [[WNC and NC|Western North Carolina and the state]] · [[What Axon Contracts Do]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*
+*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[What Axon Contracts Do]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*

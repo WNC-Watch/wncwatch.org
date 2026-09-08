@@ -9,7 +9,7 @@ This site documents what officials said. Public records show what they did. Nort
 
 **Two things to know before your first request:**
 
-**A refusal is also a record.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record|Asheville's RTIC claims and the record]]). A released record answers the question; a refusal shows the safeguard cannot be checked from outside.
+**A refusal is also a record.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]). A released record answers the question; a refusal shows the safeguard cannot be checked from outside.
 
 **On the cost objection.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus, one the public is entitled to price in.
 
@@ -71,7 +71,7 @@ A request needs no magic words. State that you are requesting public records und
 
 > Under N.C.G.S. Chapter 132, I request electronic copies of all letters or written statements of support or opposition concerning the Real-Time Intelligence Center received by the City or included in the May 12, 2026 council agenda materials, and all correspondence in which city or APD staff requested, solicited, or coordinated such letters.
 
-**What it proves:** whether the "community support" in the packet was organic or staff-assembled. ([[The Flockbook|Flock's guide for presenting to councils]] documents the vendor playbook for exactly this.) **Status: not yet filed**
+**What it proves:** whether the "community support" in the packet was organic or staff-assembled. ([[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]] documents the vendor playbook for exactly this.) **Status: not yet filed**
 
 ### 7. APD's face-recognition contracts and correspondence, 2019 to present
 
@@ -83,7 +83,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 8. The Housing Authority's camera list and resident notices
 
-**To: Housing Authority of the City of Asheville.** Roughly [[Watching the Poor|500 cameras in "housing communities and businesses"]] feed the county network. No property list or resident-consent process has ever been published.
+**To: Housing Authority of the City of Asheville.** Roughly [[Cameras in Public Housing|500 cameras in "housing communities and businesses"]] feed the county network. No property list or resident-consent process has ever been published.
 
 > Under N.C.G.S. Chapter 132, I request: (1) records sufficient to identify which Housing Authority properties have cameras connected or made accessible to the Fusus/Connect Asheville-Buncombe platform, the Buncombe County Sheriff's Office, or APD, and the number of cameras per property; (2) any agreements or MOUs governing that access; (3) any notices provided to residents concerning camera access by law enforcement, and any records of a resident consent or comment process; (4) board minutes reflecting approval of law-enforcement camera access.
 
@@ -173,4 +173,4 @@ Expect these, and know what each refusal means:
 
 Every response (and every non-response) feeds back into this site: the [[Promise Tracker]], [[Documents]], and the pages above. File one, tell us, and we'll track it here.
 
-*Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Speak at Council]]*
+*Related: [[Documents]] · [[Get Involved]] · [[Promise Tracker]] · [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]] · [[Speak at Council]]*

@@ -59,4 +59,4 @@ Each row below is a decision by a public body or an agency, dated, with what it 
 
 Flock's policy changes, by date, are on [[Flock Safety#What Flock changed, and when|Flock Safety]]. The misuse cases behind many of the decisions above are on [[Camera Network Misuse|Camera network misuse, documented cases]].
 
-*Related: [[Flock Safety]] · [[Axon]] · [[Getting Flock Out]] · [[What Axon Contracts Do]] · [[WNC and NC|Western North Carolina and the state]]*
+*Related: [[Flock Safety]] · [[Axon]] · [[Getting Flock Out]] · [[What Axon Contracts Do]] · [[Western North Carolina and the State|Western North Carolina and the state]]*

@@ -42,7 +42,7 @@ Two cautions about the July 2026 comment flood: that volume on a 4,000-person to
 ## The inventory
 
 - **Rutherfordton PD** (Chief Clint Ingle): active Flock cameras (~$3,500 each to replace); count unpublished.
-- **Forest City PD**: **14 Flock cameras, including audio detection, plus a private-camera registry.** The audio capability matters legally: North Carolina's wiretap statute (G.S. 15A-287) makes intercepting conversations you're not party to a **felony**, and microphones on public streets record conversations no one consented to. Nobody in county government has addressed this on the record. ([[Before You Plug In]] on private-camera integration)
+- **Forest City PD**: **14 Flock cameras, including audio detection, plus a private-camera registry.** The audio capability matters legally: North Carolina's wiretap statute (G.S. 15A-287) makes intercepting conversations you're not party to a **felony**, and microphones on public streets record conversations no one consented to. Nobody in county government has addressed this on the record. ([[Before You Connect Your Cameras]] on private-camera integration)
 - **Sheriff's Office**: see the timeline: the February 2025 pitch died without a vote, and the county-owned count remains a records-request target.
 
 ## The paperwork
@@ -53,4 +53,4 @@ Rutherford has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://ww
 
 **[Annie Dance / Cops & Congress](https://anniedance.substack.com)**, a 20-year journalist based in Rutherfordton, is the essential source: she livestreams and archives meetings the town itself deletes (**Meta erases the town's Facebook livestreams after ~30 days**), covers Flock consistently, and is often the only journalist in the room. County commissioners are on [Granicus](https://rutherfordcountync.granicus.com/ViewPublisher.php?view_id=2); her archive fills the gaps.
 
-*Related: [[WNC and NC|Western North Carolina and the state]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Camera Network Misuse|Camera network misuse, documented cases]]*
+*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Camera Network Misuse|Camera network misuse, documented cases]]*

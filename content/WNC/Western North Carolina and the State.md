@@ -2,6 +2,7 @@
 title: "Western North Carolina and the state"
 description: "The regional overview: where each county's data goes, which sheriffs hold ICE agreements, and what each county has decided, with the state layer above them."
 aliases:
+  - "WNC/WNC and NC"
   - "WNC and NC"
 ---
 
