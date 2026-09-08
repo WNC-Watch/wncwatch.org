@@ -48,8 +48,6 @@ Asheville's own timeline: the contract emails released August 20 show a separate
 
 The Axon account executive whose footer advertised fixed plate readers, the Sourcewell cooperative contract the city buys through, and the April 28, 2026 work session where Axon and Flock representatives were flown in to pitch council are documented on [[2026-04-28 Work Session]] and [[What Axon Contracts Do]]. The private policy workgroup that wrote the RTIC's rules met with no critics present and with the county sheriff, an Axon customer since 2023, at the table ([[The RTIC Policy]]).
 
-## What this means in Asheville
-
-The council's Flock vote is a vendor change inside an Axon contract. What would make it more than that: a separate, public vote before any fixed Axon reader is installed; a published sharing list and retention number for Axon plate data; a location map, since the hardware is designed not to be noticed; and the executed contract itself, which the public has still not seen ([[Getting Flock Out|the eight demands]]).
+The site's position, in full on the [[index|homepage]]: the concern is what happens when a community's cameras join large interconnected networks that nobody local controls, with sharing defaults nobody here set and searches nobody here approved; the Asheville asks that follow from it are on [[Getting Flock Out]].
 
 *Related: [[Flock Safety]] · [[What Axon Contracts Do]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The RTIC Policy]] · [[Getting Flock Out]]*
