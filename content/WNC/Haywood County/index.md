@@ -13,7 +13,7 @@ systems:
       - "Companies/Flock Safety"
 ---
 
-Haywood decided to keep its Flock cameras a week after [[WNC/Macon County/index|Macon County]] tore its system out, without ever having formally voted on them in the first place.
+Haywood County's sheriff's office has run about 8 Flock cameras since 2024; commissioners said in July 2026 they would keep them. No vote on the cameras is on the record.
 
 ## Timeline
 
@@ -22,7 +22,7 @@ Haywood decided to keep its Flock cameras a week after [[WNC/Macon County/index|
 <div class="avl-tl">
 <div class="tl-item tl-expand"><div class="tl-date">2024</div><div class="tl-body"><strong>Cameras go live, no vote taken.</strong> The Sheriff's Office puts <strong>~8–10 Flock cameras</strong> into use; like <a href="./WNC/Madison-County/index">Madison County</a>, they enter through the sheriff's operations with no formal deployment vote. <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
 <div class="tl-item tl-expand"><div class="tl-date">FY26 budget</div><div class="tl-body"><strong>Maggie Valley PD buys two plate readers.</strong> $7,300 the first year, $6,000/year after, paid from the drug-seizure account, with access to state and national LPR databases. A budget-retreat consensus, not a public-hearing item (<a href="https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html">The Mountaineer</a>).</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">March 3, 2026</div><div class="tl-body"><strong>The sheriff loses his primary.</strong> Republican challenger <strong>Mark Mease</strong> defeats incumbent Sheriff Bill Wilke (about 58%); Mease faces Democrat <strong>Tyler Howell</strong>, a Waynesville police officer, on November 3 (<a href="https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026">Ballotpedia</a>). Neither has been asked about the cameras.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">March 3, 2026</div><div class="tl-body"><strong>The sheriff loses his primary.</strong> Republican challenger <strong>Mark Mease</strong> defeats incumbent Sheriff Bill Wilke (about 58%); Mease faces Democrat <strong>Tyler Howell</strong>, a Waynesville police officer, on November 3 (<a href="https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026">Ballotpedia</a>). No public position on the cameras found for either as of Sept 8, 2026.</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">July 2026</div><div class="tl-body"><strong>Haywood keeps its cameras.</strong> A week after Macon County's removal, Commission Chairman Kevin Ensley tells a reporter the county will keep them, citing falling overdose deaths and "no complaints"; a chairman's statement, not a vote (<a href="https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina">WLOS, July 21, 2026</a>). <a href="../Companies/Communities-That-Ended-or-Limited-Contracts">Communities that ended or limited camera contracts</a></div></div>
 </div>
 
@@ -32,14 +32,14 @@ Haywood decided to keep its Flock cameras a week after [[WNC/Macon County/index|
 - [The Mountaineer](https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html): Maggie Valley's drug-seizure-funded plate readers
 - [Haywood County agendas, minutes, and videos](https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos): the official record
 
-## Status: keeping Flock, on an overdose-reduction claim
+## The July 2026 decision
 
 A week after Macon County removed its cameras, Haywood announced it would keep its **~8–10 Flock cameras** (in use since 2024, run by the Sheriff's Office). Commission Chairman **Kevin Ensley's** stated reason: overdose deaths fell "in the thirties... last year we only had ten," and the county has received "no complaints." ([WLOS, July 21, 2026](https://wlos.com/news/local/haywood-county-keep-flock-safety-cameras-macon-county-removes-system-ai-powered-camera-license-plate-reader-automatic-artificial-intelligence-western-north-carolina))
 
 Two facts about that decision:
 
 1. **No formal vote has ever been taken**: not on the original deployment, not on the July decision to keep them. Like [[WNC/Madison County/index|Madison County]], the cameras entered through the sheriff's operations, and the "decision" to keep them was a chairman's statement to a reporter.
-2. **The overdose claim is a causal leap**: overdose deaths fell sharply *statewide and nationally* in 2024–25 (largely attributed to naloxone availability and fentanyl supply changes). Nobody has published any analysis connecting Haywood's plate readers to its overdose numbers; it's the same correlation-as-causation pattern as [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]].
+2. **The overdose figures**: overdose deaths fell statewide and nationally in 2024 and 2025. No analysis connecting Haywood's cameras to its numbers has been published.
 
 Contract value, term, and renewal date: **not public**; no press coverage or tracker has them. A [[Records Center|records request]] would.
 
@@ -55,10 +55,10 @@ Contract value, term, and renewal date: **not public**; no press coverage or tra
 
 ## The ballot, and the paper trail
 
-Whoever wins in November inherits the cameras: **Mark Mease (R)** vs **Tyler Howell (D)** for sheriff, and three commission seats (six Republicans contested the primary; the winners face two Democrats and an unaffiliated candidate) ([Ballotpedia](https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026)). No candidate statement on Flock, plate readers, or ICE has been found. Haywood has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)) and no Flock transparency portal; the Sheriff's Office does appear as a recipient on [[WNC/Henderson County/index|Henderson County]]'s 2,048-agency sharing list, so Haywood deputies can search a neighbor's reads even without publishing their own. Federal forfeiture payments to the Sheriff's Office: $30,766 (FY2021) and $102,813 (FY2022) ([DOJ](https://www.justice.gov/afp/fy2024-equitable-sharing-payment-cash-and-sales-proceeds-recipient-agency-state)). What the county can and cannot do about a sheriff's cameras: [[What the Law Lets the County Do]].
+Whoever wins in November inherits the cameras: **Mark Mease (R)** vs **Tyler Howell (D)** for sheriff, and three commission seats (six Republicans contested the primary; the winners face two Democrats and an unaffiliated candidate) ([Ballotpedia](https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026)). No candidate statement on Flock, plate readers, or ICE has been found as of Sept 8, 2026. Haywood has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)) and no Flock transparency portal; the Sheriff's Office does appear as a recipient on [[WNC/Henderson County/index|Henderson County]]'s 2,048-agency sharing list, so Haywood deputies can search a neighbor's reads even without publishing their own. Federal forfeiture payments to the Sheriff's Office: $30,766 (FY2021) and $102,813 (FY2022) ([DOJ](https://www.justice.gov/afp/fy2024-equitable-sharing-payment-cash-and-sales-proceeds-recipient-agency-state)). What the county can and cannot do about a sheriff's cameras: [[What the Law Lets the County Do]].
 
-## Pipeline and watch items
+## Open items
 
-County commission video: [Haywood County, NC Government on YouTube](https://www.youtube.com/@HaywoodCountyGovernment), captioned, with [agendas](https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos). No organized local opposition exists yet, and no renewal or budget decision is currently scheduled, which means the next natural pressure point is the **FY28 budget cycle (spring 2027)** and any candidate willing to ask why a mass-surveillance network never received a vote.
+County commission video: [Haywood County, NC Government on YouTube](https://www.youtube.com/@HaywoodCountyGovernment), captioned, with [agendas](https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos). No renewal or budget decision is scheduled as of Sept 8, 2026; the next is the FY28 budget cycle in spring 2027. The cameras have never received a vote.
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Getting Flock Out]]*

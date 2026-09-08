@@ -5,7 +5,7 @@ aliases:
   - "People/Buncombe/Board of Commissioners"
 ---
 
-The Board of Commissioners cannot direct the sheriff, but it adopts his budget every June, certifies his contracts, and co-signs the federal forfeiture paperwork ([[What the Law Lets the County Do]]). The last commissioners to question the RTIC on the record, Jasmine Beach-Ferrara and Brownie Newman, left the board in 2024. The current seven have said nothing about it that this record can find.
+The Board of Commissioners cannot direct the sheriff, but it adopts his budget every June, certifies his contracts, and co-signs the federal forfeiture paperwork ([[What the Law Lets the County Do]]). The last commissioners to question the RTIC on the record, Jasmine Beach-Ferrara and Brownie Newman, left the board in 2024. No statement on the network from any current commissioner was found as of Sept 8, 2026.
 
 ## The board
 
@@ -33,4 +33,4 @@ No surveillance position has been found for any of the four contested-seat candi
 
 [[Avril Pinder]] (county manager) · [[Melissa Moore]] (finance director)
 
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*
+*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Sept 8, 2026*

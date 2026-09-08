@@ -14,7 +14,7 @@ systems:
       - "Companies/Flock Safety"
 ---
 
-Watauga County is the region's working answer to a question every other community is still arguing about: what happens when you actually check.
+Boone and Appalachian State both cut their cameras' network sharing in 2026 after pulling the search logs.
 
 ## Timeline
 
@@ -29,18 +29,18 @@ Watauga County is the region's working answer to a question every other communit
 
 ## What the audit showed that the portal didn't
 
-The most important detail in the Democrat's reporting: before the cut, **the public transparency portals showed only internal audits**, so a resident checking the portal would never have seen the out-of-state search volume. The window dressing and the reality diverged by roughly 1.5 million searches. This is the same lesson as [[Sheriffs Audit Log|Buncombe's audit log]] and Mountain View's audit: the promise is only as good as the record someone actually pulls.
+The most important detail in the Democrat's reporting: before the cut, **the public transparency portals showed only internal audits**, so a resident checking the portal would never have seen the out-of-state search volume. The portals did not show the out-of-state volume. [[Sheriffs Audit Log|Buncombe's audit log]] was likewise obtained by records request rather than from a portal.
 
 ## Said out loud
 
-Boone Police Chief Daniel Duckworth, to the Democrat in August, in what may be the most honest sentence any WNC official has said about this technology: "The technology was rolled out quickly, and law-enforcement agencies did not do a great job from the beginning developing comprehensive policies and procedures before allowing broad access to the system." And: "I am very open to having a conversation with the public about what responsible use of this technology should look like."
+Boone Police Chief Daniel Duckworth, to the Democrat in August: "The technology was rolled out quickly, and law-enforcement agencies did not do a great job from the beginning developing comprehensive policies and procedures before allowing broad access to the system." And: "I am very open to having a conversation with the public about what responsible use of this technology should look like."
 
 ## Who decides here
 
-Boone Town Council (Mayor Dalton George; Todd Carter, Virginia Roseman, Adrian Tait, Anne Pruitt, Anitra Ball) meets second Wednesdays 9 AM and fourth Wednesdays 5 PM; next regular meeting **Sept 9**. Watauga County commissioners (Chair Braxton Eggers; Todd Castle, Emily Greene, Tim Hodges, Ronnie Marsh) meet first and third Tuesdays, 5:30 PM; the sheriff's office runs four plate readers of its own, and **no commissioner has made a public statement about them**. App State's trustees have said nothing on the record about the university cameras.
+Boone Town Council (Mayor Dalton George; Todd Carter, Virginia Roseman, Adrian Tait, Anne Pruitt, Anitra Ball) meets second Wednesdays 9 AM and fourth Wednesdays 5 PM. Watauga County commissioners (Chair Braxton Eggers; Todd Castle, Emily Greene, Tim Hodges, Ronnie Marsh) meet first and third Tuesdays, 5:30 PM; the sheriff's office runs four plate readers of its own, and **no commissioner has made a public statement about them**. App State's trustees have said nothing on the record about the university cameras.
 
-## Why this page matters to everyone else
+## What the log changed
 
-Boone did not remove its cameras. What it did was narrower and, so far, unique in WNC: it paused growth, demanded the numbers, published a portal, and cut sharing by 96% when the numbers were bad. Every sheriff in the region says some version of "our searches are logged and controlled." Watauga is the one place that pulled the log. The result is the strongest local evidence that the defaults, left alone, serve the network rather than the community that bought the cameras.
+Boone did not remove its cameras. It paused growth on May 13, 2026, ordered a transparency portal, and cut its sharing list from more than 1,000 agencies to 41 by Aug 20, 2026, after the search log showed about 1.5 million searches in three months, most from out of state. It is the one WNC jurisdiction so far to have pulled and acted on its own log.
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[What the Law Lets the County Do]] · [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*
