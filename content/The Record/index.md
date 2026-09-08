@@ -12,6 +12,7 @@ This section is Asheville's own story, reconstructed from the city's videos, min
 
 ## [[The Record/Meetings/index|The meetings]], minute by minute
 
+- **[[2026-08-25 City Council|Aug 25, 2026: The Flock Vote]]**: Council voted 5-2 to terminate the city's Flock contract; a motion to pause buying any new plate readers during the city's own review failed because no one would second it.
 - **[[2026-08-20 Agenda Briefing|Aug 20, 2026: The Termination Resolution, Previewed]]**: Flock's new 10-camera minimum kills the one-camera plan; the chief's memo says Axon plate readers are "expanding."
 - **[[2026-05-12 City Council|May 12, 2026: The Midnight Vote]]**: The 6 to 1 vote, reconstructed from the city's own video; 21 signed-up residents sent home unheard.
 - **[[2026-05-07 Agenda Briefing|May 7, 2026: The Contract That Didn't Exist]]**: Five days out, the Axon contract isn't written, and "one camera" is explained as a network subscription.
@@ -28,4 +29,4 @@ This section is Asheville's own story, reconstructed from the city's videos, min
 - **[[The Check-In Meetings|Council's Private Check-Ins]]**: The three-by-three meetings where council business gets decided before the public sees it.
 - **[[Oversight Theater|The Oversight Record]]**: Thirty-five years of oversight promises in Asheville, what was delivered each time, and the state-law ceiling that shaped it.
 
-*Next: [[Briefings/index|The System]] (what was approved) · [[Act/index|Act]] (what to do about it)*
+*Next: [[Briefings/index|Briefings]] (what these systems do) · [[Act/index|Act]] (what to do about it)*

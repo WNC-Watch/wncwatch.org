@@ -27,4 +27,4 @@ The cameras do not stop at the city line. The county's network came first, the n
 | [[WNC/Rutherford County/index\|Rutherford County]] | The February 2025 pitch: "access to the nationwide database" | [[Aaron Ellenburg]] |
 | [[WNC/McDowell County/index\|McDowell County]] | A new sheriff, sworn in August 10 | [[Nathan Mace]] |
 
-*The full regional roster of officials: [[WNC/index|Western North Carolina people]].*
+*Each area's officials are listed in its Officials folder. State and federal officials are on [[WNC/Raleigh and Washington/index|Raleigh and Washington]].*

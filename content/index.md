@@ -99,17 +99,14 @@ How it happened in Asheville, the region's deepest case, is kept meeting by meet
 </ul>
 </div>
 
-## The site, in nine sections
+## The site, in six sections
 
 Each section has its own front page with every page in it described, and every page shows its section at the top so you can step back up.
 
 - **[[The Record/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
-- **[[Briefings/index|The System]]**: what was approved and what it does: the center, what a scan becomes, who is watched first, the sheriff's own audit log, the money.
 - **[[Briefings/index|Briefings]]**: long-form explainers, one idea per page, written to be useful in any town before its decision.
 - **[[WNC/index|Western North Carolina]]**: the ten communities around us and the state laws they all run under.
 - **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales script, the way out.
-- **[[Companies/index|The Wider Fight]]**: what these systems have done elsewhere and how other places got out.
-- **[[WNC/index|People]]**: every official, candidate, and institution, by region, with the next date voters can act.
 - **[[Act/index|Act]]**: three minutes at the podium, records requests, citable facts, the ballot.
 - **[[Reference/index|Reference]]**: the primary documents and the full bibliography.
 
