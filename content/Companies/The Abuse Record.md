@@ -38,7 +38,7 @@ Selected named cases, each linked to primary reporting: Lt. Victor Heiar, Kechi 
 ## The audit log is not what you think it is
 
 - EFF's analysis of **11.4 million Flock searches** found more than **14% logged with the single word "investigation"** as the entire justification. ([ACLU](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/police-audit-logs))
-- Snowman's falsified "motor vehicle infraction" entries passed review 29 times. Sen. Ron Wyden's verdict on Flock's technical filters: "meaningless... easy to circumvent."
+- The Mooresville officer's falsified "motor vehicle infraction" entries passed review 29 times. Sen. Ron Wyden's verdict on Flock's technical filters: "meaningless... easy to circumvent."
 - Flock's own reforms (mandatory case numbers, automatic anomaly-flagging, 7-day retention) take effect **January 1, 2027**. Those reforms are the company's own list of what was missing during every case above. ([CNN](https://www.cnn.com/2026/08/13/tech/flock-cameras-police-auditing-controls))
 
 ## Asheville's own accountability record
