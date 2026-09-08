@@ -56,7 +56,7 @@ The room erupted ("SIX HOURS TO LISTEN TO EVERYONE SPEAK"), followed by applause
 
 > "**IN CASE YOU DIDN'T NOTICE, THERE WAS JUST A VOTE.**"
 
-(Attendees identify the speaker as council member [[Kim Roney]].) A second attendee's account, published in [Enlace Latino NC](https://enlacelatinonc.org/en/Asheville-City-Council-approves-creation-of-real-time-intelligence-center/), corroborates it; resident Elizabeth Schell: "They voted while we were standing around asking them to let everyone speak." Only then did the chair re-run the vote visibly ("So we— all those in favor raise your hand... Just a second, Kim. And— sorry, I'm trying to help the city clerk. Do you have it?") and summarize [(6:21:47)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22907s):
+(Attendees identify the speaker as council member [[Kim Roney]].) A second attendee's account, published in [Enlace Latino NC](https://enlacelatinonc.org/en/Asheville-City-Council-approves-creation-of-real-time-intelligence-center/), corroborates it; a resident quoted there: "They voted while we were standing around asking them to let everyone speak." Only then did the chair re-run the vote visibly ("So we— all those in favor raise your hand... Just a second, Kim. And— sorry, I'm trying to help the city clerk. Do you have it?") and summarize [(6:21:47)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22907s):
 
 > "But, to summarize, **the vote was 6 to 1 in favor of item B1.**"
 
