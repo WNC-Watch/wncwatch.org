@@ -16,7 +16,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[WNC/index|Western North Carolina]]
 
-- **[[WNC and NC]]**: What our neighbors are doing about surveillance, county by county, including the ones who removed it.
+- **[[WNC and NC|Western North Carolina and the state]]**: The regional overview: where each county's data goes, which sheriffs hold ICE agreements, and what each county has decided, with the state layer above them.
 
 ### [[WNC/Asheville/index|Asheville]]
 
@@ -193,7 +193,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[The Flockbook|Flock's guide for presenting to councils]]**: Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates.
 - **[[What Axon Contracts Do]]**: Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's executed contract has not been released.
 
-### [[Companies/People/index|The Vendors' Executives]]
+### [[Companies/People/index|Company executives]]
 
 - **[[Garrett Langley]]**: Co-founder and CEO of Flock Safety; told an interviewer on July 23, 2026 that the cameras take \"a static picture of a car,\" a year after the company announced live video on every reader.
 - **[[Rick Smith]]**: Founder and CEO of Axon, the company Asheville is contracted with until 2033; oversaw the Fusus acquisition in 2024, the streetlight plate readers, and the resumption of facial-recognition work.

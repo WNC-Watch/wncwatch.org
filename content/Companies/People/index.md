@@ -1,6 +1,6 @@
 ---
-title: "The Vendors' Executives"
-description: "The two chief executives whose companies sell Asheville its surveillance: Axon's founder, who holds the contract to 2033, and Flock's, whose cameras are being removed."
+title: "Company executives"
+description: "The chief executives of Axon and Flock Safety, with their statements on the record."
 aliases:
   - "People/Companies/index"
 ---

@@ -99,4 +99,4 @@ None of the other four commissioners has made a public statement on the cameras.
 
 Hendersonville's cameras, the chief's Sept 3 presentation, and what the city's adopted budget already contains are on [[WNC/Hendersonville/index|Hendersonville]].
 
-*Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Getting Flock Out]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*
+*Related: [[WNC and NC|Western North Carolina and the state]] · [[What the Law Lets the County Do]] · [[Getting Flock Out]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*

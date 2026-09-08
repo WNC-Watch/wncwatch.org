@@ -138,4 +138,4 @@ A public records request produced 28 months of the Sheriff's Office's Fusus acce
 
 The executed Axon and Fusus contracts and whether commissioners voted on them; the enterprise fund's revenue and the number of paying cameras; the FUSUS Advisory Committee's membership and any audit it has produced; the schools MOU; the DFR drone partner; the 2022 MOU with Asheville; and any current-year count of cameras by category. Every one of these is a records request: [[Records Center]].
 
-*Related: [[What the Law Lets the County Do]] · [[WNC and NC]] · [[Quentin Miller]] · [[Follow the Money]] · [[Documents]]*
+*Related: [[What the Law Lets the County Do]] · [[WNC and NC|Western North Carolina and the state]] · [[Quentin Miller]] · [[Follow the Money]] · [[Documents]]*

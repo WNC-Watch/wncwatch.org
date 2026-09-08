@@ -11,7 +11,7 @@ aliases:
 
 ## Surveillance record
 
-Shearl made the July 14, 2026 motion that ended Macon County's Flock contract 5 to 0, framing it as a Fourth Amendment question: "I don't want a hunch. I want the truth." To the Flock representative sent to defend the product: "I don't mean any disrespect, but you are like a car salesman." ([NC Local, July 30, 2026](https://nclocal.org/2026/07/30/balancing-public-safety-and-privacy-wnc-wrestles-with-surveillance-issues/) · [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [[WNC/Macon County/index|Macon County]] · [[WNC and NC]])
+Shearl made the July 14, 2026 motion that ended Macon County's Flock contract 5 to 0, framing it as a Fourth Amendment question: "I don't want a hunch. I want the truth." To the Flock representative sent to defend the product: "I don't mean any disrespect, but you are like a car salesman." ([NC Local, July 30, 2026](https://nclocal.org/2026/07/30/balancing-public-safety-and-privacy-wnc-wrestles-with-surveillance-issues/) · [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [[WNC/Macon County/index|Macon County]] · [[WNC and NC|Western North Carolina and the state]])
 
 He is, as far as this record shows, the first sitting commissioner in Western North Carolina to put a motion against plate readers on the floor and win it.
 

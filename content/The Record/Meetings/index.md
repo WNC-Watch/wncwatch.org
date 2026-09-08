@@ -5,12 +5,12 @@ description: Seven council meetings reconstructed from the city's own video, wit
 
 Each page is built from the city's published video and documents. Quotes link to the timestamp where they were said. Newest first.
 
-- **[[2026-08-25 City Council]]**: The Flock vote: terminated, 5 to 2.
-- **[[2026-08-20 Agenda Briefing]]**: The termination resolution, previewed.
-- **[[2026-05-12 City Council]]**: The May 12 vote, minute by minute.
-- **[[2026-05-07 Agenda Briefing]]**: The contract that didn't exist.
-- **[[2026-04-28 Work Session]]**: The vendor work session, on the record.
-- **[[2025-03-25 City Council]]**: First RTIC money, on the consent agenda.
-- **[[2025-03-07 Agenda Briefing]]**: The briefing that almost didn't happen.
+- **[[2026-08-25 City Council]]**: Flock termination vote, 5 to 2.
+- **[[2026-08-20 Agenda Briefing]]**: agenda briefing, Flock termination resolution.
+- **[[2026-05-12 City Council]]**: RTIC grant and Axon contract vote, 6 to 1.
+- **[[2026-05-07 Agenda Briefing]]**: agenda briefing, Axon contract and Flock.
+- **[[2026-04-28 Work Session]]**: work session with Flock and Axon.
+- **[[2025-03-25 City Council]]**: RTIC grant on the consent agenda, 6 to 1.
+- **[[2025-03-07 Agenda Briefing]]**: agenda briefing, license-plate readers.
 
 *The whole sequence: [[Timeline]]. What residents said at these meetings: [[The People Who Showed Up]].*

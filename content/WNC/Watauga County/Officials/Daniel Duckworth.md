@@ -9,7 +9,7 @@ aliases:
 
 ## Surveillance record
 
-After Boone paused its cameras in May 2026, Duckworth briefed the council in June on reforms: sharing eliminated with agencies outside North Carolina except a few in Tennessee, quarterly audits of officer searches formalized, and a public transparency portal stood up in response to a council resolution (reported; not independently verified from the council record). The portal on August 21, 2026 showed 3 plate readers, 30-day retention, and a sharing list of six agencies, all in North Carolina ([portal](https://transparency.flocksafety.com/boone-nc-pd) · [[WNC and NC]]). Compare [[WNC/Henderson County/index|Henderson County]]'s 2,048.
+After Boone paused its cameras in May 2026, Duckworth briefed the council in June on reforms: sharing eliminated with agencies outside North Carolina except a few in Tennessee, quarterly audits of officer searches formalized, and a public transparency portal stood up in response to a council resolution (reported; not independently verified from the council record). The portal on August 21, 2026 showed 3 plate readers, 30-day retention, and a sharing list of six agencies, all in North Carolina ([portal](https://transparency.flocksafety.com/boone-nc-pd) · [[WNC and NC|Western North Carolina and the state]]). Compare [[WNC/Henderson County/index|Henderson County]]'s 2,048.
 
 He is the comparison case every other chief and sheriff on this site should be asked about: the same vendor, the same product, and a sharing setting chosen the other way.
 
@@ -17,4 +17,4 @@ He is the comparison case every other chief and sheriff on this site should be a
 
 Will he publish the audit results, not just confirm the audits occur?
 
-*Region: Watauga County (see [[WNC and NC]]) · Last updated: Aug 22, 2026*
+*Region: Watauga County (see [[WNC and NC|Western North Carolina and the state]]) · Last updated: Aug 22, 2026*

@@ -64,4 +64,4 @@ Removing the cameras did not remove the county from the network. "Macon County N
 
 The independent outlet **[Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ)** films Franklin council (which has no official video) and county meetings; the [county commissioners' channel](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA) carries the official record, including the July 14 vote. Smoky Mountain News (Kyle Perrotti) has the deepest coverage.
 
-*Related: [[WNC and NC]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Getting Flock Out]]*
+*Related: [[WNC and NC|Western North Carolina and the state]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Getting Flock Out]]*
