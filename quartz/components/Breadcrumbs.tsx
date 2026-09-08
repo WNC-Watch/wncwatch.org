@@ -35,9 +35,17 @@ const defaultOptions: BreadcrumbOptions = {
   showCurrentPage: true,
 }
 
-function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
+// A crumb's name comes from the page or folder-index title when there is one,
+// and from the URL segment otherwise. Only the URL segment carries hyphens for
+// spaces; a title keeps its own hyphens ("2026-08-25: ..." stays a date).
+function formatCrumb(
+  displayName: string,
+  fromSlug: boolean,
+  baseSlug: FullSlug,
+  currentSlug: SimpleSlug,
+): CrumbData {
   return {
-    displayName: displayName.replaceAll("-", " "),
+    displayName: fromSlug ? displayName.replaceAll("-", " ") : displayName,
     path: resolveRelative(baseSlug, currentSlug),
   }
 }
@@ -59,7 +67,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     }
 
     const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
-      const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
+      const crumb = formatCrumb(node.displayName, node.data === null, fileData.slug!, simplifySlug(node.slug))
       if (idx === 0) {
         crumb.displayName = options.rootName
       }
