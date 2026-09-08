@@ -4,11 +4,12 @@ import { FileTrieNode } from "./quartz/util/fileTrie"
 import { AreaHub } from "./quartz/components/blocks/areaHub"
 import { OfficeBlock } from "./quartz/components/blocks/officeBlock"
 import { AreaLead } from "./quartz/components/blocks/areaLead"
+import { RegionBoard } from "./quartz/components/blocks/regionBoard"
 
 // Body blocks: components drawn inside the article from data, in the position
 // each block declares (see components/pages/Content.tsx). One entry per block;
 // the block itself decides which pages it renders on.
-export const bodyBlocks = [AreaLead, AreaHub, OfficeBlock]
+export const bodyBlocks = [AreaLead, AreaHub, OfficeBlock, RegionBoard]
 export const pageBody = Component.Content({ blocks: bodyBlocks })
 // Folder index pages (every area page is one) render through FolderContent.
 export const folderBody = Component.FolderContent({ blocks: bodyBlocks })

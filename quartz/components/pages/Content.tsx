@@ -11,10 +11,13 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 //   "bottom":       after the last element
 //   "opening":      in place of the first top-level paragraph, which the block
 //                   has read and re-rendered (or at the top when there is none)
+//   "slot":         in place of the top-level element carrying the class named
+//                   in `slot` (the author leaves an empty <div class="..."></div>)
 // A block that returns null draws nothing.
 export type BodyBlock = {
   name: string
-  placement: "top" | "afterOpening" | "opening" | "bottom"
+  placement: "top" | "afterOpening" | "opening" | "bottom" | "slot"
+  slot?: string
   render: (props: QuartzComponentProps) => Element | null
 }
 
@@ -37,7 +40,19 @@ export function withBlocks(tree: Root, blocks: { block: BodyBlock; node: Element
   // insert in declared order; later blocks in the same position follow earlier ones
   const at = { top: 0, afterOpening: firstParagraph === -1 ? 0 : firstParagraph + 1, bottom: children.length }
   const placed: Record<string, Element[]> = { top: [], afterOpening: [], opening: [], bottom: [] }
-  for (const { block, node } of blocks) placed[block.placement].push(node)
+  for (const { block, node } of blocks) {
+    if (block.placement === "slot") {
+      const at = children.findIndex(
+        (c) =>
+          c.type === "element" &&
+          Array.isArray((c.properties ?? {}).className) &&
+          ((c.properties as { className: string[] }).className).includes(block.slot ?? ""),
+      )
+      if (at !== -1) children.splice(at, 1, node)
+      continue
+    }
+    placed[block.placement].push(node)
+  }
   // splice from the back so earlier indexes stay valid
   children.splice(at.bottom, 0, ...placed.bottom)
   children.splice(at.afterOpening, 0, ...placed.afterOpening)
