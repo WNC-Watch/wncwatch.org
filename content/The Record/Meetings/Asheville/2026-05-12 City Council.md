@@ -1,5 +1,5 @@
 ---
-title: "2026-05-12: The RTIC Vote, Minute by Minute"
+title: "2026-05-12: Asheville City Council, RTIC grant and Axon contract vote"
 description: The minute-by-minute record of how Asheville's surveillance center was approved, reconstructed from the city's own meeting video, with timestamps.
 aliases:
   - "Meetings/2026-05-12 City Council"
@@ -106,4 +106,4 @@ Deeper findings from the staff reports, presentations, and minutes (all linked a
 6. Council's engagement with the substance (the ACLU letter, the Flock contract's disclosure loophole, the contract terms nobody had seen) happened, where it happened at all, **after the vote**.
 7. **The opposition was not vague fear.** In one hour the public delivered constitutional analysis, the vendor's own investor financials, a reading of the operative contract language, and firsthand testimony from under the existing cameras; every argument this site has since documented at length was made *to council's face, before the vote*, and is preserved verbatim at [[The People Who Showed Up]].
 
-*Part of the Meetings series, built from the city's full meeting-video archive: 102 meetings' transcripts and counting. Companions: [[2026-05-07 Agenda Briefing|May 7: The Contract That Didn't Exist]] · [[2026-04-28 Work Session|April 28: The Vendor Work Session]]. See [[The People Who Showed Up]] · [[Timeline]] · [[Speak at Council]] · [[Promise Tracker]]*
+*Part of the Meetings series, built from the city's full meeting-video archive: 102 meetings' transcripts and counting. Companions: [[2026-05-07 Agenda Briefing|May 7, 2026: agenda briefing, Axon contract and Flock]] · [[2026-04-28 Work Session|April 28, 2026: work session with Flock and Axon]]. See [[The People Who Showed Up]] · [[Timeline]] · [[Speak at Council]] · [[Promise Tracker]]*

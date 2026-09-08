@@ -1,5 +1,5 @@
 ---
-title: "2025-03-25: First RTIC Money, on the Consent Agenda"
+title: "2025-03-25: Asheville City Council, RTIC grant on the consent agenda"
 description: The first RTIC money moved on the consent agenda, sandwiched between bulletproof vests and DEA grants, and the argument that carried it contained the admission that sinks it. Timestamped from the city's video.
 aliases:
   - "Meetings/2025-03-25 City Council"
