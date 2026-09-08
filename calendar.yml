@@ -1,0 +1,340 @@
+- id: brevard-city-council
+  area: Brevard
+  page: WNC/Transylvania County/index
+  body: Brevard City Council
+  date: 2026-09-08
+  time: "5:30 PM"
+  venue: City Hall, City Council Chambers
+  address: 95 W Main St, Brevard, NC 28712
+  agenda_url: "https://www.cityofbrevard.com/AgendaCenter/ViewFile/Agenda/_09082026-1868"
+  source_url: "https://www.cityofbrevard.com/AgendaCenter"
+  camera_item: "yes"
+  status: scheduled
+  verify_note: "Posted agenda (item M.3) lists \"Automated License Plate Readers (ALPRs)\" as a New Business item, not specifically named Axon, and the city calendar (cityofbrevard.com/calendar.aspx, CID=23) confirms the Sept 8, 2026 meeting at City Hall, 5:30-7:30 PM, and the next regular meeting on Sept 21, 2026, 5:30 PM, same venue; neither the calendar nor the agenda PDF states a public-comment sign-up or time-limit procedure, so that field is left blank."
+  verified: 2026-09-08
+
+- id: henderson-county-board
+  area: Henderson County
+  page: WNC/Henderson County/index
+  body: Henderson County Board of Commissioners
+  date: 2026-09-08
+  time: "5:30 PM"
+  venue: 1 Historic Courthouse Square, Hendersonville, NC
+  address: 1 Historic Courthouse Square, Hendersonville, NC 28792
+  comment: Informal Public Comment is a standing agenda item held during the meeting, after the Proclamation and before Discussion/Adjustment of Agenda; the posted agenda states no sign-up procedure or time limit.
+  agenda_url: "https://www.hendersoncountync.gov/sites/default/files/fileattachments/board_of_commissioners/meeting/138634/09.08.2026_agenda_with_links_f.pdf"
+  source_url: "https://www.hendersoncountync.gov/meetings?field_microsite_tid_1=111"
+  camera_item: "no"
+  status: scheduled
+  verify_note: "Tonight's 5:30 PM meeting and venue confirmed via both the meetings list page and the posted agenda PDF; the posted agenda has no camera, license plate reader, Flock, or Axon item. The 09/16/2026 meeting listed on the calendar is at 9:30am, not evening, and has no agenda posted yet as of 2026-09-08."
+  verified: 2026-09-08
+
+- id: macon-county-board
+  area: Macon County
+  page: WNC/Macon County/index
+  body: Macon County Board of Commissioners
+  date: 2026-09-08
+  time: "6:00 PM"
+  venue: Commissioners Boardroom, third floor, Macon County Courthouse
+  address: 5 West Main Street, Franklin, NC 28734
+  comment: Citizens must sign up for public comment via a sign-in sheet placed in the Boardroom prior to the meeting; comments are limited to three minutes.
+  agenda_url: "https://www.maconnc.org/images/commissioners/Agenda/Agenda 9 8 26.pdf"
+  source_url: "https://www.maconnc.org/roster.html"
+  camera_item: "no"
+  status: scheduled
+  verify_note: Regular meetings are held the second Tuesday of each month at 6 p.m.; the roster.html page lists Sept 8, 2026 as a regular meeting date and Oct 13, 2026 as the following one; the posted agenda PDF for Sept 8, 2026 contains no item on cameras, plate readers, Flock, Axon, or surveillance.
+  verified: 2026-09-08
+
+- id: rutherford-county-board
+  area: Rutherford County
+  page: WNC/Rutherford County/index
+  body: Rutherford County Board of Commissioners
+  date: 2026-09-08
+  time: "6:00 PM"
+  venue: Rutherford County Office Building, Commission Chambers
+  address: 289 North Main Street, Rutherfordton, NC 28139
+  agenda_url: "https://rutherfordcountync.legistar.com/Calendar.aspx"
+  source_url: "https://www.rutherfordcountync.gov/departments/county_commissioner/meeting_schedule.php"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The county's Legistar calendar lists the 9/8/2026 6:00 PM Board of Commissioners meeting but shows Agenda, Accessible Agenda, and Agenda Packet all as Not available, and Meeting details marked Not viewable by the public - draft, so the camera petition item cannot be confirmed from a posted agenda; public comment procedure is also not stated on the county's meeting schedule page."
+  verified: 2026-09-08
+
+- id: watauga-boone
+  area: Watauga County
+  page: WNC/Watauga County/index
+  body: Boone Town Council
+  date: 2026-09-09
+  time: "9:00 AM"
+  venue: Town Council Chambers
+  address: 1500 Blowing Rock Road, Boone, NC
+  comment: Agenda lists a Public Comment item (No. 7) but the posted agenda does not state a sign-up procedure or time limit.
+  agenda_url: "https://www.townofboone.net/DocumentCenter/View/4928/September-9-2026-Boone-Town-Council-Agenda"
+  source_url: "https://www.townofboone.net/AgendaCenter"
+  camera_item: "no"
+  status: scheduled
+  verify_note: "County: Watauga County Board of Commissioners meets the first and third Tuesday of each month at 5:30 PM in the Commissioners' Board Room, Watauga County Administration Building, 814 West King Street, Boone NC, per wataugacounty.org/App_Pages/Dept/BOC/home.aspx; that puts its next regular meeting on 2026-09-15 at 5:30 PM at that address, though no meeting-specific agenda for that date was located to confirm it beyond the standing schedule."
+  verified: 2026-09-08
+
+- id: mcdowell-county-board
+  area: McDowell County
+  page: WNC/McDowell County/index
+  body: McDowell County Board of Commissioners
+  date: 2026-09-14
+  time: "5:00 PM"
+  venue: Commissioners Board Room, McDowell County Administrative Offices
+  address: 69 N Main Street, Marion, NC
+  agenda_url: "https://mcdowellnc.gov/commissioners/agendas/2026"
+  source_url: "https://mcdowellnc.gov/commissioners/meeting-schedule"
+  camera_item: unknown
+  status: scheduled
+  verify_note: The county's Agendas 2026 listing page has not yet posted a September agenda as of 2026-09-08, so camera_item is unknown and comment procedure is not stated on the Meeting Schedule page.
+  verified: 2026-09-08
+
+- id: buncombe-county-board
+  area: Buncombe County
+  page: WNC/Buncombe County/index
+  body: Buncombe County Board of Commissioners
+  date: 2026-09-15
+  time: "5:00 PM"
+  venue: Commission Chambers, Room 326, 200 College St, Asheville, NC
+  address: 200 College St, Room 326 (Commission Chambers, 3rd Floor), Asheville, NC 28801
+  comment: "Per the Board's Rules of Procedure (buncombenc.gov/710/Policies-Procedures): the agenda is published and available for public inspection no later than 5 pm the Wednesday preceding the meeting; a request to address the Board on a general item must be made in writing to the County Manager stating the nature of the matter, with a 5-minute time limit unless the Board grants more time; the September 1, 2026 working agenda states Public Comment is taken at the beginning of the meeting with a dedicated Public Comment agenda item later in the meeting as well; comment on specific New Business items follows a separate 3-minute procedure requiring two Commissioners to request it."
+  agenda_url: "https://buncombeconc.portal.civicclerk.com/event/3625/overview"
+  source_url: "https://www.buncombenc.gov/710/Policies-Procedures ; meeting schedule and location confirmed via https://buncombeconc.portal.civicclerk.com/event/3625 (CivicClerk API: https://buncombeconc.api.civicclerk.com/v1/Events/3625), linked from https://www.buncombenc.gov/calendar.aspx?EID=8919"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The Sept 15, 2026 agenda itself was not yet posted as of this check (CivicClerk event 3625 shows publishedFiles: [] and cutOffDateTime 2026-09-04, but per Rules of Procedure it should post by 5 pm the Wednesday before, i.e. Sept 10, 2026), so camera_item and the exact per-meeting comment sign-up detail could not be confirmed from that specific agenda. The Board meets on the 1st and 3rd Tuesdays of the month at 5:00 PM, confirmed via CivicClerk event records for July 21, Aug 18, Sept 1, Sept 15, Oct 6 and Oct 20, 2026."
+  verified: 2026-09-08
+
+- id: jackson-county-board
+  area: Jackson County
+  page: WNC/Jackson County/index
+  body: Jackson County Board of Commissioners
+  date: 2026-09-15
+  time: "6:30 PM"
+  venue: Commissioners Board Room, second floor of the Justice Center, 401 Grindstaff Cove Road, Sylva, NC
+  address: 401 Grindstaff Cove Road, Sylva, NC 28779
+  agenda_url: "https://www.jacksonnc.org/AgendaCenter"
+  source_url: "https://www.jacksonnc.org/169/Board-of-Commissioners"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The Commissioner Meeting Notices page lists a 2026-09-15 Regular Meeting Notice under September Meetings, confirming the date, and the Board of Commissioners page states regular meetings fall on the first and third Tuesdays at 6:30pm in the Commissioners Board Room, but as of 2026-09-08 no agenda has been posted yet in the Agenda Center so the camera item and public comment procedure could not be confirmed from a posted agenda."
+  verified: 2026-09-08
+
+- id: henderson-county-board-next
+  area: Henderson County
+  page: WNC/Henderson County/index
+  body: Henderson County Board of Commissioners
+  date: 2026-09-16
+  time: "9:30 AM"
+  venue: 1 Historic Courthouse Square, Hendersonville, NC
+  address: 1 Historic Courthouse Square, Hendersonville, NC 28792
+  source_url: "https://www.hendersoncountync.gov/meetings?field_microsite_tid_1=111"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "Listed on the county meetings calendar at 9:30 AM (a different time than the 5:30 PM regular evening meeting); no agenda posted yet as of 2026-09-08."
+  verified: 2026-09-08
+
+- id: brevard-city-council-next
+  area: Brevard
+  page: WNC/Transylvania County/index
+  body: Brevard City Council
+  date: 2026-09-21
+  time: "5:30 PM"
+  venue: City Hall, City Council Chambers
+  address: 95 W Main St, Brevard, NC 28712
+  source_url: "https://www.cityofbrevard.com/AgendaCenter"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "Posted agenda (item M.3) lists \"Automated License Plate Readers (ALPRs)\" as a New Business item, not specifically named Axon, and the city calendar (cityofbrevard.com/calendar.aspx, CID=23) confirms the Sept 8, 2026 meeting at City Hall, 5:30-7:30 PM, and the next regular meeting on Sept 21, 2026, 5:30 PM, same venue; neither the calendar nor the agenda PDF states a public-comment sign-up or time-limit procedure, so that field is left blank."
+  verified: 2026-09-08
+
+- id: mcdowell-county-board-next
+  area: McDowell County
+  page: WNC/McDowell County/index
+  body: McDowell County Board of Commissioners
+  date: 2026-09-21
+  time: "5:00 PM"
+  venue: Commissioners Board Room, McDowell County Administrative Offices
+  address: 69 N Main Street, Marion, NC
+  source_url: "https://mcdowellnc.gov/commissioners/meeting-schedule"
+  camera_item: unknown
+  status: scheduled
+  verify_note: Listed on the county's meeting schedule as the meeting following the September 14, 2026 regular meeting; no agenda has been posted for it as of 2026-09-08, so camera_item is unknown.
+  verified: 2026-09-08
+
+- id: haywood-county-board
+  area: Haywood County
+  page: WNC/Haywood County/index
+  body: Haywood County Board of Commissioners
+  date: 2026-09-21
+  time: "5:30 PM"
+  venue: Haywood County Courthouse, Historic Courtroom
+  address: 215 N Main Street, Waynesville, NC 28786
+  comment: "Per the county's Agendas, Minutes & Videos page: use the eComment feature under Upcoming Events to request to speak or submit public comment, or email the Clerk to the Board (amy.stevens@haywoodcountync.gov) no later than 5:00 p.m. on the Sunday preceding each regularly scheduled Monday Board meeting."
+  agenda_url: "https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos"
+  source_url: "https://haywoodcountync.granicus.com/ViewPublisher.php?view_id=1"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The Granicus video/agenda portal lists this Sept 21, 2026 5:30 PM session as Board of Commissioners Regular Evening with no agenda link posted yet, so agenda_url points to the general agendas page and camera_item is unknown; the county's Board of Commissioners page states the standing schedule as 1st Monday 9 a.m. and 3rd Monday 5:30 p.m. at the Haywood County Courthouse Historic Courtroom, which is why following_date is left blank (not explicitly confirmed as a scheduled event on the pages read)."
+  verified: 2026-09-08
+
+- id: asheville-public-safety
+  area: Asheville
+  page: WNC/Asheville/index
+  body: Asheville City Council Public Safety Committee
+  date: 2026-09-24
+  time: "11:00 AM"
+  venue: Remote meeting (virtual, per NC Gen. Stat. 166A-19.24(f)); livestream on Engagement Hub or the City's YouTube Channel, call-in (855) 925-2801 code 11543
+  comment: "Live call-in comments during the public comment period: (855) 925-2801, code 11543, then press * and select option 3. Pre-recorded voicemail comments accepted at the same number/code until 5:00 p.m. the day before the meeting. Written comments to publicsafetycommittee@PublicInput.com, also closing 5:00 p.m. the day before."
+  agenda_url: "https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/"
+  source_url: "https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The committee's page lists Next Meeting: September 24, 2026 at 11:00am and confirms it is virtual/remote under NC Gen. Stat. 166A-19.24(f); the September 24, 2026 agenda row exists in the meeting-materials table but has no link yet, so it is not posted as of 2026-09-08 and camera_item and following_date cannot be confirmed from the page. Separately, for Asheville City Council's next regular meeting: the official City Council Agenda page shows only the current Sept 8, 2026 formal meeting, and its linked draft 8-week agenda Google Doc (explicitly preliminary) shows No Meeting on Sept 15, 2026 and the next Council items listed under Sept 22, 2026, indicating the next regular Council meeting is expected Sept 22, 2026, but this is drawn from a draft planning document, not a finalized posted agenda."
+  verified: 2026-09-08
+
+- id: transylvania-county-board
+  area: Transylvania County
+  page: WNC/Transylvania County/index
+  body: Transylvania County Board of Commissioners
+  date: 2026-09-28
+  time: "6:00 PM"
+  venue: Multi-Purpose (Commissioners) Chambers, Transylvania County Administration Building
+  address: 101 S. Broad St., Brevard, NC
+  comment: The Board holds two 15-minute public comment periods each regular meeting, three minutes per speaker; sign up on the sheet in the Chambers foyer before the meeting for the first period, no sign-up needed for the second period at the end; written comments may be submitted to the Board at any time but are not read aloud.
+  agenda_url: "https://www.transylvaniacounty.org/meetings"
+  source_url: "https://www.transylvaniacounty.org/sites/default/files/2026-06/2026%20Regular%20Meeting%20Schedule%20for%20the%20website_0.pdf"
+  camera_item: unknown
+  status: scheduled
+  verify_note: The 2026 Regular Meeting Schedule PDF marks the September 14, 2026 (2nd Monday) meeting CANCELLED, so the next regular meeting is September 28, 2026; no agenda for September 28 was posted yet as of 2026-09-08, so camera_item is unknown (the latest posted agenda on the county's Board of Commissioners agendas list was for 2026-07-13).
+  verified: 2026-09-08
+
+- id: hendersonville-city-council
+  area: Hendersonville
+  page: WNC/Hendersonville/index
+  body: Hendersonville City Council
+  date: 2026-10-01
+  time: "5:45 PM"
+  address: 160 Sixth Avenue E., Hendersonville, NC 28792
+  comment: "Per hendersonvillenc.gov/public-comment: pre-submitted digital comments accepted for City Council meetings, due by noon the day of the meeting (photo/video attachments by 8am the day before); in-person attendees sign up to speak on a form before the meeting begins; virtual attendees join by Zoom (meeting ID and password posted on the Calendar Event) and use Raise Hand or *9 to be recognized, subject to time limits set by the meeting."
+  agenda_url: "https://hendersonville-nc.municodemeetings.com/meetings3"
+  source_url: "https://hendersonville-nc.municodemeetings.com/meetings3"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The city's Municode agenda portal lists the next City Council Regular Meeting for 10/01/2026 at 5:45pm; no agenda or agenda packet has been posted for it yet, so camera_item cannot be confirmed and address/venue is the city's general City Hall address rather than a meeting-specific location statement. Note the council also holds a City Council Second Monthly Meeting on 09/23/2026 at 4:00pm which is an earlier recurring council session but is titled differently from Regular Meeting on the portal, so it was not used as the answer; a site search for license plate reader on hendersonvillenc.gov returned no relevant results, and no public-input session specifically on plate readers was found advertised anywhere on the official pages checked."
+  verified: 2026-09-08
+
+- id: rutherford-county-board-next
+  area: Rutherford County
+  page: WNC/Rutherford County/index
+  body: Rutherford County Board of Commissioners
+  date: 2026-10-05
+  time: "6:00 PM"
+  venue: Rutherford County Office Building, Commission Chambers
+  address: 289 North Main Street, Rutherfordton, NC 28139
+  source_url: "https://www.rutherfordcountync.gov/departments/county_commissioner/meeting_schedule.php"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The county's Legistar calendar lists the 9/8/2026 6:00 PM Board of Commissioners meeting but shows Agenda, Accessible Agenda, and Agenda Packet all as Not available, and Meeting details marked Not viewable by the public - draft, so the camera petition item cannot be confirmed from a posted agenda; public comment procedure is also not stated on the county's meeting schedule page."
+  verified: 2026-09-08
+
+- id: buncombe-county-board-next
+  area: Buncombe County
+  page: WNC/Buncombe County/index
+  body: Buncombe County Board of Commissioners
+  date: 2026-10-06
+  time: "5:00 PM"
+  venue: Commission Chambers, Room 326, 200 College St, Asheville, NC
+  address: 200 College St, Room 326 (Commission Chambers, 3rd Floor), Asheville, NC 28801
+  source_url: "https://www.buncombenc.gov/710/Policies-Procedures ; meeting schedule and location confirmed via https://buncombeconc.portal.civicclerk.com/event/3625 (CivicClerk API: https://buncombeconc.api.civicclerk.com/v1/Events/3625), linked from https://www.buncombenc.gov/calendar.aspx?EID=8919"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The Sept 15, 2026 agenda itself was not yet posted as of this check (CivicClerk event 3625 shows publishedFiles: [] and cutOffDateTime 2026-09-04, but per Rules of Procedure it should post by 5 pm the Wednesday before, i.e. Sept 10, 2026), so camera_item and the exact per-meeting comment sign-up detail could not be confirmed from that specific agenda. The Board meets on the 1st and 3rd Tuesdays of the month at 5:00 PM, confirmed via CivicClerk event records for July 21, Aug 18, Sept 1, Sept 15, Oct 6 and Oct 20, 2026."
+  verified: 2026-09-08
+
+- id: jackson-county-board-next
+  area: Jackson County
+  page: WNC/Jackson County/index
+  body: Jackson County Board of Commissioners
+  date: 2026-10-06
+  time: "6:30 PM"
+  venue: Commissioners Board Room, second floor of the Justice Center, 401 Grindstaff Cove Road, Sylva, NC
+  address: 401 Grindstaff Cove Road, Sylva, NC 28779
+  source_url: "https://www.jacksonnc.org/169/Board-of-Commissioners"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "The Commissioner Meeting Notices page lists a 2026-09-15 Regular Meeting Notice under September Meetings, confirming the date, and the Board of Commissioners page states regular meetings fall on the first and third Tuesdays at 6:30pm in the Commissioners Board Room, but as of 2026-09-08 no agenda has been posted yet in the Agenda Center so the camera item and public comment procedure could not be confirmed from a posted agenda."
+  verified: 2026-09-08
+
+- id: transylvania-county-board-next
+  area: Transylvania County
+  page: WNC/Transylvania County/index
+  body: Transylvania County Board of Commissioners
+  date: 2026-10-12
+  time: "6:00 PM"
+  venue: Multi-Purpose (Commissioners) Chambers, Transylvania County Administration Building
+  address: 101 S. Broad St., Brevard, NC
+  source_url: "https://www.transylvaniacounty.org/meetings"
+  camera_item: unknown
+  status: scheduled
+  verify_note: Per the 2026 Regular Meeting Schedule PDF, October 12, 2026 (2nd Monday) is the regular meeting following the September 28, 2026 meeting; no agenda has been posted for it as of 2026-09-08.
+  verified: 2026-09-08
+
+- id: macon-county-board-next
+  area: Macon County
+  page: WNC/Macon County/index
+  body: Macon County Board of Commissioners
+  date: 2026-10-13
+  time: "6:00 PM"
+  venue: Commissioners Boardroom, third floor, Macon County Courthouse
+  address: 5 West Main Street, Franklin, NC 28734
+  source_url: "https://www.maconnc.org/roster.html"
+  camera_item: unknown
+  status: scheduled
+  verify_note: Regular second-Tuesday meeting date per roster.html; no agenda posted yet as of 2026-09-08.
+  verified: 2026-09-08
+
+- id: madison-county-board
+  area: Madison County
+  page: WNC/Madison County/index
+  body: Madison County Board of Commissioners
+  date: 2026-10-13
+  venue: NC Cooperative Extension - Madison Center
+  agenda_url: "https://www.madisoncountync.gov/commissioners.html"
+  source_url: "https://www.madisoncountync.gov/commissioners.html"
+  camera_item: unknown
+  status: scheduled
+  verify_note: The commissioners.html page states the board meets on the second Tuesday of each month at the NC Cooperative Extension - Madison Center, does not state a meeting time, and shows a posted Meeting Agenda for September 8th, 2026 (today, a regular-meeting date) plus a separate Notice of Special Meeting September 8th, 2026 and a scanned Regular Meeting Schedule 2026 PDF (image-only, no extractable text) that could not be OCR'd here; the next second-Tuesday date after today is 2026-10-13, but no posted agenda for that date was found to confirm it against the schedule PDF.
+  verified: 2026-09-08
+
+- id: state-287g-dps-date
+  area: North Carolina
+  label: "the date the Department of Public Safety told BPR it would meet for the state agencies' 287(g) agreements with ICE under S.L. 2026-19; the act itself sets no date"
+  date: 2026-10-01
+  agenda_url: "https://www.bpr.org/2026-08-20/nc-law-enforcement-agencies-working-to-implement-ice-cooperation-law-ahead-of-oct-1-deadline"
+  source_url: "https://www.ncleg.gov/EnactedLegislation/SessionLaws/HTML/2025-2026/SL2026-19.html"
+  status: scheduled
+  verify_note: "Read 2026-09-08: the enacted text of S.L. 2026-19 is effective when it becomes law and contains no October 1 date; the Oct 1, 2026 date comes from DPS's statement reported by BPR on Aug 20, 2026, cited on Briefings/What the Law Lets the County Do."
+  verified: 2026-09-08
+
+- id: early-voting
+  area: North Carolina
+  label: early voting begins; it runs through Saturday, Oct 31
+  date: 2026-10-15
+  source_url: "https://www.ncsbe.gov/voting/vote-early-person"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "Early voting for the Nov 3, 2026 general election: in-person early voting starts Thursday, Oct. 15, 2026 and ends 3 p.m. Saturday, Oct. 31, 2026; Election Day is Tuesday, Nov. 3, 2026 (ncsbe.gov/voting/vote-early-person). Separately, S.L. 2026-19 (SB 153) requires certain state officials to enter 287(g) agreements with ICE, but the enacted text sets no October 1, 2026 deadline for entering those agreements: the only dates tied to this requirement are an August 1, 2025 report deadline to the Joint Legislative Oversight Committee on Justice and Public Safety, and a State Auditor compliance report due December 31, 2025. There is no October 1, 2026 language anywhere in the act, so that item as described could not be verified and is not represented as fact here."
+  verified: 2026-09-08
+
+- id: election-day
+  area: North Carolina
+  label: Election Day
+  date: 2026-11-03
+  source_url: "https://www.ncsbe.gov/voting/vote-early-person"
+  camera_item: unknown
+  status: scheduled
+  verify_note: Election Day, per ncsbe.gov/voting/vote-early-person.
+  verified: 2026-09-08

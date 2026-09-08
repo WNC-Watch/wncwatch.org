@@ -15,9 +15,8 @@
 #     on http://192.168.50.66:3310. Refuses to run unless the current branch
 #     is main.
 #
-# Before the rsync, if site/calendar.yml and the campaign's calendar_render.py
-# tool both exist, runs the render (it is idempotent) so content/index.md's
-# calendar block is current before it ships to either instance.
+# site/calendar.yml ships with the content; the Calendar transformer
+# (quartz/plugins/transformers/calendar.ts) renders it at build time.
 #
 # Exit status: non-zero on a bad/missing argument, a failed branch guard, or a
 # failed Quartz build (the container's exit status is propagated). Either way,
@@ -40,7 +39,6 @@ fi
 
 SITE="$(cd "$(dirname "$0")" && pwd)"
 CALENDAR_YML="$SITE/calendar.yml"
-CALENDAR_RENDER="/Users/benjaminellis/Documents/wnc-watch/repo/campaigns/2026-09-restructure/tools/calendar_render.py"
 
 BRANCH="$(git -C "$SITE" rev-parse --abbrev-ref HEAD)"
 
@@ -63,14 +61,12 @@ else
   PORT="3310"
 fi
 
-if [ -f "$CALENDAR_YML" ] && [ -f "$CALENDAR_RENDER" ]; then
-  echo "Rendering calendar.yml into content/index.md..."
-  python3 "$CALENDAR_RENDER" --site "$SITE" --create
-fi
-
 echo "Syncing content to docker-01:~/$REMOTE_DIR/content/..."
 rsync -az --delete --exclude .quartz-cache "$SITE/content/" "docker-01:~/$REMOTE_DIR/content/"
 rsync -az "$SITE/quartz.config.ts" "$SITE/quartz.layout.ts" "docker-01:~/$REMOTE_DIR/"
+if [ -f "$CALENDAR_YML" ]; then
+  rsync -az "$CALENDAR_YML" "docker-01:~/$REMOTE_DIR/"
+fi
 rsync -az --delete --exclude .quartz-cache "$SITE/quartz/" "docker-01:~/$REMOTE_DIR/quartz/"
 
 echo "Building on docker-01 (~/$REMOTE_DIR)..."

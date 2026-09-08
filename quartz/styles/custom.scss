@@ -153,6 +153,15 @@
   ul { margin: 0.4rem 0 0.2rem; }
 }
 
+// Calendar units, rendered from calendar.yml by the Calendar transformer
+.cal-unit {
+  strong { color: var(--dark); }
+}
+.cal-list {
+  margin: 0.4rem 0 0.2rem;
+  li { margin: 0.35rem 0; }
+}
+
 // Share block (QR) — white card so the code scans in dark mode too
 .avl-share {
   display: flex;
