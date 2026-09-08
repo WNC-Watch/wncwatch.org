@@ -7,7 +7,7 @@ aliases:
 
 **Title:** Superintendent, Buncombe County Schools (Dr. Rob Jackson) · a BCS alumnus who started in the district in 1992
 **In this role since:** November 1, 2022
-**Term ends:** retiring effective **September 1, 2026** (announced June 4, 2026) ([BPR](https://www.bpr.org/education/2026-06-08/buncombe-county-schools-superintendent-to-retire-in-september) · [WLOS](https://wlos.com/news/local/retirement-buncombe-county-schools-superintendent-rob-jackson-announces-education-board-school-students-career-leader-community-wnc-western-north-carolina))
+**Current term ends:** retiring effective **September 1, 2026** (announced June 4, 2026) ([BPR](https://www.bpr.org/education/2026-06-08/buncombe-county-schools-superintendent-to-retire-in-september) · [WLOS](https://wlos.com/news/local/retirement-buncombe-county-schools-superintendent-rob-jackson-announces-education-board-school-students-career-leader-community-wnc-western-north-carolina))
 
 ## Surveillance record
 

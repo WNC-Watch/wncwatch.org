@@ -9,9 +9,9 @@ This site documents what officials said. Public records show what they did. Nort
 
 **Two things to know before your first request:**
 
-**Refusals are evidence.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record|The Claims, Checked]]). You cannot lose: a released record answers a question, and a refusal proves the safeguard is unauditable.
+**A refusal is also a record.** In July 2025 a resident asked for the city's Flock audit records, the audits officials tout as the safeguard. The city refused. That refusal is now one of the most-cited facts on this site ([[Their Claims vs The Record|The Claims, Checked]]). A released record answers the question; a refusal shows the safeguard cannot be checked from outside.
 
-**"You're wasting tax money" has it backwards.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus, one the public is entitled to price in.
+**On the cost objection.** Records requests force the city to reveal the true cost and true behavior of a system sold as cheap and automated. If answering basic questions about the surveillance apparatus is expensive, that is a fact about the apparatus, one the public is entitled to price in.
 
 ## How to file
 
@@ -25,7 +25,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ## The queue
 
-### 1. The executed Axon contract: the one that "did not exist yet"
+### 1. The executed Axon contract, authorized May 12, 2026
 
 **To: City of Asheville.** On May 7, 2026, the city manager confirmed the Axon agreement council was about to authorize "[[2026-05-07 Agenda Briefing|does not exist yet]]." Council voted [[2026-05-12 City Council|May 12]] to let her negotiate and sign it. The final signed terms have never been published.
 
@@ -33,7 +33,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the signed terms match the public promises: retention, data ownership, ACEIP, termination, renewal pricing. ([[What Axon Contracts Do]]). **Status: not yet filed**
 
-### 2. The ACEIP election: one checkbox, one yes-or-no
+### 2. The city's participation status in Axon's ACEIP data program
 
 **To: City of Asheville.** Axon's standard contract [[What Axon Contracts Do|enrolls every customer by default]] in its Customer Experience Improvement Program (city data used for vendor product development) unless the agency affirmatively revokes.
 
@@ -41,7 +41,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether Asheville's footage and data are, right now, vendor training material by default. If nobody can answer, default terms govern, and the default is enrolled. **Status: not yet filed**
 
-### 3. The quarterly audits they cite but won't show
+### 3. APD's plate-reader and RTIC audit reports, 2024 to present
 
 **To: City of Asheville.** APD says quarterly audits are the safeguard ("100% of the time, we have reasons"). When a resident asked for Flock audit records in July 2025, [the city refused on September 9, 2025](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/), citing G.S. 20-183.31(b) and the criminal-investigation exemption (G.S. 132-1.4). Here's what those exemptions don't reach, and the statute that cuts the other way. **[G.S. 20-183.31(a)(7)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-183.31.html) requires every ALPR agency's written policy to provide for "annual or more frequent auditing and reporting of automatic license plate reader system use and effectiveness to the head of the agency."** The reports are required to exist by state law. And the confidentiality provision (G.S. 20-183.32(e)) covers *captured plate data* (the scans themselves), not program-level reports about use and effectiveness.
 
@@ -49,7 +49,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** either the statutorily required audit reports exist and say something, or the accountability mechanism officials cite in public cannot survive a records request. Both outcomes are publishable. ([[Promise Tracker]]). **Status: predecessor refused Sept 9, 2025; this re-scoped version not yet filed**
 
-### 4. Roney's 29 questions, and every answer
+### 4. Councilmember Roney's 29 written questions and the responses, March 2025
 
 **To: City of Asheville.** In March 2025, Councilmember [[Kim Roney|Roney]] submitted [[2025-03-25 City Council|29 written questions]] about the [[What Is the RTIC|RTIC]] to staff. The public has never seen the answers, or learned whether answers exist.
 
@@ -57,7 +57,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether council's most basic due-diligence questions were ever answered before three separate votes. **Status: not yet filed**
 
-### 5. The legal opinion the city attorney promised
+### 5. The city attorney's opinion on the Flock data-license clause
 
 **To: City of Asheville.** On April 28, 2026, after Roney read the Flock contract's "**irrevocable, worldwide license**" clause aloud, City Attorney Branham promised, on the record, "a specific legal opinion to you on that particular provision." ([[2026-04-28 Work Session]])
 
@@ -65,7 +65,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** the opinion may be privileged; *whether it was ever written* is not. If council voted without it, that's the story. **Status: not yet filed**
 
-### 6. The support letters read into the record
+### 6. The support letters in the May 12, 2026 agenda materials
 
 **To: City of Asheville.** The May 12 agenda packet referenced support letters from officials (including names reported as Williams, Ferguson, and Jackson). The full texts (and who solicited them) matter.
 
@@ -73,7 +73,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the "community support" in the packet was organic or staff-assembled. ([[The Flockbook]] documents the vendor playbook for exactly this.) **Status: not yet filed**
 
-### 7. The facial-recognition denial: testable
+### 7. APD's face-recognition contracts and correspondence, 2019 to present
 
 **To: City of Asheville.** On April 28, 2026, APD stated: "We've never had a contract with Clearview... we do not use facial recognition." On the record, categorical, and checkable.
 
@@ -81,7 +81,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** the denial, or the end of it. Other cities' "we don't use it" claims have died on exactly this request: officers used free trials the chief didn't know about. ([[The Abuse Record]]). **Status: not yet filed**
 
-### 8. HACA: which cameras, and did anyone ask the residents?
+### 8. The Housing Authority's camera list and resident notices
 
 **To: Housing Authority of the City of Asheville.** Roughly [[Watching the Poor|500 cameras in "housing communities and businesses"]] feed the county network. No property list or resident-consent process has ever been published.
 
@@ -89,7 +89,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the people most surveilled by this system were ever told, much less asked. **Status: not yet filed**
 
-### 9. The schools MOU nobody voted on
+### 9. Buncombe County Schools' Fusus MOU
 
 **To: Buncombe County Schools.** ~1,500 cameras across 43+ schools joined the Sheriff's Fusus network via a late-2021 MOU. We can find **no board vote, no MOU text, no parent notification.** ([[WNC/Buncombe County/index|Buncombe County]])
 
@@ -97,7 +97,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether children's school cameras entered a police network with any governance at all, and it's timely: three school-board seats are on the November ballot. ([[Election 2026]]). **Status: not yet filed**
 
-### 10. The Fusus enterprise fund: surveillance as revenue
+### 10. The county's Fusus enterprise fund records
 
 **To: Buncombe County.** Camera owners pay the county $60/camera/year to join Fusus. That's an enterprise: revenue, expenses, contracts.
 
@@ -105,7 +105,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** the size, growth, and financial logic of the regional network Asheville plugged into. ([[Follow the Money]]). **Status: not yet filed**
 
-### 11. The December 2022 MOU: where it all started
+### 11. The December 2022 APD and Sheriff's Office MOU
 
 **To: City of Asheville and Buncombe County.** [[Jackie Stepp|Chief Stepp]]: APD has had Fusus access "since 2022" under an MOU signed [[WNC/Asheville/index|before any council vote]].
 
@@ -113,7 +113,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** the original no-vote foundation of everything since. **Status: not yet filed**
 
-### 12. The statewide layer
+### 12. The SBI's statewide plate-reader program records
 
 **To: NC State Bureau of Investigation** (confirm custodianship first: if the SBI redirects, ask which agency operates the statewide program and refile there; the redirect itself is worth documenting). The 2025 state budget made the state's Flock program permanent on state roads, including the highways feeding Asheville.
 
@@ -121,7 +121,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** the state-operated mesh around the city, the layer no local vote can touch, which is exactly why voters should see it. ([[Who Gets Watched]]). **Status: not yet filed**
 
-### 13. The unrecorded meeting and the resolution that vanished
+### 13. The March 26, 2026 committee recording and the November 2025 draft resolution
 
 **To: City of Asheville.** The [[The Committee|Public Safety Committee]] meeting that advanced the RTIC grant (March 26, 2026) is the only 2025–26 committee meeting with **no published recording**. And in November 2025, callers referenced a protective resolution (addressing ICE and surveillance) that was drafted and then tabled without ever reaching a council agenda.
 
@@ -129,15 +129,15 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** why the one meeting that formally advanced the RTIC is the one gap in the archive, and who killed the protective resolution the public was told to wait for. **Status: not yet filed**
 
-### 14. Who called whom: the origin of the earmark
+### 14. The April 2024 earmark correspondence
 
-**To: City of Asheville.** The record disagrees on how the $1.14M started. CAMS and BPR report the earmark came at APD's request; Mountain Xpress, citing a city report, says [[Chuck Edwards]]' office contacted APD in April 2024 about potential funding. Edwards signed the request letter May 22, 2024, while council knew nothing.
+**To: City of Asheville.** The record disagrees on how the $1.14M started. CAMS and BPR report the earmark came at APD's request; Mountain Xpress, citing a city report, says [[Chuck Edwards]]' office contacted APD in April 2024 about potential funding. Edwards signed the request letter May 22, 2024; council was not informed.
 
 > Under N.C.G.S. Chapter 132, I request: (1) all correspondence between the City of Asheville (including APD) and the office of Rep. Chuck Edwards between January 1, 2024 and June 30, 2024 concerning Community Project Funding, a Real-Time Intelligence Center, or federal appropriations for police technology; (2) the city report or memorandum referenced in May 2026 press coverage describing an April 2024 contact between Rep. Edwards' office and APD regarding this funding; (3) records sufficient to show which city officials were aware of the funding request before May 22, 2024.
 
 **What it proves:** who initiated the money that council was later told it would be wasteful to refuse, and exactly which officials knew, and when, while the elected body did not. ([[Chuck Edwards]]). **Status: not yet filed**
 
-### 15. The loose ends the August 20 release exposed
+### 15. The Axon contracts and the ACEIP opt-out, from the Aug 20 release
 
 **To: City of Asheville.** [[The RTIC Policy|Released emails]] show the Axon contract went for signature July 16, 2026; a separate contract for **20 Axon Fleet in-car plate readers** in its "final signature stage"; an ACEIP data-program opt-out resting on a sales rep's email ("I've opted you out") rather than any contract term; and workgroup notes saying city-county RTIC alignment "will be formalized in an MOU."
 
@@ -145,7 +145,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the contract council approved sight-unseen matches what was signed; what the never-announced in-car plate reader expansion covers; whether the data-program opt-out was ever formalized; and what the regional MOU commits the city to before anyone votes on it. **Status: not yet filed**
 
-### 16. The county network's paper trail: audits, the committee, the forfeiture money
+### 16. The Sheriff's Office audit reports, the Fusus Advisory Committee, and the forfeiture accounts
 
 **To: Buncombe County Sheriff's Office and Buncombe County.** The sheriff's [[WNC/Buncombe County/index|own policies]] say an annual plate-reader audit is conducted "along with sworn members of the FUSUS Advisory Committee," and state law requires the audit report to exist ([G.S. 20-183.31(a)(7)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-183.31.html)). The RTIC was "initially funded by Forfeiture-Dollars," which means federal equitable sharing, a program that requires an annual certification signed by the agency head and the head of the county's governing body. None of it has been published.
 
@@ -153,7 +153,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the audits the policy promises have ever been performed and what they found; who actually sits on the "advisory board" the sheriff cites; how much federal forfeiture money built the network and who certified it; and whether the enterprise fund sold to commissioners in 2022 has any revenue at all. File with the County through [NextRequest](https://buncombecountync.nextrequest.com/); the sheriff's office is a county custodian. **Status: not yet filed**
 
-### 17. The audit log, with the times: the sheriff's Fusus record and the city's
+### 17. The Fusus access logs with timestamps, county and city
 
 **To: Buncombe County (for the Sheriff's Office) and the City of Asheville (for APD).** In May 2026 the county released [28 months of the Sheriff's Office's Fusus audit log](https://www.muckrock.com/foi/buncombe-county-4590/public-records-request-fusus-logs-211165/) within a day, then withheld eight columns, including the date and time of every entry, under G.S. 132-1.4. [[Sheriffs Audit Log|What the released columns show]] is that 58 percent of camera viewing was on public housing, almost all of it live. Without timestamps, nobody can say when. APD has its own Fusus account on the same county network and has never released its log.
 
@@ -161,7 +161,7 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the six daily hours of live viewing on housing cameras happen around the clock; whether viewing spikes around protests, elections, or particular days; whether any account viewed a camera outside its shift or assignment; and whether the city's use of the same network looks like the county's. The county's one-day turnaround on the May 2026 request is the answer to any agency that calls an audit log burdensome. File with the County through [NextRequest](https://buncombecountync.nextrequest.com/) and with the City through [its records portal](https://www.ashevillenc.gov/department/city-clerk/public-records-request/).
 
-## When they say no
+## If a request is refused
 
 Expect these, and know what each refusal means:
 

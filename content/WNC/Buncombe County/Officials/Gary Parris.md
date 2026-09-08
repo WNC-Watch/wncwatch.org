@@ -15,11 +15,7 @@ aliases:
 
 **No public position found** on the Fusus network, Flock, plate readers, or the county's ~2,000-camera system (as of Aug 17, 2026), despite having worked inside the department that runs it.
 
-## Why his silence matters more than most
-
-Whoever wins this race inherits the region's largest surveillance network with essentially no external constraints: [[Quentin Miller|Miller's]] ICE-limiting commitments are personal policy, not law. Nationally, the strongest anti-surveillance politics of 2026 has come from **Republican-led communities**: [[WNC/Macon County/index|Macon County]]'s GOP organized the removal of its Flock cameras an hour west of here ([[WNC and NC]]). Whether Parris follows that current or runs on expanding the network is, as of now, completely unknown.
-
-## The question for him
+## What is pending with him
 
 Would he keep, expand, or cut the Fusus network? Publish its audit logs? Maintain the school-camera integration? See [[Election 2026]].
 

@@ -7,7 +7,7 @@ aliases:
 
 **Title:** Director, North Carolina State Bureau of Investigation (Roger "Chip" Hawley, the SBI's 19th director)
 **In this role since:** November 2024 (appointed by Gov. Cooper; the legislature had blocked confirmation hearings for over a year, leaving his predecessor to hold over) ([governor.nc.gov](https://governor.nc.gov/news/press-releases/2024/11/21/chip-hawley-sworn-director-north-carolina-state-bureau-investigation) · [WRAL](https://www.wral.com/story/sbi-director-staying-on-despite-expiring-term-as-power-struggle-simmers/20935651/))
-**Term:** six years, subject to legislative confirmation
+**Term length:** six years, subject to legislative confirmation
 
 ## Record on these issues
 
