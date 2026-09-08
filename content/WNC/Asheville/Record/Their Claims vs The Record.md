@@ -19,19 +19,19 @@ This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligen
 
 **The statement.** Stepp, May 12, 2026: "There's a really robust audit trail built into all of this." Technology manager [[Jimmy Wingo]], Aug 6, 2026: "Our lieutenant does quarterly audits. He just did an audit, and 100% of the time, we have reasons." ([828NewsNow](https://828newsnow.com/news/228822-flock-cameras-asheville-police-explain-use-of-11-license-plate-readers/))
 
-**The record.** APD's audits are internal and have not been published. A resident requested the city's Flock audit records in July 2025; the city refused on Sept 9, 2025, citing G.S. 20-183.31(b) and G.S. 132-1.4 ([[Records Center|the request and its re-scoped successor]]). The ALPR dashboards APD announced return a 404 error ([[Documents]]). In Mooresville, a Flock officer's 31 searches each carried a logged reason and passed review; the reasons were later alleged to be false ([[The Abuse Record]]). EFF's review of 11.4 million Flock searches found more than 14 percent justified with the single word "investigation."
+**The record.** APD's audits are internal and have not been published. A resident requested the city's Flock audit records in July 2025; the city refused on Sept 9, 2025, citing G.S. 20-183.31(b) and G.S. 132-1.4 ([[Records Center|the request and its re-scoped successor]]). The ALPR dashboards APD announced return a 404 error ([[Documents]]). In Mooresville, a Flock officer's 31 searches each carried a logged reason and passed review; the reasons were later alleged to be false ([[Camera Network Misuse|Camera network misuse, documented cases]]). EFF's review of 11.4 million Flock searches found more than 14 percent justified with the single word "investigation."
 
 ## Data ownership and federal sharing
 
 **The statement.** Stepp, May 12, 2026 (4:47:05): "Axon neither has access to the Fusus or to the system, or retains data. Actually, police department owns the information." To WLOS: "APD owns the data that we collect, and we have to agree to share that information out, regardless of who requested it." Deputy Chief Aardema, same coverage: "We control Axon Fusus and we will not be sharing information with federal immigration." Capt. Moore: "We do not and will not share that information short of a court order." Axon's representative, to the Watchdog: "We do not have access. We've never had access." ([WLOS](https://wlos.com/news/local/asheville-police-department-city-council-new-surveillance-technology-violent-crimes-real-time-intelligence-center-housing-authority-patrol-officers-immigration-customs-enforcement-community-members-federal-government-investigation) · [Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 
-**The record.** The executed Axon contract has not been released as of Sept 8, 2026 ([[Promise Tracker]]). Axon's Master Services and Purchasing Agreement, the form Asheville signed onto, names Axon an independent data controller of metadata and enrolls each customer by default in its Customer Experience Improvement Program ([[What Axon Contracts Do]]); a resident read the vendor's "good faith belief" disclosure clause into the record on May 12 ([[2026-05-12 City Council]]). Through August 2026 APD's plate data was shared with agencies across a 500-mile radius; the Aug 14 memo narrows that to four states ([[Jackie Stepp|the memo]]). In the cases documented nationally, immigration searches of a local network were run by another agency in the network rather than requested of the local department ([[The Abuse Record]]). Flock ran a Customs and Border Protection pilot on customers' data; Evanston, Illinois terminated its contract for breach over it ([[How Cities Won]]). Aardema, in the same WLOS coverage: "in other areas you see law enforcement agencies using data in ways that would not be appropriate for the Asheville community."
+**The record.** The executed Axon contract has not been released as of Sept 8, 2026 ([[Promise Tracker]]). Axon's Master Services and Purchasing Agreement, the form Asheville signed onto, names Axon an independent data controller of metadata and enrolls each customer by default in its Customer Experience Improvement Program ([[What Axon Contracts Do]]); a resident read the vendor's "good faith belief" disclosure clause into the record on May 12 ([[2026-05-12 City Council]]). Through August 2026 APD's plate data was shared with agencies across a 500-mile radius; the Aug 14 memo narrows that to four states ([[Jackie Stepp|the memo]]). In the cases documented nationally, immigration searches of a local network were run by another agency in the network rather than requested of the local department ([[Camera Network Misuse|Camera network misuse, documented cases]]). Flock ran a Customs and Border Protection pilot on customers' data; Evanston, Illinois terminated its contract for breach over it ([[How Cities Won]]). Aardema, in the same WLOS coverage: "in other areas you see law enforcement agencies using data in ways that would not be appropriate for the Asheville community."
 
 ## Search-term blocks
 
 **The statement.** Wingo, July 8, 2026: "We have blocks on words that have anything to do with immigration, anything to do with reproductive issues." ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations))
 
-**The record.** In Texas, a deputy's search of 83,000 cameras for a woman who had an abortion was later reclassified as a missing-person case. The ACLU has documented officers advising each other on what to enter in the reason field ([[The Abuse Record]]). A block on search terms applies to the words an officer types.
+**The record.** In Texas, a deputy's search of 83,000 cameras for a woman who had an abortion was later reclassified as a missing-person case. The ACLU has documented officers advising each other on what to enter in the reason field ([[Camera Network Misuse|Camera network misuse, documented cases]]). A block on search terms applies to the words an officer types.
 
 ## Predictive use
 
@@ -43,7 +43,7 @@ This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligen
 
 **The statement.** Aardema: "We have been clear from the get-go that this is a reactive system, it's not predictive police and the primary focus is going to be on violent crime." Stepp: "We're not going to just randomly surveil or monitor people."
 
-**The record.** The limits in the approved package are policy, revisable without a council vote ([[Promise Tracker]]). Austin's audit found 10 to 20 percent of searches with no documented purpose; San Francisco police watched protests live through a private camera network; Memphis police surveilled activists in violation of a federal consent decree ([[The Abuse Record]]).
+**The record.** The limits in the approved package are policy, revisable without a council vote ([[Promise Tracker]]). Austin's audit found 10 to 20 percent of searches with no documented purpose; San Francisco police watched protests live through a private camera network; Memphis police surveilled activists in violation of a federal consent decree ([[Camera Network Misuse|Camera network misuse, documented cases]]).
 
 ## Facial recognition
 
@@ -93,7 +93,7 @@ This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligen
 
 **The statement.** APD's presentations from March 2025 to May 2026 gave staffing shortages as a reason for the RTIC, which would let the department "do more with less."
 
-**The record.** The RTIC's own staffing plan calls for four positions ([[Documents]]). The Axon payments are $740,000 in FY27 and $777,500 in FY28. The one randomized trial of Axon's Draft One report-writing product found no time savings ([[What Axon Contracts Do]]). The LAPD Inspector General's sample found one stolen-vehicle alert in three false ([[The Abuse Record]]).
+**The record.** The RTIC's own staffing plan calls for four positions ([[Documents]]). The Axon payments are $740,000 in FY27 and $777,500 in FY28. The one randomized trial of Axon's Draft One report-writing product found no time savings ([[What Axon Contracts Do]]). The LAPD Inspector General's sample found one stolen-vehicle alert in three false ([[Camera Network Misuse|Camera network misuse, documented cases]]).
 
 ## The clearance-rate figures, by date
 
@@ -119,6 +119,6 @@ When citing these figures, name the jurisdiction (the Sheriff's Office slice, th
 
 The six statements Axon and Flock representatives made at the [[2026-04-28 Work Session|April 28, 2026 work session]] (the immigration filter, APD's control of its data, mandatory search reasons, quarterly audits, city data ownership, no facial recognition) are set beside the record in the [CAMS and Sunshine Labs one-pager](https://www.sunshinelabs.org/wp-content/uploads/2026/05/Asheville-RTIC-%E2%80%93-1-Pager.pdf). In the same season, researchers gained root access to a Flock camera in 30 seconds, about 70 cameras were found streaming openly, and members of Congress asked the FTC to investigate ([[Flock Safety]]). Vendor statements in other cities that were later contradicted on the record are on [[How Cities Won]] (Sedona, Oshkosh, Evanston).
 
-*Related: [[Promise Tracker]] · [[The Abuse Record]] · [[Claims Library]] · [[Documents]]*
+*Related: [[Promise Tracker]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Claims Library]] · [[Documents]]*
 
 *Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

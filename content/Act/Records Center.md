@@ -79,7 +79,7 @@ A request needs no magic words. State that you are requesting public records und
 
 > Under N.C.G.S. Chapter 132, I request: (1) any contracts, trial agreements, free-trial account records, invoices, or correspondence between APD (or any APD employee using a city email address) and Clearview AI, PimEyes, Rekor, Verkada, or any vendor of face-recognition services, from 2019 to present; (2) records of any APD access to face-recognition capabilities through the Buncombe County Sheriff's Office, the SBI, or any regional task force.
 
-**What it proves:** the denial, or the end of it. Other cities' "we don't use it" claims have died on exactly this request: officers used free trials the chief didn't know about. ([[The Abuse Record]]). **Status: not yet filed**
+**What it proves:** the denial, or the end of it. Other cities' "we don't use it" claims have died on exactly this request: officers used free trials the chief didn't know about. ([[Camera Network Misuse|Camera network misuse, documented cases]]). **Status: not yet filed**
 
 ### 8. The Housing Authority's camera list and resident notices
 

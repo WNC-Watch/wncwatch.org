@@ -3,7 +3,7 @@ title: Axon
 description: The taser and body-camera company that owns Fusus, holds Asheville's 7.5-year contract, and now sells plate readers that mount inside streetlights and "blend in with their surroundings." The vendor the Flock exit hands the city to.
 ---
 
-Axon Enterprise is the company Asheville actually married. Flock's contract ends in February 2027 or sooner; Axon's runs to 2033 ([[What Axon Contracts Do]]). Axon owns Fusus, the platform under both the county's and the city's real-time centers ([[What Is the RTIC]]); it sells the body cameras, the in-car cameras, the tasers, the drones, and the cloud they all report to; and since 2025 it sells fixed plate readers of its own, which is what the city's August 2026 staff memo means by "expanding and integrating Axon's automated license plate reader capabilities" ([[2026-08-20 Agenda Briefing]]). The contract record is on [[What Axon Contracts Do]]; the dated incidents are on [[Stories That Check Out]]. This page is the company.
+Axon Enterprise is the company Asheville actually married. Flock's contract ends in February 2027 or sooner; Axon's runs to 2033 ([[What Axon Contracts Do]]). Axon owns Fusus, the platform under both the county's and the city's real-time centers ([[What Is the RTIC]]); it sells the body cameras, the in-car cameras, the tasers, the drones, and the cloud they all report to; and since 2025 it sells fixed plate readers of its own, which is what the city's August 2026 staff memo means by "expanding and integrating Axon's automated license plate reader capabilities" ([[2026-08-20 Agenda Briefing]]). The contract record is on [[What Axon Contracts Do]]; the dated incidents are on [[Camera Network Misuse|Camera network misuse, documented cases]]. This page is the company.
 
 ## The company
 
@@ -52,4 +52,4 @@ The Axon account executive whose footer advertised fixed plate readers, the Sour
 
 The council's Flock vote is a vendor change inside an Axon contract. What would make it more than that: a separate, public vote before any fixed Axon reader is installed; a published sharing list and retention number for Axon plate data; a location map, since the hardware is designed not to be noticed; and the executed contract itself, which the public has still not seen ([[Getting Flock Out|the eight demands]]).
 
-*Related: [[Flock Safety]] · [[What Axon Contracts Do]] · [[Stories That Check Out]] · [[The RTIC Policy]] · [[Getting Flock Out]]*
+*Related: [[Flock Safety]] · [[What Axon Contracts Do]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The RTIC Policy]] · [[Getting Flock Out]]*

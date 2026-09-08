@@ -19,7 +19,7 @@ Members of Congress must sign and publish a disclosure letter for every Communit
 
 > "This project is a good use of federal funds because it will improve operational efficiency and enhance community safety, which would enable the Asheville Police Department to protect and serve residents more effectively."
 
-That is the full justification. No data, no crime figures, no cost analysis, no comparison to alternatives: one sentence, submitted twice, a year apart, word for word. Set it beside what the sourced record actually shows about these systems: [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[The Abuse Record]].
+That is the full justification. No data, no crime figures, no cost analysis, no comparison to alternatives: one sentence, submitted twice, a year apart, word for word. Set it beside what the sourced record actually shows about these systems: [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Camera Network Misuse|Camera network misuse, documented cases]].
 
 **The request doubled.** The FY2025 request was **$529,692** ([his FY25 disclosure page](https://edwards.house.gov/fy25-community-project-funding)). The FY2026 request was **$1,141,255.50** ([FY26 page](https://edwards.house.gov/services/fy26-community-project-funding-requests)), more than double, with zero change in the justification text. No public explanation for the increase has been found. His **FY2027 request list contains no RTIC item.**
 

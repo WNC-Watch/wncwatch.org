@@ -48,7 +48,7 @@ Brevard is the one community in WNC deciding before signing: the draft policy an
 
 The "free" cameras come with monthly data-storage fees. The city attorney reviewed it favorably; the deputy chief previously ran Hendersonville's Flock system.
 
-The opening is real: a small city, a genuinely undecided council, and a decision not yet made. Everything on this site (the [[What Axon Contracts Do|contract record]], [[The Abuse Record]], [[How Cities Won|how other communities negotiated]]) is there for anyone who shows up with questions.
+The opening is real: a small city, a genuinely undecided council, and a decision not yet made. Everything on this site (the [[What Axon Contracts Do|contract record]], [[Camera Network Misuse|Camera network misuse, documented cases]], [[How Cities Won|how other communities negotiated]]) is there for anyone who shows up with questions.
 
 ## The county
 
@@ -86,7 +86,7 @@ What the draft leaves open, each phrased as a question the Sept 1 session can an
 3. The policy is **silent on Axon's default data program** (see the contract, below).
 4. Quarterly audits (§F.1) are internal, run "at the direction of the chief or designee," with no named seat and no publication. Will the quarterly summaries be published, and who, by job title, runs them?
 5. **Camera locations** are set by the chief on "data-driven criteria" (§B.2), with no publication requirement. Boone publishes its locations; will Brevard?
-6. Sharing (§G) permits disclosure to "a criminal justice officer at a Federal, State, or local law enforcement agency" on written request, with paperwork requirements but **no use-based limits**. Washington State's law names prohibited uses (immigration and reproductive-health enforcement); the documented cases behind those limits are on [[The Abuse Record]].
+6. Sharing (§G) permits disclosure to "a criminal justice officer at a Federal, State, or local law enforcement agency" on written request, with paperwork requirements but **no use-based limits**. Washington State's law names prohibited uses (immigration and reproductive-health enforcement); the documented cases behind those limits are on [[Camera Network Misuse|Camera network misuse, documented cases]].
 7. Alert verification is "**should** not rely solely on the ALPR alert" (§B.4), not "shall." The LAPD Inspector General found a 32.3% false-positive rate on stolen-vehicle alerts; a mandatory-verification word change is free.
 
 **The posted contract is Axon's standard Master Services and Purchasing Agreement (version 23, March 2025), all 50 pages of boilerplate.** The actual purchase quote, with Brevard's prices, line items, and subscription term, is not in the posted file; "Outpost" appears nowhere in it. The master terms that matter for a five-year decision:
