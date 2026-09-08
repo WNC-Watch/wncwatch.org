@@ -27,7 +27,7 @@ Read fairly, the memo is an accurate summary of where most courts have landed **
 
 **2. The Supreme Court moved two months before this memo was written, and the memo does not mention it.** In June 2026 the Supreme Court decided *Chatrie v. United States*, holding that police need a warrant to run "geofence" searches of phone location history. The Court rejected the government's position that short-term location data is harmless, writing that the government is ["wrong about the incapacity of short-term location information to reveal private matters."](https://therecord.media/license-plate-cameras-may-be-next-target-after-supreme-court-reins-in-location-tracking) The memo's entire answer to the aggregation argument is that plate-reader data is too thin to matter under *Carpenter*. That is precisely the reasoning *Chatrie* narrowed. Institute for Justice attorneys argue the ruling's logic (retrospective, indiscriminate databases of movement) reaches ALPR networks; Flock disputes it. Courts will decide who is right, which is the point: they have not yet.
 
-**3. The vote is about a contract, not a constitutional ruling.** The vote is whether Asheville should keep paying for this system, not whether a court would allow it. More than [[The National Wave|50 communities]] have ended or declined these systems as a policy choice. [[WNC and NC|Macon County commissioners voted 5-0]] to take theirs down. And this summer two North Carolina officers were [[The Abuse Record|criminally charged for abusing Flock systems]] that were, at all times, legal for their departments to operate.
+**3. The vote is about a contract, not a constitutional ruling.** The vote is whether Asheville should keep paying for this system, not whether a court would allow it. More than [[The National Wave|50 communities]] have ended or declined these systems as a policy choice. [[WNC and NC|Macon County commissioners voted 5-0]] to take theirs down. And this summer two North Carolina officers were [[Camera Network Misuse|criminally charged for abusing Flock systems]] that were, at all times, legal for their departments to operate.
 
 ## The memo itself
 
@@ -41,4 +41,4 @@ The three pages as shared publicly by Council member Turner:
 
 A full transcription is retained in our records. The memo reached the public because a council member chose to share it.
 
-*See also: [[Getting Flock Out]] (the resolution, scored against a real exit) · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Companies/The Abuse Record|The abuse record]]*
+*See also: [[Getting Flock Out]] (the resolution, scored against a real exit) · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Camera Network Misuse|The abuse record]]*

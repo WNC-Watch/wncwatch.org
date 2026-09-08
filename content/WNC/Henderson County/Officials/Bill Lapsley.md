@@ -14,7 +14,7 @@ aliases:
 
 The county's plate readers have never had a commission vote, and Lapsley has signaled they may never get one. His position, on the record: "My position is until we hear of some abuse or something radical happening, I don't see a problem." On results: "We've solved probably five or six cases, because of those. So [Griffin] said he's in support of continuing it." On misuse: "I'm not aware of anything even close to that." ([Hendersonville Lightning](https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html)) He raised the subject with Sheriff [[Lowell Griffin]] himself in spring 2026, before the petition, and left it there.
 
-"Until we hear of some abuse" describes a system whose abuse is discovered by audit logs the county has never asked for ([[The Abuse Record]]). The board holds the only lever the law gives it, the budget, and has declined to touch it ([[What the Law Lets the County Do]]).
+"Until we hear of some abuse" describes a system whose abuse is discovered by audit logs the county has never asked for ([[Camera Network Misuse|Camera network misuse, documented cases]]). The board holds the only lever the law gives it, the budget, and has declined to touch it ([[What the Law Lets the County Do]]).
 
 ## The question for him
 

@@ -3,7 +3,7 @@ title: Flock Safety
 description: The Atlanta company whose eleven cameras Asheville is about to remove, whose network the county's deputies still search, and whose own documents, leaks, and audit logs built most of the public record against it.
 ---
 
-Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[WNC/Henderson County/index|Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook]]; the dated incident list is on [[Stories That Check Out]].
+Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[WNC/Henderson County/index|Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook]]; the dated incident list is on [[Camera Network Misuse|Camera network misuse, documented cases]].
 
 ## The company
 
@@ -29,11 +29,11 @@ The pattern across the table is the one [[What They Can Actually Learn About You
 
 ## What the record shows
 
-Every item below is dated and sourced on [[Stories That Check Out]]. The short version:
+Every item below is dated and sourced on [[Camera Network Misuse|Camera network misuse, documented cases]]. The short version:
 
 - **Federal reach without a contract.** Local police ran more than 4,000 nationwide or statewide lookups for ICE with reasons like "immigration," "ICE+ERO," and "ICE WARRANT" (records from Danville, Illinois, May 2025). Customs and Border Protection searched more than 80,000 cameras through a pilot one department did not know it was in; Flock "paused all federal pilots" (August 2025). HSI, the Secret Service, and Navy investigators had access (October 2025); Senator Wyden: abuses "are not only likely but inevitable." A DEA agent used a local officer's password (August 2025). Florida wildlife officers searched thousands of cameras for ICE (April 2026).
 - **Reproductive care.** A Texas sheriff's office searched 83,000-plus cameras in states where abortion is legal for a woman who had self-managed an abortion, logged as a safety check; court records later showed a "death investigation" in which charging her was considered (May and October 2025).
-- **Misuse caught by logs, not policy.** "More than a dozen" officers arrested for using Flock to stalk (June 2026); an Orange City, Florida officer ran an ex-girlfriend's plate 69 times and her parents' plates 39 more; the first North Carolina charges came in Charlotte and Mooresville this summer ([[The Abuse Record]]).
+- **Misuse caught by logs, not policy.** "More than a dozen" officers arrested for using Flock to stalk (June 2026); an Orange City, Florida officer ran an ex-girlfriend's plate 69 times and her parents' plates 39 more; the first North Carolina charges came in Charlotte and Mooresville this summer ([[Camera Network Misuse|Camera network misuse, documented cases]]).
 - **Wrong people stopped.** LAPD's inspector general: 161 innocent people investigated in two months on false stolen-vehicle hits, some at gunpoint; the department let Flock lapse (July 2026).
 - **Hiding the tool from courts.** An Iowa sheriff's policy: "DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY"; multi-state guidance to be "as vague as permissible" (August 2026 and January 2026).
 - **Data that leaks.** Search reasons and plates indexed by DuckDuckGo and Bing (June 2026); government logins in malware dumps with no mandatory MFA, prompting an FTC request (November 2025); a redaction error unmasking millions of plates (January 2026); cameras open to the internet (December 2025).
@@ -49,4 +49,4 @@ Each fix dates the problem. Mandatory MFA in August 2026 means government logins
 
 Terminating the contract removes eleven cameras. It does not, by itself, close APD's search accounts, end the county sheriff's access, or change what [[WNC/Henderson County/index|Henderson County]]'s 2,048-agency list lets any neighbor see ([[Getting Flock Out]]). And the company's recorded behavior when a city leaves (Verona's bagged cameras, the "maintenance" work order instead of removal) is why the site's demands include a removal deadline and a paper trail. The replacement the staff memo describes, Axon plate readers "expanding and integrating," is the other company: [[Axon]].
 
-*Related: [[Axon]] · [[Stories That Check Out]] · [[The Flockbook]] · [[The National Wave]] · [[The Abuse Record]] · [[Getting Flock Out]]*
+*Related: [[Axon]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The Flockbook]] · [[The National Wave]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Getting Flock Out]]*

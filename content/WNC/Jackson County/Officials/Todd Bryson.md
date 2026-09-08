@@ -11,7 +11,7 @@ aliases:
 
 ## Surveillance record
 
-At the August 4, 2026 work session Bryson raised false flags on innocent drivers, the failure mode documented everywhere these systems are audited ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/) · [[WNC/Jackson County/index|Jackson County]] · [[The Abuse Record]]). One month of the county's records shows 4,652 hot-list hits against 563 searches; how many hits were wrong is not published.
+At the August 4, 2026 work session Bryson raised false flags on innocent drivers, the failure mode documented everywhere these systems are audited ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/) · [[WNC/Jackson County/index|Jackson County]] · [[Camera Network Misuse|Camera network misuse, documented cases]]). One month of the county's records shows 4,652 hot-list hits against 563 searches; how many hits were wrong is not published.
 
 ## The question for him
 

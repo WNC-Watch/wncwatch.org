@@ -33,7 +33,7 @@ More than a hundred pages. Start with what you need:
 <li><a href="./Briefings/Who-Gets-Watched">Who gets watched</a></li>
 <li><a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The sheriff's own audit log</a></li>
 <li><a href="./WNC/Asheville/Record/Watching-the-Poor">Cameras in public housing</a></li>
-<li><a href="./Companies/The-Abuse-Record">The abuse record</a></li>
+<li><a href="./Companies/Camera-Network-Misuse">Camera network misuse, documented cases</a></li>
 </ol></div>
 <div class="door"><span class="door-k">Who decides</span><p class="door-t">Know your leaders' positions</p><ol>
 <li><a href="./WNC/index">Every official and candidate, profiled</a></li>

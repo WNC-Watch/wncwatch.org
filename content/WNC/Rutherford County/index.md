@@ -53,4 +53,4 @@ Rutherford has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://ww
 
 **[Annie Dance / Cops & Congress](https://anniedance.substack.com)**, a 20-year journalist based in Rutherfordton, is the essential source: she livestreams and archives meetings the town itself deletes (**Meta erases the town's Facebook livestreams after ~30 days**), covers Flock consistently, and is often the only journalist in the room. County commissioners are on [Granicus](https://rutherfordcountync.granicus.com/ViewPublisher.php?view_id=2); her archive fills the gaps.
 
-*Related: [[WNC and NC]] · [[How Cities Won]] · [[The Abuse Record]]*
+*Related: [[WNC and NC]] · [[How Cities Won]] · [[Camera Network Misuse|Camera network misuse, documented cases]]*
