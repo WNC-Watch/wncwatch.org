@@ -7,7 +7,7 @@ import { AGENDA_LABEL, formatDate, loadCalendar, todayISO } from "../../plugins/
 // Region board: the homepage table of communities, rendered from the same
 // data the area lead draws (each area page's `standing`, `systems` with their
 // `kind`, and calendar.yml), so the board and the area pages cannot disagree.
-// Replaces the <div class="avl-board"> slot on the homepage. Row order is the
+// Replaces the <div class="avl-board"> slot on any page that carries it. Row order is the
 // list below; an area page's optional `board_label` names the row (Watauga
 // County's row reads "Boone + App State"). A row with nothing to show is omitted.
 
@@ -38,7 +38,7 @@ export const RegionBoard: BodyBlock = {
   placement: "slot",
   slot: "avl-board",
   render({ fileData, allFiles, ctx }: QuartzComponentProps): Element | null {
-    if (fileData.slug !== "index") return null
+    // renders wherever a page leaves the slot: the homepage and the WNC overview
     const { items } = loadCalendar(ctx.argv.directory)
     const today = todayISO()
     const rows: Element[] = []
