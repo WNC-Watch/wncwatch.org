@@ -7,7 +7,7 @@ aliases:
 
 A briefing is what staff hand council before a decision. These are ours, written for residents: long-form pages that each teach one idea properly, built to stay true after the news cycle moves on. They are the background reading behind our posts and campaigns, and every claim in them links to a record you can check.
 
-Briefings differ from the rest of the site by what they are for. [[The Record/index|The Record]] documents what happened in Asheville; [[Briefings/index|The System]] documents what was bought here. A briefing is written for a decision that has not happened yet, in a town we may never have written a county page for. If your community is being offered cameras this year, this is the section to read first.
+Briefings differ from the rest of the site by what they are for. [[The Record/index|The Record]] documents what happened in Asheville, meeting by meeting; the Asheville [[WNC/Asheville/Record/index|record chapters]] document what was bought here. A briefing is written for a decision that has not happened yet, in a town we may never have written a county page for. If your community is being offered cameras this year, this is the section to read first.
 
 ## The briefings
 

@@ -21,6 +21,12 @@ const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
     const ra = ia === -1 ? order.length : ia
     const rb = ib === -1 ? order.length : ib
     if (ra !== rb) return ra - rb
+    // Among the areas, the state and federal roster sorts after the counties.
+    if (depth === 3 && a.slug.startsWith("WNC/")) {
+      const la = a.slugSegment === "Raleigh-and-Washington" ? 1 : 0
+      const lb = b.slugSegment === "Raleigh-and-Washington" ? 1 : 0
+      if (la !== lb) return la - lb
+    }
   }
   return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
 }

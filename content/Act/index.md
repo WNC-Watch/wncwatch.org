@@ -14,4 +14,4 @@ Everything on this site points here. Pick the thing that fits the time you have.
 - **[[Election 2026]]**: Where every candidate stands, including the ones staying silent. Early voting starts **Oct 15**.
 - **[[Get Involved]]**: CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 
-*Who decides: [[WNC/index|People]]. The primary sources: [[Reference/index|Reference]].*
+*Who decides: the officials listed under each area of [[WNC/index|Western North Carolina]]. The primary sources: [[Reference/index|Reference]].*
