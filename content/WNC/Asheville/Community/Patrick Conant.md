@@ -1,6 +1,6 @@
 ---
 title: Patrick Conant
-description: Sunshine Labs founder; asked council the cost question nobody has answered and then obtained the records that became the RTIC's public rulebook.
+description: "Sunshine Labs founder. Asked council on May 12, 2026 what the RTIC's operating cost will be after the grant; filed the records requests that produced the RTIC policy documents released Aug 20, 2026."
 maintenance_note: "Named-person exception page (one of two, with Benn Jordan). Scope is strictly public, bylined work: the org, the records releases, on-the-record council statements with timestamps. Nothing personal is ever added here, and additions require Benjamin's sign-off. See wnc-citizen-naming-hard-rule."
 aliases:
   - "People/Community/Patrick Conant"

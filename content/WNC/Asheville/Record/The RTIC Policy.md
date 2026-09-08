@@ -1,6 +1,6 @@
 ---
 title: The RTIC Policy
-description: "Seven released records show how the RTIC's rulebook was written: what the four-page policy says, what disappeared between drafts, what never made it in, and the emails showing when the Axon contract was actually signed."
+description: "Seven released records on how the RTIC's governing policy was written: what Policy 1703 says, what changed between its four drafts, and the emails dating the Axon contract's signature to July 2026."
 aliases:
   - "The RTIC Policy"
   - "The Record/The RTIC Policy"
@@ -27,7 +27,7 @@ The final draft of [Policy 1703, Real Time Intelligence Center](assets/policy-17
 
 **Where the sentence came from.** That sharing clause is not APD's. The Buncombe County Sheriff's Office [[WNC/Buncombe County/index|RTIC policy]], approved April 9, 2025, reads: information "shall not be disclosed to any unauthorized person or entity, except as permitted by law or with a compelling need to share such information for legitimate law enforcement purposes." Policy 1703.3.C repeats it word for word. The county policy also still contains two things APD removed from its drafts: the instruction to use cameras near public events "to look for suspicious activity leading up to and during the event," and the once-per-shift review of plate-reader hot-list entries. Asheville's rulebook is the county's, with the candid parts taken out.
 
-What the county's version of the policy produces is measurable. The Sheriff's Office's own Fusus audit log, released in May 2026, shows that "proactive monitoring" is the center's main activity: 217,506 live camera views against 7,052 recorded, 58 percent of them on public housing ([[Sheriffs Audit Log|The Sheriff's Audit Log]]). APD's Policy 1703 copies the county's sharing clause; whether it copies the county's habits is a question only APD's own log can answer ([[Records Center|request 17]]).
+What the county's version of the policy produces is measurable. The Sheriff's Office's own Fusus audit log, released in May 2026, shows that "proactive monitoring" is the center's main activity: 217,506 live camera views against 7,052 recorded, 58 percent of them on public housing ([[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]). APD's Policy 1703 copies the county's sharing clause; whether it copies the county's habits is a question only APD's own log can answer ([[Records Center|request 17]]).
 
 ## What changed between drafts
 

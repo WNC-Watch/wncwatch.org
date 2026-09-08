@@ -1,6 +1,6 @@
 ---
 title: Timeline
-description: How Asheville got a Real-Time Intelligence Center. Every vote, dollar, and maneuver, dated and sourced.
+description: "How Asheville came to have a Real-Time Intelligence Center: each vote, grant, and contract from 2022 to now, dated and sourced."
 aliases:
   - "Timeline"
   - "The Record/Timeline"
@@ -51,7 +51,7 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 > [!note] Verified from the city's own video
 > Press coverage disagreed on the vote count (4 to 1, 5 to 1, and 6 to 1 all appeared). The city's own recording settles it: the chair states on video, "the vote was **6 to 1** in favor of item B1," and B2 followed 6 to 1 as well. The B1 vote was taken **off-microphone amid shouting, seconds after public comment closed**; a council member had to announce "in case you didn't notice, there was just a vote." Full minute-by-minute reconstruction with video timestamps: [[2026-05-12 City Council]].
 
-**May 13, 2026: The county releases the sheriff's audit log.** One day after an anonymous public records request, Buncombe County produces 28 months of the Sheriff's Office's Fusus access log, 337,838 entries, and withholds eight columns including every timestamp under G.S. 132-1.4 ([MuckRock](https://www.muckrock.com/foi/buncombe-county-4590/public-records-request-fusus-logs-211165/)). The released columns show 58 percent of camera viewing on public housing and 95 to 99 percent of it live. Analyzed August 2026: [[Sheriffs Audit Log|The Sheriff's Audit Log]].
+**May 13, 2026: The county releases the sheriff's audit log.** One day after an anonymous public records request, Buncombe County produces 28 months of the Sheriff's Office's Fusus access log, 337,838 entries, and withholds eight columns including every timestamp under G.S. 132-1.4 ([MuckRock](https://www.muckrock.com/foi/buncombe-county-4590/public-records-request-fusus-logs-211165/)). The released columns show 58 percent of camera viewing on public housing and 95 to 99 percent of it live. Analyzed August 2026: [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]].
 
 **May 25, 2026: CAMS holds a surveillance-awareness event.** CAMS throws a surveillance-awareness social at DayTrip: DJ sets and a Q&A with [[Benn Jordan]] (the researcher whose Flock investigations reached national press) plus Kim Roney, Colonel Panic, and Patrick Conant. ([Sunshine Labs](https://www.sunshinelabs.org/sos-sunshine-over-surveillance/))
 

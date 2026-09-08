@@ -31,7 +31,7 @@ More than a hundred pages. Start with what you need:
 </ol></div>
 <div class="door"><span class="door-k">Why should I care</span><p class="door-t">See what it means for people</p><ol>
 <li><a href="./Briefings/Who-Gets-Watched">Who gets watched</a></li>
-<li><a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The sheriff's own audit log</a></li>
+<li><a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The sheriff's Fusus access log, 2024 to 2026</a></li>
 <li><a href="./WNC/Asheville/Record/Watching-the-Poor">Cameras in public housing</a></li>
 <li><a href="./Companies/Camera-Network-Misuse">Camera network misuse, documented cases</a></li>
 </ol></div>

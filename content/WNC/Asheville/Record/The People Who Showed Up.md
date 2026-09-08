@@ -1,6 +1,6 @@
 ---
 title: "The People Who Showed Up"
-description: "The residents who stood at the podium and told council no: their best arguments, in their own words, on the public record."
+description: "Residents who spoke at council against the RTIC, quoted from the public record with dates and timestamps."
 aliases:
   - "The People Who Showed Up"
   - "The Record/The People Who Showed Up"

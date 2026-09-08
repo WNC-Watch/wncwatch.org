@@ -1,5 +1,5 @@
 ---
-title: "The Sheriff's Audit Log"
+title: "Buncombe County Sheriff's Office Fusus access log, 2024 to 2026"
 description: "Twenty-eight months of the Buncombe County Sheriff's Office's own Fusus access records, released by public records request: 337,838 entries, 58 percent of camera viewing on public housing, almost all of it live, most of it by three accounts. The county withheld every timestamp."
 aliases:
   - "The System/Sheriffs Audit Log"

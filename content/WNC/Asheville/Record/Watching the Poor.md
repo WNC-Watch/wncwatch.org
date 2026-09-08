@@ -1,6 +1,6 @@
 ---
 title: Cameras in Public Housing
-description: Police-integrated cameras in public housing. The national record of camera footage in eviction cases, the ~500 cameras already on Asheville's housing communities, and the notice and consent records that have not been published.
+description: "Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published."
 aliases:
   - "Watching the Poor"
   - "Cameras in Public Housing"
@@ -33,7 +33,7 @@ And where camera placement has been mapped, it tracks race and income consistent
 
 ## The sheriff's own count (2024 to 2026)
 
-In May 2026 the county released 28 months of the Sheriff's Office's Fusus audit log. Of 225,439 camera events, **130,003 were on Asheville Housing Authority cameras**: 58 percent of everything the center looked at, more than all 51 school sites combined, more than the sheriff's own buildings. Pisgah View Apartments was the most-watched place in the county (39,404 events, 1,926 logged hours of live viewing), then Hillcrest, Maple Crest, Deaverview, and Aston Park Towers. Ninety-five percent of it was live watching, not recorded playback; the longest run was one account opening Pisgah View cameras 762 times in a row. The county withheld the timestamps. The full breakdown, by site and by account: [[Sheriffs Audit Log|The Sheriff's Audit Log]].
+In May 2026 the county released 28 months of the Sheriff's Office's Fusus audit log. Of 225,439 camera events, **130,003 were on Asheville Housing Authority cameras**: 58 percent of everything the center looked at, more than all 51 school sites combined, more than the sheriff's own buildings. Pisgah View Apartments was the most-watched place in the county (39,404 events, 1,926 logged hours of live viewing), then Hillcrest, Maple Crest, Deaverview, and Aston Park Towers. Ninety-five percent of it was live watching, not recorded playback; the longest run was one account opening Pisgah View cameras 762 times in a row. The county withheld the timestamps. The full breakdown, by site and by account: [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]].
 
 ## Asheville has already done this
 
@@ -51,4 +51,4 @@ No published record shows HACA residents were given notice, a consultation, or a
 
 **Update, August 2026.** HACA's own records show how the relationship works in practice: in March 2026 its IT staff were updating DVR passwords "for all users who access the camera DVRs, including BCSD and APD"; on May 20, 2026 Interim Chief Stepp told the HACA board that "a member of the HACA team will be joining the program policy board" of the RTIC, and the minutes record no commissioner questions. APD's Deputy Chief of Operations, [[Sean Aardema]], sits on that board. ([[Ella Santos]] · [board minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf))
 
-*Related: [[What They Can Actually Learn About You]] · [[Who Gets Watched]] · [[Follow the Money]] · [[Oversight Theater|The Oversight Record]] · [[What Is the RTIC]] · [[Get Involved]]*
+*Related: [[What They Can Actually Learn About You]] · [[Who Gets Watched]] · [[Follow the Money]] · [[Oversight Theater|Police oversight in Asheville, 1991 to 2026]] · [[What Is the RTIC]] · [[Get Involved]]*

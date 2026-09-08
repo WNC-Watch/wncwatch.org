@@ -14,7 +14,7 @@ At the agenda-review briefing four days earlier, staff previewed the item in one
 
 > "Items G, H and I are **recurring grants that APD applies for annually**... these three grants help fund the real-time intelligence center, bulletproof vests for officers, and then DEA... activities."
 
-The RTIC's first funding, introduced between body armor and drug enforcement, labeled routine. Then: "any other questions on consent or anything I missed?... great, I'm going to keep moving." No questions. On March 25, the opacity worked exactly as designed: mid-comment, the clerk had to explain to residents **what item G even was** [(22:43)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1363s). Staff also acknowledged the only prior council-adjacent discussion had been an informational committee session on **September 24, 2024, three days before Helene**, with no vote [(45:09)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2709s). This maneuver has a name on this site: see the tactics table in the [[Claims Library]], and [[The Check-In Meetings]] for where the real deliberation happens.
+The RTIC's first funding, introduced between body armor and drug enforcement, labeled routine. Then: "any other questions on consent or anything I missed?... great, I'm going to keep moving." No questions. On March 25, the opacity worked exactly as designed: mid-comment, the clerk had to explain to residents **what item G even was** [(22:43)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1363s). Staff also acknowledged the only prior council-adjacent discussion had been an informational committee session on **September 24, 2024, three days before Helene**, with no vote [(45:09)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=2709s). This maneuver has a name on this site: see the tactics table in the [[Claims Library]], and [[The Check-In Meetings|The pre-meeting check-in sessions]] for where the real deliberation happens.
 
 ## The public saw it anyway [(20:31)](https://www.youtube.com/watch?v=Bc-VVlvBx0U&t=1231s)
 
@@ -50,4 +50,4 @@ APD technology specialist [[Jimmy Wingo]], explaining private-camera integration
 
 Items G1 and G2: moved by [[Bo Hess|Hess]] ("I'm going to give the motion to Bo because he made such an impassioned speech," the chair said), seconded, approved by **hand vote**, no roll call in the captions. The minutes (approved May 28, 2026; see [[Documents]]) are the only official record of who voted how. Two residents' warnings, two councilmembers' process objections, one requested delay, and the first RTIC money moved anyway, filed under "recurring."
 
-*Related: [[Timeline]] · [[2025-03-07 Agenda Briefing]] · [[2026-05-12 City Council]] · [[Bo Hess]] · [[Claims Library]] · [[Oversight Theater|The Oversight Record]]*
+*Related: [[Timeline]] · [[2025-03-07 Agenda Briefing]] · [[2026-05-12 City Council]] · [[Bo Hess]] · [[Claims Library]] · [[Oversight Theater|Police oversight in Asheville, 1991 to 2026]]*

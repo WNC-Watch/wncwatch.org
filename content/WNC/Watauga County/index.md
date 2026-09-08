@@ -43,4 +43,4 @@ Boone Town Council (Mayor Dalton George; Todd Carter, Virginia Roseman, Adrian T
 
 Boone did not remove its cameras. What it did was narrower and, so far, unique in WNC: it paused growth, demanded the numbers, published a portal, and cut sharing by 96% when the numbers were bad. Every sheriff in the region says some version of "our searches are logged and controlled." Watauga is the one place that pulled the log. The result is the strongest local evidence that the defaults, left alone, serve the network rather than the community that bought the cameras.
 
-*Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Sheriffs Audit Log]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*
+*Related: [[WNC and NC]] · [[What the Law Lets the County Do]] · [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*

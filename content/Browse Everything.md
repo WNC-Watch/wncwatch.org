@@ -20,7 +20,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ### [[WNC/Asheville/index|Asheville]]
 
-- **[[Timeline]]**: How Asheville got a Real-Time Intelligence Center. Every vote, dollar, and maneuver, dated and sourced.
+- **[[Timeline]]**: How Asheville came to have a Real-Time Intelligence Center: each vote, grant, and contract from 2022 to now, dated and sourced.
 
 #### [[WNC/Asheville/Officials/index|Officials]]
 
@@ -47,20 +47,20 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 #### [[WNC/Asheville/Record/index|Record]]
 
 - **[[Their Claims vs The Record|Asheville's RTIC claims and the record]]**: Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it.
-- **[[Watching the Poor|Cameras in Public Housing]]**: Police-integrated cameras in public housing. The national record of camera footage in eviction cases, the ~500 cameras already on Asheville's housing communities, and the notice and consent records that have not been published.
-- **[[The Check-In Meetings|Council's Private Check-Ins]]**: How Asheville council business gets discussed in private groups of three (legally sized to dodge the open meetings law), and why the RTIC's smooth 6–1 votes should be read in that light.
-- **[[Follow the Money]]**: The BID, the TDA, and the surveillance buildout. Three separate money streams, one downtown coalition, and the same 6–1 votes. What's documented, and what isn't.
-- **[[Promise Tracker]]**: Every commitment APD and the city made to get the RTIC approved, tracked to 2033.
-- **[[The Constitutionality Memo]]**: The city attorney memo circulated the night before the Flock vote, what it says, and what it leaves out: the appeal pending in North Carolina's own federal circuit and the Supreme Court's newest location-privacy ruling.
-- **[[Oversight Theater|The Oversight Record]]**: Thirty-five years of Asheville residents asking for police oversight, and what was actually delivered each time. Why the enforcement mechanism, not the promise, is the thing to check.
-- **[[The People Who Showed Up]]**: The residents who stood at the podium and told council no: their best arguments, in their own words, on the public record.
-- **[[The Committee|The Public Safety Committee]]**: Asheville's Public Safety Committee is where RTIC oversight officially lives. A meeting-by-meeting review of every recording shows what it actually does instead, and the one meeting that advanced the RTIC has no recording at all.
-- **[[The RTIC Policy]]**: Seven released records show how the RTIC's rulebook was written: what the four-page policy says, what disappeared between drafts, what never made it in, and the emails showing when the Axon contract was actually signed.
+- **[[Watching the Poor|Cameras in Public Housing]]**: Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published.
+- **[[Follow the Money]]**: The Business Improvement District, the Tourism Development Authority, and the surveillance buildout: the three funding streams, the organizations behind each, and the council votes, with what is documented and what is not.
+- **[[Oversight Theater|Police oversight in Asheville, 1991 to 2026]]**: Requests by Asheville residents for police oversight over thirty-five years, and what each produced, with the enforcement mechanism noted where one exists.
+- **[[Promise Tracker]]**: The commitments APD and the city made as the RTIC was approved, each dated and tracked to 2033.
+- **[[The Constitutionality Memo|The city attorney's constitutionality memo]]**: The city attorney's memo circulated the night before the Aug 25, 2026 Flock vote: what it says, and the two cases it does not mention, the Norfolk appeal in the Fourth Circuit and the Supreme Court's June 2026 location-data ruling.
+- **[[The People Who Showed Up]]**: Residents who spoke at council against the RTIC, quoted from the public record with dates and timestamps.
+- **[[The Check-In Meetings|The pre-meeting check-in sessions]]**: Asheville council members discuss agenda items in groups of three before meetings, below the open meetings law's quorum: how the practice works, what the record shows, and the RTIC items it covered.
+- **[[The Committee|The Public Safety Committee]]**: Asheville's Public Safety Committee, where RTIC oversight is assigned: a meeting-by-meeting review of its recordings, what it took up, and the March 26, 2026 meeting that advanced the RTIC grant with no recording published.
+- **[[The RTIC Policy]]**: Seven released records on how the RTIC's governing policy was written: what Policy 1703 says, what changed between its four drafts, and the emails dating the Axon contract's signature to July 2026.
 
 #### [[WNC/Asheville/Community/index|Community]]
 
-- **[[Benn Jordan]]**: The independent researcher whose Flock Safety investigations reached national press, and who came to Asheville in May 2026 to help. His work explains, in plain terms, why these cameras are both invasive and insecure.
-- **[[Patrick Conant]]**: Sunshine Labs founder; asked council the cost question nobody has answered and then obtained the records that became the RTIC's public rulebook.
+- **[[Benn Jordan]]**: Independent researcher whose Flock Safety security findings were reported nationally; spoke in Asheville in May 2026. His work is cited on the misuse and vendor pages.
+- **[[Patrick Conant]]**: Sunshine Labs founder. Asked council on May 12, 2026 what the RTIC's operating cost will be after the grant; filed the records requests that produced the RTIC policy documents released Aug 20, 2026.
 
 ### [[WNC/Buncombe County/index|Buncombe County]]
 
@@ -79,7 +79,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Buncombe County/Record/index|Record]]
 
-- **[[Sheriffs Audit Log|The Sheriff's Audit Log]]**: Twenty-eight months of the Buncombe County Sheriff's Office's own Fusus access records, released by public records request: 337,838 entries, 58 percent of camera viewing on public housing, almost all of it live, most of it by three accounts. The county withheld every timestamp.
+- **[[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]**: Twenty-eight months of the Buncombe County Sheriff's Office's own Fusus access records, released by public records request: 337,838 entries, 58 percent of camera viewing on public housing, almost all of it live, most of it by three accounts. The county withheld every timestamp.
 
 ### [[WNC/Haywood County/index|Haywood County]]
 

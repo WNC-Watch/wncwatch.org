@@ -1,6 +1,6 @@
 ---
 title: The Public Safety Committee
-description: Asheville's Public Safety Committee is where RTIC oversight officially lives. A meeting-by-meeting review of every recording shows what it actually does instead, and the one meeting that advanced the RTIC has no recording at all.
+description: "Asheville's Public Safety Committee, where RTIC oversight is assigned: a meeting-by-meeting review of its recordings, what it took up, and the March 26, 2026 meeting that advanced the RTIC grant with no recording published."
 aliases:
   - "The Committee"
   - "The Record/The Committee"
@@ -48,4 +48,4 @@ The committee accepts APD's statistics without challenge. Documented to it, on t
 
 The RTIC's defenders point to this committee as the safeguard. Its chair is the RTIC's [[Bo Hess|most vocal advocate]]. Its meetings are remote-only, bimonthly, with public comment that has been forgotten, stranded by failed phone bridges, or met with a sardonic "thousands of people waiting" before an empty queue. Its record on the technology it exists to watch is a flat zero, while its one energetic output put 93 of the city's poorest residents through the courts. The committee doesn't need reform to do oversight; it needs to be *asked, in public, on the record*, why it never has. Its next meeting is **September 24, 2026, 11:00 AM**. That's the venue, and [[Speak at Council]] has the how. Bring one question: *where are the audit reports state law requires?*
 
-*Related: [[Oversight Theater|The Oversight Record]] · [[Bo Hess]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Records Center]] · [[Promise Tracker]]*
+*Related: [[Oversight Theater|Police oversight in Asheville, 1991 to 2026]] · [[Bo Hess]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Records Center]] · [[Promise Tracker]]*

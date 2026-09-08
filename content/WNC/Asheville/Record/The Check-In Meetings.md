@@ -1,6 +1,6 @@
 ---
-title: Council's Private Check-Ins
-description: How Asheville council business gets discussed in private groups of three (legally sized to dodge the open meetings law), and why the RTIC's smooth 6–1 votes should be read in that light.
+title: "The pre-meeting check-in sessions"
+description: "Asheville council members discuss agenda items in groups of three before meetings, below the open meetings law's quorum: how the practice works, what the record shows, and the RTIC items it covered."
 aliases:
   - "The Check-In Meetings"
   - "The Record/The Check-In Meetings"

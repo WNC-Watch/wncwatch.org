@@ -1,6 +1,6 @@
 ---
 title: Promise Tracker
-description: Every commitment APD and the city made to get the RTIC approved, tracked to 2033.
+description: "The commitments APD and the city made as the RTIC was approved, each dated and tracked to 2033."
 aliases:
   - "Promise Tracker"
   - "The Record/Promise Tracker"

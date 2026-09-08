@@ -45,4 +45,4 @@ As said at the top: this doesn't prove any official was insincere. It proves **t
 
 *The company behind the script: [[Flock Safety]]. What its products have done elsewhere, dated: [[Camera Network Misuse|Camera network misuse, documented cases]].*
 
-*Related: [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings]] · [[What Axon Contracts Do]]*
+*Related: [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] · [[What Axon Contracts Do]]*

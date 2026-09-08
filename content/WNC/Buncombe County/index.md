@@ -118,7 +118,7 @@ Buncombe County Schools became the first WNC district on Fusus in **late 2021, v
 
 Asheville City Schools is in the same position on the city side: WLOS reports APD's RTIC "already uses camera footage from systems operated by partners such as Asheville City Schools" ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations)); we have found no ACS board vote or agreement either.
 
-The sheriff's log, released in May 2026, shows deputies viewed school cameras live 65,678 times across 51 sites in 28 months, against 942 recorded views ([[Sheriffs Audit Log|The Sheriff's Audit Log]]).
+The sheriff's log, released in May 2026, shows deputies viewed school cameras live 65,678 times across 51 sites in 28 months, against 942 recorded views ([[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]).
 
 ## The towns
 
@@ -128,7 +128,7 @@ The sheriff's log, released in May 2026, shows deputies viewed school cameras li
 
 ## What the sheriff's own audit log shows (2024 to 2026)
 
-A public records request produced 28 months of the Sheriff's Office's Fusus access log in May 2026: 337,838 entries, 318 accounts. Fifty-eight percent of camera viewing was on public housing cameras, 30 percent on school cameras, and 95 to 99 percent of it was live watching rather than recorded playback; three accounts did half of all viewing; plate searches numbered 309 in the whole period. Policy 217's "proactive monitoring" is, by the numbers, what the center does. The county withheld the date and time of every entry under G.S. 132-1.4. The full analysis: [[Sheriffs Audit Log|The Sheriff's Audit Log]].
+A public records request produced 28 months of the Sheriff's Office's Fusus access log in May 2026: 337,838 entries, 318 accounts. Fifty-eight percent of camera viewing was on public housing cameras, 30 percent on school cameras, and 95 to 99 percent of it was live watching rather than recorded playback; three accounts did half of all viewing; plate searches numbered 309 in the whole period. Policy 217's "proactive monitoring" is, by the numbers, what the center does. The county withheld the date and time of every entry under G.S. 132-1.4. The full analysis: [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]].
 
 ## What the city's chief said about the county (August 2026)
 
