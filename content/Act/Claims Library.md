@@ -40,7 +40,7 @@ Every pattern below is documented in Asheville's own record. None of them requir
 
 - APD's 11 Flock cameras scanned **~3.1 million plates in 21 months**, in a city of ~95,000. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 - That data is shared with law enforcement agencies across a **500-mile, multi-state radius**: a circle reaching Atlanta, Nashville, and Washington, DC, including states with different laws on abortion and immigration. ([Annie Dance](https://anniedance.substack.com/p/asheville-expands-regional-surveillance))
-- The county network Asheville plugs into includes **~1,500 cameras inside [[Buncombe County]] schools**. ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html))
+- The county network Asheville plugs into includes **~1,500 cameras inside [[WNC/Buncombe County/index|Buncombe County]] schools**. ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html))
 - The Axon contract runs **7.5 years, to 2033**, signed unseen. Axon's own investor pitch touts ~25%/year customer spending growth ("Flywheel of Growth"). ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
 - Total known costs: $1.14M federal grant, ~$400K video wall, **$467K software over the contract**, ~$250K operational. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 
@@ -70,7 +70,7 @@ Every pattern below is documented in Asheville's own record. None of them requir
 ## "Removal is possible; alternatives exist"
 
 - **50–102 communities** have canceled, rejected, or paused Flock; ~two dozen in 2026 alone. ([DeFlock tracker](https://deflocktheusa.com/cancellations/))
-- **[[Macon County]], NC** (an hour west) voted **5–0** in July 2026 to remove its 12 cameras, on largely Republican-led opposition. Hillsborough, Pittsboro, Chatham County, and Boone have also canceled or paused. ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/))
+- **[[WNC/Macon County/index|Macon County]], NC** (an hour west) voted **5–0** in July 2026 to remove its 12 cameras, on largely Republican-led opposition. Hillsborough, Pittsboro, Chatham County, and Boone have also canceled or paused. ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/))
 - **Nashville voted down Fusus itself** in December 2024. ([WKRN](https://www.wkrn.com/news/local-news/nashville/council-votes-down-fusus/))
 - ~26 US cities have **CCOPS ordinances** requiring council approval and annual public reporting for surveillance tech: the enforceable version of the promises Asheville got as a nonbinding resolution. ([ACLU](https://www.aclu.org/community-control-over-police-surveillance)) Apex, NC residents have [drafted one for their town](https://deflockapex.org/docs/apex-alpr-governance-ordinance.pdf).
 - Even **Flock's own recommended default retention is now 7 days** (announced Aug 2026). Asheville keeps your data 30. ([AP](https://www.spokesman.com/stories/2026/aug/16/flock-safety-tightens-safeguards-as-states-cities-/))

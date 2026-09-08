@@ -91,7 +91,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 9. The schools MOU nobody voted on
 
-**To: Buncombe County Schools.** ~1,500 cameras across 43+ schools joined the Sheriff's Fusus network via a late-2021 MOU. We can find **no board vote, no MOU text, no parent notification.** ([[Buncombe County]])
+**To: Buncombe County Schools.** ~1,500 cameras across 43+ schools joined the Sheriff's Fusus network via a late-2021 MOU. We can find **no board vote, no MOU text, no parent notification.** ([[WNC/Buncombe County/index|Buncombe County]])
 
 > Under N.C.G.S. Chapter 132, I request: (1) the memorandum of understanding (and any amendments) between Buncombe County Schools and the Buncombe County Sheriff's Office concerning camera access via the Fusus platform, executed on or about 2021; (2) board agenda items, minutes, or votes referencing it; (3) any notification provided to parents or guardians concerning law-enforcement access to school cameras; (4) current policy governing when and how deputies may access school camera feeds.
 
@@ -107,7 +107,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 11. The December 2022 MOU: where it all started
 
-**To: City of Asheville and Buncombe County.** [[Jackie Stepp|Chief Stepp]]: APD has had Fusus access "since 2022" under an MOU signed [[WNC/Asheville|before any council vote]].
+**To: City of Asheville and Buncombe County.** [[Jackie Stepp|Chief Stepp]]: APD has had Fusus access "since 2022" under an MOU signed [[WNC/Asheville/index|before any council vote]].
 
 > Under N.C.G.S. Chapter 132, I request the memorandum of understanding between APD and the Buncombe County Sheriff's Office concerning access to the Fusus platform executed in or around December 2022, all amendments, and any records reflecting City Council or county commission review of it.
 
@@ -147,7 +147,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 16. The county network's paper trail: audits, the committee, the forfeiture money
 
-**To: Buncombe County Sheriff's Office and Buncombe County.** The sheriff's [[Buncombe County|own policies]] say an annual plate-reader audit is conducted "along with sworn members of the FUSUS Advisory Committee," and state law requires the audit report to exist ([G.S. 20-183.31(a)(7)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-183.31.html)). The RTIC was "initially funded by Forfeiture-Dollars," which means federal equitable sharing, a program that requires an annual certification signed by the agency head and the head of the county's governing body. None of it has been published.
+**To: Buncombe County Sheriff's Office and Buncombe County.** The sheriff's [[WNC/Buncombe County/index|own policies]] say an annual plate-reader audit is conducted "along with sworn members of the FUSUS Advisory Committee," and state law requires the audit report to exist ([G.S. 20-183.31(a)(7)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-183.31.html)). The RTIC was "initially funded by Forfeiture-Dollars," which means federal equitable sharing, a program that requires an annual certification signed by the agency head and the head of the county's governing body. None of it has been published.
 
 > Under N.C.G.S. Chapter 132, I request: (1) all annual audit reports of license plate reader data access conducted under BCSO Policy 402, Section V, and the reports to the agency head required by G.S. 20-183.31(a)(7), from 2023 to present; (2) the charter, membership roster, meeting dates, and minutes of the FUSUS Advisory Committee (or advisory board) referenced in Policy 402 and in the Sheriff's June 2022 public statements; (3) the Equitable Sharing Agreement and Certification forms submitted by the Sheriff's Office to the U.S. Department of Justice for federal fiscal years 2021 through 2025, with the accompanying expenditure reports, and records showing which equitable sharing expenditures funded the Real Time Intelligence Center, Fusus, cameras, or license plate readers; (4) the executed contracts and all amendments between the Sheriff's Office or County and Fusus Inc., Axon Enterprise, and Flock Safety, from 2021 to present; (5) records sufficient to show, by year, the number of cameras integrated with the Fusus platform by category (schools, housing authority, government, business, residential) and the annual revenue received from camera integration fees; (6) the vendor and contract for the "DFR partner software" referenced in Policy 403, Section XIII, as revised August 15, 2026.
 

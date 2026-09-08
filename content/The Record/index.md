@@ -28,4 +28,4 @@ This section is Asheville's own story, reconstructed from the city's videos, min
 - **[[The Check-In Meetings|Council's Private Check-Ins]]**: The three-by-three meetings where council business gets decided before the public sees it.
 - **[[Oversight Theater|The Oversight Record]]**: Thirty-five years of oversight promises in Asheville, what was delivered each time, and the state-law ceiling that shaped it.
 
-*Next: [[The System/index|The System]] (what was approved) · [[Act/index|Act]] (what to do about it)*
+*Next: [[Briefings/index|The System]] (what was approved) · [[Act/index|Act]] (what to do about it)*

@@ -45,7 +45,7 @@ APD publishes its policy manual publicly on [PowerDMS](https://public.powerdms.c
 
 ## The sheriff's own policies
 
-The Buncombe County Sheriff's Office publishes its manual on [PowerDMS](https://public.powerdms.com/buncombe/tree/documents/2407055): 131 public documents. The ones that govern the county network Asheville's RTIC plugs into, with archived copies (analysis on [[Buncombe County]]):
+The Buncombe County Sheriff's Office publishes its manual on [PowerDMS](https://public.powerdms.com/buncombe/tree/documents/2407055): 131 public documents. The ones that govern the county network Asheville's RTIC plugs into, with archived copies (analysis on [[WNC/Buncombe County/index|Buncombe County]]):
 
 - **[Policy 217: Real Time Intelligence Center](https://public.powerdms.com/Buncombe/documents/3407385)** (effective April 9, 2025) · [archived](assets/bcso-policies/bcso-policy-217-rtic.pdf). "Proactive monitoring," crowd-watching at public events, rapid-deployment cameras, and the sharing sentence APD copied word for word.
 - **[Policy 402: License Plate Reader](https://public.powerdms.com/Buncombe/documents/2766289)** (effective March 22, 2023) · [archived](assets/bcso-policies/bcso-policy-402-lpr.pdf). Sharing with any "criminal justice agency" for "active criminal intelligence operations"; annual audit by the Fusus coordinator and "sworn members of the FUSUS Advisory Committee."

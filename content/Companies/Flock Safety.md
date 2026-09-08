@@ -3,7 +3,7 @@ title: Flock Safety
 description: The Atlanta company whose eleven cameras Asheville is about to remove, whose network the county's deputies still search, and whose own documents, leaks, and audit logs built most of the public record against it.
 ---
 
-Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook]]; the dated incident list is on [[Stories That Check Out]].
+Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[WNC/Henderson County/index|Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook]]; the dated incident list is on [[Stories That Check Out]].
 
 ## The company
 
@@ -21,8 +21,8 @@ Flock Safety sells the plate readers Asheville installed in 2024 and is voting t
 | **FreeForm / OS Investigate** | Search the camera network like a search engine, by description: "person on skateboard," "heavy-set male with a black and white hat" | Tracking people, not cars ([404 Media, Jul 16, 2026](https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/)); the OS Investigate code leaked via public login pages in August 2026 |
 | **Condor** | Pan-tilt-zoom video cameras that track people and vehicles | About 60 were left streaming to the open internet in December 2025 ([404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) · [[Benn Jordan]]) |
 | **Nova** | A people-search layer joining plate reads to public records, data-broker files, and agency records, "20 different data sources," to "jump from LPR to person... link to other people that are related to that person" | Leaked May 2025; Flock dropped breached dark-web data after employee objections ("I was pretty horrified to hear we use stolen data in our system") ([404 Media, May 14](https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/) · [May 30, 2025](https://www.404media.co/flock-decides-not-to-use-hacked-data-in-people-search-tool/)) |
-| **Raven** | Audio gunshot detection | Forest City runs audio-capable cameras ([[Rutherford County]]) |
-| **Aerodome drones** | Drone-as-first-responder, acquired October 2024 | The county sheriff added a DFR program in August 2026 ([[Buncombe County]]) |
+| **Raven** | Audio gunshot detection | Forest City runs audio-capable cameras ([[WNC/Rutherford County/index\|Rutherford County]]) |
+| **Aerodome drones** | Drone-as-first-responder, acquired October 2024 | The county sheriff added a DFR program in August 2026 ([[WNC/Buncombe County/index\|Buncombe County]]) |
 | **Video on LPRs** | Announced June 2025 ("All existing Flock LPRs will soon stream live video"); live in Dunwoody by January 2026; discontinued March 2026; CEO in July 2026: "It's a static picture of a car" | ([404 Media, Jul 23, 2026](https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/)) |
 
 The pattern across the table is the one [[What They Can Actually Learn About You]] describes: a plate reader is the entry point; the product is the link from a plate to a person to their associates, and the company has kept building that link even as it describes the camera as a still photo.
@@ -47,6 +47,6 @@ Each fix dates the problem. Mandatory MFA in August 2026 means government logins
 
 ## What this means in Asheville
 
-Terminating the contract removes eleven cameras. It does not, by itself, close APD's search accounts, end the county sheriff's access, or change what [[Henderson County]]'s 2,048-agency list lets any neighbor see ([[Getting Flock Out]]). And the company's recorded behavior when a city leaves (Verona's bagged cameras, the "maintenance" work order instead of removal) is why the site's demands include a removal deadline and a paper trail. The replacement the staff memo describes, Axon plate readers "expanding and integrating," is the other company: [[Axon]].
+Terminating the contract removes eleven cameras. It does not, by itself, close APD's search accounts, end the county sheriff's access, or change what [[WNC/Henderson County/index|Henderson County]]'s 2,048-agency list lets any neighbor see ([[Getting Flock Out]]). And the company's recorded behavior when a city leaves (Verona's bagged cameras, the "maintenance" work order instead of removal) is why the site's demands include a removal deadline and a paper trail. The replacement the staff memo describes, Axon plate readers "expanding and integrating," is the other company: [[Axon]].
 
 *Related: [[Axon]] · [[Stories That Check Out]] · [[The Flockbook]] · [[The National Wave]] · [[The Abuse Record]] · [[Getting Flock Out]]*

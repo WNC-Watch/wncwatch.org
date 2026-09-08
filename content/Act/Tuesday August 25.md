@@ -118,6 +118,6 @@ Every profile has the full record and the question this site would put to them.
 
 ## After Tuesday
 
-Watch for four things: who moves an amendment and who seconds it; whether Section 6 leaves the meeting vendor-neutral; whether a removal date and a deletion certification went in; and whether the executed Axon contract gets a release date. Each member's vote on any amendment, not just the resolution, goes on their [[People/Asheville/index|profile]]. The [[Promise Tracker]] picks up whatever was promised from the dais, and the [[Records Center]] has the requests that check it.
+Watch for four things: who moves an amendment and who seconds it; whether Section 6 leaves the meeting vendor-neutral; whether a removal date and a deletion certification went in; and whether the executed Axon contract gets a release date. Each member's vote on any amendment, not just the resolution, goes on their [[WNC/Asheville/Officials/index|profile]]. The [[Promise Tracker]] picks up whatever was promised from the dais, and the [[Records Center]] has the requests that check it.
 
 *Related: [[Speak at Council]] · [[Getting Flock Out]] · [[The People Who Showed Up]] · [[Claims Library]] · [[2026-08-20 Agenda Briefing]] · [[Election 2026]] · [[Get Involved]]*

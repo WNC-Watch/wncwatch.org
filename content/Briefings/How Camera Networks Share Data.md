@@ -24,7 +24,7 @@ A registry records where a camera is. Full viewing capability lets the center wa
 
 Flock's nationwide search is a feature of an agency's account. An agency whose account has the national lookup setting on can search the shared reads of roughly 80,000 cameras across the country in one step, whatever number of cameras the agency owns. Searches leave the agency's town through that account, and other agencies' searches arrive into it the same way. The camera count changes none of it; during Asheville's wind-down, the plan for a time was to keep a single Flock camera, described by councilmember Turner as pointed at a wall, and that camera would have kept the account, and the account keeps the national search.
 
-The terms of the trade were stated on the record one county west. Asked at Jackson County's August 4, 2026 work session whether his county can get plate data from other agencies, Sheriff Doug Farmer answered that sharing Jackson County's own data is the only way to receive theirs ([the recording, at 1:31:23](https://www.youtube.com/watch?v=QJUfAAppweI&t=5483s)). That is the bargain in the operator's own description: an agency's access to the network is paid for with its own community's reads ([[Jackson County]]).
+The terms of the trade were stated on the record one county west. Asked at Jackson County's August 4, 2026 work session whether his county can get plate data from other agencies, Sheriff Doug Farmer answered that sharing Jackson County's own data is the only way to receive theirs ([the recording, at 1:31:23](https://www.youtube.com/watch?v=QJUfAAppweI&t=5483s)). That is the bargain in the operator's own description: an agency's access to the network is paid for with its own community's reads ([[WNC/Jackson County/index|Jackson County]]).
 
 ## What the local record shows
 
@@ -65,7 +65,7 @@ And councilmember Hess, also voting yes, at 3:43:54: "ending one vendor's contra
 
 ## Where the rules live
 
-The contract does not settle any of this. The plate reader appendix in the signed Durham Axon agreement covers permits, installation, an installer's liability, a vandalism warranty, and a seven-day acceptance window. It contains no retention period, no sharing rule, no network participation term, no use limit, and no audit duty ([[What Axon Contracts Do]] has the national pattern). The retention, sharing, and audit rules for any town's system therefore live wherever that town writes them, and the concrete working example is nearby: Boone kept its cameras, published their locations and its policy on a public portal, and cut its sharing list from more than 1,000 agencies to about 40 after its chief pulled the log ([[Watauga County]]). The hardware stayed; the community set the network terms.
+The contract does not settle any of this. The plate reader appendix in the signed Durham Axon agreement covers permits, installation, an installer's liability, a vandalism warranty, and a seven-day acceptance window. It contains no retention period, no sharing rule, no network participation term, no use limit, and no audit duty ([[What Axon Contracts Do]] has the national pattern). The retention, sharing, and audit rules for any town's system therefore live wherever that town writes them, and the concrete working example is nearby: Boone kept its cameras, published their locations and its policy on a public portal, and cut its sharing list from more than 1,000 agencies to about 40 after its chief pulled the log ([[WNC/Watauga County/index|Watauga County]]). The hardware stayed; the community set the network terms.
 
 ## Two questions for any town
 
@@ -74,6 +74,6 @@ For an information session, a podium, or a letter, the two questions that follow
 1. **Which product is this?** Does the data stay with cameras our agency owns, under our rules, or does it join a platform other agencies can search or watch? What is the network setting on day one, and what does turning it off cost?
 2. **Whose signature changes it?** If the sharing scope, retention, or network participation changes next year, does that return to a public vote, or does it change with a settings page and a department signature?
 
-Brevard's information session is Sept 1 and its vote is Sept 8; the posted documents, read clause by clause, are on [[Transylvania County]].
+Brevard's information session is Sept 1 and its vote is Sept 8; the posted documents, read clause by clause, are on [[WNC/Transylvania County/index|Transylvania County]].
 
 *Every quote above links its meeting page, timestamped to the city's own video. The log analysis and method: [[Sheriffs Audit Log|The Sheriff's Audit Log]]. What a scan becomes on the network: [[What They Can Actually Learn About You]]. Corrections welcome; this page is meant to be checked.*

@@ -1,5 +1,29 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+// Explorer order: the way the site reads, not the alphabet. Defined once and
+// shared by both layouts. The Explorer serializes this function's source and
+// runs it in the browser, so everything it uses lives inside its own body.
+// Depth 1 (sections): the ranked list, then any other folder alphabetically,
+// then loose pages. Depth 3 (inside an area under WNC/): Officials, Record,
+// Community first, then other folders, then loose pages. Everywhere else:
+// folders before files, both alphabetical.
+const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
+  if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+  if (a.isFolder && b.isFolder) {
+    const sectionOrder = ["WNC", "Briefings", "Companies", "Act", "The-Record", "Reference"]
+    const areaOrder = ["Officials", "Record", "Community"]
+    const depth = a.slug.split("/").length
+    const order = depth === 2 ? sectionOrder : depth === 4 && a.slug.startsWith("WNC/") ? areaOrder : []
+    const ia = order.indexOf(a.slugSegment)
+    const ib = order.indexOf(b.slugSegment)
+    const ra = ia === -1 ? order.length : ia
+    const rb = ib === -1 ? order.length : ib
+    if (ra !== rb) return ra - rb
+  }
+  return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -38,18 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        // Section order for the sidebar: the way the site reads, not the alphabet.
-        const order = ["The-Record", "The-System", "Briefings", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
-        const ra = order.indexOf(a.slugSegment)
-        const rb = order.indexOf(b.slugSegment)
-        if (a.isFolder && b.isFolder && (ra !== -1 || rb !== -1)) {
-          return (ra === -1 ? 99 : ra) - (rb === -1 ? 99 : rb)
-        }
-        if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
-        return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-      },
+    Component.Explorer({ sortFn: explorerSortFn }),
     }),
   ],
   right: [
@@ -74,19 +87,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        // Section order for the sidebar: the way the site reads, not the alphabet.
-        const order = ["The-Record", "The-System", "Briefings", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
-        const ra = order.indexOf(a.slugSegment)
-        const rb = order.indexOf(b.slugSegment)
-        if (a.isFolder && b.isFolder && (ra !== -1 || rb !== -1)) {
-          return (ra === -1 ? 99 : ra) - (rb === -1 ? 99 : rb)
-        }
-        if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
-        return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-      },
-    }),
+    Component.Explorer({ sortFn: explorerSortFn }),
   ],
   right: [],
 }

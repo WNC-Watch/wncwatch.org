@@ -11,7 +11,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[What They Can Actually Learn About You]]**: What a plate scan becomes: your routes, your associations, your name.
 - **[[Briefings/index|Briefings]]**: Long-form explainers, one idea per page, for any town before its decision.
 - **[[Timeline]]**: What happened, when, with receipts.
-- **[[Transylvania County]]**: Brevard's live decision: the posted documents, read clause by clause, before the Sept 8 vote.
+- **[[WNC/Transylvania County/index|Transylvania County]]**: Brevard's live decision: the posted documents, read clause by clause, before the Sept 8 vote.
 - **[[Speak at Council]]**: You get 3 minutes; here's how to use them. September: Brevard **Sept 1 and 8**, Hendersonville **Sept 3**, Asheville's Public Safety Committee **Sept 24**.
 
 ## [[The Record/index|The Record]]: how it happened
@@ -19,7 +19,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Timeline]]** · **[[The People Who Showed Up]]** (36 residents, verbatim) · **[[Promise Tracker]]** · **[[Their Claims vs The Record|The Claims, Checked]]** · **[[The RTIC Policy]]** · **[[The Committee|The Public Safety Committee]]** · **[[The Check-In Meetings|Council's Private Check-Ins]]** · **[[Oversight Theater|The Oversight Record]]**
 - [[The Record/Meetings/index|The meetings]], minute by minute: [[2026-08-25 City Council|Aug 25, 2026]] · [[2026-08-20 Agenda Briefing|Aug 20, 2026]] · [[2026-05-12 City Council|May 12, 2026]] · [[2026-05-07 Agenda Briefing|May 7, 2026]] · [[2026-04-28 Work Session|April 28, 2026]] · [[2025-03-25 City Council|March 25, 2025]] · [[2025-03-07 Agenda Briefing|March 7, 2025]]
 
-## [[The System/index|The System]]: what was approved
+## [[Briefings/index|The System]]: what was approved
 
 - **[[What Is the RTIC]]** · **[[What They Can Actually Learn About You]]** · **[[Who Gets Watched]]** · **[[Watching the Poor|Cameras in Public Housing]]** · **[[Sheriffs Audit Log|The Sheriff's Audit Log]]** (28 months of the county's own access records) · **[[Follow the Money]]** · **[[Before You Plug In|Before You Connect Your Cameras]]**
 
@@ -30,19 +30,19 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 ## [[WNC/index|Western North Carolina]]: the region and the law
 
 - **[[WNC and NC]]** (the overview) · **[[What the Law Lets the County Do]]**
-- The counties: [[Asheville]] · [[Buncombe County]] · [[Henderson County]] · [[Haywood County]] · [[Macon County]] · [[Madison County]] · [[Jackson County]] · [[Transylvania County]] · [[Watauga County]] · [[Rutherford County]] · [[McDowell County]]
+- The counties: [[WNC/Asheville/index|Asheville]] · [[WNC/Buncombe County/index|Buncombe County]] · [[WNC/Henderson County/index|Henderson County]] · [[WNC/Haywood County/index|Haywood County]] · [[WNC/Macon County/index|Macon County]] · [[WNC/Madison County/index|Madison County]] · [[WNC/Jackson County/index|Jackson County]] · [[WNC/Transylvania County/index|Transylvania County]] · [[WNC/Watauga County/index|Watauga County]] · [[WNC/Rutherford County/index|Rutherford County]] · [[WNC/McDowell County/index|McDowell County]]
 
 ## [[Companies/index|The Vendors]]: the companies
 
 - **[[Axon]]** · **[[Flock Safety]]** · **[[What Axon Contracts Do]]** · **[[The Flockbook]]**
 
-## [[The Wider Fight/index|The Wider Fight]]: everywhere else
+## [[Companies/index|The Wider Fight]]: everywhere else
 
 - **[[Stories That Check Out]]** (the dated harm ledger) · **[[The Abuse Record]]** · **[[The National Wave|The National Wave of Cancellations]]** · **[[How Cities Won]]**
 
-## [[People/index|People]]: who decides
+## [[WNC/index|People]]: who decides
 
-- By region: [[People/Asheville/index|Asheville]] · [[People/Buncombe/index|Buncombe County]] · [[People/WNC/index|Western North Carolina]] · [[People/State/index|Raleigh and Washington]] (with [[WNC Legislators|every legislator's roll calls]]) · [[People/Companies/index|the vendors' executives]] · [[People/Community/index|Community]]
+- By region: [[WNC/Asheville/Officials/index|Asheville]] · [[WNC/Buncombe County/Officials/index|Buncombe County]] · [[WNC/index|Western North Carolina]] · [[WNC/Raleigh and Washington/index|Raleigh and Washington]] (with [[WNC Legislators|every legislator's roll calls]]) · [[Companies/People/index|the vendors' executives]] · [[WNC/Asheville/Community/index|Community]]
 
 ## [[Act/index|Act]]: what to do
 
