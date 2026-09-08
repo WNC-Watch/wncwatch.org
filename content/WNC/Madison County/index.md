@@ -1,6 +1,6 @@
 ---
 title: Madison County
-description: Flock deployed with no vote and no public discussion; a board chairman who told opponents "You will not speak on Flock tonight"; a sheriff refusing records requests, and a November election.
+description: "Fifteen Flock cameras deployed by the sheriff's office with no commission vote; a board that declined public comment on them; refused records requests; a sheriff's race on November 3, 2026."
 aliases:
   - "WNC/Madison County"
 standing: "contested; organizing active, records requests refused"

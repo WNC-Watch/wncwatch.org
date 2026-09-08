@@ -1,6 +1,6 @@
 ---
 title: Michael Garrison
-description: Madison County Commission Chairman; told a room of objecting residents "You will not speak on Flock tonight," then said the board has no oversight of the sheriff's purchases it funds.
+description: "Madison County Commission Chairman. Told residents at the June 9, 2026 meeting, \"You will not speak on Flock tonight,\" and said the board has no oversight of the sheriff's purchases."
 aliases:
   - "People/WNC/Michael Garrison"
 ---

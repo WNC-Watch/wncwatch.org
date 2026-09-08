@@ -1,6 +1,6 @@
 ---
 title: Clint Ingle
-description: Rutherfordton Police Chief; his department's damaged Flock camera drew 24,000 celebratory comments, and his promise to arrest whoever did it is still open.
+description: "Rutherfordton Police Chief. A Flock camera of his department's was damaged in July 2026; he said the department would seek charges. No arrest had been reported as of Aug 22, 2026."
 aliases:
   - "People/WNC/Clint Ingle"
 ---

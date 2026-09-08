@@ -1,6 +1,6 @@
 ---
 title: Josh Young
-description: Macon County Commission Chair; leaned toward his sheriff until he asked around town and found residents almost entirely against the cameras, then chaired the 5 to 0 vote that ended Flock in Macon.
+description: "Macon County Commission Chair since December 2024. Chaired the July 14, 2026 meeting at which the board voted 5 to 0 to end the Flock contract; told the Smoky Mountain News he had asked residents and found them largely against the cameras."
 aliases:
   - "People/WNC/Josh Young"
 ---

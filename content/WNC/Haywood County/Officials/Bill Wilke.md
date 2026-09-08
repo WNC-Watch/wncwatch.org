@@ -1,6 +1,6 @@
 ---
 title: Bill Wilke
-description: Haywood County Sheriff, 2022 to 2026; put the county's Flock cameras into use with no vote, then lost his primary. Leaves office in December.
+description: "Haywood County Sheriff, 2022 to 2026. His office put the county's Flock cameras into use in 2024 with no commission vote. Lost the March 2026 primary; leaves office in December."
 aliases:
   - "People/WNC/Bill Wilke"
 ---

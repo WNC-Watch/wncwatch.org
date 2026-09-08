@@ -1,6 +1,6 @@
 ---
 title: Haywood County
-description: The county that decided to keep its cameras, without ever formally voting on them in the first place.
+description: "About 8 Flock cameras since 2024; commissioners decided in July 2026 to keep them; no vote on the original deployment is on the record; an open sheriff's race."
 aliases:
   - "WNC/Haywood County"
 standing: "commissioners voted to keep them"

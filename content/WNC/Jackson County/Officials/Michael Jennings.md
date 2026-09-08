@@ -1,6 +1,6 @@
 ---
 title: "Michael Jennings"
-description: "Jackson County commissioner who asked the question the sheriff's presentation could not answer: \"what it could be used for in the future.\""
+description: "Jackson County commissioner. At the August 4, 2026 work session asked what the cameras \"could be used for in the future\"; the question was not answered on the record."
 aliases:
   - "People/WNC/Michael Jennings"
 ---

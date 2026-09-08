@@ -1,6 +1,6 @@
 ---
 title: Daniel Duckworth
-description: Boone Police Chief; the only department head in the region found to have narrowed his own Flock sharing list voluntarily, to North Carolina and a few Tennessee agencies, with quarterly audits.
+description: "Boone Police Chief. Narrowed the department's Flock sharing list to North Carolina agencies and a few in Tennessee, 41 in all, with quarterly audits, after the 2026 log review."
 aliases:
   - "People/WNC/Daniel Duckworth"
 ---

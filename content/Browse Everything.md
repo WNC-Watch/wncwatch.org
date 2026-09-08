@@ -85,10 +85,10 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Haywood County/Officials/index|Officials]]
 
-- **[[Bill Wilke]]**: Haywood County Sheriff, 2022 to 2026; put the county's Flock cameras into use with no vote, then lost his primary. Leaves office in December.
-- **[[Kevin Ensley]]**: Haywood County Commission Chair; decided to keep the county's Flock cameras in a statement to a reporter, citing overdose numbers nobody has connected to the cameras.
-- **[[Mark Mease]]**: Republican nominee for Haywood County Sheriff; unseated the incumbent in March 2026 and has said nothing public about the cameras he would inherit.
-- **[[Tyler Howell]]**: Democratic nominee for Haywood County Sheriff; a Waynesville police detective running on accountability and transparency who has not yet said what that means for the cameras.
+- **[[Bill Wilke]]**: Haywood County Sheriff, 2022 to 2026. His office put the county's Flock cameras into use in 2024 with no commission vote. Lost the March 2026 primary; leaves office in December.
+- **[[Kevin Ensley]]**: Haywood County Commission Chair. Said in a statement to a reporter on July 21, 2026 that the county would keep its Flock cameras, citing overdose figures; no vote was taken.
+- **[[Mark Mease]]**: Republican nominee for Haywood County Sheriff, November 3, 2026; won the March 2026 primary over the incumbent. No public statement on the cameras found as of Aug 22, 2026.
+- **[[Tyler Howell]]**: Democratic nominee for Haywood County Sheriff, November 3, 2026; a Waynesville police detective. His platform names accountability and transparency; no statement on the cameras found as of Aug 22, 2026.
 
 ### [[WNC/Henderson County/index|Henderson County]]
 
@@ -109,41 +109,41 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Jackson County/Officials/index|Officials]]
 
-- **[[Doug Farmer]]**: Jackson County Sheriff; four Flock cameras reading 1.19 million plates a month, a published policy manual with no plate-reader policy in it, and a new four-year term with no November opponent.
-- **[[Mark Letson]]**: Jackson County Commission Chair; presided over the one work session where commissioners questioned the sheriff's cameras, took no vote, and faces a six-way race for the gavel.
-- **[[Michael Jennings]]**: Jackson County commissioner who asked the question the sheriff's presentation could not answer: \"what it could be used for in the future.\"
-- **[[Todd Bryson]]**: Jackson County commissioner who raised the false-flag problem, innocent drivers stopped on bad hits, and is on the November ballot.
+- **[[Doug Farmer]]**: Jackson County Sheriff. His office runs four Flock cameras reading 1.19 million plates a month; its published policy manual has no plate-reader policy. Unopposed on November 3, 2026.
+- **[[Mark Letson]]**: Jackson County Commission Chair. Presided over the August 4, 2026 work session at which commissioners questioned the sheriff's cameras; no vote was taken. One of six candidates for the seat on November 3, 2026.
+- **[[Michael Jennings]]**: Jackson County commissioner. At the August 4, 2026 work session asked what the cameras \"could be used for in the future\"; the question was not answered on the record.
+- **[[Todd Bryson]]**: Jackson County commissioner. At the August 4, 2026 work session raised the risk of innocent drivers stopped on false hits. On the November 3, 2026 ballot.
 
 ### [[WNC/Macon County/index|Macon County]]
 
 #### [[WNC/Macon County/Officials/index|Officials]]
 
-- **[[Barry Breeden]]**: Macon County commissioner and former sheriff's deputy who "came in 50-50" and seconded the motion to end Flock. "There's a lot of unknowns in where the data goes."
-- **[[Brent Holbrooks]]**: Macon County Sheriff; argued for Flock as a life-saving tool," lost the argument 5 to 0, and said "I respect the decision." Re-elected in the March primary with no November opponent.
-- **[[Dylan Castle]]**: Macon County commission candidate, pastor, and county GOP vice-chair who campaigned against Flock on constitutional grounds and advanced to November.
-- **[[John Shearl]]**: Macon County commissioner who made the motion to end Flock, invoking the Fourth Amendment: \"I don't want a hunch. I want the truth.\" On the November ballot.
-- **[[Josh Young]]**: Macon County Commission Chair; leaned toward his sheriff until he asked around town and found residents almost entirely against the cameras, then chaired the 5 to 0 vote that ended Flock in Macon.
+- **[[Barry Breeden]]**: Macon County commissioner and former sheriff's deputy. Seconded the July 14, 2026 motion to end the Flock contract; said he \"came in 50-50\" and, of the data, \"there's a lot of unknowns in where the data goes.\"
+- **[[Brent Holbrooks]]**: Macon County Sheriff. Spoke for keeping Flock at the July 14, 2026 meeting; after the 5 to 0 vote to end it said, \"I respect the decision.\" Re-elected in the March primary, unopposed in November.
+- **[[Dylan Castle]]**: Candidate for Macon County commissioner, November 3, 2026; pastor and county GOP vice-chair. Campaigned against the Flock contract on Fourth Amendment grounds.
+- **[[John Shearl]]**: Macon County commissioner. Made the July 14, 2026 motion to end the Flock contract, citing the Fourth Amendment: \"I don't want a hunch. I want the truth.\" On the November 3, 2026 ballot.
+- **[[Josh Young]]**: Macon County Commission Chair since December 2024. Chaired the July 14, 2026 meeting at which the board voted 5 to 0 to end the Flock contract; told the Smoky Mountain News he had asked residents and found them largely against the cameras.
 
 ### [[WNC/Madison County/index|Madison County]]
 
 #### [[WNC/Madison County/Officials/index|Officials]]
 
-- **[[Buddy Harwood]]**: Madison County Sheriff since 2009; put 15 Flock cameras up with no vote, announced them on Facebook, and refuses the records requests. On the ballot in November.
-- **[[Michael Garrison]]**: Madison County Commission Chairman; told a room of objecting residents "You will not speak on Flock tonight," then said the board has no oversight of the sheriff's purchases it funds.
-- **[[Robin Lyles]]**: Republican challenger for Madison County Sheriff, running a rematch of 2022. No public position on the cameras or the records refusals.
+- **[[Buddy Harwood]]**: Madison County Sheriff since 2009. His office deployed 15 Flock cameras by March 2026 with no commission vote, announced on the office's Facebook page; records requests to the office have been refused. On the November 3, 2026 ballot against Robin Lyles.
+- **[[Michael Garrison]]**: Madison County Commission Chairman. Told residents at the June 9, 2026 meeting, \"You will not speak on Flock tonight,\" and said the board has no oversight of the sheriff's purchases.
+- **[[Robin Lyles]]**: Republican nominee for Madison County Sheriff, November 3, 2026, in a rematch of 2022. No public statement on the cameras or the records refusals found as of Aug 22, 2026.
 
 ### [[WNC/McDowell County/index|McDowell County]]
 
 #### [[WNC/McDowell County/Officials/index|Officials]]
 
-- **[[Nathan Mace]]**: McDowell County's new sheriff, sworn in August 10, 2026; inherits eight Flock cameras nobody voted on and has said nothing about them. Unopposed in November.
+- **[[Nathan Mace]]**: McDowell County Sheriff, sworn in August 10, 2026. The office runs eight Flock cameras; no commission vote on them is on the record, and no statement from him has been found as of Aug 22, 2026. Unopposed in November.
 
 ### [[WNC/Rutherford County/index|Rutherford County]]
 
 #### [[WNC/Rutherford County/Officials/index|Officials]]
 
-- **[[Aaron Ellenburg]]**: Rutherford County Sheriff; pitched commissioners an eight-camera Flock network on the promise of "the nationwide database," never got a vote, and is on the November ballot, apparently unopposed.
-- **[[Clint Ingle]]**: Rutherfordton Police Chief; his department's damaged Flock camera drew 24,000 celebratory comments, and his promise to arrest whoever did it is still open.
+- **[[Aaron Ellenburg]]**: Rutherford County Sheriff. Pitched commissioners an eight-camera Flock network on February 3, 2025, citing \"access to the nationwide database\"; no vote followed. On the November 3, 2026 ballot, apparently unopposed.
+- **[[Clint Ingle]]**: Rutherfordton Police Chief. A Flock camera of his department's was damaged in July 2026; he said the department would seek charges. No arrest had been reported as of Aug 22, 2026.
 
 ### [[WNC/Transylvania County/index|Transylvania County]]
 
@@ -158,7 +158,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Watauga County/Officials/index|Officials]]
 
-- **[[Daniel Duckworth]]**: Boone Police Chief; the only department head in the region found to have narrowed his own Flock sharing list voluntarily, to North Carolina and a few Tennessee agencies, with quarterly audits.
+- **[[Daniel Duckworth]]**: Boone Police Chief. Narrowed the department's Flock sharing list to North Carolina agencies and a few in Tennessee, 41 in all, with quarterly audits, after the 2026 log review.
 
 ### [[WNC/Raleigh and Washington/index|Raleigh and Washington]]
 

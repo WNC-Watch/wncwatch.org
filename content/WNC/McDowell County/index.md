@@ -1,6 +1,6 @@
 ---
 title: McDowell County
-description: Twelve cameras, zero press coverage, no vote anyone can find, WNC's documentation hole.
+description: "Twelve or more Flock cameras, run by the sheriff's office and Marion police; no vote on them found, no local press coverage found, a new sheriff since August 2026."
 aliases:
   - "WNC/McDowell County"
 standing: "no public review found"

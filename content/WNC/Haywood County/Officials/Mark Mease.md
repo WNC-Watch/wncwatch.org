@@ -1,6 +1,6 @@
 ---
 title: Mark Mease
-description: Republican nominee for Haywood County Sheriff; unseated the incumbent in March 2026 and has said nothing public about the cameras he would inherit.
+description: "Republican nominee for Haywood County Sheriff, November 3, 2026; won the March 2026 primary over the incumbent. No public statement on the cameras found as of Aug 22, 2026."
 aliases:
   - "People/WNC/Mark Mease"
 ---
