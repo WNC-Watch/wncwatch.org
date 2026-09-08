@@ -63,7 +63,6 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({ sortFn: explorerSortFn }),
-    }),
   ],
   right: [
     Component.Graph(),
