@@ -13,7 +13,7 @@ systems:
       - "Companies/Flock Safety"
 ---
 
-Madison County is the starkest process story in WNC, worse than Asheville's.
+Madison County's sheriff's office put 15 Flock cameras into use by March 2026 without a commission vote or public discussion.
 
 ## Timeline
 
@@ -24,7 +24,7 @@ Madison County is the starkest process story in WNC, worse than Asheville's.
 <div class="tl-item tl-resist"><div class="tl-date">March 10, 2026</div><div class="tl-body"><strong>first organized public comment.</strong> Madison for Privacy brought Fourth Amendment objections to the commissioners meeting; the comments are on tape (<a href="https://www.youtube.com/@madisoncountygovernment3990">Madison County Government on YouTube</a>).</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">June 9, 2026</div><div class="tl-body"><strong>"You will not speak on Flock tonight."</strong> Chairman Michael Garrison refused to let dozens of objecting residents speak individually (allowing one seven-minute spokesperson) and argued the board has no oversight of the Sheriff's technology purchases; the story went national via <a href="https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/">404 Media</a>. (<a href="../WNC/Asheville/Record/Police-Oversight-in-Asheville">Police oversight in Asheville, 1991 to 2026</a>)</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">August 2026</div><div class="tl-body"><strong>national week of action.</strong> "Popsicles for Privacy," organized with Madison for Privacy. (<a href="https://atlpresscollective.com/2026/08/15/flock-week-of-action/">Atlanta Press Collective</a>)</div></div>
-<div class="tl-item tl-future tl-now"><div class="tl-date">November 2026</div><div class="tl-body"><strong>Sheriff Harwood on the ballot</strong> (vs. Robin Lyles, R); the deployment-without-process and the records refusals are campaign questions nobody has put to either candidate on record.</div></div>
+<div class="tl-item tl-future tl-now"><div class="tl-date">November 2026</div><div class="tl-body"><strong>Sheriff Harwood on the ballot</strong> (vs. Robin Lyles, R); no public position on the cameras found for either candidate as of Sept 8, 2026.</div></div>
 </div>
 
 ## Links of note
@@ -39,21 +39,21 @@ Madison County is the starkest process story in WNC, worse than Asheville's.
 
 The numbers, from published audit logs: **1,200+ nationwide-database searches in 60 days; 3,302 searches across 33 offense categories in five months, in a county of about 20,000 people.** ([Madison for Privacy](https://www.madisonforprivacy.org/) · [DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/))
 
-And the records blackout: the sheriff's office has **refused the bulk of public records requests** (contract, expenditures, audits, policies), which opponents say violates NC public records law. The contract's dollar value is unknown because the county won't release it.
+The records: the sheriff's office has **refused the bulk of public records requests** (contract, expenditures, audits, policies), which opponents say violates NC public records law. The contract's dollar value is unknown because the county won't release it.
 
 ## Who decides here
 
 [[Buddy Harwood]] (sheriff, on the ballot) vs [[Robin Lyles]] · [[Michael Garrison]] (commission chairman). Organizing: Madison for Privacy.
 
-## Who's fighting
+## Organizing
 
 **[Madison for Privacy](https://www.madisonforprivacy.org/)** (madisonforprivacy@proton.me): records requests, public-comment organizing (March 10 and June 9, 2026 meetings), Fourth Amendment framing, coordination with Mountain Indivisible.
 
-## The leverage
+## Open items
 
-1. **The November election**: see the timeline; neither candidate has been put on record.
+1. **The November 3, 2026 election**: no public position on the cameras found for either sheriff candidate as of Sept 8, 2026.
 2. **The budget is the vote the commission never took**: the cameras ride the Sheriff's general appropriation, renewed each June. Garrison says the board has no oversight of the sheriff's purchases, but the board approves the budget they're paid from.
-3. The commission meets the **2nd Tuesday, 6:45 PM public comment** ([video: Madison County Government on YouTube](https://www.youtube.com/@madisoncountygovernment3990)). Commissioners: boc@madisoncountync.gov.
+3. Commissioners: boc@madisoncountync.gov. Meeting video: [Madison County Government on YouTube](https://www.youtube.com/@madisoncountygovernment3990).
 
 ## What the neighbors' records show
 
@@ -61,7 +61,7 @@ Madison has no Flock transparency portal and refuses records requests, but the S
 
 ## Watch items
 
-- Whether the county's paper of record (News-Record & Sentinel) ever covers the fight; it hasn't yet, a notable silence.
+- Whether the county's paper of record (News-Record & Sentinel) ever covers the fight; it had not as of Sept 8, 2026.
 - Marshall, Mars Hill, and Hot Springs each have mapped Flock cameras (likely the county's); none of the three town boards publishes meeting video at all.
 
-*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] (Asheville's version of process avoidance) · [[Getting Flock Out]]*
+*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] · [[Getting Flock Out]]*

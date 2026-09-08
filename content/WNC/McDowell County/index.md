@@ -13,7 +13,7 @@ systems:
       - "Companies/Flock Safety"
 ---
 
-In McDowell County, no one is checking at all.
+McDowell County's sheriff's office runs at least 12 Flock cameras; no vote, contract value, or policy is public.
 
 ## Timeline
 
@@ -21,7 +21,7 @@ In McDowell County, no one is checking at all.
 
 <div class="avl-tl">
 <div class="tl-item tl-expand"><div class="tl-date">August 10, 2026</div><div class="tl-body"><strong>A new sheriff.</strong> Ricky "Buck" Buchanan retires August 1; <strong>Nathan Mace</strong> is sworn in as McDowell's 26th sheriff, with Paul Alkire as chief deputy (<a href="https://www.foxcarolina.com/2026/08/10/new-mcdowell-county-sheriff-officially-sworn-into-office/">Fox Carolina</a>). Mace won the March Republican primary and appears to have no November opponent. He inherits the cameras and has said nothing public about them.</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">By September 2025</div><div class="tl-body"><strong>12+ cameras on the record, and that's the entire record.</strong> Per public records compiled by <a href="https://www.atlasofsurveillance.org/search?location=McDowell+County%2C+NC">EFF's Atlas of Surveillance</a>, the <strong>Sheriff's Office runs 8 Flock cameras</strong> and <strong>Marion PD runs 4</strong>, with two more mapped in Old Fort. No commission vote, no council vote, no news story precedes or follows. (<a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">By September 2025</div><div class="tl-body"><strong>12 or more cameras on the record.</strong> Per public records compiled by <a href="https://www.atlasofsurveillance.org/search?location=McDowell+County%2C+NC">EFF's Atlas of Surveillance</a>, the <strong>Sheriff's Office runs 8 Flock cameras</strong> and <strong>Marion PD runs 4</strong>, with two more mapped in Old Fort. No commission vote, no council vote, no news story precedes or follows. (<a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
 </div>
 
 ## Links of note
@@ -34,14 +34,14 @@ In McDowell County, no one is checking at all.
 
 [[Nathan Mace]] (sheriff since Aug 10, 2026, unopposed). No commissioner, Marion official, or chief has been quoted on the cameras.
 
-## The documentation hole
+## What is public
 
 Beyond the Atlas entry, there is nothing: **no commission vote, no council vote, no news story, no stated position from the sheriff who installed them (Ricky Buchanan, retired August 2026) or the one who inherited them (Nathan Mace), no contract value, no local coverage of any kind**; the county's own paper has run only wire stories about Flock elsewhere. No tracker lists McDowell; no opposition exists because nobody knows.
 
-That makes McDowell the cheapest high-value target in the region: **a single [[Records Center|records request]]** (contract, cost, policies, audit logs; [DeFlockILM's NC template](https://deflockilm.org/nc-flock-camera-map/) works) would produce the county's first-ever public documentation of its own surveillance network, and a single resident asking at public comment would be the first ever to do so.
+A single [[Records Center|records request]] (contract, cost, policies, audit logs; [DeFlockILM's NC template](https://deflockilm.org/nc-flock-camera-map/) works) would produce the county's first-ever public documentation of its own surveillance network, and a single resident asking at public comment would be the first ever to do so.
 
 **What the neighbors' records show:** McDowell County SO, Marion PD, and Old Fort PD all appear on [[WNC/Henderson County/index|Henderson County]]'s published list of agencies granted access to Henderson's plate reads (Aug 22, 2026), so the county's deputies have access to a regional pool whatever their own paperwork says. McDowell has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)). Federal forfeiture payments to the Sheriff's Office: $3,803 (FY2017), $39,504 (FY2020), $2,900 (FY2021), $86,937 (FY2022) ([DOJ](https://www.justice.gov/afp/fy2024-equitable-sharing-payment-cash-and-sales-proceeds-recipient-agency-state)). The new sheriff's first budget is the first chance to ask: [[What the Law Lets the County Do]].
 
-**Video:** commissioners post to [YouTube](https://www.youtube.com/channel/UC0mTfn8VlbzCAPoS4ypHSbQ) (2nd Monday 5 PM, 3rd Monday 11:30 AM); Marion City Council's channel needs manual verification.
+**Video:** commissioners post to [YouTube](https://www.youtube.com/channel/UC0mTfn8VlbzCAPoS4ypHSbQ); Marion City Council's channel needs manual verification.
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Getting Flock Out]]*

@@ -13,7 +13,7 @@ systems:
       - "Companies/Flock Safety"
 ---
 
-Jackson County's four Flock cameras read 1.19 million plates a month to serve 563 searches, and for once, the local paper is doing the digging.
+Jackson County's four sheriff's Flock cameras read 1.19 million plates a month against 563 searches, per records obtained by the Sylva Herald.
 
 ## Timeline
 
@@ -21,7 +21,7 @@ Jackson County's four Flock cameras read 1.19 million plates a month to serve 56
 
 <div class="avl-tl">
 <div class="tl-item tl-expand"><div class="tl-date">2024</div><div class="tl-body"><strong>Sheriff signs on.</strong> Sheriff Doug Farmer's office takes a <strong>5-year, $55,000+ Flock contract</strong> for 4 cameras, paid through annual budget allocations (<a href="https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html">Sylva Herald</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
-<div class="tl-item tl-resist"><div class="tl-date">June 30–July 30, 2026</div><div class="tl-body"><strong>One month of the county's own records.</strong> <strong>1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits</strong>: 99.95% of everything captured belongs to people suspected of nothing; data shared with 200 in-state agencies (<a href="https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html">Sylva Herald, "What the FLOCK?"</a> · <a href="https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/">Smoky Mountain News</a>).</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">June 30–July 30, 2026</div><div class="tl-body"><strong>One month of the county's own records.</strong> <strong>1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits</strong>: 99.95 percent of reads were not searched; data shared with 200 in-state agencies (<a href="https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html">Sylva Herald, "What the FLOCK?"</a> · <a href="https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/">Smoky Mountain News</a>).</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">August 4, 2026</div><div class="tl-body"><strong>Farmer defends the cameras at a work session.</strong> "Force multiplier," zero documented misuse; commissioners Michael Jennings and Todd Bryson raise real concerns. <strong>No vote taken, none scheduled</strong> (<a href="https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/">Smoky Mountain News</a>).</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">August 2026</div><div class="tl-body"><strong>WCU's own records response documents a live legal violation.</strong> The university's Genetec parking reader retains "hits" for <strong>365 days</strong> against NC's 90-day ALPR cap (G.S. 20-183.32(a)) (<a href="https://deflockilm.org/flock-in-north-carolina/">DeFlockILM tracker</a>).</div></div>
 </div>
@@ -39,9 +39,9 @@ Jackson County's four Flock cameras read 1.19 million plates a month to serve 56
 
 ## The numbers, from the county's own records
 
-Jackson County's Sheriff (Doug Farmer) runs **4 Flock cameras** on a **5-year, $55,000+ contract** (2024, paid through annual budget allocations). One month of records (June 30–July 30, 2026): **1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits**, meaning 99.95% of everything captured belongs to people suspected of nothing. Data is shared with **200 in-state agencies**, the sheriff's own answer when a commissioner asked him directly at the work session (one outlet had reported 280 from the same slides; the recording settles it at 200). 17 of 82 JCSO employees have access. ([Sylva Herald, "What the FLOCK?"](https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html) · [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/))
+Jackson County's Sheriff (Doug Farmer) runs **4 Flock cameras** on a **5-year, $55,000+ contract** (2024, paid through annual budget allocations). One month of records (June 30–July 30, 2026): **1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits**. 99.95 percent of reads were not searched. Data is shared with **200 in-state agencies**, the sheriff's own answer when a commissioner asked him directly at the work session (one outlet had reported 280 from the same slides; the recording settles it at 200). 17 of 82 JCSO employees have access. ([Sylva Herald, "What the FLOCK?"](https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html) · [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/))
 
-At the **August 4, 2026 work session**, Farmer gave a defensive presentation ("force multiplier," zero documented misuse); commissioners **Michael Jennings** ("what it could be used for in the future") and **Todd Bryson** (false flags on innocent drivers) raised real concerns. **No vote was taken and none is scheduled**; funding recurs each budget cycle.
+At the **August 4, 2026 work session**, Farmer presented ("force multiplier," zero documented misuse); commissioners **Michael Jennings** ("what it could be used for in the future") and **Todd Bryson** (false flags on innocent drivers) raised concerns. **No vote was taken and none is scheduled**; funding recurs each budget cycle.
 
 ## From the meeting video
 
@@ -56,7 +56,7 @@ The August 4 work session is on tape ([the recording](https://www.youtube.com/wa
 
 ## WCU's retention violation: 365 days against a 90-day legal cap
 
-Western Carolina University runs **three** ALPR systems: Flock, Rekor (campus police), and a **Genetec parking reader that retains "hits" for 365 days**. NC law caps ALPR retention at **90 days** (G.S. 20-183.32(a)). Per the university's own August 2026 records response, that's a **live statutory violation** being pursued by records requesters. ([DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/)) Even the university's parking system is out of compliance with the state's surveillance law.
+Western Carolina University runs **three** ALPR systems: Flock, Rekor (campus police), and a **Genetec parking reader that retains "hits" for 365 days**. NC law caps ALPR retention at **90 days** (G.S. 20-183.32(a)). Per the university's own August 2026 records response, that's a **live statutory violation** being pursued by records requesters. ([DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/))
 
 ## The sheriff's published policies: four documents, one of them from Colorado
 
@@ -64,12 +64,8 @@ The Sheriff's Office publishes a [PowerDMS manual](https://public.powerdms.com/j
 
 On ICE, Sheriff Farmer has described honoring detainers case by case: "When we arrest somebody and we have charges on them, we'll send that information up to see if ICE wants to detain them for any reason" ([Sylva Herald](https://www.thesylvaherald.com/news/article_bbff1653-9aef-451a-83f9-5769df186fec.html), date unconfirmed). Jackson has no 287(g) agreement ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)). Federal forfeiture payments to the Sheriff's Office: $6,244 (FY2017), $18,330 (FY2020), $19,122 (FY2021), $114,785 (FY2022) ([DOJ](https://www.justice.gov/afp/fy2024-equitable-sharing-payment-cash-and-sales-proceeds-recipient-agency-state)). The office also appears on [[WNC/Henderson County/index|Henderson County]]'s list of agencies with access to Henderson's reads. What commissioners can do about any of it: [[What the Law Lets the County Do]].
 
-## Watch
+## Open items
 
-The **Sylva Herald is actively investigating** with records requests in flight, the rare county paper doing the work. Video: [county commissioners](https://www.youtube.com/channel/UCQ06Suo-BrkLxLLsSIJbryw) and [Sylva's town board](https://www.youtube.com/channel/UCRL0vTRXlVtk0V3EDwcILEQ) are both on YouTube (the Aug 4 Farmer presentation is on tape). No organized opposition group exists yet; the budget cycle and the Herald's findings are the levers.
-
-## September dates
-
-Commissioners meet **Tuesday, Sept 1** and **Tuesday, Sept 15** (Justice Center, Sylva; verify times on the posted agenda). The Sylva Herald's records requests (agency-sharing list, arrest statistics, search audits) remain unanswered; the presentation deck is still the record to request. Commissioner Michael Jennings's question from the August work session is the one to keep asking: "[that slide] says it does not violate the Fourth Amendment, but to what end? When Flock has updates and starts being able to do more than it can now, or we get a sheriff that's not as strict as you are, there's a lot of reasons it could go wrong."
+The Sylva Herald's records requests (agency-sharing list, arrest statistics, search audits) were unanswered as of Sept 8, 2026; the Aug 4 presentation deck is the record to request. Video: [county commissioners](https://www.youtube.com/channel/UCQ06Suo-BrkLxLLsSIJbryw) and [Sylva's town board](https://www.youtube.com/channel/UCRL0vTRXlVtk0V3EDwcILEQ) are both on YouTube (the Aug 4 Farmer presentation is on tape). No vote is scheduled as of Sept 8, 2026; funding recurs each budget cycle. Commissioner Michael Jennings's question from the Aug 4 work session stands: "[that slide] says it does not violate the Fourth Amendment, but to what end? When Flock has updates and starts being able to do more than it can now, or we get a sheriff that's not as strict as you are, there's a lot of reasons it could go wrong."
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Getting Flock Out]]*
