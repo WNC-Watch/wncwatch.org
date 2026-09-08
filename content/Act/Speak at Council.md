@@ -5,7 +5,6 @@ aliases:
   - "Speak at Council"
 ---
 
-*For the August 25 Flock vote specifically: [[Tuesday August 25|Tuesday, August 25: Make the Vote Count]] walks you from what is being decided to your own angle and ask, with the 9 a.m. deadline for written comment and one worked example.*
 
 You get three minutes. The [[2026-05-12 City Council|May 12 vote]] proved that showing up isn't enough on its own, but it also proved the city counts heads, pulls agenda items when crowds appear, and answers pressure with concessions like public tours. Sustained, specific, on-the-record comment is how the oversight fight gets won. Here's the kit.
 

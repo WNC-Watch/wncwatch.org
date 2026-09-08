@@ -2,6 +2,7 @@
 title: Cameras in Public Housing
 description: "Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published."
 aliases:
+  - "WNC/Asheville/Record/Watching the Poor"
   - "Watching the Poor"
   - "Cameras in Public Housing"
   - "The System/Watching the Poor"
@@ -51,4 +52,4 @@ No published record shows HACA residents were given notice, a consultation, or a
 
 **Update, August 2026.** HACA's own records show how the relationship works in practice: in March 2026 its IT staff were updating DVR passwords "for all users who access the camera DVRs, including BCSD and APD"; on May 20, 2026 Interim Chief Stepp told the HACA board that "a member of the HACA team will be joining the program policy board" of the RTIC, and the minutes record no commissioner questions. APD's Deputy Chief of Operations, [[Sean Aardema]], sits on that board. ([[Ella Santos]] · [board minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf))
 
-*Related: [[What They Can Actually Learn About You|What a plate read becomes]] · [[Who Gets Watched]] · [[Follow the Money]] · [[Oversight Theater|Police oversight in Asheville, 1991 to 2026]] · [[What Is the RTIC]] · [[Get Involved]]*
+*Related: [[What They Can Actually Learn About You|What a plate read becomes]] · [[Who Gets Watched]] · [[Follow the Money]] · [[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]] · [[What Is the RTIC]] · [[Get Involved]]*

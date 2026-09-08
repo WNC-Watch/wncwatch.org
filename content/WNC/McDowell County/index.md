@@ -44,4 +44,4 @@ That makes McDowell the cheapest high-value target in the region: **a single [[R
 
 **Video:** commissioners post to [YouTube](https://www.youtube.com/channel/UC0mTfn8VlbzCAPoS4ypHSbQ) (2nd Monday 5 PM, 3rd Monday 11:30 AM); Marion City Council's channel needs manual verification.
 
-*Related: [[WNC and NC|Western North Carolina and the state]] · [[Getting Flock Out]]*
+*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Getting Flock Out]]*

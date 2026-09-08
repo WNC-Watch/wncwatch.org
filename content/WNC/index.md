@@ -8,7 +8,7 @@ aliases:
 
 Twelve communities, one page each. The sheriffs' networks share data with each other and with agencies nationwide, and state law sets some of the terms. Start with the overview, then the county you live in.
 
-- **[[WNC and NC|Western North Carolina and the state]]**: The regional overview: where the data goes, who has signed with ICE, and what each county has decided.
+- **[[Western North Carolina and the State|Western North Carolina and the state]]**: The regional overview: where the data goes, who has signed with ICE, and what each county has decided.
 - **[[What the Law Lets the County Do]]**: Who can say no to a sheriff's cameras, what the state now compels on immigration, where the data is allowed to go, and the levers that remain.
 
 ## The counties

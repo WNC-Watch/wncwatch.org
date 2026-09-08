@@ -107,7 +107,7 @@ The mechanism, step by step, is on [[What They Can Actually Learn About You|What
 | Date | What happened | Source |
 |---|---|---|
 | Jan 27, 2026 | Police in multiple states were told to be "as vague as permissible" about Flock use to blunt records requests | [404 Media](https://www.404media.co/police-told-to-be-as-vague-as-permissible-about-why-they-use-flock/) |
-| Aug 3, 2026 | Flock's leaked guide for police, "own the narrative" | [404 Media](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/) · [[The Flockbook|Flock's guide for presenting to councils]] |
+| Aug 3, 2026 | Flock's leaked guide for police, "own the narrative" | [404 Media](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/) · [[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]] |
 | Aug 4, 2026 | An Iowa sheriff's policy: "DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE" and "DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY" | [404 Media](https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/) |
 | Aug 6, 2026 | Cities dropping Flock adopt Axon readers that mount on streetlights and are "designed to completely blend in with their surroundings" | [404 Media](https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/) · [[Axon]] |
 

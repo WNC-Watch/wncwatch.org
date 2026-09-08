@@ -72,4 +72,4 @@ The **Sylva Herald is actively investigating** with records requests in flight, 
 
 Commissioners meet **Tuesday, Sept 1** and **Tuesday, Sept 15** (Justice Center, Sylva; verify times on the posted agenda). The Sylva Herald's records requests (agency-sharing list, arrest statistics, search audits) remain unanswered; the presentation deck is still the record to request. Commissioner Michael Jennings's question from the August work session is the one to keep asking: "[that slide] says it does not violate the Fourth Amendment, but to what end? When Flock has updates and starts being able to do more than it can now, or we get a sheriff that's not as strict as you are, there's a lot of reasons it could go wrong."
 
-*Related: [[WNC and NC|Western North Carolina and the state]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Getting Flock Out]]*
+*Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Getting Flock Out]]*

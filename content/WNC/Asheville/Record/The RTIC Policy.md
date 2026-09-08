@@ -55,7 +55,7 @@ Whether each deletion was a simplification or a retreat is exactly the kind of q
 
 ## What never made it in
 
-Measure the four pages against the promises made to sell the RTIC ([[Promise Tracker]], [[Their Claims vs The Record|Asheville's RTIC claims and the record]]). Not in the policy, in any draft:
+Measure the four pages against the promises made to sell the RTIC ([[Promise Tracker]], [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]). Not in the policy, in any draft:
 
 - **Immigration and ICE.** Zero mentions. Deputy Chief Sean Aardema's "we will not be sharing information with federal immigration" exists only in WLOS's coverage; the written rulebook's only sharing limit is the "permitted by law or compelling need" clause.
 - **Retention periods.** No numbers anywhere; retention lives in other documents and vendor settings.
@@ -68,7 +68,7 @@ Measure the four pages against the promises made to sell the RTIC ([[Promise Tra
 
 The [meeting notes](assets/policy-1703/rtic-workgroup-notes.pdf) cover four sessions (June 11, June 25, July 9, July 23, 2026), held at APD and the Sheriff's Office, lunch provided, no public notice, no public seat. These are APD's own minutes, so quotes below are the department's own written record of what was said.
 
-**Who was in the room:** Interim Chief [[Jackie Stepp|Stepp]], Capt. Brandon Moore (Technology and Intelligence Division), [[Jimmy Wingo]], APD's crime-analysis and policy managers, Sheriff [[Quentin Miller]], and invited community members: the Legacy Neighborhood Coalition, Homeward Bound, the WNC Jewish Security Task Force, a city neighborhood-services staffer, and the Housing Authority's Director of Property Management, whose [[Watching the Poor|properties already host hundreds of the county's cameras]]. **Who wasn't:** anyone from CAMS, GAP, SASSI, the ACLU, or any group that opposed the RTIC. The notes record Miller suggesting "we consider having those who are opposed join us at the table in these discussions"; Stepp's recorded answer was that "we believe we are accomplishing this through the tours, community meetings, etc."
+**Who was in the room:** Interim Chief [[Jackie Stepp|Stepp]], Capt. Brandon Moore (Technology and Intelligence Division), [[Jimmy Wingo]], APD's crime-analysis and policy managers, Sheriff [[Quentin Miller]], and invited community members: the Legacy Neighborhood Coalition, Homeward Bound, the WNC Jewish Security Task Force, a city neighborhood-services staffer, and the Housing Authority's Director of Property Management, whose [[Cameras in Public Housing|properties already host hundreds of the county's cameras]]. **Who wasn't:** anyone from CAMS, GAP, SASSI, the ACLU, or any group that opposed the RTIC. The notes record Miller suggesting "we consider having those who are opposed join us at the table in these discussions"; Stepp's recorded answer was that "we believe we are accomplishing this through the tours, community meetings, etc."
 
 **What the notes disclose that no public meeting has:**
 
