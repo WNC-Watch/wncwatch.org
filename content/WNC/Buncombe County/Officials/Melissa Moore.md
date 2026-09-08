@@ -1,6 +1,6 @@
 ---
 title: Melissa Moore
-description: Buncombe County Finance Director since September 2023; the statutory officer whose preaudit certificate a contract needs before the county can pay it.
+description: "Buncombe County Finance Director since September 2023. Her preaudit certificate is required before the county can pay on a contract."
 aliases:
   - "People/Buncombe/Melissa Moore"
 ---

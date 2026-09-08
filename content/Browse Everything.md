@@ -66,16 +66,16 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Buncombe County/Officials/index|Officials]]
 
-- **[[Amanda Edwards]]**: Chair of the Buncombe County Board of Commissioners, the body that funds the sheriff's 2,000-camera network and has not questioned it on the record since 2022.
-- **[[Avril Pinder]]**: Buncombe County Manager since 2019; presents the budget that funds the sheriff's network without a line for it, and likely co-signs the federal forfeiture paperwork.
-- **[[Board of Commissioners|Buncombe County Board of Commissioners]]**: The seven people who fund the sheriff's network, what each has said about it (almost nothing), and the two seats on the November ballot.
-- **[[Board of Education|Buncombe County Board of Education]]**: The board that controls when deputies get the school cameras, has never voted on it in public, and has three seats on the November ballot.
-- **[[Gary Parris]]**: Republican challenger for Buncombe County Sheriff. No public position on the Fusus network he'd inherit.
-- **[[Martin Moore]]**: Effectively incoming Buncombe County DA (no Republican filed), the prosecutor who will decide what RTIC evidence looks like in court.
-- **[[Melissa Moore]]**: Buncombe County Finance Director since September 2023; the statutory officer whose preaudit certificate a contract needs before the county can pay it.
-- **[[Quentin Miller]]**: Buncombe County Sheriff since 2018; built the ~2,000-camera Fusus network the RTIC extends. Seeking a third term.
-- **[[Rob Jackson]]**: Buncombe County Schools superintendent, retiring September 1, 2026, who inherited the sheriff's camera access from his predecessor and never publicly revisited it.
-- **[[Todd Williams]]**: Buncombe County District Attorney since 2014; his April 2025 letter, read into the record at the vote, rested on an assurance he said he had received. Leaves office December 31.
+- **[[Amanda Edwards]]**: Chair of the Buncombe County Board of Commissioners since December 2024, a commissioner before that. The board approves the budget that funds the sheriff's Fusus network; its meeting record since 2022 shows no discussion of the network.
+- **[[Avril Pinder]]**: Buncombe County Manager since 2019. Presents the county budget, in which the sheriff's camera network has no line of its own.
+- **[[Board of Commissioners|Buncombe County Board of Commissioners]]**: The seven commissioners who approve the budget that funds the sheriff's network, what each has said about it on the record, and the two seats on the November 3, 2026 ballot.
+- **[[Board of Education|Buncombe County Board of Education]]**: The board whose agreement gives deputies access to the school cameras. No public vote on the agreement is on the record. Three seats are on the November 3, 2026 ballot.
+- **[[Gary Parris]]**: Republican nominee for Buncombe County Sheriff, November 3, 2026, against Sheriff Quentin Miller. No public statement on the Fusus network found as of Aug 17, 2026.
+- **[[Martin Moore]]**: Buncombe County Commissioner and Democratic nominee for District Attorney; no Republican filed. Would take office as DA in January 2027.
+- **[[Melissa Moore]]**: Buncombe County Finance Director since September 2023. Her preaudit certificate is required before the county can pay on a contract.
+- **[[Quentin Miller]]**: Buncombe County Sheriff since 2018. His office runs the Fusus network of about 2,000 cameras that Asheville's RTIC connects to. Seeking a third term on November 3, 2026, against Gary Parris.
+- **[[Rob Jackson]]**: Buncombe County Schools superintendent until September 1, 2026. The school cameras' connection to the sheriff's network predates his term; the board's public record shows no vote revisiting it.
+- **[[Todd Williams]]**: Buncombe County District Attorney since 2014, leaving office December 31, 2026. His letter of April 30, 2026, read into the record at the May 12 vote, states that he had been assured the system could not be used for immigration enforcement.
 
 #### [[WNC/Buncombe County/Record/index|Record]]
 
@@ -94,8 +94,8 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Henderson County/Officials/index|Officials]]
 
-- **[[Bill Lapsley]]**: Henderson County Commission Chair; raised the cameras with the sheriff himself, never scheduled a vote, and is retiring. "Until we hear of some abuse... I don't see a problem."
-- **[[Lowell Griffin]]**: Henderson County Sheriff since 2018; bought the county's Flock cameras with no commission vote, shares the data with 2,048 agencies, and runs WNC's only 287(g) jail program. Unopposed in November.
+- **[[Bill Lapsley]]**: Henderson County Commission Chair, first elected 2014, term ending December 2026 and not running. Has not scheduled a vote on the sheriff's cameras; to the Hendersonville Lightning: \"until we hear of some abuse or something radical happening, I don't see a problem.\"
+- **[[Lowell Griffin]]**: Henderson County Sheriff since 2018. His office bought the county's Flock cameras in 2025 inside its approved budget, with no commission vote; its portal lists 2,048 agencies with access; it holds WNC's only 287(g) agreement. Unopposed on November 3, 2026.
 
 ### [[WNC/Hendersonville/index|Hendersonville]]
 
@@ -162,14 +162,14 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ### [[WNC/Raleigh and Washington/index|Raleigh and Washington]]
 
-- **[[Chip Hawley]]**: SBI Director; his bureau runs the statewide highway plate-reader program whose stated goal is "covering all entrances and exits to North Carolina," and brought the state's first misuse charges.
-- **[[Chuck Edwards]]**: The congressman who earmarked the RTIC's $1.14 million; his signed justification is one sentence, the request doubled without explanation, and he went silent when Asheville pushed back. In office through January 2027.
-- **[[Jamie Ager]]**: Democratic nominee for NC-11, the seat whose last occupant earmarked the RTIC's $1.14M.
-- **[[Jeff Jackson]]**: Attorney General; no public statement found on plate readers, Flock, data sharing, or the summer's misuse prosecutions, which the SBI brought. A correction: no \"Jackson letter\" was read at Asheville's vote.
-- **[[Jennifer Balkcom]]**: Republican replacement nominee for NC-11 after Chuck Edwards' withdrawal. No surveillance record found.
-- **[[Josh Stein]]**: Governor; vetoed both ICE-cooperation bills on constitutional grounds and was overridden on both, then signed the budget that made highway plate readers permanent without a word about them.
-- **[[Ted Budd]]**: U.S. Senator through 2029; co-sponsored the Laken Riley Act and anti-sanctuary legislation; no statement found on plate readers or the technology his colleagues fund.
-- **[[Thom Tillis]]**: Retiring U.S. Senator who labeled Buncombe a "sanctuary jurisdiction" in 2025 and picked a public fight with the sheriff who built the county's camera network.
+- **[[Chip Hawley]]**: Director of the State Bureau of Investigation since November 2024. The SBI runs the statewide highway plate-reader program, with the stated goal of \"covering all entrances and exits to North Carolina,\" and brought the state's first Flock misuse charges in July 2026.
+- **[[Chuck Edwards]]**: U.S. Representative, NC-11, through January 2027. Signed the request for the RTIC's earmark on May 22, 2024; the FY2025 request was $529,692 and the funded FY2026 earmark $1.14 million. No statement on the RTIC since the April 2026 debate has been found.
+- **[[Jamie Ager]]**: Democratic nominee for U.S. House, NC-11, November 3, 2026, against Jennifer Balkcom. No statement on plate readers or the RTIC found as of Aug 17, 2026.
+- **[[Jeff Jackson]]**: North Carolina Attorney General. No public statement on plate readers, Flock, or data sharing found as of Aug 22, 2026; the summer 2026 misuse charges were brought on SBI affidavits. No letter from him was read at Asheville's May 12, 2026 vote.
+- **[[Jennifer Balkcom]]**: NC House member for District 117 since January 2023; Republican nominee for U.S. House, NC-11, substituted on Aug 10, 2026 after Chuck Edwards withdrew. No statement on plate readers found as of Aug 17, 2026.
+- **[[Josh Stein]]**: Governor. Vetoed HB 318 and SB 153 on constitutional grounds; both vetoes were overridden. Signed the 2025 budget that made the SBI highway plate-reader program permanent.
+- **[[Ted Budd]]**: U.S. Senator through January 2029. Co-sponsored the Laken Riley Act and anti-sanctuary legislation; no statement on plate readers found as of Aug 22, 2026.
+- **[[Thom Tillis]]**: U.S. Senator, retiring in January 2027. In 2025 described Buncombe County as a \"sanctuary jurisdiction\" in a public exchange with Sheriff Miller.
 - **[[WNC Legislators]]**: How Western North Carolina's state senators and representatives voted on HB 10, HB 318, SB 153, and the budget that made highway plate readers permanent, with roll-call links, and who is on the November ballot.
 
 ## [[Briefings/index|Briefings]]

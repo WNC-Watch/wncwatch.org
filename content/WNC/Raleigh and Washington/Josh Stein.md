@@ -1,6 +1,6 @@
 ---
 title: Josh Stein
-description: Governor; vetoed both ICE-cooperation bills on constitutional grounds and was overridden on both, then signed the budget that made highway plate readers permanent without a word about them.
+description: "Governor. Vetoed HB 318 and SB 153 on constitutional grounds; both vetoes were overridden. Signed the 2025 budget that made the SBI highway plate-reader program permanent."
 aliases:
   - "People/State/Josh Stein"
 ---

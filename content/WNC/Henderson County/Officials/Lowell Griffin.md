@@ -1,6 +1,6 @@
 ---
 title: Lowell Griffin
-description: Henderson County Sheriff since 2018; bought the county's Flock cameras with no commission vote, shares the data with 2,048 agencies, and runs WNC's only 287(g) jail program. Unopposed in November.
+description: "Henderson County Sheriff since 2018. His office bought the county's Flock cameras in 2025 inside its approved budget, with no commission vote; its portal lists 2,048 agencies with access; it holds WNC's only 287(g) agreement. Unopposed on November 3, 2026."
 aliases:
   - "People/WNC/Lowell Griffin"
 ---

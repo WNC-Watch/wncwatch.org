@@ -1,6 +1,6 @@
 ---
 title: Quentin Miller
-description: Buncombe County Sheriff since 2018; built the ~2,000-camera Fusus network the RTIC extends. Seeking a third term.
+description: "Buncombe County Sheriff since 2018. His office runs the Fusus network of about 2,000 cameras that Asheville's RTIC connects to. Seeking a third term on November 3, 2026, against Gary Parris."
 aliases:
   - "People/Quentin Miller"
   - "People/Buncombe/Quentin Miller"

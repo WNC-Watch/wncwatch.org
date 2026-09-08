@@ -1,6 +1,6 @@
 ---
 title: Avril Pinder
-description: Buncombe County Manager since 2019; presents the budget that funds the sheriff's network without a line for it, and likely co-signs the federal forfeiture paperwork.
+description: "Buncombe County Manager since 2019. Presents the county budget, in which the sheriff's camera network has no line of its own."
 aliases:
   - "People/Buncombe/Avril Pinder"
 ---

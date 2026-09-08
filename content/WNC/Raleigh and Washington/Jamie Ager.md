@@ -1,6 +1,6 @@
 ---
 title: Jamie Ager
-description: Democratic nominee for NC-11, the seat whose last occupant earmarked the RTIC's $1.14M.
+description: "Democratic nominee for U.S. House, NC-11, November 3, 2026, against Jennifer Balkcom. No statement on plate readers or the RTIC found as of Aug 17, 2026."
 aliases:
   - "People/Jamie Ager"
   - "People/State/Jamie Ager"

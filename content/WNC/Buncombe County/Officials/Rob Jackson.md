@@ -1,6 +1,6 @@
 ---
 title: Rob Jackson
-description: Buncombe County Schools superintendent, retiring September 1, 2026, who inherited the sheriff's camera access from his predecessor and never publicly revisited it.
+description: "Buncombe County Schools superintendent until September 1, 2026. The school cameras' connection to the sheriff's network predates his term; the board's public record shows no vote revisiting it."
 aliases:
   - "People/Buncombe/Rob Jackson"
 ---
