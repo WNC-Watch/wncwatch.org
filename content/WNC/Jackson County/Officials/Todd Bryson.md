@@ -1,6 +1,6 @@
 ---
 title: Todd Bryson
-description: Jackson County commissioner who raised the false-flag problem, innocent drivers stopped on bad hits, and is on the November ballot.
+description: "Jackson County commissioner. At the August 4, 2026 work session raised the risk of innocent drivers stopped on false hits. On the November 3, 2026 ballot."
 aliases:
   - "People/WNC/Todd Bryson"
 ---

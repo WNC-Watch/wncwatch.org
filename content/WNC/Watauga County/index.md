@@ -1,6 +1,6 @@
 ---
 title: Watauga County
-description: "Boone paused Flock growth, built a transparency portal, then the audit came back: 1.5 million searches of App State's cameras in three months, 85% from out of state. Sharing cut from 1,000+ agencies to 41. What accountability actually looks like."
+description: "Boone paused Flock growth and built a transparency portal; the 2026 log review found 1.5 million searches of App State's cameras in three months, 85 percent from out of state; sharing was cut from more than 1,000 agencies to 41."
 aliases:
   - "WNC/Watauga County"
 standing: "kept the cameras, cut sharing 96% after pulling the log"

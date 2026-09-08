@@ -1,6 +1,6 @@
 ---
 title: Macon County
-description: The county that took its cameras down. The full story, and what's happened since.
+description: "Twelve Flock cameras removed after the commissioners' 5 to 0 vote on July 14, 2026; the vote, the removal, and what remains listed."
 aliases:
   - "WNC/Macon County"
 standing: "removed; network membership still listed"

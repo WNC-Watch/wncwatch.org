@@ -1,6 +1,6 @@
 ---
 title: Nathan Mace
-description: McDowell County's new sheriff, sworn in August 10, 2026; inherits eight Flock cameras nobody voted on and has said nothing about them. Unopposed in November.
+description: "McDowell County Sheriff, sworn in August 10, 2026. The office runs eight Flock cameras; no commission vote on them is on the record, and no statement from him has been found as of Aug 22, 2026. Unopposed in November."
 aliases:
   - "People/WNC/Nathan Mace"
 ---

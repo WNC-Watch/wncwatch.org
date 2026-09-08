@@ -1,6 +1,6 @@
 ---
 title: Buncombe County
-description: The county built the region's surveillance backbone first, sold it to commissioners as a revenue opportunity, and wrote the rulebook Asheville later copied. The sheriff's own policies, the forfeiture money behind it, and the 1,500 school cameras nobody voted on.
+description: "The sheriff's Fusus network of about 2,000 cameras, about 1,500 of them in schools; the office's policies, the forfeiture funds behind the purchases, and the access log the county released in 2026."
 aliases:
   - "WNC/Buncombe County"
 standing: "expanding; no published audit"

@@ -1,6 +1,6 @@
 ---
 title: Barry Breeden
-description: Macon County commissioner and former sheriff's deputy who "came in 50-50" and seconded the motion to end Flock. "There's a lot of unknowns in where the data goes."
+description: "Macon County commissioner and former sheriff's deputy. Seconded the July 14, 2026 motion to end the Flock contract; said he \"came in 50-50\" and, of the data, \"there's a lot of unknowns in where the data goes.\""
 aliases:
   - "People/WNC/Barry Breeden"
 ---

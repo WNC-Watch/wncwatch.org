@@ -1,6 +1,6 @@
 ---
 title: Rutherford County
-description: The viral vandalism story, a camera network with audio detection, and the one journalist keeping the record.
+description: "A Flock network with an unresolved camera count, Forest City's audio detection, the sheriff's 2025 pitch to commissioners, and the July 2026 camera damage."
 aliases:
   - "WNC/Rutherford County"
 standing: "no county process on the record"

@@ -1,6 +1,6 @@
 ---
 title: Buddy Harwood
-description: Madison County Sheriff since 2009; put 15 Flock cameras up with no vote, announced them on Facebook, and refuses the records requests. On the ballot in November.
+description: "Madison County Sheriff since 2009. His office deployed 15 Flock cameras by March 2026 with no commission vote, announced on the office's Facebook page; records requests to the office have been refused. On the November 3, 2026 ballot against Robin Lyles."
 aliases:
   - "People/WNC/Buddy Harwood"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kevin Ensley
-description: Haywood County Commission Chair; decided to keep the county's Flock cameras in a statement to a reporter, citing overdose numbers nobody has connected to the cameras.
+description: "Haywood County Commission Chair. Said in a statement to a reporter on July 21, 2026 that the county would keep its Flock cameras, citing overdose figures; no vote was taken."
 aliases:
   - "People/WNC/Kevin Ensley"
 ---

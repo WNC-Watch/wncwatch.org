@@ -1,6 +1,6 @@
 ---
 title: Mark Letson
-description: Jackson County Commission Chair; presided over the one work session where commissioners questioned the sheriff's cameras, took no vote, and faces a six-way race for the gavel.
+description: "Jackson County Commission Chair. Presided over the August 4, 2026 work session at which commissioners questioned the sheriff's cameras; no vote was taken. One of six candidates for the seat on November 3, 2026."
 aliases:
   - "People/WNC/Mark Letson"
 ---

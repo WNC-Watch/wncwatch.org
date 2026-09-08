@@ -1,6 +1,6 @@
 ---
 title: Asheville
-description: The city's surveillance implementation timeline in the regional format, every step dated, sourced, and linked to the full record of how it happened.
+description: "Asheville's cameras and the Real-Time Intelligence Center, 2022 to now: where each system stands, the timeline, and who decides."
 aliases:
   - "WNC/Asheville"
 standing: "Flock contract terminated Aug 25, 2026; the Axon contract and the RTIC stand. Pending: the 11 cameras down and APD's Flock accounts closed, the data-deletion notice to council, the executed Axon contract released, the audit reports at the Sept 24 committee."
