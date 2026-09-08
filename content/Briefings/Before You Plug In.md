@@ -1,6 +1,6 @@
 ---
 title: Before You Connect Your Cameras
-description: For Asheville business owners being recruited into the police camera network. What you'd actually sign, what you'd be liable for, and the questions to ask in writing first.
+description: "For Asheville business owners asked to register cameras with the police network: what the registration agreement says, what liability it carries, and the questions to ask in writing first."
 aliases:
   - "Before You Plug In"
   - "The System/Before You Plug In"

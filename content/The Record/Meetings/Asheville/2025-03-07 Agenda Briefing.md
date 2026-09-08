@@ -1,6 +1,6 @@
 ---
 title: "2025-03-07: Asheville City Council agenda briefing, license-plate readers"
-description: The first time council was told about the LPR network, a year late for the mobile readers, two years late for the stationary ones, and only because Kim Roney read about it in the news. Timestamped from the city's video.
+description: "Council's first briefing on the plate-reader network, requested by Kim Roney: mobile readers had run about a year and stationary cameras about two. Timestamped from the city's video."
 aliases:
   - "Meetings/2025-03-07 Agenda Briefing"
   - "The Record/Meetings/2025-03-07 Agenda Briefing"
@@ -32,7 +32,7 @@ The briefing's biggest number arrived as a reassurance:
 
 > "It's important also to note, through our Flock Safety and Axon partnerships, that we have access to **over 177,000 cameras across the Eastern US** — **and we've had that access**... this includes law enforcement agencies, which makes up about 97% of that number... but it also includes business partners... we have a number of **Home Depot, Lowe's, various retail** that have joined in."
 
-And [(1:15:17)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4517s): "the cameras we have access to, which is cameras within a **500-mile radius** of where we are." Four months later, APD told the [[The Committee|Public Safety Committee]] the network was "connected to over 19,000 cameras across a 500 mile radius." Nineteen thousand or 177,000: an order-of-magnitude spread in the department's own public figures. What a network that size actually reveals about a person is the subject of [[What They Can Actually Learn About You]].
+And [(1:15:17)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4517s): "the cameras we have access to, which is cameras within a **500-mile radius** of where we are." Four months later, APD told the [[The Committee|Public Safety Committee]] the network was "connected to over 19,000 cameras across a 500 mile radius." Nineteen thousand or 177,000: an order-of-magnitude spread in the department's own public figures. What a network that size actually reveals about a person is the subject of [[What They Can Actually Learn About You|What a plate read becomes]].
 
 ## The questions that didn't get answers
 
@@ -52,4 +52,4 @@ What's detected, per the presentation [(1:13:43)](https://www.youtube.com/watch?
 
 Nothing was voted on March 7. That's the point: by the time council got its first briefing, the plate readers had been running up to two years, the regional sharing was live, the 177,000-camera access was old news inside APD, and eleven more cameras were under contract with two already bolted up. Eighteen days later, the first [[What Is the RTIC|RTIC]] money would move, on the consent agenda. ([[2025-03-25 City Council]])
 
-*Related: [[Timeline]] · [[Oversight Theater|Police oversight in Asheville, 1991 to 2026]] · [[What They Can Actually Learn About You]] · [[Promise Tracker]] · [[2025-03-25 City Council]]*
+*Related: [[Timeline]] · [[Oversight Theater|Police oversight in Asheville, 1991 to 2026]] · [[What They Can Actually Learn About You|What a plate read becomes]] · [[Promise Tracker]] · [[2025-03-25 City Council]]*

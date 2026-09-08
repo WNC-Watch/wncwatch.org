@@ -1,6 +1,6 @@
 ---
 title: Speak at Council
-description: The complete kit for public comment. Logistics, rules, what's been said, what's unanswered, and how to make three minutes land.
+description: "How public comment works at each body: sign-up, time limits, what has been said, and what remains unanswered."
 aliases:
   - "Speak at Council"
 ---

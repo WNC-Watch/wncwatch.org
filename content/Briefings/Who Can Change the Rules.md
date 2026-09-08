@@ -2,7 +2,7 @@
 title: Who Can Change the Rules
 aliases:
   - "The Stroke of a Pen"
-description: "Who holds the pen on the rules of a surveillance system, what 'currently constitutional' has meant in American history, and the record of communities writing the protections themselves."
+description: "Who can change the rules of a surveillance system, what \"currently constitutional\" has meant in American history, and the communities that wrote their own protections."
 ---
 
 This essay stands on documents you can open: Brevard's posted draft camera policy and the Axon master terms on [the city's ALPR page](https://www.cityofbrevard.com/1546/ALPR-Program), read clause by clause on [[WNC/Transylvania County/index|Transylvania County]]; the Supreme Court opinions in [Olmstead](https://www.law.cornell.edu/supremecourt/text/277/438) and [Katz](https://www.law.cornell.edu/supremecourt/text/389/347); the [Church Committee's published hearings](https://archive.org/details/Church-Committee-Hearings-Volume4-Mail-Opening); and the audit records this region's own communities have pulled. It was written for the question that runs under every camera vote in WNC: once a system is installed, who can change the rules it runs under, and by what process?

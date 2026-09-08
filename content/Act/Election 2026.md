@@ -1,6 +1,6 @@
 ---
 title: Election 2026
-description: Where every local candidate stands on the surveillance buildout, vote by vote, quote by quote, silence by silence.
+description: "Where each local candidate on the November 3, 2026 ballot stands on the camera networks: votes, statements, and where none has been found."
 aliases:
   - "Election 2026"
 ---

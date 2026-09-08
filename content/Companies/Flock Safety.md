@@ -1,9 +1,9 @@
 ---
 title: Flock Safety
-description: The Atlanta company whose eleven cameras Asheville is about to remove, whose network the county's deputies still search, and whose own documents, leaks, and audit logs built most of the public record against it.
+description: "The Atlanta company whose eleven Asheville cameras council voted to remove on Aug 25, 2026, whose network the county sheriff's office still searches, and whose documents, leaks, and audit logs make up much of the public record."
 ---
 
-Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[WNC/Henderson County/index|Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook]]; the dated incident list is on [[Camera Network Misuse|Camera network misuse, documented cases]].
+Flock Safety sells the plate readers Asheville installed in 2024 and is voting to remove on August 25, 2026 ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[WNC/Henderson County/index|Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[The Flockbook|Flock's guide for presenting to councils]]; the dated incident list is on [[Camera Network Misuse|Camera network misuse, documented cases]].
 
 ## The company
 
@@ -25,7 +25,7 @@ Flock Safety sells the plate readers Asheville installed in 2024 and is voting t
 | **Aerodome drones** | Drone-as-first-responder, acquired October 2024 | The county sheriff added a DFR program in August 2026 ([[WNC/Buncombe County/index\|Buncombe County]]) |
 | **Video on LPRs** | Announced June 2025 ("All existing Flock LPRs will soon stream live video"); live in Dunwoody by January 2026; discontinued March 2026; CEO in July 2026: "It's a static picture of a car" | ([404 Media, Jul 23, 2026](https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/)) |
 
-The pattern across the table is the one [[What They Can Actually Learn About You]] describes: a plate reader is the entry point; the product is the link from a plate to a person to their associates, and the company has kept building that link even as it describes the camera as a still photo.
+The pattern across the table is the one [[What They Can Actually Learn About You|What a plate read becomes]] describes: a plate reader is the entry point; the product is the link from a plate to a person to their associates, and the company has kept building that link even as it describes the camera as a still photo.
 
 ## What the record shows
 
@@ -47,4 +47,4 @@ Each fix dates the problem. Mandatory MFA in August 2026 means government logins
 
 The site's position, in full on the [[index|homepage]]: the concern is what happens when a community's cameras join large interconnected networks that nobody local controls, with sharing defaults nobody here set and searches nobody here approved; the Asheville asks that follow from it are on [[Getting Flock Out]].
 
-*Related: [[Axon]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The Flockbook]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Getting Flock Out]]*
+*Related: [[Axon]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The Flockbook|Flock's guide for presenting to councils]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Getting Flock Out]]*

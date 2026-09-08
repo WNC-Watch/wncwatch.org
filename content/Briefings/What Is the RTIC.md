@@ -1,6 +1,6 @@
 ---
 title: What Is the RTIC?
-description: A plain-language explainer of the Real-Time Intelligence Center Asheville approved in May 2026. What it connects, what it costs, and what it can do.
+description: "The Real-Time Intelligence Center Asheville approved on May 12, 2026: what it connects, what it costs, and what it can do, in plain language."
 aliases:
   - "What Is the RTIC"
   - "The System/What Is the RTIC"

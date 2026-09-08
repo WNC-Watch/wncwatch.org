@@ -1,6 +1,6 @@
 ---
 title: Claims Library
-description: Sourced, citable facts organized by what you're writing. Public comment, petition, letter to council, op-ed, or an argument at dinner.
+description: "Sourced, citable facts organized by use: public comment, petition, letter to council, op-ed."
 aliases:
   - "Claims Library"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rick Smith
-description: Founder and CEO of Axon, the company Asheville is contracted with until 2033; oversaw the Fusus purchase, the streetlight plate readers, and the return to facial-recognition research.
+description: "Founder and CEO of Axon, the company Asheville is contracted with until 2033; oversaw the Fusus acquisition in 2024, the streetlight plate readers, and the resumption of facial-recognition work."
 aliases:
   - "People/Companies/Rick Smith"
 ---

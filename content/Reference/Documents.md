@@ -1,6 +1,6 @@
 ---
 title: Documents
-description: The primary sources. Official minutes, resolutions, staff reports, APD policies, and released records. Skip the summaries and read the originals.
+description: "The primary sources: minutes, resolutions, staff reports, APD policies, and released records."
 aliases:
   - "Documents"
 ---

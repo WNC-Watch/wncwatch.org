@@ -1,6 +1,6 @@
 ---
 title: "2026-04-28: Asheville City Council work session with Flock and Axon"
-description: The vendor work session that substituted for public process; Axon, Flock, and APD's claims, verbatim from the city's video, with the record beside each.
+description: "The committee work session with Axon and Flock representatives and APD, no public comment taken; the claims made, verbatim from the city's video, with the record beside each."
 aliases:
   - "Meetings/2026-04-28 Work Session"
   - "The Record/Meetings/2026-04-28 Work Session"

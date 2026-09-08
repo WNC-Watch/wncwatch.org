@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-description: The people already organizing against mass surveillance in Asheville and WNC, and how to plug in.
+description: "The groups organizing on surveillance in Asheville and WNC, and how to reach them."
 aliases:
   - "Get Involved"
 ---

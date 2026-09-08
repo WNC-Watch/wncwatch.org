@@ -1,6 +1,6 @@
 ---
 title: Garrett Langley
-description: Co-founder and CEO of Flock Safety; told a TV audience the cameras take "a static picture of a car" a year after announcing live video on every reader.
+description: "Co-founder and CEO of Flock Safety; told an interviewer on July 23, 2026 that the cameras take \"a static picture of a car,\" a year after the company announced live video on every reader."
 aliases:
   - "People/Companies/Garrett Langley"
 ---
@@ -16,7 +16,7 @@ On August 26, 2026, Senator Josh Hawley, as chair of the Senate Judiciary Subcom
 
 ## Why he is on this site
 
-Asheville's council was sold Flock by representatives reading from a script his company wrote ([[The Flockbook]]); the council is now voting to remove his cameras; his company's recorded conduct when towns leave (Verona's bagged cameras, the "maintenance" work order) is why the exit needs a deadline and a paper trail ([[Getting Flock Out]]).
+Asheville's council was sold Flock by representatives reading from a script his company wrote ([[The Flockbook|Flock's guide for presenting to councils]]); the council is now voting to remove his cameras; his company's recorded conduct when towns leave (Verona's bagged cameras, the "maintenance" work order) is why the exit needs a deadline and a paper trail ([[Getting Flock Out]]).
 
 ## The question for him
 

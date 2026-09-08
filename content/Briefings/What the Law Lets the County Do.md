@@ -1,6 +1,6 @@
 ---
 title: What the Law Lets the County Do
-description: The sheriff answers to voters, not commissioners. But the county signs the checks, certifies the forfeiture money, and ratifies the agreements. A plain reading of the North Carolina statutes that decide who can say no to a county camera network, what the state now compels on immigration, and where the levers are.
+description: "The North Carolina statutes that decide who can say no to a county camera network: the sheriff answers to voters; the commission approves the budget, certifies the forfeiture money, and ratifies the agreements. What the state now compels on immigration, and where the data may go."
 aliases:
   - "What the Law Lets the County Do"
   - "WNC/What the Law Lets the County Do"

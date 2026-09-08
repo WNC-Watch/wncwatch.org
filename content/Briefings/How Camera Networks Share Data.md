@@ -76,4 +76,4 @@ For an information session, a podium, or a letter, the two questions that follow
 
 Brevard's information session is Sept 1 and its vote is Sept 8; the posted documents, read clause by clause, are on [[WNC/Transylvania County/index|Transylvania County]].
 
-*Every quote above links its meeting page, timestamped to the city's own video. The log analysis and method: [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]. What a scan becomes on the network: [[What They Can Actually Learn About You]]. Corrections welcome; this page is meant to be checked.*
+*Every quote above links its meeting page, timestamped to the city's own video. The log analysis and method: [[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]. What a scan becomes on the network: [[What They Can Actually Learn About You|What a plate read becomes]]. Corrections welcome; this page is meant to be checked.*
