@@ -19,6 +19,10 @@ import { QuartzTransformerPlugin } from "../types"
 //     the card form of the same item: date, time, place, body and the comment
 //     procedure each on its own line, for a page section about one meeting.
 //
+//   <div data-cal-list="area:WNC/Asheville/index"></div>
+//     the same list for one area (items whose page is that page) plus the
+//     labeled dates.
+//
 //   <div data-cal-list="upcoming"></div>
 //     replaced with <ul class="cal-list"> holding every item dated today
 //     (America/New_York) or later, sorted by date, each <li> the same unit
@@ -306,6 +310,20 @@ export const Calendar: QuartzTransformerPlugin = () => {
                 return
               }
               parent.children[index] = renderCard(item, today)
+              return
+            }
+
+            if (node.tagName === "div" && typeof props.dataCalList === "string" && props.dataCalList.startsWith("area:")) {
+              // one area's upcoming items plus the labeled dates (elections)
+              const pageKey = props.dataCalList.slice(5).replace(/-/g, " ")
+              const scoped = items.filter(
+                (it) => it.date >= today && (it.label || (it.page && it.page.replace(/-/g, " ") === pageKey)),
+              )
+              parent.children[index] = el(
+                "ul",
+                { className: ["cal-list"] },
+                scoped.map((it) => renderListItem({ ...it, area: it.label ? it.area : undefined }, today, "/")),
+              )
               return
             }
 
