@@ -1,6 +1,6 @@
 ---
 title: Records Center
-description: The public-records requests that would answer this site's open questions, pre-written, addressed, and tracked. Copy, paste, file. Refusals are answers too.
+description: "The public-records requests that would answer this site's open questions, pre-written and addressed to the custodian, with each request's status."
 aliases:
   - "Records Center"
 ---
@@ -71,7 +71,7 @@ A request needs no magic words. State that you are requesting public records und
 
 > Under N.C.G.S. Chapter 132, I request electronic copies of all letters or written statements of support or opposition concerning the Real-Time Intelligence Center received by the City or included in the May 12, 2026 council agenda materials, and all correspondence in which city or APD staff requested, solicited, or coordinated such letters.
 
-**What it proves:** whether the "community support" in the packet was organic or staff-assembled. ([[The Flockbook]] documents the vendor playbook for exactly this.) **Status: not yet filed**
+**What it proves:** whether the "community support" in the packet was organic or staff-assembled. ([[The Flockbook|Flock's guide for presenting to councils]] documents the vendor playbook for exactly this.) **Status: not yet filed**
 
 ### 7. APD's face-recognition contracts and correspondence, 2019 to present
 

@@ -1,6 +1,6 @@
 ---
 title: Who Gets Watched
-description: The lived stakes of the RTIC for three groups Asheville's camera network will touch first. Immigrant families, people traveling here for reproductive care, and anyone who shows up to a protest. Documented from audit logs, sworn affidavits, and a Senate investigation.
+description: "Three groups the record shows camera networks reaching first: immigrant families, people traveling for reproductive care, and people at protests. Documented from audit logs, sworn affidavits, and a Senate investigation."
 aliases:
   - "Who Gets Watched"
   - "The System/Who Gets Watched"
@@ -44,4 +44,4 @@ This is not new; it's just newly visible in the logs. In 2020, license-plate rea
 
 Every group on this page was promised the same thing Asheville was promised: local control, narrow purpose, audited access. Every audit that has actually been pulled (Illinois, Washington, Colorado, Oregon, Minnesota, Texas) found the promise broken, usually within months, discovered only because someone filed a records request. The safeguard that failed everywhere else is the only safeguard Asheville has. The people it fails first are the ones with the most to lose from being seen driving to a clinic, a church, or a march.
 
-*Related: [[What They Can Actually Learn About You]] · [[Watching the Poor|Cameras in Public Housing]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Getting Flock Out]] · [[Speak at Council]]*
+*Related: [[What They Can Actually Learn About You|What a plate read becomes]] · [[Watching the Poor|Cameras in Public Housing]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Getting Flock Out]] · [[Speak at Council]]*

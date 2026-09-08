@@ -1,6 +1,6 @@
 ---
-title: The Flockbook
-description: Flock's leaked guide coaching police on how to sell surveillance to city councils, laid beside what Asheville officials actually said and did. The same script, delivered locally.
+title: "Flock's guide for presenting to councils"
+description: "Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates."
 aliases:
   - "The Flockbook"
 ---

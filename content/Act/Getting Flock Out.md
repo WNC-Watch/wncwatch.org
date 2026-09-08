@@ -1,6 +1,6 @@
 ---
 title: Getting Flock Out
-description: The campaign page. Council votes on Flock termination Aug 25; here are the eight demands that make it real, what one person can do this week, the cities that got it right, and why the work isn't done when Flock is out.
+description: "The eight demands for a full exit from Flock, scored against council's Aug 25, 2026 resolution and the chief's Aug 14 memo, and what remains pending."
 aliases:
   - "Getting Flock Out"
 ---

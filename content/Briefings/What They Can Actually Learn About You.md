@@ -1,6 +1,6 @@
 ---
-title: What They Can Actually Learn About You
-description: A plain-language walkthrough of what a license-plate scan becomes, from one camera on Patton Avenue to a nationwide search, a data-broker profile, and a live video feed. Built from court records, audit logs, and APD's own briefings.
+title: "What a plate read becomes"
+description: "How a license-plate read becomes a nationwide search, a data-broker profile, and a live video feed, traced from one camera on Patton Avenue. Built from court records, audit logs, and APD's briefings."
 aliases:
   - "What They Can Actually Learn About You"
   - "The System/What They Can Actually Learn About You"

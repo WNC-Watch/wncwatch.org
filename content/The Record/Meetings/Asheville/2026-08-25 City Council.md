@@ -1,6 +1,6 @@
 ---
 title: "2026-08-25: Asheville City Council, Flock termination vote"
-description: "Council voted 5-2 to terminate the city's Flock contract. Minutes later, a motion to pause buying any new plate readers during the city's own review failed because no one would second it. The Axon contract already covers stationary plate readers; the promise not to install them is verbal."
+description: "Council voted 5 to 2 to terminate the Flock contract; a motion to pause new plate-reader purchases during the review failed for lack of a second. The Axon contract covers stationary plate readers; the city manager's assurance that none go up before a community conversation was given verbally."
 aliases:
   - "Meetings/2026-08-25 City Council"
   - "The Record/Meetings/2026-08-25 City Council"

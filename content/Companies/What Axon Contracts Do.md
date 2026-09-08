@@ -1,6 +1,6 @@
 ---
 title: What Axon Contracts Do
-description: Asheville signed its Axon deal sight-unseen. Here's what the same paper did to other cities. Dollar figures, lock-in mechanics, and twelve ready talking points.
+description: "Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's executed contract has not been released."
 aliases:
   - "What Axon Contracts Do"
 ---

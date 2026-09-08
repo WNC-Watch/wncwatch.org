@@ -8,7 +8,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 ## New here? Start with these
 
 - **[[What Is the RTIC]]**: What Asheville approved on May 12, 2026, in plain language.
-- **[[What They Can Actually Learn About You]]**: How a plate read becomes a record of where a person goes and who they meet.
+- **[[What They Can Actually Learn About You|What a plate read becomes]]**: How a plate read becomes a record of where a person goes and who they meet.
 - **[[Briefings/index|Briefings]]**: Long-form explainers, one idea per page, for any town before its decision.
 - **[[Timeline]]**: Asheville's record from 2022 to now, each entry dated and sourced.
 - **[[WNC/Transylvania County/index|Transylvania County]]**: Brevard's Sept 8 vote on Axon's offer, and the county sheriff's cameras.
@@ -174,38 +174,38 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[Briefings/index|Briefings]]
 
-- **[[Before You Plug In|Before You Connect Your Cameras]]**: For Asheville business owners being recruited into the police camera network. What you'd actually sign, what you'd be liable for, and the questions to ask in writing first.
+- **[[Before You Plug In|Before You Connect Your Cameras]]**: For Asheville business owners asked to register cameras with the police network: what the registration agreement says, what liability it carries, and the questions to ask in writing first.
 - **[[How Camera Networks Share Data]]**: What a camera records and what a network reaches are two different questions, answered from the region's own meeting videos, the county's released access log, and a signed contract. Written to be useful in any town before its decision.
 - **[[How Camera Systems Get Sold to Towns]]**: The channel that carries the same camera proposal into town after town, documented link by link from public records: the vendor's script, the outside money, the cooperative purchasing contract, the briefing venue, and the vote before the contract exists.
 - **[[The Camera Companies Safety Record|The Camera Companies' Safety Record]]**: What a safety culture is, a four-question test any reader can apply, and the dated record of the companies selling camera systems to WNC towns, with the local record run through the same test.
-- **[[What Is the RTIC|What Is the RTIC?]]**: A plain-language explainer of the Real-Time Intelligence Center Asheville approved in May 2026. What it connects, what it costs, and what it can do.
-- **[[What the Law Lets the County Do]]**: The sheriff answers to voters, not commissioners. But the county signs the checks, certifies the forfeiture money, and ratifies the agreements. A plain reading of the North Carolina statutes that decide who can say no to a county camera network, what the state now compels on immigration, and where the levers are.
-- **[[What They Can Actually Learn About You]]**: A plain-language walkthrough of what a license-plate scan becomes, from one camera on Patton Avenue to a nationwide search, a data-broker profile, and a live video feed. Built from court records, audit logs, and APD's own briefings.
-- **[[Who Can Change the Rules]]**: Who holds the pen on the rules of a surveillance system, what 'currently constitutional' has meant in American history, and the record of communities writing the protections themselves.
-- **[[Who Gets Watched]]**: The lived stakes of the RTIC for three groups Asheville's camera network will touch first. Immigrant families, people traveling here for reproductive care, and anyone who shows up to a protest. Documented from audit logs, sworn affidavits, and a Senate investigation.
+- **[[What They Can Actually Learn About You|What a plate read becomes]]**: How a license-plate read becomes a nationwide search, a data-broker profile, and a live video feed, traced from one camera on Patton Avenue. Built from court records, audit logs, and APD's briefings.
+- **[[What Is the RTIC|What Is the RTIC?]]**: The Real-Time Intelligence Center Asheville approved on May 12, 2026: what it connects, what it costs, and what it can do, in plain language.
+- **[[What the Law Lets the County Do]]**: The North Carolina statutes that decide who can say no to a county camera network: the sheriff answers to voters; the commission approves the budget, certifies the forfeiture money, and ratifies the agreements. What the state now compels on immigration, and where the data may go.
+- **[[Who Can Change the Rules]]**: Who can change the rules of a surveillance system, what \"currently constitutional\" has meant in American history, and the communities that wrote their own protections.
+- **[[Who Gets Watched]]**: Three groups the record shows camera networks reaching first: immigrant families, people traveling for reproductive care, and people at protests. Documented from audit logs, sworn affidavits, and a Senate investigation.
 
 ## [[Companies/index|The Vendors]]
 
-- **[[Axon]]**: The taser and body-camera company that owns Fusus, holds Asheville's 7.5-year contract, and now sells plate readers that mount inside streetlights and "blend in with their surroundings." The vendor the Flock exit hands the city to.
+- **[[Axon]]**: The taser and body-camera company that owns Fusus and holds Asheville's contract to 2033; its plate readers mount inside streetlights and are \"designed to completely blend in with their surroundings.\"
 - **[[Camera Network Misuse|Camera network misuse, documented cases]]**: A dated, sourced ledger of what plate-reader and camera networks have done elsewhere and in North Carolina, organized by the kind of harm: federal and immigration reach, reproductive care and protest, officers using it on people they know, wrong-person stops, tracking people, concealment, leaks, and the companies' conduct when a town says no. Each entry links reporting or a primary document.
 - **[[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]**: A dated table of the cities, counties and agencies that ended, rejected or limited plate-reader and camera-network contracts, what each body did and by what tally, with the source; then the state actions of late August 2026, the court cases that bind North Carolina, and the vendors' responses when a town said no.
-- **[[Flock Safety]]**: The Atlanta company whose eleven cameras Asheville is about to remove, whose network the county's deputies still search, and whose own documents, leaks, and audit logs built most of the public record against it.
-- **[[The Flockbook]]**: Flock's leaked guide coaching police on how to sell surveillance to city councils, laid beside what Asheville officials actually said and did. The same script, delivered locally.
-- **[[What Axon Contracts Do]]**: Asheville signed its Axon deal sight-unseen. Here's what the same paper did to other cities. Dollar figures, lock-in mechanics, and twelve ready talking points.
+- **[[Flock Safety]]**: The Atlanta company whose eleven Asheville cameras council voted to remove on Aug 25, 2026, whose network the county sheriff's office still searches, and whose documents, leaks, and audit logs make up much of the public record.
+- **[[The Flockbook|Flock's guide for presenting to councils]]**: Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates.
+- **[[What Axon Contracts Do]]**: Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's executed contract has not been released.
 
 ### [[Companies/People/index|The Vendors' Executives]]
 
-- **[[Garrett Langley]]**: Co-founder and CEO of Flock Safety; told a TV audience the cameras take "a static picture of a car" a year after announcing live video on every reader.
-- **[[Rick Smith]]**: Founder and CEO of Axon, the company Asheville is contracted with until 2033; oversaw the Fusus purchase, the streetlight plate readers, and the return to facial-recognition research.
+- **[[Garrett Langley]]**: Co-founder and CEO of Flock Safety; told an interviewer on July 23, 2026 that the cameras take \"a static picture of a car,\" a year after the company announced live video on every reader.
+- **[[Rick Smith]]**: Founder and CEO of Axon, the company Asheville is contracted with until 2033; oversaw the Fusus acquisition in 2024, the streetlight plate readers, and the resumption of facial-recognition work.
 
 ## [[Act/index|Act]]
 
-- **[[Claims Library]]**: Sourced, citable facts organized by what you're writing. Public comment, petition, letter to council, op-ed, or an argument at dinner.
-- **[[Election 2026]]**: Where every local candidate stands on the surveillance buildout, vote by vote, quote by quote, silence by silence.
-- **[[Get Involved]]**: The people already organizing against mass surveillance in Asheville and WNC, and how to plug in.
-- **[[Getting Flock Out]]**: The campaign page. Council votes on Flock termination Aug 25; here are the eight demands that make it real, what one person can do this week, the cities that got it right, and why the work isn't done when Flock is out.
-- **[[Records Center]]**: The public-records requests that would answer this site's open questions, pre-written, addressed, and tracked. Copy, paste, file. Refusals are answers too.
-- **[[Speak at Council]]**: The complete kit for public comment. Logistics, rules, what's been said, what's unanswered, and how to make three minutes land.
+- **[[Claims Library]]**: Sourced, citable facts organized by use: public comment, petition, letter to council, op-ed.
+- **[[Election 2026]]**: Where each local candidate on the November 3, 2026 ballot stands on the camera networks: votes, statements, and where none has been found.
+- **[[Get Involved]]**: The groups organizing on surveillance in Asheville and WNC, and how to reach them.
+- **[[Getting Flock Out]]**: The eight demands for a full exit from Flock, scored against council's Aug 25, 2026 resolution and the chief's Aug 14 memo, and what remains pending.
+- **[[Records Center]]**: The public-records requests that would answer this site's open questions, pre-written and addressed to the custodian, with each request's status.
+- **[[Speak at Council]]**: How public comment works at each body: sign-up, time limits, what has been said, and what remains unanswered.
 - **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]**: Council votes on ending the Flock contract. A guide to building your own three minutes or email from what's on this site: what is actually being decided, the angle that matters to you, the ask that fits it, and where to send it. One worked example at the end, not a script.
 
 ## [[The Record/index|The Record]]
@@ -214,17 +214,17 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[The Record/Meetings/Asheville/index|Asheville]]
 
-- **[[2025-03-07 Agenda Briefing|2025-03-07: Asheville City Council agenda briefing, license-plate readers]]**: The first time council was told about the LPR network, a year late for the mobile readers, two years late for the stationary ones, and only because Kim Roney read about it in the news. Timestamped from the city's video.
-- **[[2025-03-25 City Council|2025-03-25: Asheville City Council, RTIC grant on the consent agenda]]**: The first RTIC money moved on the consent agenda, sandwiched between bulletproof vests and DEA grants, and the argument that carried it contained the admission that sinks it. Timestamped from the city's video.
-- **[[2026-04-28 Work Session|2026-04-28: Asheville City Council work session with Flock and Axon]]**: The vendor work session that substituted for public process; Axon, Flock, and APD's claims, verbatim from the city's video, with the record beside each.
-- **[[2026-05-07 Agenda Briefing|2026-05-07: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days before the vote, the city manager confirmed the Axon contract council would authorize had not been written, and the "keep one Flock camera" plan was explained, on the record, as a subscription key to everyone else's cameras. Timestamped from the city's video.
-- **[[2026-05-12 City Council|2026-05-12: Asheville City Council, RTIC grant and Axon contract vote]]**: The minute-by-minute record of how Asheville's surveillance center was approved, reconstructed from the city's own meeting video, with timestamps.
-- **[[2026-08-20 Agenda Briefing|2026-08-20: Asheville City Council agenda briefing, Flock termination resolution]]**: The day after the mayor's Flock statement, council previewed the actual resolution: Flock now requires 10 cameras for system access, the cameras belong to Flock, a staff memo says Axon plate readers are 'expanding,' and the mayor confirms replacements are 'in the pipeline.'
-- **[[2026-08-25 City Council|2026-08-25: Asheville City Council, Flock termination vote]]**: Council voted 5-2 to terminate the city's Flock contract. Minutes later, a motion to pause buying any new plate readers during the city's own review failed because no one would second it. The Axon contract already covers stationary plate readers; the promise not to install them is verbal.
+- **[[2025-03-07 Agenda Briefing|2025-03-07: Asheville City Council agenda briefing, license-plate readers]]**: Council's first briefing on the plate-reader network, requested by Kim Roney: mobile readers had run about a year and stationary cameras about two. Timestamped from the city's video.
+- **[[2025-03-25 City Council|2025-03-25: Asheville City Council, RTIC grant on the consent agenda]]**: The first RTIC grant, $71,999, approved 6 to 1 on the consent agenda after Roney pulled it for discussion. Timestamped from the city's video.
+- **[[2026-04-28 Work Session|2026-04-28: Asheville City Council work session with Flock and Axon]]**: The committee work session with Axon and Flock representatives and APD, no public comment taken; the claims made, verbatim from the city's video, with the record beside each.
+- **[[2026-05-07 Agenda Briefing|2026-05-07: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days before the vote, the city manager confirmed the Axon contract had not been written; the \"keep one Flock camera\" plan was explained as a network-access subscription. Timestamped from the city's video.
+- **[[2026-05-12 City Council|2026-05-12: Asheville City Council, RTIC grant and Axon contract vote]]**: The May 12, 2026 meeting, minute by minute from the city's video: public comment, the 6 to 1 votes on the RTIC grant and the Axon contract, and the vote taken off-microphone.
+- **[[2026-08-20 Agenda Briefing|2026-08-20: Asheville City Council agenda briefing, Flock termination resolution]]**: The agenda briefing for the Aug 25 vote: Flock's 10-camera minimum for network access, the cameras as Flock's property, the staff memo on expanding Axon plate readers, and the mayor's statement that replacements are \"in the pipeline.\"
+- **[[2026-08-25 City Council|2026-08-25: Asheville City Council, Flock termination vote]]**: Council voted 5 to 2 to terminate the Flock contract; a motion to pause new plate-reader purchases during the review failed for lack of a second. The Axon contract covers stationary plate readers; the city manager's assurance that none go up before a community conversation was given verbally.
 
 ## [[Reference/index|Reference]]
 
-- **[[Documents]]**: The primary sources. Official minutes, resolutions, staff reports, APD policies, and released records. Skip the summaries and read the originals.
+- **[[Documents]]**: The primary sources: minutes, resolutions, staff reports, APD policies, and released records.
 - **[[Sources]]**: Where this site's facts come from. Local reporting, primary documents, and national investigations.
 
 ## Other pages

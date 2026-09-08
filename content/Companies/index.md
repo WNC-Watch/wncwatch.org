@@ -14,6 +14,6 @@ Asheville's fight has been argued as if the choice were cameras or no cameras. T
 
 **[[Camera Network Misuse|Camera network misuse, documented cases]]** is the cross-cutting ledger: dated, sourced incidents organized by harm (federal reach, reproductive care, stalking, wrong-person stops, tracking people not plates, hiding the tool, leaks, and corporate conduct when a town says no).
 
-**[[What Axon Contracts Do]]**: what the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default. **[[The Flockbook]]**: Flock's leaked script for selling councils on cameras, laid beside what Asheville officials actually said.
+**[[What Axon Contracts Do]]**: what the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default. **[[The Flockbook|Flock's guide for presenting to councils]]**: Flock's leaked script for selling councils on cameras, laid beside what Asheville officials actually said.
 
-The national cancellations are on [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]; what the data becomes is on [[What They Can Actually Learn About You]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock), on [[Companies/People/index|The Vendors' Executives]].
+The national cancellations are on [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]; what the data becomes is on [[What They Can Actually Learn About You|What a plate read becomes]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock), on [[Companies/People/index|The Vendors' Executives]].
