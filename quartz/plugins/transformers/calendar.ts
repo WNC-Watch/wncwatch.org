@@ -201,8 +201,8 @@ export function renderCard(item: CalendarItem, today: string): Element {
   }
   return el(
     "dl",
-    { className: ["cal-card"] },
-    rows.map(([k, v]) => el("div", { className: ["cal-card-row"] }, [el("dt", {}, [text(k)]), el("dd", {}, v)])),
+    { className: ["block", "cal-card"] },
+    rows.map(([k, v]) => el("div", { className: ["block-row"] }, [el("dt", {}, [text(k)]), el("dd", {}, v)])),
   )
 }
 
