@@ -49,7 +49,7 @@ This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligen
 
 **The statement.** Stepp, on several occasions; Axon's representative, April 28, 2026: "We also do not use any form of facial recognition."
 
-**The record.** The exclusion is in Resolution 26-97, adopted May 12, 2026. A resolution carries no enforcement mechanism and can be changed by a council vote. The policy workgroup's notes record Stepp's statement that facial recognition "would require a return to Council for approval" ([[The RTIC Policy]]). Axon is testing face recognition on body cameras of the model Asheville bought ([[What Axon Contracts Do]]). Cities that have bound the exclusion did so by ordinance requiring a council vote before any new capability activates ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]). Attorney General Jeff Jackson's letter of support, read into the record by [[Esther Manheimer|Mayor Manheimer]] on May 12, conditions its findings with "Based on what APD has described."
+**The record.** The exclusion is in Resolution 26-97, adopted May 12, 2026. A resolution carries no enforcement mechanism and can be changed by a council vote. The policy workgroup's notes record Stepp's statement that facial recognition "would require a return to Council for approval" ([[The RTIC Policy]]). Axon is testing face recognition on body cameras of the model Asheville bought ([[What Axon Contracts Do]]). Cities that have bound the exclusion did so by ordinance requiring a council vote before any new capability activates ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]).
 
 ## Drones and de-escalation
 
