@@ -1,5 +1,5 @@
 ---
-title: "2025-03-07: The Briefing That Almost Didn't Happen"
+title: "2025-03-07: Asheville City Council agenda briefing, license-plate readers"
 description: The first time council was told about the LPR network, a year late for the mobile readers, two years late for the stationary ones, and only because Kim Roney read about it in the news. Timestamped from the city's video.
 aliases:
   - "Meetings/2025-03-07 Agenda Briefing"

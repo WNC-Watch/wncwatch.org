@@ -25,7 +25,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 #### [[WNC/Asheville/Officials/index|Officials]]
 
 - **[[Antanette Mosley]]**: Vice Mayor; in the majority on the surveillance votes, then one of two no votes on Flock termination, calling it election-season politics. On the November ballot.
-- **[[Bo Hess]]**: Council's strongest RTIC advocate; chairs the Public Safety Committee where its oversight now lives. Not on the ballot until 2028.
+- **[[Bo Hess]]**: Asheville City Council member since December 2024 and chair of the Public Safety Committee. Voted yes on the RTIC grant and the Axon contract on May 12, 2026, and yes to end the Flock contract on Aug 25, 2026. Not on the ballot until 2028.
 - **[[Brad Branham]]**: Asheville City Attorney since 2019; the legal opinion on the RTIC that council was promised before the vote has never been made public.
 - **[[Brandon Moore]]**: APD captain over special services and the technology; sat on the RTIC workgroup; "We do not and will not share that information short of a court order."
 - **[[D.K. Wesley]]**: Asheville's City Manager since January 2026, the unelected official who negotiates and signs the Axon contract council authorized unseen, and who single-handedly picks the next police chief.
@@ -216,13 +216,13 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[The Record/Meetings/Asheville/index|Asheville]]
 
-- **[[2025-03-07 Agenda Briefing|2025-03-07: The Briefing That Almost Didn't Happen]]**: The first time council was told about the LPR network, a year late for the mobile readers, two years late for the stationary ones, and only because Kim Roney read about it in the news. Timestamped from the city's video.
-- **[[2025-03-25 City Council|2025-03-25: First RTIC Money, on the Consent Agenda]]**: The first RTIC money moved on the consent agenda, sandwiched between bulletproof vests and DEA grants, and the argument that carried it contained the admission that sinks it. Timestamped from the city's video.
-- **[[2026-04-28 Work Session|2026-04-28: The Vendor Work Session]]**: The vendor work session that substituted for public process; Axon, Flock, and APD's claims, verbatim from the city's video, with the record beside each.
-- **[[2026-05-07 Agenda Briefing|2026-05-07: The Contract That Didn't Exist]]**: Five days before the vote, the city manager confirmed the Axon contract council would authorize had not been written, and the "keep one Flock camera" plan was explained, on the record, as a subscription key to everyone else's cameras. Timestamped from the city's video.
-- **[[2026-05-12 City Council|2026-05-12: The RTIC Vote, Minute by Minute]]**: The minute-by-minute record of how Asheville's surveillance center was approved, reconstructed from the city's own meeting video, with timestamps.
-- **[[2026-08-20 Agenda Briefing|2026-08-20: The Termination Resolution, Previewed]]**: The day after the mayor's Flock statement, council previewed the actual resolution: Flock now requires 10 cameras for system access, the cameras belong to Flock, a staff memo says Axon plate readers are 'expanding,' and the mayor confirms replacements are 'in the pipeline.'
-- **[[2026-08-25 City Council|2026-08-25: The Flock Vote]]**: Council voted 5-2 to terminate the city's Flock contract. Minutes later, a motion to pause buying any new plate readers during the city's own review failed because no one would second it. The Axon contract already covers stationary plate readers; the promise not to install them is verbal.
+- **[[2025-03-07 Agenda Briefing|2025-03-07: Asheville City Council agenda briefing, license-plate readers]]**: The first time council was told about the LPR network, a year late for the mobile readers, two years late for the stationary ones, and only because Kim Roney read about it in the news. Timestamped from the city's video.
+- **[[2025-03-25 City Council|2025-03-25: Asheville City Council, RTIC grant on the consent agenda]]**: The first RTIC money moved on the consent agenda, sandwiched between bulletproof vests and DEA grants, and the argument that carried it contained the admission that sinks it. Timestamped from the city's video.
+- **[[2026-04-28 Work Session|2026-04-28: Asheville City Council work session with Flock and Axon]]**: The vendor work session that substituted for public process; Axon, Flock, and APD's claims, verbatim from the city's video, with the record beside each.
+- **[[2026-05-07 Agenda Briefing|2026-05-07: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days before the vote, the city manager confirmed the Axon contract council would authorize had not been written, and the "keep one Flock camera" plan was explained, on the record, as a subscription key to everyone else's cameras. Timestamped from the city's video.
+- **[[2026-05-12 City Council|2026-05-12: Asheville City Council, RTIC grant and Axon contract vote]]**: The minute-by-minute record of how Asheville's surveillance center was approved, reconstructed from the city's own meeting video, with timestamps.
+- **[[2026-08-20 Agenda Briefing|2026-08-20: Asheville City Council agenda briefing, Flock termination resolution]]**: The day after the mayor's Flock statement, council previewed the actual resolution: Flock now requires 10 cameras for system access, the cameras belong to Flock, a staff memo says Axon plate readers are 'expanding,' and the mayor confirms replacements are 'in the pipeline.'
+- **[[2026-08-25 City Council|2026-08-25: Asheville City Council, Flock termination vote]]**: Council voted 5-2 to terminate the city's Flock contract. Minutes later, a motion to pause buying any new plate readers during the city's own review failed because no one would second it. The Axon contract already covers stationary plate readers; the promise not to install them is verbal.
 
 ## [[Reference/index|Reference]]
 

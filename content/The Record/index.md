@@ -12,13 +12,13 @@ This section is Asheville's own story, reconstructed from the city's videos, min
 
 ## [[The Record/Meetings/index|The meetings]], minute by minute
 
-- **[[2026-08-25 City Council|Aug 25, 2026: The Flock Vote]]**: Council voted 5-2 to terminate the city's Flock contract; a motion to pause buying any new plate readers during the city's own review failed because no one would second it.
-- **[[2026-08-20 Agenda Briefing|Aug 20, 2026: The Termination Resolution, Previewed]]**: Flock's new 10-camera minimum kills the one-camera plan; the chief's memo says Axon plate readers are "expanding."
-- **[[2026-05-12 City Council|May 12, 2026: The Midnight Vote]]**: The 6 to 1 vote, reconstructed from the city's own video; 21 signed-up residents sent home unheard.
-- **[[2026-05-07 Agenda Briefing|May 7, 2026: The Contract That Didn't Exist]]**: Five days out, the Axon contract isn't written, and "one camera" is explained as a network subscription.
-- **[[2026-04-28 Work Session|April 28, 2026: The Vendor Work Session]]**: Axon and Flock present alongside APD, no public comment taken, and the Durham comparison unravels on the record.
-- **[[2025-03-25 City Council|March 25, 2025: First RTIC Money, on Consent]]**: Buried between bulletproof vests and DEA grants; "the center already exists."
-- **[[2025-03-07 Agenda Briefing|March 7, 2025: The Briefing That Almost Didn't Happen]]**: Council learns of a two-year-old surveillance program because one member read the news.
+- **[[2026-08-25 City Council|Aug 25, 2026: Asheville City Council, Flock termination vote]]**: Council voted 5-2 to terminate the city's Flock contract; a motion to pause buying any new plate readers during the city's own review failed because no one would second it.
+- **[[2026-08-20 Agenda Briefing|Aug 20, 2026: Asheville City Council agenda briefing, Flock termination resolution]]**: Flock's new 10-camera minimum kills the one-camera plan; the chief's memo says Axon plate readers are "expanding."
+- **[[2026-05-12 City Council|May 12, 2026: Asheville City Council, RTIC grant and Axon contract vote]]**: The 6 to 1 vote, reconstructed from the city's own video; 21 signed-up residents sent home unheard.
+- **[[2026-05-07 Agenda Briefing|May 7, 2026: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days out, the Axon contract isn't written, and "one camera" is explained as a network subscription.
+- **[[2026-04-28 Work Session|April 28, 2026: Asheville City Council work session with Flock and Axon]]**: Axon and Flock present alongside APD, no public comment taken, and the Durham comparison unravels on the record.
+- **[[2025-03-25 City Council|March 25, 2025: Asheville City Council, RTIC grant on the consent agenda]]**: Buried between bulletproof vests and DEA grants; "the center already exists."
+- **[[2025-03-07 Agenda Briefing|March 7, 2025: Asheville City Council agenda briefing, license-plate readers]]**: Council learns of a two-year-old surveillance program because one member read the news.
 
 ## What the record shows
 
