@@ -1,6 +1,6 @@
 ---
 title: Drew Ball
-description: Sitting county commissioner running for city council. No public position on the RTIC.
+description: "Buncombe County Commissioner since December 2024, running for Asheville City Council on November 3, 2026. No public statement on the RTIC found as of Aug 17, 2026."
 aliases:
   - "People/Drew Ball"
   - "People/Asheville/Drew Ball"

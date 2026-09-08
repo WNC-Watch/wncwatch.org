@@ -1,6 +1,6 @@
 ---
 title: "Downtown Institutions"
-description: "The Chamber, the Downtown Association, and the tourism authority: who asked businesses to register their cameras, and who has said nothing since."
+description: "The Chamber of Commerce, the Downtown Association, and the tourism authority: what each said about registering business cameras for the county network, with dates."
 aliases:
   - "People/Buncombe/Downtown Institutions"
   - "People/Asheville/Downtown Institutions"

@@ -1,6 +1,6 @@
 ---
 title: Antanette Mosley
-description: Vice Mayor; in the majority on the surveillance votes, then one of two no votes on Flock termination, calling it election-season politics. On the November ballot.
+description: "Vice Mayor and council member since 2020. Voted yes on the RTIC items on March 25, 2025 and May 12, 2026; voted no on the Flock termination Aug 25, 2026. On the November 3, 2026 ballot."
 aliases:
   - "People/Antanette Mosley"
   - "People/Asheville/Antanette Mosley"

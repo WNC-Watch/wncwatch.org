@@ -1,6 +1,6 @@
 ---
 title: Keith Young
-description: Former council member seeking a return; the only council candidate with any data-privacy language on record.
+description: "Former council member (2015 to 2020), running for council on November 3, 2026. His DSA questionnaire calls for a \"local firewall\" and data-minimization rules; it does not name the RTIC, Fusus, or Flock."
 aliases:
   - "People/Keith Young"
   - "People/Asheville/Keith Young"

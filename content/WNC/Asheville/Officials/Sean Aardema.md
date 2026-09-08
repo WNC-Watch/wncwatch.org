@@ -1,6 +1,6 @@
 ---
 title: Sean Aardema
-description: APD Deputy Chief of Operations; the "we will not be sharing information with federal immigration" assurance is his, made to a TV camera, not in a policy.
+description: "APD Deputy Chief of Operations. To WLOS, May 14, 2026: \"We control Axon Fusus and we will not be sharing information with federal immigration.\""
 aliases:
   - "People/Buncombe/Sean Aardema"
   - "People/Asheville/Sean Aardema"

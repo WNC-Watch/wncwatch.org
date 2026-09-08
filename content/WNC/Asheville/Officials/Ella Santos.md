@@ -1,6 +1,6 @@
 ---
 title: Ella Santos
-description: Asheville Housing Authority President and CEO since 2025; under her, the board heard that a HACA staffer will sit on the RTIC's policy board, and asked nothing.
+description: "President and CEO of the Housing Authority since 2025. At the May 20, 2026 board meeting the board was told that a HACA staff member will sit on the RTIC's policy board; the approved minutes record no questions from the board."
 aliases:
   - "People/Buncombe/Ella Santos"
   - "People/Asheville/Ella Santos"

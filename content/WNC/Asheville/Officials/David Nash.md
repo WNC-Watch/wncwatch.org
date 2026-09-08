@@ -1,6 +1,6 @@
 ---
 title: David Nash
-description: Former Asheville Housing Authority CEO (retired June 2023) who spoke for the county camera network in January 2023, saying public housing was "underpoliced."
+description: "Housing Authority CEO until June 2023. Spoke in favor of the county camera agreement at council on January 24, 2023, describing public housing as \"underpoliced.\""
 aliases:
   - "People/Buncombe/David Nash"
   - "People/Asheville/David Nash"

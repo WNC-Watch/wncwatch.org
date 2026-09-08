@@ -1,6 +1,6 @@
 ---
 title: Sheneika Smith
-description: Council member since 2017; proposed an RTIC community forum that never happened, then cast one of the two no votes on Flock termination. On the November ballot.
+description: "Council member since 2017. On March 25, 2025 suggested a community forum on the RTIC, which was not held; voted yes May 12, 2026; voted no on the Flock termination Aug 25, 2026. On the November 3, 2026 ballot."
 aliases:
   - "People/Sheneika Smith"
   - "People/Asheville/Sheneika Smith"
