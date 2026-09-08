@@ -31,7 +31,7 @@ Data from Asheville's plate readers is shared with law enforcement agencies with
 
 The RTIC's stated purpose is responding to violent crime. Nothing in the approved package structurally limits it to that. What limits exist are APD policies: self-written, self-administered, and changeable without a council vote. See the [[Promise Tracker]] for every commitment APD has made on the record, and its status.
 
-What the county's version of this does all day is now on the record: the Sheriff's Office's own Fusus audit log (January 2024 to May 2026) shows 58 percent of camera viewing on public housing, 30 percent on schools, and 95 to 99 percent of it live monitoring rather than recorded playback ([[Sheriffs Audit Log|The Sheriff's Audit Log]]).
+What the county's version of this does all day is now on the record: the Sheriff's Office's own Fusus audit log (January 2024 to May 2026) shows 58 percent of camera viewing on public housing, 30 percent on schools, and 95 to 99 percent of it live monitoring rather than recorded playback ([[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]).
 
 ## What it is *not* (yet)
 

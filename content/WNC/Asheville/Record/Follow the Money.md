@@ -1,6 +1,6 @@
 ---
 title: Follow the Money
-description: The BID, the TDA, and the surveillance buildout. Three separate money streams, one downtown coalition, and the same 6–1 votes. What's documented, and what isn't.
+description: "The Business Improvement District, the Tourism Development Authority, and the surveillance buildout: the three funding streams, the organizations behind each, and the council votes, with what is documented and what is not."
 aliases:
   - "Follow the Money"
   - "The System/Follow the Money"
@@ -43,7 +43,7 @@ The $1.14M is a DOJ earmark; the 7.5-year [[What Axon Contracts Do|Axon contract
 | BID board appointments (Apr 2025) | 6–1 | Roney |
 | RTIC equipment grant ([[2025-03-25 City Council|Mar 2025]]) | 6–1 | Roney |
 | RTIC $1.14M + Axon contract ([[2026-05-12 City Council|May 2026]]) | 6–1 · 6–1 | Roney |
-| Private check-in meetings | 6 of 7 support | Roney ([[The Check-In Meetings]]) |
+| Private check-in meetings | 6 of 7 support | Roney ([[The Check-In Meetings|The pre-meeting check-in sessions]]) |
 
 Downtown's governance, its policing posture, and its camera network have moved as one program, and one member has dissented from all of it, every time.
 
@@ -53,4 +53,4 @@ Downtown's governance, its policing posture, and its camera network have moved a
 - **The BID's first renewal** (3-year contract + renewals) and its board minutes: does camera-registry promotion appear?
 - **Candidate questions:** Should a council member hold a seat on the BID operator's board? ([[Antanette Mosley]] does, non-voting, while seeking re-election.) Will candidates commit to publishing the RTIC's registered-camera list and the BID's full financials?
 
-*Related: [[What Is the RTIC]] · [[Election 2026]] · [[The Check-In Meetings]] · [[Get Involved]]*
+*Related: [[What Is the RTIC]] · [[Election 2026]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] · [[Get Involved]]*

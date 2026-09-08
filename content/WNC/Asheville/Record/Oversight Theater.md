@@ -1,6 +1,6 @@
 ---
-title: The Oversight Record
-description: Thirty-five years of Asheville residents asking for police oversight, and what was actually delivered each time. Why the enforcement mechanism, not the promise, is the thing to check.
+title: "Police oversight in Asheville, 1991 to 2026"
+description: "Requests by Asheville residents for police oversight over thirty-five years, and what each produced, with the enforcement mechanism noted where one exists."
 aliases:
   - "Oversight Theater"
   - "The Oversight Record"
@@ -41,4 +41,4 @@ Put the three records together:
 
 *A note on labels: quotes and dates above are from public records and named reporting; where an assessment comes from advocacy or opinion journalism rather than documents, we've linked the source so you can weigh it yourself.*
 
-*Related: [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Promise Tracker]] · [[The Check-In Meetings]] · [[Timeline]]*
+*Related: [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Promise Tracker]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] · [[Timeline]]*

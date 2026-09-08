@@ -1,6 +1,6 @@
 ---
 title: Benn Jordan
-description: The independent researcher whose Flock Safety investigations reached national press, and who came to Asheville in May 2026 to help. His work explains, in plain terms, why these cameras are both invasive and insecure.
+description: "Independent researcher whose Flock Safety security findings were reported nationally; spoke in Asheville in May 2026. His work is cited on the misuse and vendor pages."
 aliases:
   - "People/Benn Jordan"
   - "People/Community/Benn Jordan"

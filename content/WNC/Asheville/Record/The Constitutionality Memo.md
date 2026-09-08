@@ -1,6 +1,6 @@
 ---
-title: "The Constitutionality Memo"
-description: "The city attorney memo circulated the night before the Flock vote, what it says, and what it leaves out: the appeal pending in North Carolina's own federal circuit and the Supreme Court's newest location-privacy ruling."
+title: "The city attorney's constitutionality memo"
+description: "The city attorney's memo circulated the night before the Aug 25, 2026 Flock vote: what it says, and the two cases it does not mention, the Norfolk appeal in the Fourth Circuit and the Supreme Court's June 2026 location-data ruling."
 aliases:
   - "The Record/The Constitutionality Memo"
 ---
