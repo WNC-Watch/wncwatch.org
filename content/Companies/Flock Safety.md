@@ -45,8 +45,6 @@ The company's August 13, 2026 safeguards post is the most concrete statement of 
 
 Each fix dates the problem. Mandatory MFA in August 2026 means government logins sat in malware dumps without it in November 2025. Offense filtering in 2026 means the ICE searches of 2025 were within the rules. The 7-day default arrived after Macon, Austin, Denver, and LAPD had already left ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]).
 
-## What this means in Asheville
+The site's position, in full on the [[index|homepage]]: the concern is what happens when a community's cameras join large interconnected networks that nobody local controls, with sharing defaults nobody here set and searches nobody here approved; the Asheville asks that follow from it are on [[Getting Flock Out]].
 
-Terminating the contract removes eleven cameras. It does not, by itself, close APD's search accounts, end the county sheriff's access, or change what [[WNC/Henderson County/index|Henderson County]]'s 2,048-agency list lets any neighbor see ([[Getting Flock Out]]). And the company's recorded behavior when a city leaves (Verona's bagged cameras, the "maintenance" work order instead of removal) is why the site's demands include a removal deadline and a paper trail. The replacement the staff memo describes, Axon plate readers "expanding and integrating," is the other company: [[Axon]].
-
-*Related: [[Axon]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The Flockbook]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Getting Flock Out]]*
+*Related: [[Axon]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[The Flockbook]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Getting Flock Out]]*
