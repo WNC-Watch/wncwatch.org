@@ -10,7 +10,11 @@ aliases:
 **In this role since:** December 2, 2024 (elected November 2024, first term)
 **Current term ends:** December 2028
 **Next voter decision:** not on the ballot until November 2028 ([[Election 2026]])
-**Next meeting where he acts:** the Public Safety Committee, which he chairs; it meets the last Thursday of odd months at 11 AM, online ([livestream](https://publicinput.com/d81053)). <span data-cal="asheville-public-safety"></span>
+**Next meeting where he acts:** the Public Safety Committee, which he chairs; it meets the last Thursday of odd months at 11 AM, online ([livestream](https://publicinput.com/d81053)).
+
+## Next meeting and how to comment
+
+<div data-cal="asheville-public-safety"></div>
 
 ## Record on cameras and surveillance
 

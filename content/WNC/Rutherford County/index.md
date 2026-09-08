@@ -3,6 +3,9 @@ title: Rutherford County
 description: The viral vandalism story, a camera network with audio detection, and the one journalist keeping the record.
 aliases:
   - "WNC/Rutherford County"
+system: "Flock, plus Forest City's audio detection"
+standing: "no county process on the record"
+standing_kind: expand
 ---
 
 Rutherford County has an unresolved camera count, a Flock network with audio detection that nobody in county government has squared with the state wiretap statute, and one journalist keeping the record.

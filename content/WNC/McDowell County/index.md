@@ -3,6 +3,9 @@ title: McDowell County
 description: Twelve cameras, zero press coverage, no vote anyone can find, WNC's documentation hole.
 aliases:
   - "WNC/McDowell County"
+system: "network access via the regional pool; own paperwork unpublished"
+standing: "no public review found"
+standing_kind: expand
 ---
 
 In McDowell County, no one is checking at all.

@@ -171,6 +171,46 @@
   dd { margin-left: 0.3rem; }
 }
 
+// Area lead: where it stands, the system, next dates; the first block on an area page
+.area-lead {
+  border-left: 4px solid var(--lightgray);
+  padding: 0.5rem 1rem;
+  margin: 0.4rem 0 1.4rem;
+  .lead-row { margin: 0.3rem 0; line-height: 1.45; }
+  .lead-k {
+    display: inline-block;
+    min-width: 8.5rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+    vertical-align: top;
+    margin-top: 0.15rem;
+  }
+  .bd-dot { margin-right: 0.4rem; }
+  ul { display: inline-block; margin: 0; padding: 0; list-style: none; vertical-align: top; max-width: calc(100% - 9rem); }
+  li { margin: 0 0 0.25rem; }
+}
+@media all and (max-width: 800px) {
+  .area-lead .lead-k { display: block; min-width: 0; margin-bottom: 0.1rem; }
+  .area-lead ul { display: block; max-width: none; }
+}
+
+// Calendar card: one meeting, one line per fact (the <div data-cal> form)
+.cal-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 0.7rem 1rem;
+  margin: 0.8rem 0 1.2rem;
+  .cal-card-row { margin: 0.25rem 0; }
+  dt { display: inline-block; min-width: 8.5rem; font-weight: 700; vertical-align: top; }
+  dd { display: inline; margin: 0; }
+}
+@media all and (max-width: 800px) {
+  .cal-card dt { display: block; min-width: 0; }
+}
+
 // Area hub, rendered from the tree by the AreaHub body block
 .area-hub {
   display: grid;
