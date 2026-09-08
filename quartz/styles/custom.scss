@@ -388,6 +388,8 @@
     vertical-align: top;
   }
   td.bd-place { white-space: nowrap; font-weight: 600; }
+  td.bd-systems { white-space: nowrap; }
+  .bd-agenda { font-size: 0.85em; color: var(--gray); }
   td.bd-next { white-space: nowrap; }
 }
 // Status dot, shared by the homepage board and the area lead block

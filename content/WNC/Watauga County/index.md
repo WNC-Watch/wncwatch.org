@@ -5,6 +5,7 @@ aliases:
   - "WNC/Watauga County"
 standing: "kept the cameras, cut sharing 96% after pulling the log"
 standing_kind: resist
+board_label: "Boone + App State"
 systems:
   - vendor: "Flock Safety"
     kind: resist

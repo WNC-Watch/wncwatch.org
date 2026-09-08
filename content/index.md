@@ -60,23 +60,7 @@ Each community links to its full area page: the local record, the documents, and
 
 <div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
 
-<div class="avl-board">
-<table>
-<tr><th>Community</th><th>System</th><th>Where it stands</th><th>Next date</th></tr>
-<tr><td class="bd-place"><a href="./WNC/Transylvania-County/index">Brevard</a></td><td>Axon: 3 fixed plate readers offered "at no charge" in a ~$80K five-year package</td><td><span class="bd-dot bd-future"></span>deciding; documents posted, question session held Sept 1</td><td class="bd-next">Sept 8 vote</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Hendersonville/index">Hendersonville</a></td><td>Flock: 15 city cameras; retention now 7 days per the chief</td><td><span class="bd-dot bd-future"></span>contested; chief presented Sept 3, no vote</td><td class="bd-next">input sessions promised, undated</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Henderson-County/index">Henderson County</a></td><td>Flock: sheriff's 13, sharing list in the thousands, federal agencies included</td><td><span class="bd-dot bd-future"></span>removal ask; no camera item on the Sept 8 agenda</td><td class="bd-next">Sept 8 public comment</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Asheville/index">Asheville</a></td><td>Flock contract ended Aug 25; Axon contract to 2033, RTIC toward 2027</td><td><span class="bd-dot bd-resist"></span>ended one vendor; the other's contract stands</td><td class="bd-next">Sept 24 committee</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Buncombe-County/index">Buncombe County</a></td><td>Fusus network, ~2,000 cameras (~1,500 in schools), 20+ plate readers</td><td><span class="bd-dot bd-expand"></span>expanding; no published audit</td><td class="bd-next">Nov 3 ballot</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Watauga-County/index">Boone + App State</a></td><td>Flock: 3 town readers, 3 campus cameras</td><td><span class="bd-dot bd-resist"></span>kept the cameras, cut sharing 96% after pulling the log</td><td class="bd-next">portals live</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Macon-County/index">Macon County</a></td><td>Flock: 12 cameras removed by 5 to 0 vote in July</td><td><span class="bd-dot bd-resist"></span>removed; network membership still listed</td><td class="bd-next">Sept 8 board · Nov 3 ballot</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Haywood-County/index">Haywood County</a></td><td>Flock: ~8 cameras since 2024</td><td><span class="bd-dot bd-expand"></span>commissioners voted to keep them</td><td class="bd-next">Nov 3 ballot</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Madison-County/index">Madison County</a></td><td>Flock: 15 cameras</td><td><span class="bd-dot bd-future"></span>contested; organizing active, records requests refused</td><td class="bd-next">Nov 3 ballot</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Jackson-County/index">Jackson County</a></td><td>Flock: 4 cameras; 280 in-state agencies shared with</td><td><span class="bd-dot bd-future"></span>under public review</td><td class="bd-next">records fight ongoing</td></tr>
-<tr><td class="bd-place"><a href="./WNC/Rutherford-County/index">Rutherford County</a></td><td>Flock, plus Forest City's audio detection</td><td><span class="bd-dot bd-expand"></span>no county process on the record</td><td class="bd-next">Nov 3 ballot</td></tr>
-<tr><td class="bd-place"><a href="./WNC/McDowell-County/index">McDowell County</a></td><td>network access via the regional pool; own paperwork unpublished</td><td><span class="bd-dot bd-expand"></span>no public review found</td><td class="bd-next">&nbsp;</td></tr>
-</table>
-</div>
+<div class="avl-board"></div>
 
 How it happened in Asheville, the region's deepest case, is kept meeting by meeting: <a href="./WNC/Asheville/Timeline">the full timeline</a> and <a href="./WNC/Asheville/index">the Asheville area page</a>.
 
