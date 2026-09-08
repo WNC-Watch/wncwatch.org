@@ -7,8 +7,8 @@
 #   preview-build.sh dev
 #     rsync content/ to docker-01:~/avl-dev/content/, build with Quartz in a
 #     node:22 container, restart wnc-site-dev, print http://192.168.50.66:3320.
-#     Refuses to run unless the site repo's current branch is region-release
-#     (dev builds come from that branch).
+#     Refuses to run when the site repo's current branch is main (dev builds
+#     come from a work branch; the release build is main's).
 #
 #   preview-build.sh release
 #     Same, but to docker-01:~/avl-build/content/, restarting wnc-site-preview
@@ -43,7 +43,7 @@ CALENDAR_YML="$SITE/calendar.yml"
 BRANCH="$(git -C "$SITE" rev-parse --abbrev-ref HEAD)"
 
 if [ "$TARGET" = "dev" ] && [ "$BRANCH" = "main" ]; then
-  echo "Refusing: dev builds come from region-release, current branch is main." >&2
+  echo "Refusing: dev builds come from a work branch, not main; check out the work branch first." >&2
   exit 1
 fi
 if [ "$TARGET" = "release" ] && [ "$BRANCH" != "main" ]; then
