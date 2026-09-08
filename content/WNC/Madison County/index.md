@@ -3,9 +3,13 @@ title: Madison County
 description: Flock deployed with no vote and no public discussion; a board chairman who told opponents "You will not speak on Flock tonight"; a sheriff refusing records requests, and a November election.
 aliases:
   - "WNC/Madison County"
-system: "Flock: 15 cameras"
 standing: "contested; organizing active, records requests refused"
 standing_kind: future
+systems:
+  - vendor: "Flock Safety"
+    detail: "15 cameras countywide by March 2026, deployed by the sheriff's office with no commission vote or public discussion; records requests refused."
+    links:
+      - "Companies/Flock Safety"
 ---
 
 Madison County is the starkest process story in WNC, worse than Asheville's.

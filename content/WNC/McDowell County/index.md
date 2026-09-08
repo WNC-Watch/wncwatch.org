@@ -3,9 +3,13 @@ title: McDowell County
 description: Twelve cameras, zero press coverage, no vote anyone can find, WNC's documentation hole.
 aliases:
   - "WNC/McDowell County"
-system: "network access via the regional pool; own paperwork unpublished"
 standing: "no public review found"
 standing_kind: expand
+systems:
+  - vendor: "Flock Safety"
+    detail: "12 or more cameras per EFF's Atlas of Surveillance, 8 of them the sheriff's office's and the rest Marion PD's; no vote found and no published paperwork."
+    links:
+      - "Companies/Flock Safety"
 ---
 
 In McDowell County, no one is checking at all.

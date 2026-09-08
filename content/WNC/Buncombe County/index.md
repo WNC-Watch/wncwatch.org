@@ -3,9 +3,13 @@ title: Buncombe County
 description: The county built the region's surveillance backbone first, sold it to commissioners as a revenue opportunity, and wrote the rulebook Asheville later copied. The sheriff's own policies, the forfeiture money behind it, and the 1,500 school cameras nobody voted on.
 aliases:
   - "WNC/Buncombe County"
-system: "Fusus network, ~2,000 cameras (~1,500 in schools), 20+ plate readers"
 standing: "expanding; no published audit"
 standing_kind: expand
+systems:
+  - vendor: "Fusus (Axon)"
+    detail: "The sheriff's network: about 2,000 cameras, about 1,500 of them in schools, and 20 or more plate readers; five-year retention; no published audit. The county released 28 months of the access log in May 2026."
+    links:
+      - "WNC/Buncombe County/Record/Sheriffs Audit Log"
 ---
 
 Asheville's RTIC plugs into a county system with its own accountability story. This page is that story, built from the Sheriff's Office's published policy manual, federal forfeiture tables, county and housing-authority documents, and local reporting. The legal question underneath it, what the county commission can and cannot do about a sheriff's cameras, has its own page: [[What the Law Lets the County Do]].

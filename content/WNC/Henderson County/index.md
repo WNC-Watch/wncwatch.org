@@ -3,9 +3,14 @@ title: Henderson County
 description: 39+ cameras, no vote ever taken and the budget ordinance that explains why, the only 287(g) jail agreement in WNC, a sharing list of 2,048 agencies including the FBI, and what the Sept 8 county agenda does and does not contain.
 aliases:
   - "WNC/Henderson County"
-system: "Flock: sheriff's 13, sharing list in the thousands, federal agencies included"
 standing: "removal ask; no camera item on the Sept 8 agenda"
 standing_kind: future
+systems:
+  - vendor: "Flock Safety"
+    detail: "The sheriff's office: 13 cameras bought in 2025 for $44,150 inside the approved budget, no commission vote. Portal read Aug 22, 2026: 465,415 vehicles in 30 days, 310 searches; 2,048 agencies granted access, the FBI among them. Fletcher PD (since fall 2025) and Laurel Park PD (4 cameras, early 2026) run their own; counts and contracts largely unpublished."
+    links:
+      - "WNC/Henderson County/Officials/Lowell Griffin"
+      - "Briefings/What the Law Lets the County Do"
 ---
 
 Henderson County's cameras were bought inside the sheriff's approved budget, so no commission vote has been taken, and none is scheduled. A resident petition to remove them passed 2,000 signatures on Aug 17, 2026. The city of Hendersonville's cameras have [[WNC/Hendersonville/index|their own page]].
