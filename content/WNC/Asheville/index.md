@@ -70,6 +70,6 @@ Mayor [[Esther Manheimer]] (on the ballot against [[Kim Roney]]) · council memb
 
 ## The pattern, for regional comparison
 
-Read against the county pages, Asheville's sequence is the playbook at maximum scale: infrastructure first (2022–2024), briefing only when caught (March 2025), money on consent (March 2025), committee bypass (2026), vendor-led "education" (April 2026), vote on an unwritten contract at midnight (May 2026). Macon's commissioners reversed the same playbook with one 5–0 vote ([[How Cities Won]]); Hendersonville and Woodfin are mid-story. Asheville followed the same playbook at larger scale, but until the RTIC goes operational in 2027, it can still be stopped or constrained.
+Read against the county pages, Asheville's sequence is the playbook at maximum scale: infrastructure first (2022–2024), briefing only when caught (March 2025), money on consent (March 2025), committee bypass (2026), vendor-led "education" (April 2026), vote on an unwritten contract at midnight (May 2026). Macon's commissioners reversed the same playbook with one 5–0 vote ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]); Hendersonville and Woodfin are mid-story. Asheville followed the same playbook at larger scale, but until the RTIC goes operational in 2027, it can still be stopped or constrained.
 
 *Related: [[WNC and NC]] · [[Timeline]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[Election 2026]]*
