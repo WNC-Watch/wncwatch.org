@@ -1,6 +1,15 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { FileTrieNode } from "./quartz/util/fileTrie"
+import { AreaHub } from "./quartz/components/blocks/areaHub"
+
+// Body blocks: components drawn inside the article from data, in the position
+// each block declares (see components/pages/Content.tsx). One entry per block;
+// the block itself decides which pages it renders on.
+export const bodyBlocks = [AreaHub]
+export const pageBody = Component.Content({ blocks: bodyBlocks })
+// Folder index pages (every area page is one) render through FolderContent.
+export const folderBody = Component.FolderContent({ blocks: bodyBlocks })
 
 // Explorer order: the way the site reads, not the alphabet. Defined once and
 // shared by both layouts. The Explorer serializes this function's source and

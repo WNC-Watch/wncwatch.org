@@ -162,6 +162,38 @@
   li { margin: 0.35rem 0; }
 }
 
+// Area hub, rendered from the tree by the AreaHub body block
+.area-hub {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 0.6rem 1.4rem;
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+  padding: 0.9rem 0 0.7rem;
+  margin: 1.2rem 0 1.4rem;
+
+  .hub-group { min-width: 0; }
+  .hub-label {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-bottom: 0.25rem;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin: 0.15rem 0;
+    font-size: 0.92rem;
+    line-height: 1.35;
+  }
+}
+
 // Share block (QR) — white card so the code scans in dark mode too
 .avl-share {
   display: flex;

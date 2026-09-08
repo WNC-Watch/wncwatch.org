@@ -9,6 +9,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+import { BodyBlock, renderBlocks, withBlocks } from "./Content"
 
 interface FolderContentOptions {
   /**
@@ -17,11 +18,14 @@ interface FolderContentOptions {
   showFolderCount: boolean
   showSubfolders: boolean
   sort?: SortFn
+  // body blocks drawn inside the folder's index content (see Content.tsx)
+  blocks: BodyBlock[]
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   showSubfolders: true,
+  blocks: [],
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -96,15 +100,17 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       allFiles: allPagesInFolder,
     }
 
+    const blocks = renderBlocks(options.blocks, props)
+    const body = withBlocks(tree as Root, blocks)
     const content = (
-      (tree as Root).children.length === 0
-        ? fileData.description
-        : htmlToJsx(fileData.filePath!, tree)
+      body.children.length === 0 ? fileData.description : htmlToJsx(fileData.filePath!, body)
     ) as ComponentChildren
 
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
+        {/* a folder whose body already draws a block (the area hub) does not repeat the flat listing */}
+        {blocks.length === 0 && (
         <div class="page-listing">
           {options.showFolderCount && (
             <p>
@@ -117,6 +123,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             <PageList {...listProps} />
           </div>
         </div>
+        )}
       </div>
     )
   }
