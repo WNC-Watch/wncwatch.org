@@ -319,6 +319,16 @@
   verify_note: "Read 2026-09-08: the enacted text of S.L. 2026-19 is effective when it becomes law and contains no October 1 date; the Oct 1, 2026 date comes from DPS's statement reported by BPR on Aug 20, 2026, cited on Briefings/What the Law Lets the County Do."
   verified: 2026-09-08
 
+- id: registration-deadline
+  area: North Carolina
+  label: voter registration deadline for the Nov 3 general election; same-day registration remains available during early voting
+  date: 2026-10-09
+  source_url: "https://www.ncsbe.gov/registering/how-register"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "Regular registration deadline is 25 days before the election, Friday Oct 9, 2026, per ncsbe.gov; same-day registration during early voting per the same page. Added 2026-09-08 for the Election 2026 page."
+  verified: 2026-09-08
+
 - id: early-voting
   area: North Carolina
   label: early voting begins; it runs through Saturday, Oct 31
