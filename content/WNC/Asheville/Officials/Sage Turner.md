@@ -1,6 +1,6 @@
 ---
 title: Sage Turner
-description: Voted yes on the RTIC, and is now on record that a condition of her vote, removal of the city's Flock cameras, hasn't been honored. Not on the ballot until 2028.
+description: "Council member since 2020. Voted yes on May 12, 2026 with removal of the city's Flock cameras as a stated condition; documented on Aug 17 that the cameras were still up; seconded the termination Aug 25. Not on the ballot until 2028."
 aliases:
   - "People/Sage Turner"
   - "People/Asheville/Sage Turner"

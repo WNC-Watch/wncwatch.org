@@ -1,6 +1,6 @@
 ---
 title: Esther Manheimer
-description: Mayor since 2013; presided over every stage of the RTIC's approval, then called for Flock termination on Aug 19, 2026. Her record of pressure-responsive statements, checked against outcomes. Seeking a fourth term.
+description: "Mayor since 2013. Presided over the RTIC votes of March 25, 2025 and May 12, 2026; called for Flock termination on Aug 19, 2026 and voted for it Aug 25. Seeking a fourth term on November 3, 2026, against Kim Roney."
 aliases:
   - "People/Esther Manheimer"
   - "People/Asheville/Esther Manheimer"

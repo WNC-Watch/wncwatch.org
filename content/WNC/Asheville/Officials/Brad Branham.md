@@ -1,6 +1,6 @@
 ---
 title: Brad Branham
-description: Asheville City Attorney since 2019; the legal opinion on the RTIC that council was promised before the vote has never been made public.
+description: "Asheville City Attorney since 2019. On April 28, 2026 he told the committee he would provide a legal opinion on the Flock contract's data-license clause; none has been made public as of Sept 8, 2026."
 aliases:
   - "People/Buncombe/Brad Branham"
   - "People/Asheville/Brad Branham"

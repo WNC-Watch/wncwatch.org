@@ -1,6 +1,6 @@
 ---
 title: Jimmy Wingo
-description: APD's civilian Law Enforcement Technology Manager, the single approval gate for outside-agency data requests, the man who explained the Ring-camera integration tiers, and the voice of every "the audits are fine" assurance.
+description: "APD's Law Enforcement Technology Manager. Approves outside-agency data requests; described the private-camera registration options to council on March 25, 2025; described the department's quarterly audits to 828NewsNow on Aug 6, 2026."
 aliases:
   - "People/Jimmy Wingo"
   - "People/Asheville/Jimmy Wingo"

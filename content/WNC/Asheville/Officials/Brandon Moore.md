@@ -1,6 +1,6 @@
 ---
 title: Brandon Moore
-description: APD captain over special services and the technology; sat on the RTIC workgroup; "We do not and will not share that information short of a court order."
+description: "APD captain over special services and technology; a member of the RTIC policy workgroup. To WLOS, July 8, 2026: \"We do not and will not share that information short of a court order.\""
 aliases:
   - "People/Buncombe/Brandon Moore"
   - "People/Asheville/Brandon Moore"

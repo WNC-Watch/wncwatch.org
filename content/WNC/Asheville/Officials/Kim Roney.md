@@ -1,6 +1,6 @@
 ---
 title: Kim Roney
-description: City council member since 2020; the only vote against every stage of Asheville's surveillance buildout. Running for mayor in 2026.
+description: "Council member since 2020. Voted no on the county camera agreement in 2023 and on each RTIC item in 2025 and 2026; moved the Flock termination Aug 25, 2026. Running for mayor on November 3, 2026."
 aliases:
   - "People/Kim Roney"
   - "People/Asheville/Kim Roney"

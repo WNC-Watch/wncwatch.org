@@ -1,6 +1,6 @@
 ---
 title: D.K. Wesley
-description: Asheville's City Manager since January 2026, the unelected official who negotiates and signs the Axon contract council authorized unseen, and who single-handedly picks the next police chief.
+description: "Asheville City Manager since January 12, 2026. Council authorized her on May 12, 2026 to negotiate and sign the Axon contract; it went for signature July 16 and has not been released. She names the next police chief."
 aliases:
   - "People/D.K. Wesley"
   - "People/Asheville/D.K. Wesley"
