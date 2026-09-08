@@ -19,7 +19,7 @@ Three headlines, then the detail:
 The final draft of [Policy 1703, Real Time Intelligence Center](assets/policy-1703/policy1703-final-draft.pdf) is four pages. What it contains:
 
 - **A facial recognition ban, in the department's own rulebook for the first time**: "RTIC personnel will not use tools or platforms that use facial recognition technology" (1703.1.G). This is stronger than a council resolution because officers can be disciplined against it, and weaker than a law because [[Jackie Stepp|the chief]] can revise it without a public vote. It bans use by RTIC personnel; it says nothing about what vendors' systems do upstream.
-- **The [[Jimmy Wingo|Technology Manager]] runs the RTIC** (1703.1.A). The same single-gate structure the site has documented, now codified.
+- **The Technology Manager runs the RTIC** (1703.1.A). The same single-gate structure the site has documented, now codified.
 - **Livestream limits on body cameras**: live streaming of body-worn or in-car cameras only in emergencies or exigent circumstances, only with the Operations Bureau Commander's permission, only if the camera is already recording, with a beep and light on the officer's camera (1703.2.D).
 - **The audit, specified at last**: "At least quarterly, the Professional Standards Section will randomly review user access logs within the Axon Fusus system," with documentation "submitted to the chief of police or designee" (1703.4.D). That is the whole oversight loop: a random sample, reviewed internally, reported to the chief. No publication, no council report, no external reviewer. [[Promise Tracker|Promise Tracker row 4]] now has its mechanism.
 - **A wide sharing exception**: RTIC information won't be disclosed to unauthorized parties "except as permitted by law or with a compelling need to share such information for legitimate law enforcement purposes" (1703.3.C). "Permitted by law" and "compelling need" are the entire limit on third-party sharing.
@@ -60,7 +60,7 @@ Measure the four pages against the promises made to sell the RTIC ([[Promise Tra
 - **Immigration and ICE.** Zero mentions. Deputy Chief Sean Aardema's "we will not be sharing information with federal immigration" exists only in WLOS's coverage; the written rulebook's only sharing limit is the "permitted by law or compelling need" clause.
 - **Retention periods.** No numbers anywhere; retention lives in other documents and vendor settings.
 - **The racial-profiling prohibition.** The workgroup notes record APD's policy manager saying on June 11 that, per the council resolution, the policy must ensure the program "does not permit racial profiling or discrimination." No such clause appears in any draft or the final.
-- **The search-term blocks** on immigration and reproductive topics that [[Jimmy Wingo|Wingo]] described to WLOS in July. Not in the policy.
+- **The search-term blocks** on immigration and reproductive topics that Wingo described to WLOS in July. Not in the policy.
 - **The "18 people" search cap.** Not in the policy; access is whoever the chief authorizes.
 - **Any publication requirement.** Nothing in the policy requires any audit, report, or statistic to ever reach council or the public.
 
@@ -68,7 +68,7 @@ Measure the four pages against the promises made to sell the RTIC ([[Promise Tra
 
 The [meeting notes](assets/policy-1703/rtic-workgroup-notes.pdf) cover four sessions (June 11, June 25, July 9, July 23, 2026), held at APD and the Sheriff's Office, lunch provided, no public notice, no public seat. These are APD's own minutes, so quotes below are the department's own written record of what was said.
 
-**Who was in the room:** Interim Chief [[Jackie Stepp|Stepp]], Capt. Brandon Moore (Technology and Intelligence Division), [[Jimmy Wingo]], APD's crime-analysis and policy managers, Sheriff [[Quentin Miller]], and invited community members: the Legacy Neighborhood Coalition, Homeward Bound, the WNC Jewish Security Task Force, a city neighborhood-services staffer, and the Housing Authority's Director of Property Management, whose [[Cameras in Public Housing|properties already host hundreds of the county's cameras]]. **Who wasn't:** anyone from CAMS, GAP, SASSI, the ACLU, or any group that opposed the RTIC. The notes record Miller suggesting "we consider having those who are opposed join us at the table in these discussions"; Stepp's recorded answer was that "we believe we are accomplishing this through the tours, community meetings, etc."
+**Who was in the room:** Interim Chief [[Jackie Stepp|Stepp]], Capt. Brandon Moore (Technology and Intelligence Division), James Wingo, APD's crime-analysis and policy managers, Sheriff [[Quentin Miller]], and invited community members: the Legacy Neighborhood Coalition, Homeward Bound, the WNC Jewish Security Task Force, a city neighborhood-services staffer, and the Housing Authority's Director of Property Management, whose [[Cameras in Public Housing|properties already host hundreds of the county's cameras]]. **Who wasn't:** anyone from CAMS, GAP, SASSI, the ACLU, or any group that opposed the RTIC. The notes record Miller suggesting "we consider having those who are opposed join us at the table in these discussions"; Stepp's recorded answer was that "we believe we are accomplishing this through the tours, community meetings, etc."
 
 **What the notes disclose that no public meeting has:**
 
@@ -117,4 +117,4 @@ All seven, with the public links and this site's archived copies:
 
 A sourcing note: the workgroup quotes above come from APD's own meeting minutes, which summarize rather than transcribe; where the notes render someone in the first person we've quoted the notes exactly, but treat them as the department's record of what was said, not a recording. And one spelling correction made site-wide with this release: the city's own records (including his email address) spell the deputy chief's name **Sean Aardema**; WLOS's coverage, which several pages here cite, spells it Shawn.
 
-*Related: [[Promise Tracker]] · [[What Axon Contracts Do]] · [[Documents]] · [[Jackie Stepp]] · [[Jimmy Wingo]] · [[Quentin Miller]] · [[Getting Flock Out]] · [[Records Center]]*
+*Related: [[Promise Tracker]] · [[What Axon Contracts Do]] · [[Documents]] · [[Jackie Stepp]] · [[Quentin Miller]] · [[Getting Flock Out]] · [[Records Center]]*

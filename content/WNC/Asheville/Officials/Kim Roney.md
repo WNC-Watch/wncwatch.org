@@ -13,11 +13,14 @@ aliases:
 
 ## Surveillance record
 
-The only member of council to vote against the surveillance buildout, every time, usually alone:
+Votes on the city's camera decisions:
 
 - **Jan 24, 2023**: sole no on the interlocal agreement joining the [[WNC/Buncombe County/index|Buncombe]] Sheriff's Fusus network (passed 4–1). ([WLOS](https://wlos.com/news/local/asheville-police-get-access-to-buncombe-county-sheriffs-office-fusus-real-time-intelligence-center-camera-system-collaboration-emergency-situations))
-- **[[2025-03-25 City Council|Mar 25, 2025]]**: pulled the first [[What Is the RTIC|RTIC]] grant off the consent agenda, submitted **29 written questions** to APD on data control and constitutional implications (never publicly answered), voted no (passed 6–1). ([BPR](https://www.bpr.org/bpr-news/2025-03-26/last-night-at-council-asheville-approves-funding-for-police-surveillance-hub))
+- **[[2025-03-25 City Council|Mar 25, 2025]]**: pulled the first [[What Is the RTIC|RTIC]] grant off the consent agenda, submitted **29 written questions** to APD on data control and constitutional implications (no public answers had been posted as of Sept 8, 2026), voted no (passed 6–1). ([BPR](https://www.bpr.org/bpr-news/2025-03-26/last-night-at-council-asheville-approves-funding-for-police-surveillance-hub))
+- **[[2026-05-07 Agenda Briefing|May 7, 2026]]**: on the plan to keep one Flock camera for network access: "I think even having one of them isn't good for our community."
 - **[[2026-05-12 City Council|May 12, 2026]]**: sole no on the $1.14M grant and 7.5-year [[What Axon Contracts Do|Axon contract]]; presented ACLU-NC and EFF concerns; afterward: "21 people were sent home without the opportunity to speak." ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
+- **[[2026-08-20 Agenda Briefing|Aug 20, 2026]]**: at the briefing on the termination resolution she read the staff memo on the Axon plate reader expansion into the record and asked for it to be published, noted that exiting cities have had to cover cameras Flock did not remove, asked for the [[The RTIC Policy|ACEIP documents]] to go on the city's dashboard, cited the ACLU's guidance against [[What Is the RTIC|real-time intelligence centers]] ("we still have some work to do there"), and asked for overflow rooms for the Aug 25 meeting. On the replacement: "if we cancel the Flock contract and replace [it] with Axon's same functioning equipment, then we still have a violation of our constitutional rights problem."
+- **[[2026-08-25 City Council|Aug 25, 2026]]**: moved the termination resolution, which passed 5 to 2, and secured two commitments on the record: staff will notify council when the Flock data deletion is complete, and covering the cameras while Flock retrieves them "can [be] evaluate[d]... as an option." Minutes after passage she moved a moratorium on purchasing new plate readers during the city's review. It failed for lack of a second. Before the vote: "I have concerns about false positive alerts, about the homicide count shift, about the clearance benchmarks. It has not been shown to me that the clearance rates and justice have been realized by Flock cameras going up in Asheville."
 
 ## In her words
 
@@ -29,12 +32,12 @@ The only member of council to vote against the surveillance buildout, every time
 
 ## Beyond the dais
 
-Consulted ACLU-NC and EFF during the RTIC fight; appeared on the RE:FUSUS panel (May 25, 2026, DayTrip) alongside [[Benn Jordan]] and Patrick Conant. Faces [[Esther Manheimer]] in November, the only race where the RTIC is squarely on the ballot. See [[Election 2026]].
+Consulted ACLU-NC and EFF during the RTIC debate; appeared on the RE:FUSUS panel (May 25, 2026, DayTrip) alongside [[Benn Jordan]] and Patrick Conant. Faces [[Esther Manheimer]] on November 3, 2026 ([[Election 2026]]).
 
-One more entry for the record: on August 19, 2026, [[Esther Manheimer|Manheimer]] called for terminating the Flock contract and removing the cameras ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). Roney has been the sole no on every surveillance vote since January 2023, and said the Flock half plainly at the [[2026-05-07 Agenda Briefing|May 7 briefing]], three months before the mayor arrived there: "I think even having one of them isn't good for our community."
+## What is pending with her
 
-At the [[2026-08-20 Agenda Briefing|August 20 briefing]] she did the follow-through work on the mayor's proposal: read the staff memo revealing the Axon plate reader expansion into the record and asked for it published, warned that exiting cities have had to **cover cameras Flock wouldn't remove**, called for the [[The RTIC Policy|ACEIP documents]] to go on the city's dashboard, flagged the ACLU's guidance against [[What Is the RTIC|real-time intelligence centers]] ("we still have some work to do there"), and asked for multiple overflow rooms so Tuesday's crowd isn't left outside without a bathroom again. Her framing of the remaining problem: "if we cancel the Flock contract and replace [it] with Axon's same functioning equipment, then we still have a violation of our constitutional rights problem."
+- Public answers to the 29 questions submitted to APD in March 2025. None posted as of Sept 8, 2026.
+- The moratorium on new plate reader purchases, which failed for lack of a second on Aug 25, 2026 and which any member could move again.
+- The Flock data deletion notice and the removal of the 11 cameras, both committed to on Aug 25, 2026 ([[Getting Flock Out]]).
 
-At the [[2026-08-25 City Council|August 25 meeting]] she moved the termination resolution, which passed 5 to 2, and secured two commitments on the record: staff will notify council when the Flock data deletion is complete, and covering the cameras while Flock retrieves them "can [be] evaluate[d]... as an option." Then, minutes after passage, she moved a moratorium on purchasing new plate readers during the city's own review. It failed for lack of a second: not voted down, just left without support. Her stated doubts before the vote: "I have concerns about false positive alerts, about the homicide count shift, about the clearance benchmarks. It has not been shown to me that the clearance rates and justice have been realized by Flock cameras going up in Asheville."
-
-*Region: Asheville · Last updated: Aug 26, 2026*
+*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

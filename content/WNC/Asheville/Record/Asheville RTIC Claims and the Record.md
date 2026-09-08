@@ -18,7 +18,7 @@ This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligen
 
 ## The audit trail and the July 2025 records refusal
 
-**The statement.** Stepp, May 12, 2026: "There's a really robust audit trail built into all of this." Technology manager [[Jimmy Wingo]], Aug 6, 2026: "Our lieutenant does quarterly audits. He just did an audit, and 100% of the time, we have reasons." ([828NewsNow](https://828newsnow.com/news/228822-flock-cameras-asheville-police-explain-use-of-11-license-plate-readers/))
+**The statement.** Stepp, May 12, 2026: "There's a really robust audit trail built into all of this." Technology manager James Wingo, Aug 6, 2026: "Our lieutenant does quarterly audits. He just did an audit, and 100% of the time, we have reasons." ([828NewsNow](https://828newsnow.com/news/228822-flock-cameras-asheville-police-explain-use-of-11-license-plate-readers/))
 
 **The record.** APD's audits are internal and have not been published. A resident requested the city's Flock audit records in July 2025; the city refused on Sept 9, 2025, citing G.S. 20-183.31(b) and G.S. 132-1.4 ([[Records Center|the request and its re-scoped successor]]). The ALPR dashboards APD announced return a 404 error ([[Documents]]). In Mooresville, a Flock officer's 31 searches each carried a logged reason and passed review; the reasons were later alleged to be false ([[Camera Network Misuse|Camera network misuse, documented cases]]). EFF's review of 11.4 million Flock searches found more than 14 percent justified with the single word "investigation."
 
