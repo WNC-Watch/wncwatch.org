@@ -1,6 +1,6 @@
 ---
 title: Bill Lapsley
-description: Henderson County Commission Chair; raised the cameras with the sheriff himself, never scheduled a vote, and is retiring. "Until we hear of some abuse... I don't see a problem."
+description: "Henderson County Commission Chair, first elected 2014, term ending December 2026 and not running. Has not scheduled a vote on the sheriff's cameras; to the Hendersonville Lightning: \"until we hear of some abuse or something radical happening, I don't see a problem.\""
 aliases:
   - "People/WNC/Bill Lapsley"
 ---

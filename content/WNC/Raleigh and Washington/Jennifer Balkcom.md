@@ -1,6 +1,6 @@
 ---
 title: Jennifer Balkcom
-description: Republican replacement nominee for NC-11 after Chuck Edwards' withdrawal. No surveillance record found.
+description: "NC House member for District 117 since January 2023; Republican nominee for U.S. House, NC-11, substituted on Aug 10, 2026 after Chuck Edwards withdrew. No statement on plate readers found as of Aug 17, 2026."
 aliases:
   - "People/Jennifer Balkcom"
   - "People/State/Jennifer Balkcom"

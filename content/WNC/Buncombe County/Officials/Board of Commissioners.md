@@ -1,6 +1,6 @@
 ---
 title: Buncombe County Board of Commissioners
-description: The seven people who fund the sheriff's network, what each has said about it (almost nothing), and the two seats on the November ballot.
+description: "The seven commissioners who approve the budget that funds the sheriff's network, what each has said about it on the record, and the two seats on the November 3, 2026 ballot."
 aliases:
   - "People/Buncombe/Board of Commissioners"
 ---

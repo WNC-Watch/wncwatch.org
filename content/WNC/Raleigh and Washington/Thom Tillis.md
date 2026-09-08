@@ -1,6 +1,6 @@
 ---
 title: Thom Tillis
-description: Retiring U.S. Senator who labeled Buncombe a "sanctuary jurisdiction" in 2025 and picked a public fight with the sheriff who built the county's camera network.
+description: "U.S. Senator, retiring in January 2027. In 2025 described Buncombe County as a \"sanctuary jurisdiction\" in a public exchange with Sheriff Miller."
 aliases:
   - "People/State/Thom Tillis"
 ---

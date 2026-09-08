@@ -1,6 +1,6 @@
 ---
 title: Todd Williams
-description: Buncombe County District Attorney since 2014; his April 2025 letter, read into the record at the vote, rested on an assurance he said he had received. Leaves office December 31.
+description: "Buncombe County District Attorney since 2014, leaving office December 31, 2026. His letter of April 30, 2026, read into the record at the May 12 vote, states that he had been assured the system could not be used for immigration enforcement."
 aliases:
   - "People/Buncombe/Todd Williams"
 ---

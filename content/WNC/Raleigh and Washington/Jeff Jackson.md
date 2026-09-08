@@ -1,6 +1,6 @@
 ---
 title: "Jeff Jackson"
-description: "Attorney General; no public statement found on plate readers, Flock, data sharing, or the summer's misuse prosecutions, which the SBI brought. A correction: no \"Jackson letter\" was read at Asheville's vote."
+description: "North Carolina Attorney General. No public statement on plate readers, Flock, or data sharing found as of Aug 22, 2026; the summer 2026 misuse charges were brought on SBI affidavits. No letter from him was read at Asheville's May 12, 2026 vote."
 aliases:
   - "People/State/Jeff Jackson"
 ---

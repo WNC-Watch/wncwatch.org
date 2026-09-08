@@ -1,6 +1,6 @@
 ---
 title: Chuck Edwards
-description: The congressman who earmarked the RTIC's $1.14 million; his signed justification is one sentence, the request doubled without explanation, and he went silent when Asheville pushed back. In office through January 2027.
+description: "U.S. Representative, NC-11, through January 2027. Signed the request for the RTIC's earmark on May 22, 2024; the FY2025 request was $529,692 and the funded FY2026 earmark $1.14 million. No statement on the RTIC since the April 2026 debate has been found."
 aliases:
   - "People/Chuck Edwards"
   - "People/State/Chuck Edwards"

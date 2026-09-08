@@ -1,6 +1,6 @@
 ---
 title: Buncombe County Board of Education
-description: The board that controls when deputies get the school cameras, has never voted on it in public, and has three seats on the November ballot.
+description: "The board whose agreement gives deputies access to the school cameras. No public vote on the agreement is on the record. Three seats are on the November 3, 2026 ballot."
 aliases:
   - "People/Buncombe/Board of Education"
 ---

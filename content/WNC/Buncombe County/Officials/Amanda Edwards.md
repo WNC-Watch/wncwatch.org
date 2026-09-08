@@ -1,6 +1,6 @@
 ---
 title: Amanda Edwards
-description: Chair of the Buncombe County Board of Commissioners, the body that funds the sheriff's 2,000-camera network and has not questioned it on the record since 2022.
+description: "Chair of the Buncombe County Board of Commissioners since December 2024, a commissioner before that. The board approves the budget that funds the sheriff's Fusus network; its meeting record since 2022 shows no discussion of the network."
 aliases:
   - "People/Buncombe/Amanda Edwards"
 ---

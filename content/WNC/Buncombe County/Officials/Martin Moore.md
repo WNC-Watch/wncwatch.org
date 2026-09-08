@@ -1,6 +1,6 @@
 ---
 title: Martin Moore
-description: Effectively incoming Buncombe County DA (no Republican filed), the prosecutor who will decide what RTIC evidence looks like in court.
+description: "Buncombe County Commissioner and Democratic nominee for District Attorney; no Republican filed. Would take office as DA in January 2027."
 aliases:
   - "People/Martin Moore"
   - "People/Buncombe/Martin Moore"

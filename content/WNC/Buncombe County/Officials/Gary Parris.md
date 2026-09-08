@@ -1,6 +1,6 @@
 ---
 title: Gary Parris
-description: Republican challenger for Buncombe County Sheriff. No public position on the Fusus network he'd inherit.
+description: "Republican nominee for Buncombe County Sheriff, November 3, 2026, against Sheriff Quentin Miller. No public statement on the Fusus network found as of Aug 17, 2026."
 aliases:
   - "People/Gary Parris"
   - "People/Buncombe/Gary Parris"

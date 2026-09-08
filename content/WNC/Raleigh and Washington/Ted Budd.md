@@ -1,6 +1,6 @@
 ---
 title: Ted Budd
-description: U.S. Senator through 2029; co-sponsored the Laken Riley Act and anti-sanctuary legislation; no statement found on plate readers or the technology his colleagues fund.
+description: "U.S. Senator through January 2029. Co-sponsored the Laken Riley Act and anti-sanctuary legislation; no statement on plate readers found as of Aug 22, 2026."
 aliases:
   - "People/State/Ted Budd"
 ---
