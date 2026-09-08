@@ -1,6 +1,6 @@
 ---
 title: Briefings
-description: "Long-form explainers that teach one idea properly: what a camera network actually is, what a safety culture looks like, what a good policy contains, and how the sales motion works. Written to be useful in any WNC town, before its decision."
+description: "Long-form explainers, one idea per page: how camera networks share data, the companies' safety record, what a policy contains, how the systems are sold. Written for any WNC town before its decision."
 aliases:
   - "The System/index"
 ---

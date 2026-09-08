@@ -1,6 +1,6 @@
 ---
-title: WNC and NC
-description: What our neighbors are doing about surveillance, county by county, including the ones who removed it.
+title: "Western North Carolina and the state"
+description: "The regional overview: where each county's data goes, which sheriffs hold ICE agreements, and what each county has decided, with the state layer above them."
 aliases:
   - "WNC and NC"
 ---

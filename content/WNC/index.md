@@ -1,14 +1,14 @@
 ---
 title: Western North Carolina
-description: Twelve community deep-dives, from Asheville's own timeline to Macon's win to Henderson's 2,048-agency sharing list, plus the state laws every county runs under.
+description: "Twelve communities, one page each, with where each stands, its systems by vendor, its officials, and its next dates; plus the state laws every county runs under."
 aliases:
   - "People/WNC/index"
   - "People/index"
 ---
 
-The cameras do not stop at the city line. The county's network came first, the neighbors share into the same pools, and the state now compels what local officials once chose. Start with the overview, then the county you live in.
+Twelve communities, one page each. The sheriffs' networks share data with each other and with agencies nationwide, and state law sets some of the terms. Start with the overview, then the county you live in.
 
-- **[[WNC and NC]]**: The regional overview: where the data goes, who has signed with ICE, and what each county has decided.
+- **[[WNC and NC|Western North Carolina and the state]]**: The regional overview: where the data goes, who has signed with ICE, and what each county has decided.
 - **[[What the Law Lets the County Do]]**: Who can say no to a sheriff's cameras, what the state now compels on immigration, where the data is allowed to go, and the levers that remain.
 
 ## The counties

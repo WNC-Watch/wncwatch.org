@@ -64,4 +64,4 @@ Madison has no Flock transparency portal and refuses records requests, but the S
 - Whether the county's paper of record (News-Record & Sentinel) ever covers the fight; it hasn't yet, a notable silence.
 - Marshall, Mars Hill, and Hot Springs each have mapped Flock cameras (likely the county's); none of the three town boards publishes meeting video at all.
 
-*Related: [[WNC and NC]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] (Asheville's version of process avoidance) · [[Getting Flock Out]]*
+*Related: [[WNC and NC|Western North Carolina and the state]] · [[The Check-In Meetings|The pre-meeting check-in sessions]] (Asheville's version of process avoidance) · [[Getting Flock Out]]*

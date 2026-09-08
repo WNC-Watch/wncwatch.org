@@ -10,7 +10,7 @@ aliases:
 
 ## Surveillance record
 
-Castle spoke against the cameras at public comment before the July 2026 vote, reminding commissioners of their oath: "Surely you can see the potential for abuse, not just locally but by anyone who is capable of gaining access to this data." ([Smoky Mountain News](https://smokymountainnews.com/news/item/40906-macon-republican-primary-candidates-address-issues-ahead-of-election-day)) If elected he would be the first commissioner in Western North Carolina to have run explicitly against plate readers ([[WNC/Macon County/index|Macon County]] · [[WNC and NC]]).
+Castle spoke against the cameras at public comment before the July 2026 vote, reminding commissioners of their oath: "Surely you can see the potential for abuse, not just locally but by anyone who is capable of gaining access to this data." ([Smoky Mountain News](https://smokymountainnews.com/news/item/40906-macon-republican-primary-candidates-address-issues-ahead-of-election-day)) If elected he would be the first commissioner in Western North Carolina to have run explicitly against plate readers ([[WNC/Macon County/index|Macon County]] · [[WNC and NC|Western North Carolina and the state]]).
 
 ## The question for him
 

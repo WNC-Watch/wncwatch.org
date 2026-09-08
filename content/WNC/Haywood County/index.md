@@ -61,4 +61,4 @@ Whoever wins in November inherits the cameras: **Mark Mease (R)** vs **Tyler How
 
 County commission video: [Haywood County, NC Government on YouTube](https://www.youtube.com/@HaywoodCountyGovernment), captioned, with [agendas](https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos). No organized local opposition exists yet, and no renewal or budget decision is currently scheduled, which means the next natural pressure point is the **FY28 budget cycle (spring 2027)** and any candidate willing to ask why a mass-surveillance network never received a vote.
 
-*Related: [[WNC and NC]] · [[Getting Flock Out]]*
+*Related: [[WNC and NC|Western North Carolina and the state]] · [[Getting Flock Out]]*

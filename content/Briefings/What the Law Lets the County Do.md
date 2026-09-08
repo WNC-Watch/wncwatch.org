@@ -87,4 +87,4 @@ The 1,500 school cameras on the county network joined through a 2021 memorandum 
 - Whether camera location lists are "sensitive public security information."
 - Whether a governing board may decline to appropriate for a multi-year contract it has already entered, given that G.S. 153A-13 and 160A-17 say the board "shall appropriate" in each ensuing year, and how that squares with the non-appropriation clause in every vendor contract.
 
-*Related: [[WNC/Buncombe County/index|Buncombe County]] · [[WNC and NC]] · [[Records Center]] · [[Promise Tracker]] · [[Who Gets Watched]]*
+*Related: [[WNC/Buncombe County/index|Buncombe County]] · [[WNC and NC|Western North Carolina and the state]] · [[Records Center]] · [[Promise Tracker]] · [[Who Gets Watched]]*

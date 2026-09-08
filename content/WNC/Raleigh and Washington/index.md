@@ -19,4 +19,4 @@ The laws themselves, with text, are on [[What the Law Lets the County Do]]. Thes
 
 **[[WNC Legislators]]**: every WNC senator and representative's roll call on HB 10, HB 318, SB 153, and the budget that made highway plate readers permanent, with links to the transcripts, and who is on the November ballot (Moffitt and Corbin co-sponsored SB 153; Clampitt died in March; Pless lost his primary; Balkcom's House seat is open).
 
-*Related: [[What the Law Lets the County Do]] · [[WNC and NC]]*
+*Related: [[What the Law Lets the County Do]] · [[WNC and NC|Western North Carolina and the state]]*

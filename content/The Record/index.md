@@ -1,18 +1,18 @@
 ---
 title: The Record
-description: How surveillance was approved in Asheville, meeting by meeting, from the city's own video and documents. The timeline, the votes, the promises, the claims, and the people who showed up.
+description: "Asheville's meetings on cameras and the RTIC, reconstructed from the city's video and documents, with the timeline and the residents' public comment."
 ---
 
 This section is Asheville's own story, reconstructed from the city's videos, minutes, and released records. Start with the timeline; every entry on it links to a deeper page here.
 
 ## Start here
 
-- **[[Timeline]]**: What happened, when, with receipts. From the county's 2022 network to the August 25 vote.
-- **[[The People Who Showed Up]]**: 36 residents, nine meetings, all but one opposed. The community's arguments, verbatim and timestamped.
+- **[[Timeline]]**: Asheville's record from 2022 to the Aug 25, 2026 vote, each entry dated and sourced.
+- **[[The People Who Showed Up]]**: Residents' public comment across nine meetings, verbatim and timestamped.
 
 ## [[The Record/Meetings/index|The meetings]], minute by minute
 
-- **[[2026-08-25 City Council|Aug 25, 2026: Asheville City Council, Flock termination vote]]**: Council voted 5-2 to terminate the city's Flock contract; a motion to pause buying any new plate readers during the city's own review failed because no one would second it.
+- **[[2026-08-25 City Council|Aug 25, 2026: Asheville City Council, Flock termination vote]]**: Council voted 5 to 2 to terminate the city's Flock contract; a motion to pause buying any new plate readers during the city's own review failed because no one would second it.
 - **[[2026-08-20 Agenda Briefing|Aug 20, 2026: Asheville City Council agenda briefing, Flock termination resolution]]**: Flock's new 10-camera minimum kills the one-camera plan; the chief's memo says Axon plate readers are "expanding."
 - **[[2026-05-12 City Council|May 12, 2026: Asheville City Council, RTIC grant and Axon contract vote]]**: The 6 to 1 vote, reconstructed from the city's own video; 21 signed-up residents sent home unheard.
 - **[[2026-05-07 Agenda Briefing|May 7, 2026: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days out, the Axon contract isn't written, and "one camera" is explained as a network subscription.
