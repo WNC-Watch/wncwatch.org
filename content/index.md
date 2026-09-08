@@ -107,7 +107,7 @@ Or go straight to **[[Browse Everything]]**: every page, on one list.
 
 ## Use this site as your notebook
 
-This is built to be a working tool, not just a story. For anyone who wants to go deeper than a headline:
+This site is built to be used. For anyone who wants to go deeper than a headline:
 
 - **Verify anything yourself.** Every quote links a timestamp in the city's own videos; every document links its source. If we say someone said it, you can watch them say it.
 - **[[Records Center|File a records request]].** Seventeen pre-written requests, with the exact filing portals, that would answer this site's open questions. A refusal is an answer too.
@@ -129,6 +129,6 @@ This is built to be a working tool, not just a story. For anyone who wants to go
 
 We watched the May 12 meeting live, and it bothered us how hard the process made it for residents to know about the decision, comment on it, or shape it. The RTIC is expected fully operational by **summer 2027**; the contract runs to **2033**; the oversight that matters (the audits, the policies, the promises about ICE and facial recognition, who gets hired to run it) is being decided *now*, in the years when attention usually fades. We wanted one place where a neighbor could understand the whole thing in ten minutes, check every fact behind it, and find a next step that fits them.
 
-The record keeps showing the same thing: communities can tell the difference between a tool they control and a network they don't, the moment someone shows them the documents. When <a href="./Companies/The-National-Wave">a Super Bowl ad showed Ring owners</a> what their own doorbell cameras could become on a shared network, the backlash was immediate and Amazon canceled Ring's partnership with Flock within days; people hadn't turned against the camera they chose, they had turned against a network they couldn't control. You don't have to share our view for this site to be useful. At a bare minimum, know what's happening, know where the critical points of oversight sit (the audits, the contracts, the appointments, the votes), and know that at this phase of the rollout, communities still decide their own future together. That's true whichever way you'd steer it.
+The record keeps showing the same thing: communities can tell the difference between a tool they control and a network they don't, the moment someone shows them the documents. When <a href="./Companies/The-National-Wave">a Super Bowl ad showed Ring owners</a> what their own doorbell cameras could become on a shared network, the backlash was immediate and Amazon canceled Ring's partnership with Flock within days; people hadn't turned against the camera they chose, they had turned against a network they couldn't control. You don't have to share our view for this site to be useful. At a bare minimum, know what's happening, know where the critical points of oversight sit (the audits, the contracts, the appointments, the votes), and know that at this phase of the rollout, communities still decide their own future together.
 
 This is a living workbook: it updates as meetings happen, records surface, and promises get tested.
