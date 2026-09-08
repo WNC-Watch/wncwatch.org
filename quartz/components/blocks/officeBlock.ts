@@ -89,9 +89,9 @@ export const OfficeBlock: BodyBlock = {
     }
     return el(
       "dl",
-      { className: ["office"] },
+      { className: ["block", "office"] },
       rows.map((r) =>
-        el("div", { className: ["office-row"] }, [
+        el("div", { className: ["block-row"] }, [
           el("dt", {}, [{ type: "text", value: r.label } as Text]),
           el("dd", {}, r.value),
         ]),

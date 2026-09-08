@@ -24,7 +24,7 @@ function el(tagName: string, properties: Record<string, unknown>, children: Elem
   return { type: "element", tagName, properties, children }
 }
 function row(label: string, value: ElementContent[]): Element {
-  return el("div", { className: ["lead-row"] }, [el("span", { className: ["lead-k"] }, [text(label)]), ...value])
+  return el("div", { className: ["block-row"] }, [el("dt", {}, [text(label)]), el("dd", {}, value)])
 }
 
 function nextLine(item: CalendarItem, today: string): Element {
@@ -78,10 +78,10 @@ export const AreaLead: BodyBlock = {
           if (links.length > 0) links.push(text(" · "))
           links.push(el("a", { href: resolveRelative(fileData.slug!, f.slug!), className: ["internal"] }, [text(f.frontmatter?.title ?? target)]))
         }
-        if (links.length > 0) children.push(text(" "), el("span", { className: ["lead-links"] }, links))
+        if (links.length > 0) children.push(el("span", { className: ["block-links"] }, links))
         if (children.length > 0) lines.push(el("li", {}, children))
       }
-      if (lines.length > 0) rows.push(row(LABELS.system, [el("ul", {}, lines)]))
+      if (lines.length > 0) rows.push(row(LABELS.system, [el("ul", { className: ["block-list"] }, lines)]))
     } else {
       const system = typeof fm.system === "string" ? fm.system.trim() : ""
       if (system) rows.push(row(LABELS.system, [text(system)]))
@@ -93,9 +93,9 @@ export const AreaLead: BodyBlock = {
     const next = items
       .filter((it) => it.page && it.page.replace(/-/g, " ") === pageKey && it.date >= today)
       .slice(0, MAX_NEXT)
-    if (next.length > 0) rows.push(row(LABELS.next, [el("ul", {}, next.map((it) => nextLine(it, today)))]))
+    if (next.length > 0) rows.push(row(LABELS.next, [el("ul", { className: ["block-list"] }, next.map((it) => nextLine(it, today)))]))
 
     if (rows.length === 0) return null
-    return el("div", { className: ["area-lead"] }, rows)
+    return el("dl", { className: ["block", "area-lead"] }, rows)
   },
 }
