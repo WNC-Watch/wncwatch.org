@@ -19,7 +19,7 @@ To be precise about what this was: the cameras were left publicly accessible, no
 
 **The devices themselves are fragile.** In a November 2025 investigation with security researcher Jon Gaines, Jordan demonstrated gaining root access to a Flock camera in seconds through a physical button sequence, and documented that the units ran a discontinued version of Android with hundreds of known vulnerabilities. He has said the two of them catalogued more than 70 vulnerabilities across the ecosystem ([Privacy Guides](https://www.privacyguides.org/news/2025/11/17/ben-jordan-exposes-severe-security-vulnerabilities-in-flock-surveillance-cameras/)). This is a single research team's account rather than an independent audit, but it is specific, on the record, and was met with a Flock response rather than a denial that it happened.
 
-**Their own effectiveness numbers come from the company.** Jordan's reporting notes that Flock's widely repeated claim about solving a share of crime traces to a paper written by Flock employees, and that crime fell nationally in places with and without the cameras. That's the same problem this site documents in Asheville, where the crime figures used to sell the [[What Is the RTIC|RTIC]] [[Their Claims vs The Record|shifted and didn't hold up]].
+**Their own effectiveness numbers come from the company.** Jordan's reporting notes that Flock's widely repeated claim about solving a share of crime traces to a paper written by Flock employees, and that crime fell nationally in places with and without the cameras. That's the same problem this site documents in Asheville, where the crime figures used to sell the [[What Is the RTIC|RTIC]] [[Their Claims vs The Record|Asheville's RTIC claims and the record]].
 
 ## What he says about home cameras
 
@@ -41,6 +41,6 @@ This is contested (the security-camera industry publication IPVM published a reb
 
 *A note on accuracy: this page describes Jordan's findings as he and independent outlets reported them. The exposed Condor cameras were reachable on the open internet, not broken into. His plate-reader "defense sticker" is a demonstrated proof-of-concept against the software, not a proven or necessarily legal street countermeasure. We found no recording of his Asheville Q&A, so nothing here attributes an Asheville-RTIC-specific statement to him.*
 
-*Related: [[Before You Plug In]] · [[The National Wave]] · [[Get Involved]] · [[Their Claims vs The Record|The Claims, Checked]]*
+*Related: [[Before You Plug In]] · [[The National Wave]] · [[Get Involved]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]]*
 
 *Region: Community · Last updated: Aug 17, 2026*

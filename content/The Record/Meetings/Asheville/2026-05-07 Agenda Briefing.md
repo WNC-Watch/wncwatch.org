@@ -16,7 +16,7 @@ Five days before the [[2026-05-12 City Council|May 12 vote]], council held its a
 
 City Attorney Branham then confirmed what the paper trail actually was [(35:53)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2153s): "we have utilized what's called **purchase orders**... in terms of any additional agreements, **there are none**. The additional agreements are essentially purchase orders, **which don't further define terms**." Years of Axon equipment, running on Sourcewell pass-throughs and purchase orders defining nothing.
 
-So the May 12 vote authorized the city manager to sign a contract that had not been written. Council could not have read the final terms; neither could the public. When the [[Their Claims vs The Record|"we own the data" claims]] were made, the paper that would decide ownership didn't exist.
+So the May 12 vote authorized the city manager to sign a contract that had not been written. Council could not have read the final terms; neither could the public. When the [[Their Claims vs The Record|Asheville's RTIC claims and the record]] were made, the paper that would decide ownership didn't exist.
 
 **And the paper that did exist was hidden in plain sight.** Roney noted a colleague had already had to share one of the contracts with the public themselves, and asked how a resident would even find them [(37:00)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2220s). Answer: buried under "final agenda documents" from the April 28 meeting, a location so obscure that [[Sage Turner]] responded, "Yeah, **I don't think I knew that either**." [(40:39)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2439s) Sitting councilmembers, five days out, learning where the operative documents were.
 
@@ -40,4 +40,4 @@ This briefing is also the origin of the "civil liberties resolution" that would 
 
 *A note on sourcing: quotes are cleaned from the city's unlabeled auto-captions; speaker attributions are contextual. Timestamps link to the moment so you can verify every word.*
 
-*Related: [[2026-05-12 City Council]] · [[2026-04-28 Work Session]] · [[Getting Flock Out]] · [[Their Claims vs The Record|The Claims, Checked]] · [[Timeline]] · [[Bo Hess]]*
+*Related: [[2026-05-12 City Council]] · [[2026-04-28 Work Session]] · [[Getting Flock Out]] · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Timeline]] · [[Bo Hess]]*

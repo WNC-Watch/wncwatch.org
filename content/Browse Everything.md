@@ -34,7 +34,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Drew Ball]]**: Sitting county commissioner running for city council. No public position on the RTIC.
 - **[[Ella Santos]]**: Asheville Housing Authority President and CEO since 2025; under her, the board heard that a HACA staffer will sit on the RTIC's policy board, and asked nothing.
 - **[[Esther Manheimer]]**: Mayor since 2013; presided over every stage of the RTIC's approval, then called for Flock termination on Aug 19, 2026. Her record of pressure-responsive statements, checked against outcomes. Seeking a fourth term.
-- **[[Jackie Stepp]]**: The interim police chief who sold the RTIC; her entire council argument, claim by claim, against the documented record. Nine months interim and counting; the permanent pick is one unelected official's call.
+- **[[Jackie Stepp]]**: Asheville's interim police chief since November 2025. Presented the Real-Time Intelligence Center to council at five meetings, convened the policy workgroup that wrote its governing policy, and wrote the Aug 14, 2026 memo on Flock and Axon. The permanent chief is the city manager's decision, expected in September 2026.
 - **[[Jeffrey Burroughs]]**: Jeweler and River Arts District Artists president running for council. No public position on the RTIC.
 - **[[Jimmy Wingo]]**: APD's civilian Law Enforcement Technology Manager, the single approval gate for outside-agency data requests, the man who explained the Ring-camera integration tiers, and the voice of every "the audits are fine" assurance.
 - **[[Keith Young]]**: Former council member seeking a return; the only council candidate with any data-privacy language on record.
@@ -46,11 +46,11 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Asheville/Record/index|Record]]
 
+- **[[Their Claims vs The Record|Asheville's RTIC claims and the record]]**: Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it.
 - **[[Watching the Poor|Cameras in Public Housing]]**: Police-integrated cameras in public housing. The national record of camera footage in eviction cases, the ~500 cameras already on Asheville's housing communities, and the notice and consent records that have not been published.
 - **[[The Check-In Meetings|Council's Private Check-Ins]]**: How Asheville council business gets discussed in private groups of three (legally sized to dodge the open meetings law), and why the RTIC's smooth 6–1 votes should be read in that light.
 - **[[Follow the Money]]**: The BID, the TDA, and the surveillance buildout. Three separate money streams, one downtown coalition, and the same 6–1 votes. What's documented, and what isn't.
 - **[[Promise Tracker]]**: Every commitment APD and the city made to get the RTIC approved, tracked to 2033.
-- **[[Their Claims vs The Record|The Claims, Checked]]**: Every claim used to sell the RTIC (quoted exactly, sourced) paired with the documented record that answers it.
 - **[[The Constitutionality Memo]]**: The city attorney memo circulated the night before the Flock vote, what it says, and what it leaves out: the appeal pending in North Carolina's own federal circuit and the Supreme Court's newest location-privacy ruling.
 - **[[Oversight Theater|The Oversight Record]]**: Thirty-five years of Asheville residents asking for police oversight, and what was actually delivered each time. Why the enforcement mechanism, not the promise, is the thing to check.
 - **[[The People Who Showed Up]]**: The residents who stood at the podium and told council no: their best arguments, in their own words, on the public record.

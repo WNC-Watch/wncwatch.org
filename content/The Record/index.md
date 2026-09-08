@@ -24,7 +24,7 @@ This section is Asheville's own story, reconstructed from the city's videos, min
 
 - **[[The RTIC Policy]]**: The released rulebook: what Policy 1703 says, what disappeared between drafts, the private workgroup that wrote it, and the Axon contract emails.
 - **[[Promise Tracker]]**: What APD promised on the record, and whether it holds.
-- **[[Their Claims vs The Record|Their Claims vs. The Record]]**: Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
+- **[[Their Claims vs The Record|Asheville's RTIC claims and the record]]**: Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
 - **[[The Committee|The Public Safety Committee]]**: Every recorded meeting reviewed: zero RTIC oversight, and the one meeting that touched it has no recording.
 - **[[The Check-In Meetings|Council's Private Check-Ins]]**: The three-by-three meetings where council business gets decided before the public sees it.
 - **[[Oversight Theater|The Oversight Record]]**: Thirty-five years of oversight promises in Asheville, what was delivered each time, and the state-law ceiling that shaped it.

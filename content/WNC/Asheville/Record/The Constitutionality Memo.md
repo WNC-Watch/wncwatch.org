@@ -41,4 +41,4 @@ The three pages as shared publicly by Council member Turner:
 
 A full transcription is retained in our records. The memo reached the public because a council member chose to share it.
 
-*See also: [[Getting Flock Out]] (the resolution, scored against a real exit) · [[Their Claims vs The Record|The Claims, Checked]] · [[Companies/The Abuse Record|The abuse record]]*
+*See also: [[Getting Flock Out]] (the resolution, scored against a real exit) · [[Their Claims vs The Record|Asheville's RTIC claims and the record]] · [[Companies/The Abuse Record|The abuse record]]*

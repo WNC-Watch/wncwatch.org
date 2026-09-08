@@ -1,13 +1,13 @@
 ---
-title: The RTIC claims and the record
-description: "The statements made for Asheville's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it."
+title: "Asheville's RTIC claims and the record"
+description: "Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it."
 aliases:
   - "Their Claims vs The Record"
   - "Their Claims vs. The Record"
   - "The Record/Their Claims vs The Record"
 ---
 
-The [[What Is the RTIC|RTIC]] was presented to council and the public with specific statements. This page holds each statement, quoted from the cited source, beside the dated facts in the record that bear on it. Where a fact is a document, the document is linked; where it is an absence, the date it was looked for is given. The statements and the facts sit side by side so a resident can read both before a meeting.
+This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligence Center]], approved by Asheville City Council on May 12, 2026, and the statements made for it by Asheville police officials, council members, the mayor, and the vendors, at council and in local press. Each statement is held, quoted from the cited source, beside the dated facts in the record that bear on it. Where a fact is a document, the document is linked; where it is an absence, the date it was looked for is given. The statements and the facts sit side by side so a resident can read both before a meeting.
 
 ## Crime clearance and the Hillcrest case
 
@@ -120,3 +120,5 @@ When citing these figures, name the jurisdiction (the Sheriff's Office slice, th
 The six statements Axon and Flock representatives made at the [[2026-04-28 Work Session|April 28, 2026 work session]] (the immigration filter, APD's control of its data, mandatory search reasons, quarterly audits, city data ownership, no facial recognition) are set beside the record in the [CAMS and Sunshine Labs one-pager](https://www.sunshinelabs.org/wp-content/uploads/2026/05/Asheville-RTIC-%E2%80%93-1-Pager.pdf). In the same season, researchers gained root access to a Flock camera in 30 seconds, about 70 cameras were found streaming openly, and members of Congress asked the FTC to investigate ([[Flock Safety]]). Vendor statements in other cities that were later contradicted on the record are on [[How Cities Won]] (Sedona, Oshkosh, Evanston).
 
 *Related: [[Promise Tracker]] · [[The Abuse Record]] · [[Claims Library]] · [[Documents]]*
+
+*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*
