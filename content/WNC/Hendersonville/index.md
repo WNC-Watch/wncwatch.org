@@ -5,6 +5,7 @@ standing: "contested; chief presented Sept 3, no vote"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
+    kind: future
     detail: "16 city cameras, 15 of them plate readers, about $45,000 a year, up since 2024. Portal read Aug 22, 2026: 373,294 vehicles in 30 days, 83 searches, 4,703 hot-list hits. Retention 7 days per the chief, Sept 3, 2026. The contract is not posted."
     links:
       - "WNC/Hendersonville/Officials/Blair Myhand"

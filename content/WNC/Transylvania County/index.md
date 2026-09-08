@@ -7,10 +7,12 @@ standing: "deciding; documents posted, question session held Sept 1"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
+    kind: expand
     detail: "The sheriff's office began installing 8 cameras in August 2024 with no commission vote found; DeFlock maps about 13 countywide and a commissioner put the number at about 14 on Aug 24, 2026. No transparency portal or published policy."
     links:
       - "WNC/Transylvania County/Officials/Chuck Owenby"
   - vendor: "Axon"
+    kind: future
     detail: "Offered to Brevard: 3 fixed plate readers at no charge inside a five-year, ~$80,000 package of tasers and body cameras, plus monthly data-storage fees. The draft policy and contract are posted; council votes Sept 8, 2026."
     links:
       - "Companies/What Axon Contracts Do"

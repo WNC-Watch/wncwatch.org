@@ -7,6 +7,7 @@ standing: "under public review"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
+    kind: future
     detail: "4 sheriff's cameras on a five-year, $55,000-plus contract from 2024: 1.19 million reads a month against 563 searches, shared with 280 in-state agencies."
     links:
       - "Companies/Flock Safety"
