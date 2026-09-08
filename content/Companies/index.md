@@ -1,6 +1,8 @@
 ---
 title: The Vendors
 description: The two companies behind Asheville's surveillance buildout, what they sell, who runs them, and the dated record of what their products have done elsewhere.
+aliases:
+  - "The Wider Fight/index"
 ---
 
 Asheville's fight has been argued as if the choice were cameras or no cameras. The choice on the table is between two companies, and the city's exit from one is its deeper commitment to the other.
@@ -14,4 +16,4 @@ Asheville's fight has been argued as if the choice were cameras or no cameras. T
 
 **[[What Axon Contracts Do]]**: what the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default. **[[The Flockbook]]**: Flock's leaked script for selling councils on cameras, laid beside what Asheville officials actually said.
 
-The national cancellations are on [[The National Wave]]; what the data becomes is on [[What They Can Actually Learn About You]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock), on [[People/Companies/index|The Vendors' Executives]].
+The national cancellations are on [[The National Wave]]; what the data becomes is on [[What They Can Actually Learn About You]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock), on [[Companies/People/index|The Vendors' Executives]].

@@ -1,0 +1,40 @@
+---
+title: Sage Turner
+description: Voted yes on the RTIC, and is now on record that a condition of her vote, removal of the city's Flock cameras, hasn't been honored. Not on the ballot until 2028.
+aliases:
+  - "People/Sage Turner"
+  - "People/Asheville/Sage Turner"
+---
+
+**Title:** City Council member · finance & project management background
+**In this role since:** Dec 2020 (elected Nov 2020; re-elected Nov 2024)
+**Current term ends:** Dec 2028
+**Next voter decision:** not on a ballot until Nov 2028 · [[Election 2026]]
+
+## Surveillance record
+
+Voted yes through the buildout: the 2023 Fusus interlocal, the 2025 grant votes, and both [[What Is the RTIC|RTIC]] items on May 12, 2026 (each passed 6–1, [[Kim Roney|Roney]] the sole no; [[2026-05-12 City Council|confirmed on the city's own video]]).
+
+## The broken condition, in her own words
+
+Turner is the first member of the May 12 majority to publicly document that the deal she voted for isn't the deal being delivered. From her public Facebook page ([Aug 12, 2026, updated Aug 17](https://www.facebook.com/sageforasheville/posts/1390155866614419/)): she supported the [[What Axon Contracts Do|Axon contract]] **"with conditions: the Flock contract would end and all city-owned Flock cameras would be removed,"** stating plainly, **"I do not support the City of Asheville maintaining and using Flock cameras."** Her August 17 update: **"It is now clear the Flock cameras owned by the City of Asheville remain up."**
+
+Her posts add two important details: she describes the "keep one camera" idea as a wind-down device (ride out the contract "through February" with the camera pointed "at a wall"), and her August 13 update said **the complete Axon contract would be made public the next day** (whether that release happened is being verified). The wall-camera plan has a technical problem she may not have been told: [[Getting Flock Out|one active Flock camera retains the agency's full national search access]]: the risk isn't the camera on the pole; it's the search account, which stays active.
+
+Track this at [[Promise Tracker|Promise Tracker row 11]]. It matters for two reasons: it's documented proof that conditions attached to the RTIC votes are not self-enforcing, and it makes Turner the natural second vote for putting conditions **in writing, by ordinance**. The complete four-part exit motion is drafted and waiting at [[Getting Flock Out]].
+
+**And it moved something.** Two days after her August 17 "calling my colleagues" update, [[Esther Manheimer|the mayor]] called for a vote at the August 25 meeting to terminate the Flock contract and remove the cameras ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). Whatever else drove the timing, the sequence on the record is: Turner documents the broken condition publicly, then the termination vote appears. The condition she attached in May gets its enforcement vote only after she went public in August.
+
+At the [[2026-08-20 Agenda Briefing|August 20 briefing]] (attribution confirmed by watching the video; captions don't label speakers) she said the most consequential unclaimed sentence of the meeting: "I'm not interested in canceling the Axon contract for body cams or dash cams... I did reach out to legal, I did learn Axon has ALPRs... **maybe that's a part of the contract we wish wasn't there**." A member of the May 12 majority, on the record that the plate-reader component of the [[What Axon Contracts Do|Axon contract]] she voted for may be unwanted. That is the natural seed of [[Getting Flock Out|demand 7]], a separate public vote before any fixed Axon plate reader goes up, and it makes her the member to hand that motion to: her Flock condition proved conditions need enforcement; her Axon question is the same instinct pointed at the replacement.
+
+## August 25: seconded, and reframed
+
+At the [[2026-08-25 City Council|termination vote]] she seconded [[Kim Roney|Roney's]] motion and voted yes, while reframing the resolution on the record: "Six of us already voted to cancel Flock, and this is [an] additional movement to speed up the process... I'm getting lots of questions about why I didn't support it, when I did. We all did." (The May 12 votes approved the Axon contract with her Flock-removal condition attached; the termination resolution exists because that condition went unenforced, a sequence her own posts documented above.) She also thanked APD "for not being one of those scary statistics... for maintaining this software while we had it under our purview, safely." She did not second the moratorium on new plate reader purchases; no member did.
+
+**Attribution note (Aug 26, 2026):** voice analysis of the [[2026-08-20 Agenda Briefing|Aug 20 briefing]] audio attributes this statement, previously credited to [[Maggie Ullman]], to Turner: "I was under the impression that 10 were coming down already and one would stay until February. I'm happy to move forward on just pulling them now, so long as we're not increasing safety risks." That reading fits the wind-down details in her own Facebook posts above. Correction logged on [[Updates|Site Updates]].
+
+## Questions for her
+
+Will she move to enforce her condition: a council motion setting a removal deadline for the city's Flock cameras? Would she support a feature-activation rule and published audits ([[Promise Tracker]])? Contact: sageturner@avlcouncil.com
+
+*Region: Asheville · Last updated: Aug 26, 2026*
