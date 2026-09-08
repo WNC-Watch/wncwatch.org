@@ -95,8 +95,13 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 #### [[WNC/Henderson County/Officials/index|Officials]]
 
 - **[[Bill Lapsley]]**: Henderson County Commission Chair; raised the cameras with the sheriff himself, never scheduled a vote, and is retiring. "Until we hear of some abuse... I don't see a problem."
-- **[[Blair Myhand]]**: Hendersonville Police Chief. Presented the city's 15 plate readers to council on Sept 3, 2026: seven-day retention, monthly audits, sharing with every NC agency and a 100-mile ring, and a seat on the IACP board that is writing the national model policy.
 - **[[Lowell Griffin]]**: Henderson County Sheriff since 2018; bought the county's Flock cameras with no commission vote, shares the data with 2,048 agencies, and runs WNC's only 287(g) jail program. Unopposed in November.
+
+### [[WNC/Hendersonville/index|Hendersonville]]
+
+#### [[WNC/Hendersonville/Officials/index|Officials]]
+
+- **[[Blair Myhand]]**: Hendersonville Police Chief. Presented the city's 15 plate readers to council on Sept 3, 2026: seven-day retention, monthly audits, sharing with every NC agency and a 100-mile ring, and a seat on the IACP board that is writing the national model policy.
 
 ### [[WNC/Jackson County/index|Jackson County]]
 
@@ -221,18 +226,6 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 - **[[Documents]]**: The primary sources. Official minutes, resolutions, staff reports, APD policies, and released records. Skip the summaries and read the originals.
 - **[[Sources]]**: Where this site's facts come from. Local reporting, primary documents, and national investigations.
-
-## People
-
-### Asheville
-
-### Buncombe
-
-### Community
-
-### Companies
-
-### State
 
 ## Other pages
 

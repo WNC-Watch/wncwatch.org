@@ -1,6 +1,6 @@
 ---
 title: Western North Carolina
-description: Eleven community deep-dives, from Asheville's own timeline to Macon's win to Henderson's 2,048-agency sharing list, plus the state laws every county runs under.
+description: Twelve community deep-dives, from Asheville's own timeline to Macon's win to Henderson's 2,048-agency sharing list, plus the state laws every county runs under.
 aliases:
   - "People/WNC/index"
   - "People/index"
@@ -18,6 +18,7 @@ The cameras do not stop at the city line. The county's network came first, the n
 | [[WNC/Asheville/index\|Asheville]] | The city's own timeline, as a regional case | [[WNC/Asheville/Officials/index\|Asheville]] |
 | [[WNC/Buncombe County/index\|Buncombe County]] | The sheriff's ~2,000-camera network, his own policies, the forfeiture money | [[WNC/Buncombe County/Officials/index\|Buncombe County]] |
 | [[WNC/Henderson County/index\|Henderson County]] | 13 Flock readers shared with 2,048 agencies; WNC's only 287(g) jail | [[Lowell Griffin]] |
+| [[WNC/Hendersonville/index\|Hendersonville]] | The city's 15 plate readers; the chief's Sept 3 presentation, timestamped; a $3,000,000 crime center in the adopted plan | [[Blair Myhand]] |
 | [[WNC/Haywood County/index\|Haywood County]] | Keeping its cameras after Macon left; an open sheriff's race | [[Mark Mease]] vs [[Tyler Howell]] |
 | [[WNC/Macon County/index\|Macon County]] | The 5 to 0 vote that ended Flock; 12 cameras down | [[Josh Young]], [[John Shearl]] |
 | [[WNC/Madison County/index\|Madison County]] | A moratorium fight and a sheriff's race | [[Buddy Harwood]] vs [[Robin Lyles]] |
