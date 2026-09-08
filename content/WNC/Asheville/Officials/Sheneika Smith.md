@@ -11,20 +11,21 @@ aliases:
 **Current term ends:** Dec 2026
 **Next voter decision:** **Nov 3, 2026**: seeking re-election, having advanced from the March 3 primary with ~6% ([BPR](https://www.bpr.org/2026-03-03/asheville-city-council-primary-all-incumbents-plus-ball-young-and-burroughs-move-forward)) · [[Election 2026]]
 
-## Surveillance record
+## Record on cameras and surveillance
 
-Voted yes through the buildout, including both [[What Is the RTIC|RTIC]] items on May 12, 2026 (each passed 6–1, [[Kim Roney|Roney]] the sole no; [[2026-05-12 City Council|confirmed on the city's own video]]).
-
-The detail that distinguishes her record: **in March 2025, Smith suggested a community forum on the surveillance hub before proceeding. The forum was never held**, and she voted to proceed anyway, both then and in May 2026. ([CAMS chronology](https://camsavl.org/rtic-funding-vote/)) She saw the need for a forum, didn't get one, and voted yes anyway; that's the question to ask her.
+- **March 25, 2025.** Suggested a community forum on the surveillance hub before proceeding, then voted for the first [[What Is the RTIC|RTIC]] grant; passed 6 to 1 ([CAMS chronology](https://camsavl.org/rtic-funding-vote/) · [[2025-03-25 City Council|the meeting record]]). No forum was held.
+- **May 12, 2026.** Voted for the RTIC grant and the Axon contract; each passed 6 to 1. [[2026-05-12 City Council|The meeting record]]. No public statement on the items before Aug 25, 2026 was found beyond the forum suggestion (checked through Aug 17, 2026).
+- **August 25, 2026.** Cast one of the two no votes on the Flock termination resolution, which passed 5 to 2: "the language is only to cancel, remove, evaluate, review. But what else? What do we do for people who feel vulnerable?... tonight I hear privacy over conviction, privacy over safety, privacy over justice." And: "the time of pause is life-threatening in a lot of situations... I haven't heard any resolutions. I haven't heard about replacements. What do we do?" [[2026-08-25 City Council|The meeting record]].
 
 ## In her words
 
-Through Aug 17, 2026: no substantive public statement on the RTIC found beyond the forum suggestion. That changed at the [[2026-08-25 City Council|August 25 meeting]], where she cast one of the two no votes on Flock termination and gave her reasoning at length: "the language is only to cancel, remove, evaluate, review. But what else? What do we do for people who feel vulnerable?... tonight I hear privacy over conviction, privacy over safety, privacy over justice." And pressing for a replacement plan: "the time of pause is life-threatening in a lot of situations... I haven't heard any resolutions. I haven't heard about replacements. What do we do?"
+- "What do we do for people who feel vulnerable?" (council, Aug 25, 2026)
+- "I haven't heard any resolutions. I haven't heard about replacements. What do we do?" (council, Aug 25, 2026)
 
-Her no was not a defense of Flock; it was an objection that removal came with no named substitute. The forum she proposed in March 2025 is the mechanism that would have surfaced exactly the community answers she said were missing.
+## What is pending with her
 
-## Questions she hasn't answered
+- The community forum she proposed on March 25, 2025. None has been held as of Sept 8, 2026.
+- Whether she supports releasing the executed [[What Axon Contracts Do|Axon contract]] and publishing the quarterly audits ([[Promise Tracker]]). As of Sept 8, 2026, no public position.
+- Her seat is on the Nov 3, 2026 ballot ([[Election 2026]]). Contact: sheneikasmith@avlcouncil.com.
 
-Why was the forum she proposed never held, and would she hold it now? Does she support releasing the [[What Axon Contracts Do|Axon contract]] and publishing the audits ([[Promise Tracker]])? Contact: sheneikasmith@avlcouncil.com · see [[Election 2026]].
-
-*Region: Asheville · Last updated: Aug 26, 2026*
+*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

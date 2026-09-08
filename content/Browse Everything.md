@@ -16,7 +16,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[WNC/index|Western North Carolina]]
 
-- **[[Western North Carolina and the State|Western North Carolina and the state]]**: The regional overview: where each county's data goes, which sheriffs hold ICE agreements, and what each county has decided, with the state layer above them.
+- **[[Western North Carolina and the State|Western North Carolina and the state]]**: Where each WNC community stands, the state plate-reader program and what state law requires, which sheriffs hold 287(g) agreements, and one county's data-sharing list.
 
 ### [[WNC/Asheville/index|Asheville]]
 
@@ -200,7 +200,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 ## [[Act/index|Act]]
 
 - **[[Claims Library]]**: Sourced, citable facts organized by use: public comment, petition, letter to council, op-ed.
-- **[[Election 2026]]**: Where each local candidate on the November 3, 2026 ballot stands on the camera networks: votes, statements, and where none has been found.
+- **[[Election 2026]]**: Where each candidate on the November 3, 2026 ballot stands on the camera networks: votes, statements, and the date a position was last looked for where none was found.
 - **[[Get Involved]]**: The groups organizing on surveillance in Asheville and WNC, and how to reach them.
 - **[[Getting Flock Out]]**: Council terminated Asheville's Flock contract Aug 25, 2026. The eight demands for a full exit, scored against the resolution as adopted, and what remains pending: the cameras down, APD's Flock accounts closed, the deletion notice, the Axon contract released.
 - **[[Records Center]]**: The public-records requests that would answer this site's open questions, pre-written and addressed to the custodian, with each request's status.
@@ -222,6 +222,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[Reference/index|Reference]]
 
+- **[[Corrections]]**: Every correction made to this site, dated, with the page corrected and what changed. Corrections are logged here and summarized on Site Updates.
 - **[[Documents]]**: The primary sources: minutes, resolutions, staff reports, APD policies, and released records.
 - **[[Sources]]**: Where this site's facts come from. Local reporting, primary documents, and national investigations.
 
