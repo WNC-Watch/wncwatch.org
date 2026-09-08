@@ -162,6 +162,15 @@
   li { margin: 0.35rem 0; }
 }
 
+// Office block: the field lines at the top of an official's page, one markup
+.office {
+  margin: 0 0 1.4rem;
+  .office-row { margin: 0.15rem 0; }
+  dt, dd { display: inline; margin: 0; }
+  dt { font-weight: 700; &::after { content: ":"; } }
+  dd { margin-left: 0.3rem; }
+}
+
 // Area hub, rendered from the tree by the AreaHub body block
 .area-hub {
   display: grid;
