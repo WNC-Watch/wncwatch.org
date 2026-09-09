@@ -17,6 +17,4 @@ Briefings differ from the rest of the site by what they are for. [[The Record/in
 - **[[How Camera Systems Get Sold to Towns]]**: the path a camera proposal travels to a council vote: the vendor's script, the outside money, the cooperative purchasing contract, the briefing venue, and the vote before the contract exists, each step documented.
 - **[[Briefings/What the Law Lets the County Do|What the Law Lets the County Do]]**: the North Carolina statutes that govern sheriffs, surveillance purchases, plate readers, and records, section by section, with the text linked so you can read it yourself. Written from Buncombe's example; the law is the same in every county.
 
-The next briefing is being written now and will be announced on [[Updates|Site Updates]] when it publishes: what a good camera policy actually contains, term by winnable term.
-
 Corrections welcome; these pages are meant to be checked.

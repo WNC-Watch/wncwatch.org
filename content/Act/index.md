@@ -10,7 +10,7 @@ Everything on this site points here. Pick the thing that fits the time you have.
 - **[[Getting Flock Out]]**: Asheville voted Aug 25 to end the Flock contract. What a full exit still requires: accounts closed, data deleted, the checklist scored item by item.
 
 - **[[Claims Library]]**: Citable, sourced facts for petitions, letters, and op-eds.
-- **[[Election 2026]]**: Where every candidate stands, including the ones staying silent. Early voting starts **Oct 15**.
+- **[[Election 2026]]**: Where each candidate on the Nov 3, 2026 ballot stands. Early voting begins <span data-cal="early-voting"></span>.
 - **[[Get Involved]]**: CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 
 *Who decides: the officials listed under each area of [[WNC/index|Western North Carolina]]. The primary sources: [[Reference/index|Reference]].*
