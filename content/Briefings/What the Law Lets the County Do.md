@@ -6,7 +6,7 @@ aliases:
   - "WNC/What the Law Lets the County Do"
 ---
 
-Asheville's council at least voted on its RTIC. The county network it plugs into, roughly 1,800 to 2,000 cameras and the plate readers run by the Buncombe County Sheriff's Office, has never had a vote that anyone can point to. That is not an accident of inattention; it is how North Carolina structures sheriffs. This page walks through the statutes, what they actually say, and where a resident, a commissioner, or a school board member can still pull a lever. We are not lawyers; every section cites the text so you can read it yourself, and the questions that need one are marked.
+Asheville's council at least voted on its RTIC. The county network it plugs into, roughly 1,800 to 2,000 cameras and the plate readers run by the Buncombe County Sheriff's Office, has never had a vote that anyone can point to. North Carolina law structures sheriffs' offices that way. This page walks through the statutes, what they actually say, and where a resident, a commissioner, or a school board member can still pull a lever. We are not lawyers; every section cites the text so you can read it yourself, and the questions that need one are marked.
 
 ## The sheriff is not a county department
 
