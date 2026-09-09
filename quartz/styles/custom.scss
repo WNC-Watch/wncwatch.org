@@ -408,3 +408,12 @@
 @media (max-width: 640px) {
   .avl-board table { font-size: 0.8rem; }
 }
+
+// verified footer: the dated line at the foot of a page, rendered from frontmatter
+.block.verified {
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  font-size: 0.9em;
+}

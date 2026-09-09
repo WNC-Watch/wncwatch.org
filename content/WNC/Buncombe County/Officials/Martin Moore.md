@@ -22,5 +22,3 @@ The outgoing DA, Todd Williams, **wrote a letter supporting the [[What Is the RT
 ## The question for him
 
 Will his office track and disclose RTIC/Flock involvement in prosecutions? What's his charging standard for cases built on plate-reader hits, given documented false-positive rates? See [[Election 2026]].
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 17, 2026*

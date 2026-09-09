@@ -18,5 +18,3 @@ As a state legislator she served while the General Assembly made the SBI highway
 ## The question for her
 
 Would she continue [[Chuck Edwards|Edwards]]' earmark practice for police surveillance tech? Where does she stand on her own county's Flock removal petition? Faces [[Jamie Ager]]; see [[Election 2026]].
-
-*Region: Federal (NC-11) · Last updated: Aug 17, 2026*

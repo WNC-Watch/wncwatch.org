@@ -3,6 +3,7 @@ title: Lowell Griffin
 description: "Henderson County Sheriff since 2018. His office bought the county's Flock cameras in 2025 inside its approved budget, with no commission vote; its portal lists 2,048 agencies with access; it holds WNC's only 287(g) agreement. Unopposed on November 3, 2026."
 aliases:
   - "People/WNC/Lowell Griffin"
+verified: 2026-09-08
 ---
 
 **Title:** Henderson County Sheriff · Republican · [office bio](https://www.hendersoncountync.gov/sheriff/page/about-sheriff-lowell-s-griffin)
@@ -28,5 +29,3 @@ Griffin runs the only 287(g) agreement in Western North Carolina, a Jail Enforce
 ## What is pending with him
 
 Which of the 2,048 agencies on his sharing list has searched Henderson County's reads, how often, and why? The audit log exists; state law requires an annual audit report ([G.S. 20-183.31(a)(7)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-183.31.html)).
-
-*Region: [[WNC/Henderson County/index|Henderson County]] · Last updated: Sept 8, 2026*

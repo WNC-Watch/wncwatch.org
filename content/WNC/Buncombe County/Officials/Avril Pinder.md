@@ -15,5 +15,3 @@ Pinder presents the recommended budget each year; the FY2026 summary lists the s
 ## The question for her
 
 Does the county track RTIC and Fusus spending internally, and who signs the equitable sharing certification? Both are answerable without a vote ([[Records Center|request 16]]).
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*

@@ -16,5 +16,3 @@ He is the comparison case every other chief and sheriff on this site should be a
 ## The question for him
 
 Will he publish the audit results, not just confirm the audits occur?
-
-*Region: Watauga County (see [[Western North Carolina and the State|Western North Carolina and the state]]) · Last updated: Aug 22, 2026*

@@ -4,6 +4,7 @@ description: "Asheville City Manager since January 12, 2026. Council authorized 
 aliases:
   - "People/D.K. Wesley"
   - "People/Asheville/D.K. Wesley"
+verified: 2026-09-08
 ---
 
 **Title:** City Manager, City of Asheville (Dakisha "DK" Wesley)
@@ -38,5 +39,3 @@ Her Buncombe County service, July 2019 to January 2026, overlapped the period in
 - The transparency dashboard, restored Aug 20, 2026 after a 404 ([[Promise Tracker|row 10]]).
 
 *Related: [[Jackie Stepp]] · [[2026-05-07 Agenda Briefing]] · [[What Axon Contracts Do]] · [[Records Center]] · [[Promise Tracker]]*
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

@@ -11,6 +11,7 @@ systems:
     detail: "12 county cameras removed after the commissioners' July 14, 2026 vote, 5 to 0; the sheriff's office lost access to all 16 on the account; four school cameras unresolved; the county still appears on network membership lists."
     links:
       - "Companies/Flock Safety"
+verified: 2026-09-08
 ---
 
 Macon County commissioners voted 5 to 0 on July 14, 2026 to end the sheriff's Flock contract; the cameras came down.

@@ -18,5 +18,3 @@ The "no oversight" claim is half true. The board cannot direct the sheriff ([G.S
 ## The question for him
 
 If the board has no oversight of the sheriff's purchases, why does it approve the budget that pays for them? And why silence residents instead of answering that on the record?
-
-*Region: [[WNC/Madison County/index|Madison County]] · Last updated: Aug 22, 2026*

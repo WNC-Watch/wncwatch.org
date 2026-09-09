@@ -14,5 +14,3 @@ Ingle's consistent public line is that the cameras are for serious crimes, missi
 ## The question for him
 
 How many cameras does the town run, who can search them, and has the department ever audited a search? The count has never been published.
-
-*Region: [[WNC/Rutherford County/index|Rutherford County]] · Last updated: Aug 22, 2026*

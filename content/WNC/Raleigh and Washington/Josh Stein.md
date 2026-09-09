@@ -20,5 +20,3 @@ aliases:
 ## The question for him
 
 He vetoed forced ICE cooperation as unconstitutional and signed the statewide expansion of the cameras that feed it. Does he have a position on plate-reader data reaching federal agencies under G.S. 20-183.32, and would he sign a bill limiting it?
-
-*Region: [[What the Law Lets the County Do|State]] · Last updated: Aug 22, 2026*

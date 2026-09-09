@@ -21,5 +21,3 @@ Asheville's council was presented Flock by representatives using the company's c
 ## The question for him
 
 How many of Flock's customers, like Henderson County, share with more than two thousand agencies, and will Flock publish that number?
-
-*Company: [[Flock Safety]] · Last updated: Aug 22, 2026*

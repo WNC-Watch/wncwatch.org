@@ -12,6 +12,7 @@ systems:
     detail: "3 Boone plate readers and 3 App State campus cameras. After the log showed 1.5 million searches of the campus cameras in three months, 85% from out of state, sharing was cut from more than 1,000 agencies to 41."
     links:
       - "Companies/Flock Safety"
+verified: 2026-09-08
 ---
 
 Boone and Appalachian State both cut their cameras' network sharing in 2026 after pulling the search logs.

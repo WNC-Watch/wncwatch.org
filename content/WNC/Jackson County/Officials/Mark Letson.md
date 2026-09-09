@@ -15,5 +15,3 @@ Letson chaired the August 4, 2026 work session where Sheriff [[Doug Farmer]] def
 ## The question for him
 
 He presided over the only WNC work session that aired both a sheriff's defense and real commissioner doubts. Will he schedule a vote before November decides who holds the gavel?
-
-*Region: [[WNC/Jackson County/index|Jackson County]] · Last updated: Aug 22, 2026*

@@ -23,5 +23,3 @@ Honors detainers case by case: "When we arrest somebody and we have charges on t
 ## The question for him
 
 Where is the written ALPR policy G.S. 20-183.31 requires, and where is the annual audit? "Zero documented misuse" means nothing if nothing is documented ([[What the Law Lets the County Do]]).
-
-*Region: [[WNC/Jackson County/index|Jackson County]] · Last updated: Aug 22, 2026*

@@ -20,5 +20,3 @@ Madison is the county where the commission chairman told residents "You will not
 ## The question for him
 
 Would he release the Flock contract, policy, and audit logs, and would he keep the cameras?
-
-*Region: [[WNC/Madison County/index|Madison County]] · Last updated: Aug 22, 2026*

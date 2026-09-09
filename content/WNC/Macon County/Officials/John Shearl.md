@@ -18,5 +18,3 @@ He is, as far as this record shows, the first sitting commissioner in Western No
 ## The question for him
 
 Will he carry the same motion to the four school cameras still in limbo, and will he say on the campaign trail what he said on the dais?
-
-*Region: [[WNC/Macon County/index|Macon County]] · Last updated: Aug 22, 2026*

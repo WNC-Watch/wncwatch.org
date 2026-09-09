@@ -18,5 +18,3 @@ Despite a targeted search of the Department of Justice's releases and press cove
 ## The question for him
 
 The statute his office would enforce permits plate data to reach federal agencies on a written request and requires no log. Does the Attorney General have a view on whether that is adequate, and would his office issue guidance to the 100 sheriffs who operate under it? ([[What the Law Lets the County Do]])
-
-*Region: State · Last updated: Aug 22, 2026*

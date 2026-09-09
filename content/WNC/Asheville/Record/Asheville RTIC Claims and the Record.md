@@ -121,5 +121,3 @@ When citing these figures, name the jurisdiction (the Sheriff's Office slice, th
 The six statements Axon and Flock representatives made at the [[2026-04-28 Work Session|April 28, 2026 work session]] (the immigration filter, APD's control of its data, mandatory search reasons, quarterly audits, city data ownership, no facial recognition) are set beside the record in the [CAMS and Sunshine Labs one-pager](https://www.sunshinelabs.org/wp-content/uploads/2026/05/Asheville-RTIC-%E2%80%93-1-Pager.pdf). In the same season, researchers gained root access to a Flock camera in 30 seconds, about 70 cameras were found streaming openly, and members of Congress asked the FTC to investigate ([[Flock Safety]]). Vendor statements in other cities that were later contradicted on the record are on [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] (Sedona, Oshkosh, Evanston).
 
 *Related: [[Promise Tracker]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Claims Library]] · [[Documents]]*
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

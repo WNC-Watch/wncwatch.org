@@ -15,5 +15,3 @@ With [[Dean Lytle]], Baker pushed the Public Safety Committee to recommend publi
 ## The question for him
 
 Will the input meeting happen before the vote, and will the council ask what the county sheriff already shares before adding the city's own cameras to the pool?
-
-*Region: [[WNC/Transylvania County/index|Transylvania County]] · Last updated: Aug 22, 2026*

@@ -27,5 +27,3 @@ The SBI investigated the county detention center over the alleged mishandling of
 ## The question for him
 
 How many plate readers does the county own today, and which agencies can search them? The answer has changed between 8 and 11 in his own telling.
-
-*Region: [[WNC/Rutherford County/index|Rutherford County]] · Last updated: Aug 22, 2026*

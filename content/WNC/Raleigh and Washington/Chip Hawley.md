@@ -18,5 +18,3 @@ aliases:
 ## The question for him
 
 Has any federal agency requested SBI or partner-agency plate data under G.S. 20-183.32, and will the annual report say so?
-
-*Region: State · Last updated: Aug 22, 2026*

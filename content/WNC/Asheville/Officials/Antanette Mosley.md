@@ -4,6 +4,7 @@ description: "Vice Mayor and council member since 2020. Voted yes on the RTIC it
 aliases:
   - "People/Antanette Mosley"
   - "People/Asheville/Antanette Mosley"
+verified: 2026-09-08
 ---
 
 **Title:** City Council member & Vice Mayor · attorney · [[The Committee|Public Safety Committee]] member
@@ -34,5 +35,3 @@ She holds the council's non-voting seat on the board of the Asheville Downtown I
 ## Ballot note
 
 A residency challenge, based on an Atlanta homestead exemption reported by Asheville Watchdog and BPR in December 2025, was unanimously denied by the Buncombe County Board of Elections on January 21, 2026 ([BPR](https://www.bpr.org/2026-01-21/buncombe-elections-board-denies-candidate-challenges)); a State Board of Elections inquiry remained open as of that reporting. She remains on the November ballot.
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

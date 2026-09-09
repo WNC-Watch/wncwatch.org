@@ -24,6 +24,7 @@ systems:
     detail: "APD access to the county sheriff's Fusus camera network under a December 2022 MOU and a January 2023 interlocal agreement; about 1,800 cameras at the 2023 vote, about 2,000 today."
     links:
       - "WNC/Buncombe County/index"
+verified: 2026-09-08
 ---
 
 Asheville is this collection's home case, documented across forty-plus pages. This page is the regional view: the same timeline-first format as its [[Western North Carolina and the State|WNC neighbors]], so you can lay the city's buildout beside Hendersonville's, [[WNC/Macon County/index|Macon]]'s, or Woodfin's and read the city's sequence beside its neighbors'. Each entry links to the page that documents it in full.

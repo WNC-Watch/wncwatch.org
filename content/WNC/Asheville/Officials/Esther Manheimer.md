@@ -4,6 +4,7 @@ description: "Mayor since 2013. Presided over the RTIC votes of March 25, 2025 a
 aliases:
   - "People/Esther Manheimer"
   - "People/Asheville/Esther Manheimer"
+verified: 2026-09-08
 ---
 
 **Title:** Mayor, City of Asheville · attorney, Van Winkle Law Firm · [manheimerformayor.com](https://manheimerformayor.com/)
@@ -38,5 +39,3 @@ Manheimer attends all three of the small-group [[The Check-In Meetings|check-in 
 - The community conversation the city manager said would precede any stationary Axon plate reader. No date has been set as of Sept 8, 2026.
 - Whether she would support making APD's stated safeguards binding by ordinance. As of Sept 8, 2026, no public position.
 - On November 3, 2026 she faces [[Kim Roney]], who voted no on each camera item since 2023 ([[Election 2026]]).
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

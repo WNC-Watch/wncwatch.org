@@ -15,5 +15,3 @@ Lytle called Brevard's plate-reader proposal a "hot button" issue and, through t
 ## The question for him
 
 A date. The public-input meeting is the best intervention point in the region and it does not exist until it is on a calendar.
-
-*Region: [[WNC/Transylvania County/index|Transylvania County]] · Last updated: Aug 22, 2026*

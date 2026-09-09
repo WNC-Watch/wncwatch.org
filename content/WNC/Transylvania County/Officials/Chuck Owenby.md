@@ -21,5 +21,3 @@ No statements found. Transylvania has no 287(g) agreement ([ICE list, Aug 21, 20
 ## The question for him
 
 With no election to answer to for four years, the only accountability left is paper: the contract, the annual audit state law requires, and the sharing list. Will he publish them? The Brevard council, deciding its own Axon bundle, should ask what the county already shares ([[What the Law Lets the County Do]]).
-
-*Region: [[WNC/Transylvania County/index|Transylvania County]] · Last updated: Aug 22, 2026*

@@ -53,5 +53,3 @@ In 2020, as a state senator, after city council shifted $770,000 out of APD's bu
 He holds the office through January 2027. Questions that are still live: Why did the request double? What analysis, if any, sat behind the one-sentence justification? Who initiated the April 2024 contact? He also remains a named figure in the [[Records Center]] requests that would answer them.
 
 *Sources: primary PDFs linked above (archived locally and at the Wayback Machine; house.gov pages are typically purged when a member leaves office); WLOS; Mountain Xpress; BPR; CAMS*
-
-*Region: Federal (NC-11) · Last updated: Aug 17, 2026*

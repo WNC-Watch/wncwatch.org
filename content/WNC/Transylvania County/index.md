@@ -16,6 +16,7 @@ systems:
     detail: "Offered to Brevard: 3 fixed plate readers at no charge inside a five-year, ~$80,000 package of tasers and body cameras, plus monthly data-storage fees. The draft policy and contract are posted; council votes Sept 8, 2026."
     links:
       - "Companies/What Axon Contracts Do"
+verified: 2026-09-08
 ---
 
 Brevard is the one community in WNC deciding before signing: the draft policy and the [[What Axon Contracts Do|Axon contract]] were posted, the city's question session was held Sept 1, and the vote comes Sept 8. The county sheriff's cameras have been up since 2024 with no commission vote found, and the county board first took the subject up on Aug 24, after residents raised it.

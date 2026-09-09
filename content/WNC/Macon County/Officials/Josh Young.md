@@ -19,5 +19,3 @@ He is the regional demonstration that a commission chair can use the budget leve
 ## The question for him
 
 The four school cameras were deferred to school leaders, who say neither the sheriff nor Flock has contacted them. Will the board finish the job? ([[WNC/Macon County/index|Macon County]])
-
-*Region: [[WNC/Macon County/index|Macon County]] · Last updated: Aug 22, 2026*

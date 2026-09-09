@@ -17,5 +17,3 @@ A week after [[WNC/Macon County/index|Macon County]] removed its cameras, Ensley
 ## The question for him
 
 If the cameras are worth keeping, are they worth a vote, a published contract, and a sharing list? "No complaints" is not oversight ([[What the Law Lets the County Do]]).
-
-*Region: [[WNC/Haywood County/index|Haywood County]] · Last updated: Aug 22, 2026*

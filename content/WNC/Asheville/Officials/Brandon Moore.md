@@ -18,5 +18,3 @@ Moore is the operational voice of the RTIC. In WLOS's July 8, 2026 look inside t
 ## The question for him
 
 Is "court order only" written anywhere an officer can be disciplined against, and does it cover administrative warrants?
-
-*Region: Asheville · Last updated: Aug 22, 2026*

@@ -4,6 +4,7 @@ description: "Council member since 2020. Voted yes on May 12, 2026 with removal 
 aliases:
   - "People/Sage Turner"
   - "People/Asheville/Sage Turner"
+verified: 2026-09-08
 ---
 
 **Title:** City Council member · finance & project management background
@@ -36,5 +37,3 @@ The technical point behind the one-camera plan is on [[Getting Flock Out]]: a Fl
 - Contact: sageturner@avlcouncil.com.
 
 The Aug 20 statement on pulling the cameras now was first attributed to another member; see [[Corrections]], Aug 26, 2026.
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

@@ -19,5 +19,3 @@ Every promise Asheville officials made about the RTIC is a promise about what Ax
 ## The question for him
 
 Will Axon publish, for every agency, which other agencies can search its fixed-reader data, and will it contractually bar facial recognition on feeds from cities that have banned it?
-
-*Company: [[Axon]] · Last updated: Aug 22, 2026*

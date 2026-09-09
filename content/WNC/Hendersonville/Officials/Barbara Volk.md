@@ -1,6 +1,7 @@
 ---
 title: Barbara Volk
 description: "Mayor of Hendersonville. Presided over the Sept 3, 2026 presentation on the city's plate readers, which ended with no vote, and said public input sessions would be advertised; no date has been set. Not on the November ballot."
+verified: 2026-09-08
 ---
 
 **Title:** Mayor, City of Hendersonville ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members))
@@ -17,5 +18,3 @@ Sept 3, 2026, at [1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s),
 ## The question for her
 
 When are the input sessions she said would be advertised, and will the Flock contract the city manager said would be posted ([1:05:08](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3908s)) and the department's sharing list be on the city's website before the first one, so residents can read the settings the chief described before they speak?
-
-*Region: [[WNC/Hendersonville/index|Hendersonville]] · Last updated: Sept 8, 2026*

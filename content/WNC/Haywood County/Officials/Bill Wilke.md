@@ -21,5 +21,3 @@ Thirty-one years in the Army, Army Reserve, and National Guard (retired as a col
 ## The question for him
 
 Before he leaves: what did the Flock contract cost, when does it renew, and who has access to the data? He can answer without an election.
-
-*Region: [[WNC/Haywood County/index|Haywood County]] · Last updated: Aug 22, 2026*

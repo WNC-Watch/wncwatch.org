@@ -11,6 +11,7 @@ systems:
     detail: "About 8 cameras since 2024. Commissioners decided in July 2026 to keep them; no formal vote on the original deployment is on the record."
     links:
       - "Companies/Flock Safety"
+verified: 2026-09-08
 ---
 
 Haywood County's sheriff's office has run about 8 Flock cameras since 2024; commissioners said in July 2026 they would keep them. No vote on the cameras is on the record.

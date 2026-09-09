@@ -4,6 +4,7 @@ description: "Asheville's interim police chief since November 2025. Presented th
 aliases:
   - "People/Jackie Stepp"
   - "People/Asheville/Jackie Stepp"
+verified: 2026-09-08
 ---
 
 **Title:** Interim Chief of Police, Asheville Police Department (Jacquelyn "Jackie" Stepp)
@@ -32,5 +33,3 @@ aliases:
 - The audit reports state law requires of a plate-reader program ([G.S. 20-183.31(a)(7)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-183.31.html)). A resident's July 2025 request for the city's Flock audit records was refused on Sept 9, 2025; the [[The Committee|Public Safety Committee]] meets Sept 24, 2026. [[Records Center|The request, drafted]].
 - The town halls and listening sessions committed to on May 12, 2026. As of Sept 8, 2026 no dates have been announced.
 - The notice to council that the Flock data deletion is complete, committed to on Aug 25, 2026.
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

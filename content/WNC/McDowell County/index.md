@@ -11,6 +11,7 @@ systems:
     detail: "12 or more cameras per EFF's Atlas of Surveillance, 8 of them the sheriff's office's and the rest Marion PD's; no vote found and no published paperwork."
     links:
       - "Companies/Flock Safety"
+verified: 2026-09-08
 ---
 
 McDowell County's sheriff's office runs at least 12 Flock cameras; no vote, contract value, or policy is public.

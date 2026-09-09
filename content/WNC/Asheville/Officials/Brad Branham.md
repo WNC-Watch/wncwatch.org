@@ -16,5 +16,3 @@ Before the May 12, 2026 vote, council was told staff and counsel would provide t
 ## The question for him
 
 Was the promised legal memo written, is it a public record, and does it address federal access?
-
-*Region: Asheville · Last updated: Aug 22, 2026*

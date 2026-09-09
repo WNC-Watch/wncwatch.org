@@ -1,6 +1,7 @@
 ---
 title: Jennifer Hensley
 description: "Hendersonville Mayor Pro Tem, on council since 2019 and a candidate for mayor on November 3, 2026. Asked council's questions on the city's plate readers on Sept 3: documented misuse, how other agencies get access, phone tracing, and an unanswered records request."
+verified: 2026-09-08
 ---
 
 **Title:** Mayor Pro Tem and Council Member, City of Hendersonville ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members))
@@ -14,5 +15,3 @@ description: "Hendersonville Mayor Pro Tem, on council since 2019 and a candidat
 ## The question for her
 
 As a candidate for mayor: would she bring the Flock contract, the department's sharing settings, and the retention period to a council vote? The Sept 3 item carried no motion, and the contract was not posted as of Sept 8.
-
-*Region: [[WNC/Hendersonville/index|Hendersonville]] · Last updated: Sept 8, 2026*

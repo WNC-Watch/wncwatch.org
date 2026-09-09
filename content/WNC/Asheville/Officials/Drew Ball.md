@@ -22,5 +22,3 @@ His [Asheville DSA questionnaire response](https://avldsa.org/2026-city-council-
 ## The question for him
 
 He's the one council candidate with an actual record *adjacent* to this issue: county budgets that sustain the Fusus network. Has he ever questioned it? Would he vote for a surveillance-oversight ordinance in Asheville ([[Promise Tracker]])? See [[Election 2026]] for the questions to ask.
-
-*Region: Asheville · Last updated: Aug 17, 2026*

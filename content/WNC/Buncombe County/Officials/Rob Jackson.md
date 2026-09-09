@@ -16,5 +16,3 @@ The memorandum giving the Sheriff's Office access to roughly 1,500 school camera
 ## The question for him
 
 Before September 1: did he ever review or renegotiate the 2021 MOU, and will he hand his successor its text and the audit trail the district says exists? ([[Records Center|request 9]])
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*
