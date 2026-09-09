@@ -26,9 +26,9 @@
   agenda_url: "https://www.hendersoncountync.gov/sites/default/files/fileattachments/board_of_commissioners/meeting/138634/09.08.2026_agenda_with_links_f.pdf"
   source_url: "https://www.hendersoncountync.gov/meetings?field_microsite_tid_1=111"
   camera_item: "no"
-  status: scheduled
-  verify_note: "Tonight's 5:30 PM meeting and venue confirmed via both the meetings list page and the posted agenda PDF; the posted agenda has no camera, license plate reader, Flock, or Axon item. The 09/16/2026 meeting listed on the calendar is at 9:30am, not evening, and has no agenda posted yet as of 2026-09-08."
-  verified: 2026-09-08
+  status: held
+  verify_note: "Held Sept 8; no camera item on the agenda; the county's recording was not posted as of Sept 9."
+  verified: 2026-09-09
 
 - id: macon-county-board
   area: Macon County
@@ -42,9 +42,9 @@
   agenda_url: "https://www.maconnc.org/images/commissioners/Agenda/Agenda 9 8 26.pdf"
   source_url: "https://www.maconnc.org/roster.html"
   camera_item: "no"
-  status: scheduled
-  verify_note: Regular meetings are held the second Tuesday of each month at 6 p.m.; the roster.html page lists Sept 8, 2026 as a regular meeting date and Oct 13, 2026 as the following one; the posted agenda PDF for Sept 8, 2026 contains no item on cameras, plate readers, Flock, Axon, or surveillance.
-  verified: 2026-09-08
+  status: held
+  verify_note: "Held Sept 8; no camera item on the agenda; the county's recording was not posted as of Sept 9, the channel's newest upload being July 14."
+  verified: 2026-09-09
 
 - id: rutherford-county-board
   area: Rutherford County
@@ -57,9 +57,10 @@
   agenda_url: "https://rutherfordcountync.legistar.com/Calendar.aspx"
   source_url: "https://www.rutherfordcountync.gov/departments/county_commissioner/meeting_schedule.php"
   camera_item: unknown
-  status: scheduled
-  verify_note: "The county's Legistar calendar lists the 9/8/2026 6:00 PM Board of Commissioners meeting but shows Agenda, Accessible Agenda, and Agenda Packet all as Not available, and Meeting details marked Not viewable by the public - draft, so the camera petition item cannot be confirmed from a posted agenda; public comment procedure is also not stated on the county's meeting schedule page."
-  verified: 2026-09-08
+  status: held
+  account_url: "https://rutherfordcountync.granicus.com/MediaPlayer.php?view_id=2&clip_id=1378"
+  verify_note: "Held Sept 8; no camera item on the agenda; a removal petition was presented at public comment with no board response; county recording on Granicus."
+  verified: 2026-09-09
 
 - id: watauga-boone
   area: Watauga County
@@ -73,9 +74,9 @@
   agenda_url: "https://www.townofboone.net/DocumentCenter/View/4928/September-9-2026-Boone-Town-Council-Agenda"
   source_url: "https://www.townofboone.net/AgendaCenter"
   camera_item: "no"
-  status: scheduled
-  verify_note: "County: Watauga County Board of Commissioners meets the first and third Tuesday of each month at 5:30 PM in the Commissioners' Board Room, Watauga County Administration Building, 814 West King Street, Boone NC, per wataugacounty.org/App_Pages/Dept/BOC/home.aspx; that puts its next regular meeting on 2026-09-15 at 5:30 PM at that address, though no meeting-specific agenda for that date was located to confirm it beyond the standing schedule."
-  verified: 2026-09-08
+  status: held
+  verify_note: "Held Sept 9; no camera item on the agenda; no recording yet."
+  verified: 2026-09-09
 
 - id: mcdowell-county-board
   area: McDowell County

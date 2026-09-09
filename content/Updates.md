@@ -5,6 +5,13 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## September 9, 2026: Brevard's request withdrawn, Rutherford's petition, two cancellations in the east
+
+- **Brevard.** At the start of the Sept 8 council meeting the police chief withdrew the request for three Axon plate readers; no vote was taken, and the taser and body-camera purchase the cameras were attached to is still pending. [[WNC/Transylvania County/index|Transylvania County]] carries the account and the next check, the Sept 21 meeting; the calendar item is marked held.
+- **Rutherford County.** Two residents presented a removal petition at public comment on Sept 8; the board thanked them and moved on, with no discussion or motion. The county's own recording is linked on [[WNC/Rutherford County/index|Rutherford County]], where the camera count stays unresolved.
+- **Two North Carolina cancellations.** New Hanover County commissioners voted 4 to 0 to cancel their $219,000 Flock contract, and Catawba declined to continue its trial, both on Sept 8; rows on [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]].
+- **The Senate letter to Axon.** On Sept 2 the Senate inquiry into Flock was extended to Axon, Motorola Solutions and Verkada, documents due Sept 16; on [[Axon]]. Henderson County, Macon and Boone are marked held with their recordings not yet posted.
+
 ## September 8, 2026: a rebuild of the site
 
 The site was rebuilt so that its facts live in one place and its pages read the same way.
