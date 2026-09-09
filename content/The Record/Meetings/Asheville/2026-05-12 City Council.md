@@ -10,11 +10,11 @@ This page reconstructs the May 12, 2026 council meeting from the city's own [You
 
 *A note on sourcing: quotes come from the video's captions; the captions don't label speakers, so attributions rely on meeting context (the chair runs votes; "Just a second, Kim" precedes exchanges with Roney) and attendee accounts. Anything uncertain is marked. The [official minutes](https://docs.google.com/document/d/1J0VNbOtglQSb3nRjbg6-Bw_Q1w6of6aCNId0TDL5NlQ/edit) corroborate the outcome; see below.*
 
-## The shape of the night
+## The meeting
 
 A six-hour, forty-three-minute meeting. The [[What Is the RTIC|RTIC]] items, B1 (the $1.14M DOJ grant) and B2 (the 7.5-year [[What Axon Contracts Do|Axon contract]]), shared the agenda with the entire FY26–27 budget presentation and a contested zoning case. Public comment on the RTIC didn't begin until five hours and twenty minutes in.
 
-## It started with the consent agenda, and a warning [(0:25:56)](https://www.youtube.com/watch?v=AfdrH-a92As&t=1556s)
+## The consent agenda [(0:25:56)](https://www.youtube.com/watch?v=AfdrH-a92As&t=1556s)
 
 The night's first speaker compared the city's process for a **one-mile sidewalk** (a 2016 bond referendum, public input surveys in 2020 and 2022, a public information meeting in February) with its process for the surveillance package:
 
@@ -22,17 +22,17 @@ The night's first speaker compared the city's process for a **one-mile sidewalk*
 
 The consent agenda then passed by voice vote in about ten seconds [(0:29:32)](https://www.youtube.com/watch?v=AfdrH-a92As&t=1772s).
 
-## The city's case [(4:31–5:10)](https://www.youtube.com/watch?v=AfdrH-a92As&t=16260s)
+## The staff presentation [(4:31–5:10)](https://www.youtube.com/watch?v=AfdrH-a92As&t=16260s)
 
 Interim Chief [[Jackie Stepp]] presented solo for roughly forty minutes; residents at the meeting clocked it precisely: "The police chief was given from 9:47 to 10:26 to talk, but we get an hour. And also, there wasn't an expert that presented on our side" (a resident, [6:15:18](https://www.youtube.com/watch?v=AfdrH-a92As&t=22518s)). On the recording itself: "There's no facial recognition, no general monitoring, no unrestricted access to private cameras" ([4:33:18](https://www.youtube.com/watch?v=AfdrH-a92As&t=16398s)); "Axon neither has access to the Fusus or to the system, or retains data" ([4:47:05](https://www.youtube.com/watch?v=AfdrH-a92As&t=17225s)); her values line at [4:34:29](https://www.youtube.com/watch?v=AfdrH-a92As&t=16469s), "**public safety should not come at the expense of community values**", and her closer, "trust will not be assumed. It will be demonstrated" ([5:10:17](https://www.youtube.com/watch?v=AfdrH-a92As&t=18617s)). Deputy Chief Aardema's companion promises ("**We control Axon Fusus and we will not be sharing information with federal immigration**," "this is a reactive system, it's not predictive police," and residents' fears being "real and valid") come from [WLOS's reporting on the vote](https://wlos.com/news/local/asheville-police-department-city-council-new-surveillance-technology-violent-crimes-real-time-intelligence-center-housing-authority-patrol-officers-immigration-customs-enforcement-community-members-federal-government-investigation) (published May 14; the remarks are not on the meeting recording, and we label the venue precisely for that reason). Every one of these is now a tracked promise: the immigration pledge against the national record of [[Who Gets Watched|identical pledges failing on audit]], "reactive not predictive" against [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]], and the values line quoted back by the night's final speaker (below). The [[Promise Tracker]] holds all of them, and the full claim-by-claim breakdown of the presentation lives at [[Jackie Stepp]].
 
-## The motion was teed up before the public spoke [(5:17:55)](https://www.youtube.com/watch?v=AfdrH-a92As&t=19075s)
+## The motion, made before public comment [(5:17:55)](https://www.youtube.com/watch?v=AfdrH-a92As&t=19075s)
 
 After the staff presentation on B1/B2, a motion to adopt was made and seconded, *before* public comment opened. For the next hour, residents spoke against the package to a motion already pending, needing only the word "vote" to finish.
 
-## The hour the public got, and what they did with it
+## Public comment
 
-Twenty-three residents spoke; twenty-two opposed. That hour was not venting. It contained **the complete argument against the system**, now collected in full at [[The People Who Showed Up]]. The arc of it, from the video:
+Twenty-three residents spoke; twenty-two opposed. The speakers are collected at [[The People Who Showed Up]]. The sequence, from the video:
 
 - **The security consultant**: "The Fourth Amendment binds local government, not Axon... We cannot claw back that data" ([5:28:50](https://www.youtube.com/watch?v=AfdrH-a92As&t=19730s), [5:31:11](https://www.youtube.com/watch?v=AfdrH-a92As&t=19871s)).
 - **The researcher with Axon's own investor deck** (125% net revenue retention, the city's own 86% bodycam cost jump) submitted the deck itself as public comment; it's in the city's meeting folder ([5:21:28](https://www.youtube.com/watch?v=AfdrH-a92As&t=19288s)).
@@ -46,7 +46,7 @@ Twenty-three residents spoke; twenty-two opposed. That hour was not venting. It 
 
 Constitutional analysis, vendor financials, contract language, lived experience, faith, and the city's own words returned to it, in two-minute allotments, against a pending motion, after a six-hour wait. Council engaged with none of it before voting. The full collection, with every name and timestamp: [[The People Who Showed Up]].
 
-## The vote nobody saw [(6:20:37)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22837s)
+## The vote on B1 [(6:20:37)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22837s)
 
 The final speaker finished at 6:20:31. Six seconds later, the chair:
 
@@ -62,7 +62,7 @@ The room erupted ("SIX HOURS TO LISTEN TO EVERYONE SPEAK"), followed by applause
 
 From the floor: "You didn't let us speak."
 
-## "There's still 21 people on the record" [(6:22:56)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22976s)
+## The speakers not reached [(6:22:56)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22976s)
 
 Residents asked to speak on B2: "Can we speak for another hour on B2?" The chair declined: "We gave notice ahead of time of how our public comment works." [[Kim Roney|Roney]], from the dais:
 
@@ -74,7 +74,7 @@ And then, beginning her presentation *after* the vote it addressed [(6:23:10)](h
 
 She read the ACLU of North Carolina's warning letter into the record [(6:25:05)](https://www.youtube.com/watch?v=AfdrH-a92As&t=23105s), a letter she had shared with all of her colleagues before the vote.
 
-## B2: twenty-five seconds [(6:32:44)](https://www.youtube.com/watch?v=AfdrH-a92As&t=23564s)
+## The vote on B2 [(6:32:44)](https://www.youtube.com/watch?v=AfdrH-a92As&t=23564s)
 
 After [[Kim Roney|Roney]]'s presentation ("...why I had to vote no"), the second item, the 7.5-year Axon contract, went: motion, second, voice vote, done.
 
@@ -96,7 +96,7 @@ Deeper findings from the staff reports, presentations, and minutes (all linked a
 - **The letters, settled.** DA Todd Williams' letter (dated April 30) and US Attorney Russ Ferguson's letter (**dated May 12, the day of the vote**) were excerpted aloud by [[Jackie Stepp|Chief Stepp]]. And the NC Attorney General letter is real: **[[Esther Manheimer|Mayor Manheimer]] read Jeff Jackson's letter into the record**, a conditional endorsement hedged, in his own words, "**Based on what APD has described**." The state's top law-enforcement officer evaluated a description, not documents, because there were none to evaluate. None of the three letters appears in the public meeting packet.
 - **The numbers kept moving.** Between April 28 and May 12, the video wall went from ~$400K to ~$500K, "brick and mortar" from ~$250K to ~$173K, and the funding coverage from "7 years" to "7.5" to "8" depending on the slide; the grant amount itself appears as three different figures across the staff report, minutes, and presentation.
 
-## What the record now establishes
+## Summary of the record
 
 1. **The vote count was 6–1 on both items**, stated by the chair on the city's own video and confirmed in the official minutes. Every member except [[Kim Roney|Roney]] voted yes: [[Esther Manheimer]], [[Antanette Mosley]], [[Sheneika Smith]], [[Maggie Ullman]], [[Sage Turner]], [[Bo Hess]].
 2. **The B1 vote was taken off-microphone amid shouting, seconds after comment closed**, and had to be announced to the room afterward.

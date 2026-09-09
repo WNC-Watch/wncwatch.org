@@ -8,7 +8,7 @@ aliases:
 
 Five days before the [[2026-05-12 City Council|May 12 vote]], council held its agenda briefing: no public comment permitted, [[Esther Manheimer|Mayor Manheimer]] and Councilmember [[Maggie Ullman|Ullman]] absent, [[Jackie Stepp|Interim Chief Stepp]] joining by phone. The [city's video](https://www.youtube.com/watch?v=I0PFVrO9CRQ) records three things that should have each been a headline. Captions don't label speakers (and garble names freely); attributions follow meeting context.
 
-## "That does not exist yet" [(35:12)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2112s)
+## The Axon contract's status [(35:12)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2112s)
 
 [[Kim Roney]] opened the thread with the obvious problem [(34:05)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2045s): "the Axon contract doesn't read like a purchase agreement... I realize that in the past we've talked about how we don't have a contract with Axon, but surely we have some sort of data sharing agreements." [[D.K. Wesley|City Manager D.K. Wesley]]'s answer is the record's cornerstone:
 
@@ -20,7 +20,7 @@ So the May 12 vote authorized the city manager to sign a contract that had not b
 
 **And the paper that did exist was hidden in plain sight.** Roney noted a colleague had already had to share one of the contracts with the public themselves, and asked how a resident would even find them [(37:00)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2220s). Answer: buried under "final agenda documents" from the April 28 meeting, a location so obscure that [[Sage Turner]] responded, "Yeah, **I don't think I knew that either**." [(40:39)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2439s) Sitting councilmembers, five days out, learning where the operative documents were.
 
-## The "one camera" plan, explained by its supporters [(38:10)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2290s)
+## The one-camera plan [(38:10)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2290s)
 
 This meeting is where the Flock "wind-down" got its only real public examination, and its supporters made the case against it themselves. [[Kim Roney|Roney]] surfaced the plan and rejected it: "I understood that we were headed in the direction of moving away, but maybe keeping one so that we have access to the network... **I think even having one of them isn't good for our community**... I just want us to have an answer around timelines." (No timeline was ever given.)
 
@@ -34,7 +34,7 @@ The chief and a councilmember confirmed it jointly: the point of keeping one cam
 
 For the ledger, the counts as stated here [(44:41)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2681s): the city owns **11** Flock cameras, the county **22**, and there are "many, many more in the city of Asheville" privately owned, yet the same briefing called access to *everyone else's* cameras "imperative," and fourteen months earlier the [[2025-03-07 Agenda Briefing|figure offered was 177,000]].
 
-## A civil-liberties resolution, assembled in five days [(46:16)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2776s)
+## The civil-liberties resolution [(46:16)](https://www.youtube.com/watch?v=I0PFVrO9CRQ&t=2776s)
 
 This briefing is also the origin of the "civil liberties resolution" that would pass alongside the [[What Is the RTIC|RTIC]] on May 12. [[Bo Hess|Hess]] asked to add a same-day companion "affirming our values to privacy, civil liberties, not using facial technology, and not using AI," to be drafted by the city attorney, "hoping that we could pass these at the same time." The document later cited as proof of careful safeguards was a political companion piece, requested five days before the vote, drafted in the same window, with no enforcement mechanism, no reporting duty, and no penalties. ([[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]] has the longer history of that move.)
 

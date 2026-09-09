@@ -8,7 +8,7 @@ aliases:
 
 On March 7, 2025, Deputy Chief [[Jackie Stepp]] gave council its first briefing on Asheville's license-plate reader program. Every load-bearing fact below comes from the [city's own video](https://www.youtube.com/watch?v=VYk_Gku-UaY); captions don't label speakers, so attributions follow the meeting context. What makes this briefing historic isn't what was announced; it's what was *admitted*: the surveillance was already running, already networked, and already shared, before the city's elected body heard a word.
 
-## Why the briefing happened at all [(3:04)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=174s)
+## How the briefing came about [(3:04)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=174s)
 
 City Manager Debra Campbell, opening: "a council member requested more information about the use of this technology and I offered to provide an update." Later [(1:06:51)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4011s): "this would probably [be] something that we would normally take through Environment and Safety Committee, but **since we are not having those meetings** we thought it was appropriate to bring it to an agenda briefing."
 
@@ -18,7 +18,7 @@ That councilmember was [[Kim Roney]], and she told the room how she'd found out 
 
 A sitting councilmember learned about her city's surveillance program from the press, and the committee that should have reviewed it wasn't meeting. That's the oversight baseline everything since was built on. ([[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]])
 
-## "Just so you all know": the timeline admissions [(1:07:41)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4061s)
+## The timeline, as stated [(1:07:41)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4061s)
 
 [[Jackie Stepp|Stepp]], opening the presentation: "Just so you all know, we've been using LPR readers in our fleet vehicle system **since April of last year**... this LPR equipment has been in the field for **almost a year now**." Then [(1:08:07)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4087s):
 
@@ -34,7 +34,7 @@ The briefing's biggest number arrived as a reassurance:
 
 And [(1:15:17)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4517s): "the cameras we have access to, which is cameras within a **500-mile radius** of where we are." Four months later, APD told the [[The Committee|Public Safety Committee]] the network was "connected to over 19,000 cameras across a 500 mile radius." Nineteen thousand or 177,000: an order-of-magnitude spread in the department's own public figures. What a network that size actually reveals about a person is the subject of [[What They Can Actually Learn About You|What a plate read becomes]].
 
-## The questions that didn't get answers
+## Questions left open
 
 **[[Maggie Ullman|Ullman]]'s federal-seizure question** [(1:19:05)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4745s). Councilmember Maggie Ullman ("we're in such a volatile federal context right now") asked what happens "if a different level [of] government comes in and trumps our local polic[ies]... do we have any policies that, like, autodelete stuff...? if there is another unit of government that comes in and wants to change our policy priorities and then have access to this information in a way that doesn't match what our community believes in." [[Jackie Stepp|Stepp]]'s answer [(1:20:33)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4833s): "**I'd have to get back to you** on the very specifics... not only do we have policies and procedures, but **so does the Flock Safety and Axon** related to their camera usage and who the data is available to." The city's answer to "what if the federal government reaches for this data" was, in part, *the vendors have policies*. Within months, national audit logs showed federal immigration agencies reaching local Flock data through exactly the doors Ullman was asking about. ([[Who Gets Watched]])
 
@@ -47,9 +47,5 @@ And [(1:15:17)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4517s): "the camer
 ## What was promised about the tech itself
 
 What's detected, per the presentation [(1:13:43)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4423s): "the license plate image, **the vehicle image**, the plate text." What's not [(1:15:51)](https://www.youtube.com/watch?v=VYk_Gku-UaY&t=4551s): "facial recognition, people, gender and race"; prohibited uses: "immigration enforcement, traffic enforcement, harassment or intimidation... and then personal use." These are *policy* prohibitions, not technical absences: APD's own list of what the platform will be told not to do, revisable without a council vote. [[Maggie Ullman|Ullman]] spotted this in real time: her concern was precisely "if this technology shifts **or our policies change**." The [[Promise Tracker]] tracks each of these against the record.
-
-## Why this page exists
-
-Nothing was voted on March 7. That's the point: by the time council got its first briefing, the plate readers had been running up to two years, the regional sharing was live, the 177,000-camera access was old news inside APD, and eleven more cameras were under contract with two already bolted up. Eighteen days later, the first [[What Is the RTIC|RTIC]] money would move, on the consent agenda. ([[2025-03-25 City Council]])
 
 *Related: [[Timeline]] · [[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]] · [[What They Can Actually Learn About You|What a plate read becomes]] · [[Promise Tracker]] · [[2025-03-25 City Council]]*
