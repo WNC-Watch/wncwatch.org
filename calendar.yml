@@ -9,9 +9,10 @@
   agenda_url: "https://www.cityofbrevard.com/AgendaCenter/ViewFile/Agenda/_09082026-1868"
   source_url: "https://www.cityofbrevard.com/AgendaCenter"
   camera_item: "yes"
-  status: scheduled
-  verify_note: "Posted agenda (item M.3) lists \"Automated License Plate Readers (ALPRs)\" as a New Business item, not specifically named Axon, and the city calendar (cityofbrevard.com/calendar.aspx, CID=23) confirms the Sept 8, 2026 meeting at City Hall, 5:30-7:30 PM, and the next regular meeting on Sept 21, 2026, 5:30 PM, same venue; neither the calendar nor the agenda PDF states a public-comment sign-up or time-limit procedure, so that field is left blank."
-  verified: 2026-09-08
+  status: held
+  account_url: "https://www.transylvaniatimes.com/news/police-chief-cancels-camera-plan/article_5515e786-0bdd-4c13-af0c-f9fcc4041b33.html"
+  verify_note: "Held Sept 8; the chief withdrew item M.3 at the start of the meeting per the Transylvania Times of Sept 8; no recording or minutes posted on the Agenda Center as of Sept 9."
+  verified: 2026-09-09
 
 - id: henderson-county-board
   area: Henderson County
@@ -147,8 +148,8 @@
   source_url: "https://www.cityofbrevard.com/AgendaCenter"
   camera_item: unknown
   status: scheduled
-  verify_note: "Posted agenda (item M.3) lists \"Automated License Plate Readers (ALPRs)\" as a New Business item, not specifically named Axon, and the city calendar (cityofbrevard.com/calendar.aspx, CID=23) confirms the Sept 8, 2026 meeting at City Hall, 5:30-7:30 PM, and the next regular meeting on Sept 21, 2026, 5:30 PM, same venue; neither the calendar nor the agenda PDF states a public-comment sign-up or time-limit procedure, so that field is left blank."
-  verified: 2026-09-08
+  verify_note: "Regular meeting per the city calendar; no agenda posted as of Sept 9; watch for any Axon equipment item."
+  verified: 2026-09-09
 
 - id: mcdowell-county-board-next
   area: McDowell County
