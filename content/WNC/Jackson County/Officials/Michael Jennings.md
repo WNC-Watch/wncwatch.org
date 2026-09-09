@@ -15,5 +15,3 @@ At the August 4, 2026 work session, Jennings pressed Sheriff [[Doug Farmer]] on 
 ## The question for him
 
 Would he move to condition the next budget's camera funding on a published policy and audit? ([[What the Law Lets the County Do]])
-
-*Region: [[WNC/Jackson County/index|Jackson County]] · Last updated: Aug 22, 2026*

@@ -19,5 +19,3 @@ He also described his national role ([1:00:39](https://www.youtube.com/watch?v=u
 ## The question for him
 
 The sharing ring and the FBI setting he described on Sept 3 are settings in the department's Flock account, and the city's portal does not display them. Will the department publish its sharing list, as the sheriff's portal does, and the monthly audits he said the city is looking at posting, so the settings he described can be read directly?
-
-*Region: [[WNC/Hendersonville/index|Hendersonville]] · Last updated: Sept 4, 2026*

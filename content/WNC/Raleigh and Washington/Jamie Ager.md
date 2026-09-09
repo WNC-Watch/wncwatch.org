@@ -26,5 +26,3 @@ The [[What Is the RTIC|RTIC]] exists because of a congressional earmark: [[Chuck
 ## The question for him
 
 Would he have sponsored the RTIC earmark? Does he support conditions on federal police-tech grants: public disclosure, oversight requirements? Faces [[Jennifer Balkcom]]; see [[Election 2026]].
-
-*Region: Federal (NC-11) · Last updated: Aug 17, 2026*

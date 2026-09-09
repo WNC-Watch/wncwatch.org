@@ -4,6 +4,7 @@ description: "Council member since 2020. Voted no on the county camera agreement
 aliases:
   - "People/Kim Roney"
   - "People/Asheville/Kim Roney"
+verified: 2026-09-08
 ---
 
 **Title:** City Council member · music teacher & piano technician · [kimroney4asheville.com](https://kimroney4asheville.com/) · [official page](https://www.facebook.com/councilmemberkimroney)
@@ -39,5 +40,3 @@ Consulted ACLU-NC and EFF during the RTIC debate; appeared on the RE:FUSUS panel
 - Public answers to the 29 questions submitted to APD in March 2025. None posted as of Sept 8, 2026.
 - The moratorium on new plate reader purchases, which failed for lack of a second on Aug 25, 2026 and which any member could move again.
 - The Flock data deletion notice and the removal of the 11 cameras, both committed to on Aug 25, 2026 ([[Getting Flock Out]]).
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

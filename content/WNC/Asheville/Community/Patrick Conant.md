@@ -17,5 +17,3 @@ aliases:
 - **August 20, 2026**: shared the two records releases (PRR-2026-837 and PRR-2026-840) that put Policy 1703's drafts, the private workgroup's notes, and the Axon contract emails into public view ([[The RTIC Policy]] · [[Documents]])
 
 The July 2025 records fight over Flock audit logs, and the city's refusal, runs through Sunshine Request ([[Records Center]]).
-
-*Region: Asheville · Last updated: Aug 22, 2026*

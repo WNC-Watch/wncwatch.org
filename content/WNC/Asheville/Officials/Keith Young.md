@@ -24,5 +24,3 @@ Read those against the [[What Is the RTIC|RTIC]]'s design, with its 500-mile dat
 ## The question for him
 
 Does the "local firewall" include the RTIC? Would he vote to release the [[What Axon Contracts Do|Axon contract]], publish the audits, and pass an oversight ordinance? He's one direct question away from being the first council candidate with an actual position. See [[Election 2026]].
-
-*Region: Asheville · Last updated: Aug 17, 2026*

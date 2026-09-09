@@ -32,5 +32,3 @@ Would you put the 2021 memorandum on an agenda, read it into the record, vote on
 ## Asheville City Schools
 
 A separate district with a separate arrangement: WLOS reports APD's planned RTIC "already uses camera footage from systems operated by partners such as Asheville City Schools," while the city's 2023 interlocal agreement with the county explicitly excluded Buncombe County Schools' cameras ([Mountain Xpress, Jan 2023](https://mountainx.com/news/asheville-joins-buncombe-county-surveillance-system/)). Superintendent Maggie Fehrman (since 2023) and the elected board, chaired by Sarah Thornburg with Rebecca Strimer as vice chair, have no findable public statement on sharing school video with APD; six candidates, including Thornburg, Strimer, and Liza English-Kelly, are on the November ballot for ACS seats ([ACS board](https://www.ashevillecityschools.net/about-acs/asheville-city-board-of-education/acs-boe-home)).
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Sept 8, 2026*

@@ -17,5 +17,3 @@ Breeden seconded [[John Shearl]]'s July 14, 2026 motion after arriving, by his o
 ## The question for him
 
 The unknowns are answerable: every Flock customer can publish its sharing list, as [[WNC/Henderson County/index|Henderson County]] does. Would he ask the school system to, before the four school cameras are resolved?
-
-*Region: [[WNC/Macon County/index|Macon County]] · Last updated: Aug 22, 2026*

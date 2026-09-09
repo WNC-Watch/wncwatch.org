@@ -15,5 +15,3 @@ In March 2026 Wentzell proposed 6 Flock cameras at $46,000 over three years, tel
 ## The question for her
 
 Did she ask for the bundle, or did procurement grow the scope past what she requested? And which agencies would be able to search Brevard's reads?
-
-*Region: [[WNC/Transylvania County/index|Transylvania County]] · Last updated: Aug 22, 2026*

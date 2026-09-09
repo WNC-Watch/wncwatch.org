@@ -25,5 +25,3 @@ Chair **Mychal Bacoate** (appointed January 2025); Vice Chair Kimberly Collins; 
 ## The question for her
 
 What does the HACA seat on the RTIC policy board do, who fills it, what footage can they see, and will residents be told which properties' cameras feed the network? ([[Records Center|request 8]])
-
-*Region: Asheville · Last updated: Aug 22, 2026*

@@ -16,5 +16,3 @@ At the August 4, 2026 work session Bryson raised false flags on innocent drivers
 ## The question for him
 
 Will he ask the sheriff for the hit-accuracy numbers and put the contract's next renewal to a vote?
-
-*Region: [[WNC/Jackson County/index|Jackson County]] · Last updated: Aug 22, 2026*

@@ -46,5 +46,3 @@ Three things the table shows. The party line held on every immigration vote: eve
 ## The question for each of them
 
 Would you vote for a bill that does what Virginia's and California's do: a retention cap shorter than 90 days, a purpose limit on searches, and a bar on sharing plate data out of state or with federal agencies absent a warrant? ([[What the Law Lets the County Do]])
-
-*Region: State · Last updated: Aug 22, 2026*

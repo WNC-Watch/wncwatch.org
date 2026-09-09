@@ -4,6 +4,7 @@ description: "Council member since 2017. On March 25, 2025 suggested a community
 aliases:
   - "People/Sheneika Smith"
   - "People/Asheville/Sheneika Smith"
+verified: 2026-09-08
 ---
 
 **Title:** City Council member · [[The Committee|Public Safety Committee]] member
@@ -27,5 +28,3 @@ aliases:
 - The community forum she proposed on March 25, 2025. None has been held as of Sept 8, 2026.
 - Whether she supports releasing the executed [[What Axon Contracts Do|Axon contract]] and publishing the quarterly audits ([[Promise Tracker]]). As of Sept 8, 2026, no public position.
 - Her seat is on the Nov 3, 2026 ballot ([[Election 2026]]). Contact: sheneikasmith@avlcouncil.com.
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

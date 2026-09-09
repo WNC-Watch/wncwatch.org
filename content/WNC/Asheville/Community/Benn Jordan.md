@@ -42,5 +42,3 @@ This is contested (the security-camera industry publication IPVM published a reb
 *A note on accuracy: this page describes Jordan's findings as he and independent outlets reported them. The exposed Condor cameras were reachable on the open internet, not broken into. His plate-reader "defense sticker" is a demonstrated proof-of-concept against the software, not a proven or necessarily legal street countermeasure. We found no recording of his Asheville Q&A, so nothing here attributes an Asheville-RTIC-specific statement to him.*
 
 *Related: [[Before You Connect Your Cameras]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[Get Involved]] · [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]*
-
-*Region: Community · Last updated: Aug 17, 2026*

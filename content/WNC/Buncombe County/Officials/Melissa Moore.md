@@ -15,5 +15,3 @@ Under [G.S. 159-28](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySec
 ## The question for her
 
 Who certified the Axon contract, what fund receives Fusus camera fees, and who signs the DOJ equitable sharing certification?
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*

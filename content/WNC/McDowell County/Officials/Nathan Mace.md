@@ -17,5 +17,3 @@ aliases:
 ## The question for him
 
 A new sheriff with no opponent and no record is the easiest official in the region to ask a first question: what did the cameras cost, who has access, and will he publish the audit? ([[What the Law Lets the County Do]])
-
-*Region: [[WNC/McDowell County/index|McDowell County]] · Last updated: Aug 22, 2026*

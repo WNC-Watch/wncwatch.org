@@ -18,5 +18,3 @@ aliases:
 ## What is pending with him
 
 Would he keep, expand, or cut the Fusus network? Publish its audit logs? Maintain the school-camera integration? See [[Election 2026]].
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 17, 2026*

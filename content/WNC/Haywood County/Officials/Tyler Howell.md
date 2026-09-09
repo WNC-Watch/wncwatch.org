@@ -16,5 +16,3 @@ aliases:
 ## The question for him
 
 "Accountability and transparency" applied to the plate readers means three concrete things: publish the sharing list, publish the annual audit, and put the contract to a vote. Will he commit to each?
-
-*Region: [[WNC/Haywood County/index|Haywood County]] · Last updated: Aug 22, 2026*

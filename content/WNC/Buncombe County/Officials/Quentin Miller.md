@@ -36,5 +36,3 @@ The record should hold this honestly: Miller has taken documented stands **limit
 ## The question for him
 
 Will he publish the Fusus network's search audit logs and the advisory board's minutes? What binds his ICE commitments after 2030? Faces [[Gary Parris]] in November; see [[Election 2026]].
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*

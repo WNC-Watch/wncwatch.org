@@ -15,5 +15,3 @@ Castle spoke against the cameras at public comment before the July 2026 vote, re
 ## The question for him
 
 Would he move to publish any remaining data-sharing arrangements and to resolve the four school cameras?
-
-*Region: [[WNC/Macon County/index|Macon County]] · Last updated: Aug 22, 2026*

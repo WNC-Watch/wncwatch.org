@@ -11,6 +11,7 @@ systems:
     detail: "County count unresolved; the sheriff pitched an 8-camera network in February 2025. Forest City's cameras include audio detection."
     links:
       - "Companies/Flock Safety"
+verified: 2026-09-08
 ---
 
 Rutherford County's camera count is unresolved; Forest City's Flock network includes audio detection; the sheriff's February 2025 proposal for a county network did not come to a vote.

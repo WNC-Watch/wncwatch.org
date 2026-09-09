@@ -23,5 +23,3 @@ No statements found. Madison has no 287(g) agreement ([ICE list, Aug 21, 2026](h
 ## The question for him
 
 Produce the contract, the policy, and the audit. He is the only WNC sheriff on a contested November ballot who has refused to.
-
-*Region: [[WNC/Madison County/index|Madison County]] · Last updated: Aug 22, 2026*

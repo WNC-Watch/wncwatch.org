@@ -19,5 +19,3 @@ The county's plate readers have never had a commission vote, and Lapsley has sig
 ## The question for him
 
 He leaves office having never put the cameras to a vote. Will he schedule one before December, or hand a 2,048-agency sharing network to a successor none of the three Republican candidates has been asked about? ([[WNC/Henderson County/index|Henderson County]])
-
-*Region: [[WNC/Henderson County/index|Henderson County]] · Last updated: Aug 22, 2026*

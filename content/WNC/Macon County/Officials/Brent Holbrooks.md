@@ -23,5 +23,3 @@ No statements found. Macon has no 287(g) agreement ([ICE list, Aug 21, 2026](htt
 ## The question for him
 
 Has the office stopped searching other agencies' Flock data, or only stopped paying for its own cameras? The login is the network ([[Getting Flock Out]]).
-
-*Region: [[WNC/Macon County/index|Macon County]] · Last updated: Aug 22, 2026*

@@ -9,6 +9,7 @@ systems:
     detail: "16 city cameras, 15 of them plate readers, about $45,000 a year, up since 2024. Portal read Aug 22, 2026: 373,294 vehicles in 30 days, 83 searches, 4,703 hot-list hits. Retention 7 days per the chief, Sept 3, 2026. The contract is not posted."
     links:
       - "WNC/Hendersonville/Officials/Blair Myhand"
+verified: 2026-09-08
 ---
 
 Hendersonville decides on its cameras separately from Henderson County: the city's police department runs fifteen license plate readers, and the sheriff's office runs thirteen more under the county's own budget. The city's cameras have run since 2024, three at first and twelve more from November 2025, at about $45,000 a year, under a Flock contract the city had not posted as of Sept 4. On Sept 3, 2026 the council heard a presentation from Police Chief [[Blair Myhand]], filed on the agenda with no motion attached. It ended without a vote or any direction to staff, and the mayor said public input sessions would follow without giving a date. The chief chairs the International Association of Chiefs of Police working group that is writing the model policy and public communication tools for plate readers, and he is to moderate a panel with Flock's chief executive in October. The presentation did not mention the $3,000,000 Real Time Crime Center in the city's adopted capital plan. What he said, with timestamps, what the city committed to on the record, and what the budget already contains, follow.

@@ -20,5 +20,3 @@ Haywood's cameras entered with no vote and were kept in July 2026 on a chairman'
 ## The question for him
 
 Would he keep the Flock contract, publish the sharing list and the annual audit, and put the renewal before the commission for a vote?
-
-*Region: [[WNC/Haywood County/index|Haywood County]] · Last updated: Aug 22, 2026*

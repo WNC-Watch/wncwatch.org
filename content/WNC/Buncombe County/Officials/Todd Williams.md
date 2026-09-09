@@ -18,5 +18,3 @@ He has also defended plate readers at length on local radio in August 2026; that
 ## The question for him
 
 Who gave the assurance, in what form, and does his office have any written policy on ICE access to RTIC or plate-reader evidence that survives his departure?
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*

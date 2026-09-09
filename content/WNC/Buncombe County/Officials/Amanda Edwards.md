@@ -19,5 +19,3 @@ She chairs the board that adopts the sheriff's budget every June and whose head,
 ## The question for her
 
 Has she asked the sheriff whether Fusus or plate-reader data is accessible to ICE or CBP, and would she separate surveillance technology into its own budget line so the board votes on it knowingly?
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Aug 22, 2026*

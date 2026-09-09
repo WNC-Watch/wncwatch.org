@@ -32,5 +32,3 @@ No surveillance position has been found for any of the four contested-seat candi
 ## Staff who hold the paper
 
 [[Avril Pinder]] (county manager) · [[Melissa Moore]] (finance director)
-
-*Region: [[WNC/Buncombe County/index|Buncombe County]] · Last updated: Sept 8, 2026*

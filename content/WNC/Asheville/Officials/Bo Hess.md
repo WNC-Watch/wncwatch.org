@@ -4,6 +4,7 @@ description: "Asheville City Council member since December 2024 and chair of the
 aliases:
   - "People/Bo Hess"
   - "People/Asheville/Bo Hess"
+verified: 2026-09-08
 ---
 
 **Title:** Asheville City Council member; chair of the Public Safety Committee; behavioral-health provider and social worker
@@ -42,5 +43,3 @@ At the [[2025-03-25 City Council|March 25, 2025 council meeting]], arguing for t
 - Whether the civil-liberties resolution he authored becomes an ordinance with a reporting duty. He is its author.
 
 Residents who want either on the record can write to him at bohess@avlcouncil.com or speak at the committee ([[Speak at Council]]).
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*

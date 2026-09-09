@@ -4,6 +4,7 @@ description: "Council member since 2022. Seconded the RTIC motions on May 12, 20
 aliases:
   - "People/Maggie Ullman"
   - "People/Asheville/Maggie Ullman"
+verified: 2026-09-08
 ---
 
 **Title:** City Council member · climate/sustainability consultant · chairs the Planning, Economic Development & Environment Committee (sometimes appears as Maggie Ullman Berthiaume)
@@ -29,5 +30,3 @@ aliases:
 - Her seat is on the Nov 3, 2026 ballot ([[Election 2026]]). Contact: maggieullman@avlcouncil.com.
 
 A statement from the Aug 20 briefing once attributed to her on this page belongs to [[Sage Turner]]; see [[Corrections]], Aug 26, 2026.
-
-*Region: [[WNC/Asheville/index|Asheville]] · Last updated: Sept 8, 2026*
