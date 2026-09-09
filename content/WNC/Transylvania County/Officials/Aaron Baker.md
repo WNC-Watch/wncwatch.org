@@ -1,6 +1,6 @@
 ---
 title: Aaron Baker
-description: Brevard Mayor Pro Tem; with Dean Lytle, pushed for public input before any plate-reader vote. Whether it happens is his call as much as anyone's.
+description: Brevard Mayor Pro Tem; with Dean Lytle, pushed for public input before any plate-reader vote. The input meeting was held Sept 1, 2026; the chief withdrew the request on Sept 8.
 aliases:
   - "People/WNC/Aaron Baker"
 ---

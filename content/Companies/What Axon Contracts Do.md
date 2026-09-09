@@ -19,7 +19,7 @@ Asheville's executed Axon contract has never been released ([[Promise Tracker]] 
 
 - **Fontana, CA:** Axon's rep told the city its only exit was non-appropriation and that leaving "could tarnish the city's credit rating." **The contract contained a termination-for-convenience clause the whole time.** The city also kept paying for Evidence.com storage it wasn't using. ([MuckRock](https://www.muckrock.com/news/archives/2019/may/09/algorithms-axon-fontana/)) Convenience termination has appeared in Axon contracts.
 - **Evanston, IL:** told to sign its 7-year, $5.8M renewal by December 12 **or pay 8% more (~$470K)**, a deadline discount used to rush the decision. The "bodycam renewal" quietly grew to include fleet cameras, drones, and a real-time crime center. ([Daily Northwestern](https://dailynorthwestern.com/2025/12/10/top-stories/city-council-approves-5-8-million-body-camera-police-technology-contract-with-axon-enterprise/))
-- **Brevard, NC:** the city council took up an Axon offer of three plate-reader cameras bundled into an about $80,000 five-year package on Sept 8, 2026 ([[WNC/Transylvania County/index|Transylvania County]]).
+- **Brevard, NC:** the police chief withdrew an Axon offer of three plate-reader cameras, bundled into an about $80,000 five-year package, at the Sept 8, 2026 council meeting before any vote; the taser and body-camera purchase remains pending ([[WNC/Transylvania County/index|Transylvania County]]).
 
 ## The oversight record
 

@@ -39,7 +39,7 @@ The same mechanism has produced every protection in this record. Denver's counci
 
 ## Deciding before signing
 
-Brevard posted its documents before deciding: an information session on Sept 1, 2026 and the council vote on Sept 8, 2026. Whatever the council decides, that sequence has already produced more public reading of the actual terms than Asheville's vote received, and it cost Brevard nothing.
+Brevard posted its documents before deciding: an information session on Sept 1, 2026 and a council date of Sept 8, 2026, at which the chief withdrew the request before a vote. That sequence has already produced more public reading of the actual terms than Asheville's vote received, and it cost Brevard nothing.
 
 The asks that follow from this essay are versions of what the pro-camera residents in our records also ask for. Put the retention, sharing, and audit rules in a document only council can change. Publish the price, the term, and the camera locations. Opt out of the vendor's default data program in writing. Name who runs the audit and publish what it finds. If the vendor's answer to any of these is no, that answer is information, and slower is allowed: the stolen car in front of the patrol car can still be checked tomorrow.
 

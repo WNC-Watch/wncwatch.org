@@ -1,9 +1,9 @@
 ---
 title: Transylvania County
-description: "Brevard posted the draft policy and the Axon contract before deciding, and we read both: the 30-day purge and real audit requirements, the one-signature problem, the renewal terms, and the questions still open before the Sept 8 vote. The county sheriff's cameras have been up since 2024; the county board first took them up on Aug 24."
+description: "Brevard posted the draft policy and the Axon contract before deciding, and we read both: the 30-day purge and real audit requirements, the one-signature problem, the renewal terms, and the questions that were open on Sept 8, when the chief withdrew the request before any vote. The Axon equipment purchase remains pending. The county sheriff's cameras have been up since 2024; the county board first took them up on Aug 24."
 aliases:
   - "WNC/Transylvania County"
-standing: "deciding; documents posted, question session held Sept 1"
+standing: "request withdrawn Sept 8 by the chief; the Axon equipment purchase is still pending; next check Sept 21"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
@@ -13,13 +13,13 @@ systems:
       - "WNC/Transylvania County/Officials/Chuck Owenby"
   - vendor: "Axon"
     kind: future
-    detail: "Offered to Brevard: 3 fixed plate readers at no charge inside a five-year, ~$80,000 package of tasers and body cameras, plus monthly data-storage fees. The draft policy and contract are posted; council votes Sept 8, 2026."
+    detail: "Offered to Brevard: 3 fixed plate readers at no charge inside a five-year, ~$80,000 package of tasers and body cameras, plus monthly data-storage fees. The draft policy and contract are posted. Chief Wentzell withdrew the plate-reader request at the start of the Sept 8, 2026 council meeting; no vote was taken. The taser and body-camera purchase the cameras were attached to remains pending."
     links:
       - "Companies/What Axon Contracts Do"
-verified: 2026-09-08
+verified: 2026-09-09
 ---
 
-Brevard is the one community in WNC deciding before signing: the draft policy and the [[What Axon Contracts Do|Axon contract]] were posted, the city's question session was held Sept 1, and the vote comes Sept 8. The county sheriff's cameras have been up since 2024 with no commission vote found, and the county board first took the subject up on Aug 24, after residents raised it.
+Brevard posted its documents before deciding: the draft policy and the [[What Axon Contracts Do|Axon contract]] were posted, the city's question session was held Sept 1, and at the start of the Sept 8 council meeting Police Chief Christy Wentzell withdrew the plate-reader request without a vote. The taser and body-camera purchase the three cameras were attached to is still pending, so the question can return. The county sheriff's cameras have been up since 2024 with no commission vote found, and the county board first took the subject up on Aug 24, after residents raised it.
 
 ## Timeline
 
@@ -30,13 +30,15 @@ Brevard is the one community in WNC deciding before signing: the draft policy an
 <div class="tl-item tl-expand"><div class="tl-date">March 2026</div><div class="tl-body"><strong>Brevard's original proposal.</strong> Police Chief Christy Wentzell proposed <strong>6 Flock cameras at $46,000 over 3 years</strong>.</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">July 2026</div><div class="tl-body"><strong>the proposal transforms into an Axon bundle.</strong> Now it's <strong>Axon offering 3 LPR cameras "at no charge,"</strong> inside an <strong>~$80,000 five-year package</strong> with taser and bodycam upgrades, plus monthly data-storage fees. (<a href="https://www.transylvaniatimes.com/news/public-input-sought-before-lpr-decision/article_c8ec9c34-eafd-49aa-9777-0f1590911bdd.html">Transylvania Times</a> · <a href="../Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a>)</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">August 24, 2026</div><div class="tl-body"><strong>the county board takes up the sheriff's cameras for the first time.</strong> After residents spoke at public comment, Vice Chair Larry Chapman asked that the sheriff come explain how his office uses the cameras and put the count at about 14; a second commissioner said the subject had never come before the board. The board's next meeting falls after Brevard's vote (the county's <a href="https://www.transylvaniacounty.org/meetings">meeting video</a>, 3:09:48 and 3:16:40; detail below).</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">Sept 1, 2026</div><div class="tl-body"><strong>the information session, held.</strong> Brevard PD and city staff took questions at the Mary C. Jenkins Community Center, the session the Public Safety Committee recommended in July with council members Dean Lytle ("hot button") and Aaron Baker pushing for it. We were not in the room, and we have found no recording or published account; if one appears it will be linked here.</div></div>
-<div class="tl-item tl-future tl-now"><div class="tl-date">Sept 8, 2026</div><div class="tl-body"><strong>the council vote.</strong> Tuesday, Sept 8, 5:30 PM, City Council, 95 W Main St; public comment is taken. The posted documents and the questions still open are below.</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">Sept 1, 2026</div><div class="tl-body"><strong>the information session, held.</strong> Brevard PD and city staff took questions at the Mary C. Jenkins Community Center, the session the Public Safety Committee recommended in July with council members Dean Lytle ("hot button") and Aaron Baker pushing for it. The Transylvania Times reports residents raised privacy, surveillance and data-access concerns. No recording has been found.</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">Sept 8, 2026</div><div class="tl-body"><strong>the chief withdraws the request.</strong> At the start of the council meeting, Police Chief Christy Wentzell withdrew the department's request for the three plate readers: "We asked for the community's voice and they gave it to us." The Times reports she told council she still favors the devices. No vote was taken. The cameras had been offered at no charge inside the taser and body-camera purchase, which remains pending (<a href="https://www.transylvaniatimes.com/news/police-chief-cancels-camera-plan/article_5515e786-0bdd-4c13-af0c-f9fcc4041b33.html">Transylvania Times</a>, Sept 8). No recording or minutes were posted as of Sept 9.</div></div>
+<div class="tl-item tl-future"><div class="tl-date">Sept 21, 2026</div><div class="tl-body"><strong>the next regular meeting.</strong> The Axon equipment purchase the cameras were attached to has not come to council. The posted agenda is the place to check whether the plate readers return with it.</div></div>
 <div class="tl-item tl-future"><div class="tl-date">November 3, 2026</div><div class="tl-body"><strong>Sheriff Owenby runs unopposed.</strong> No challenger filed (<a href="https://www.transylvaniatimes.com/news/sheriff-owenby-faces-no-official-opposition/article_dd5fd18d-4e58-4778-bcf9-825f72380725.html">Transylvania Times</a>). Two commission seats are open (Jake Dalton and Chase McKelvey are not running).</div></div>
 </div>
 
 ## Links of note
 
+- [Transylvania Times on the withdrawal](https://www.transylvaniatimes.com/news/police-chief-cancels-camera-plan/article_5515e786-0bdd-4c13-af0c-f9fcc4041b33.html): the chief pulls the request, Sept 8
 - [Transylvania Times on the Brevard decision](https://www.transylvaniatimes.com/news/public-input-sought-before-lpr-decision/article_c8ec9c34-eafd-49aa-9777-0f1590911bdd.html): the Axon bundle and public-input recommendation
 - [Transylvania Times on the sheriff's cameras](https://www.transylvaniatimes.com/news/license-plate-readers-now-watching-highway-traffic/article_cb1ba808-5be4-11ef-8520-ab798f7d6f7b.html): the 2024 county deployment
 - [Brevard City Council on YouTube](https://www.youtube.com/channel/UCQLjYNExYc71BKYghN0V5iA): official council video
@@ -45,11 +47,11 @@ Brevard is the one community in WNC deciding before signing: the draft policy an
 
 [[Chuck Owenby]] (sheriff, unopposed) · Brevard: [[Dean Lytle]], [[Aaron Baker]], Mayor Maureen Copelof, Chief [[Christy Wentzell]]. County commission: Chair Teresa McCall, Vice Chair Larry Chapman (asked for the sheriff's briefing on Aug 24), Jason Chappell, Jake Dalton, Chase McKelvey.
 
-## The live decision: Brevard
+## The Brevard request, withdrawn Sept 8
 
 The "free" cameras come with monthly data-storage fees. The city attorney reviewed it favorably; the deputy chief previously ran Hendersonville's Flock system.
 
-The opening is real: a small city, a genuinely undecided council, and a decision not yet made. Everything on this site (the [[What Axon Contracts Do|contract record]], [[Camera Network Misuse|Camera network misuse, documented cases]], [[Communities That Ended or Limited Contracts|how other communities negotiated]]) is there for anyone who shows up with questions.
+The request was withdrawn without a vote, and the purchase it rode on is still pending, so the same documents apply if it returns. Everything on this site (the [[What Axon Contracts Do|contract record]], [[Camera Network Misuse|Camera network misuse, documented cases]], [[Communities That Ended or Limited Contracts|how other communities negotiated]]) is there for anyone who shows up with questions.
 
 ## The county
 
@@ -61,12 +63,12 @@ On August 24, after residents spoke at public comment, Vice Chair Larry Chapman 
 
 **Video:** county commissioners are on **Vimeo** (no auto-captions); [Brevard City Council is on YouTube](https://www.youtube.com/channel/UCQLjYNExYc71BKYghN0V5iA). The Transylvania Times owns this beat. No organized local opposition group exists yet, which, given the pending public-input meeting, is the gap most worth filling in all of WNC.
 
-## The September decision, dated
+## The September sequence, dated
 
 - **Tuesday, Sept 1, Mary C. Jenkins Community Center**: the city's ALPR information session, held, staffed by Brevard PD and city staff in a question-and-answer format. It was a city event rather than a noticed meeting, so there is no agenda packet and no minutes, and we have found no recording or press account as of Sept 4. **The draft ALPR policy and the Axon contract remain posted** on [the city's ALPR page](https://www.cityofbrevard.com/1546/ALPR-Program), which by late August also carried the city's own list of questions and answers about the proposal.
 - **The decision is a first adoption, not a renewal.** At the Aug 17 council meeting a council member said the city has no plate readers today, that the cameras in the county are run by the sheriff and by a private business, and that concerns about existing cameras belong with the county ([the meeting video](https://www.youtube.com/watch?v=QIlTWVz-c6Y&t=7985s), 2:13:05). One week later the county board heard exactly that from residents (above).
-- **Tuesday, Sept 8, 5:30 PM, City Council, 95 W Main St**: the decision meeting, ALPR on the agenda. Documents due to the U.S. Senate from Flock's chief executive fall on the same day ([[Garrett Langley]]); the Senate letter concerns Flock, and Brevard's offer is Axon's, so it is context for the week rather than for the vote.
-- What is on offer: **three Axon Outpost fixed plate readers at no charge**, inside a five-year, ~$80,000 Axon package of tasers and body cameras, plus monthly data-storage fees. [[What Axon Contracts Do|Asheville's contract]] shows what the same vendor's terms look like at full size.
+- **Tuesday, Sept 8, 5:30 PM, City Council, 95 W Main St**: the decision meeting, item M.3 on the agenda. The chief withdrew the request at the start of the meeting; no vote was taken. Documents from Flock's chief executive were due to the U.S. Senate the same day ([[Garrett Langley]]); on Sept 2 the same subcommittee wrote to Axon, with documents due Sept 16 ([the letter](https://www.hawley.senate.gov/hawley-expands-investigation-into-surveillance-cameras-warns-flock-competitors/)).
+- What was on offer: **three Axon Outpost fixed plate readers at no charge**, inside a five-year, ~$80,000 Axon package of tasers and body cameras, plus monthly data-storage fees. [[What Axon Contracts Do|Asheville's contract]] shows what the same vendor's terms look like at full size.
 - The committee record so far: Council member Aaron Baker wants the city "rock solid on the protections part of it" and says the Axon end of the agreement is his main concern; Dean Lytle says "the chief deserves to answer those questions to the public before it's implemented." The mayor and the other three members have not spoken publicly, and no Transylvania County commissioner has said anything about the sheriff's existing Flock cameras.
 
 ## The posted documents, read (Aug 26, 2026)
@@ -99,6 +101,6 @@ What the draft leaves open, each phrased as a question the Sept 1 session can an
 - **Cloud appendix §13**: for usage data, "including query logs and metadata," Axon is an "independent Data Controller," processing it for its own product purposes, with third-party disclosure permitted once "anonymized, de-identified, and/or aggregated."
 - **The ACEIP appendix**: "By default, Customer will be a participant in ACEIP Tier 1," Axon's program for using customer content across customers to develop its products, with privacy-preserving extraction. Opting out requires the customer to revoke consent in writing. The draft policy does not mention it.
 
-For comparison, Denver asked before signing and negotiated a one-year term, a camera cap, no national-database participation, and a per-query audit trail ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]). Every one of those protections was winnable by a customer that asked first, which is exactly the position Brevard is in until Sept 8.
+For comparison, Denver asked before signing and negotiated a one-year term, a camera cap, no national-database participation, and a per-query audit trail ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]). Every one of those protections was winnable by a customer that asked first, which is the position Brevard would be in again if the request returns.
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[What Axon Contracts Do]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]*

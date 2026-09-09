@@ -58,6 +58,6 @@ Each link above converts into a specific, answerable request with a named owner,
 3. **Pair any vendor presentation with an independent expert, with public comment** (the body setting the agenda).
 4. **Read the exit clause aloud with a dollar figure** (the attorney reviewing the contract): what does leaving in year two cost?
 
-Brevard has already met more of this standard than any town in this record: its draft policy and master terms are posted, its information session (Sept 1) precedes its vote (Sept 8), and the remaining item from the list above is the Quote. The documents, read clause by clause: [[WNC/Transylvania County/index|Transylvania County]]. The vendor script: [[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]]. The contract form nationally: [[What Axon Contracts Do]]. The full local sequence: [[WNC/Asheville/Timeline|Timeline]].
+Brevard has already met more of this standard than any town in this record: its draft policy and master terms are posted, its information session (Sept 1) came before the council date (Sept 8), when the chief withdrew the request, and the remaining item from the list above is the Quote. The documents, read clause by clause: [[WNC/Transylvania County/index|Transylvania County]]. The vendor script: [[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]]. The contract form nationally: [[What Axon Contracts Do]]. The full local sequence: [[WNC/Asheville/Timeline|Timeline]].
 
 *Corrections welcome; this page is meant to be checked.*

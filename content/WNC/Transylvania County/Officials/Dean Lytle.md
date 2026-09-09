@@ -1,6 +1,6 @@
 ---
 title: Dean Lytle
-description: Brevard City Council member who called the plate-reader proposal a "hot button" and pushed for public input before any vote. The input meeting still has no date.
+description: Brevard City Council member who called the plate-reader proposal a "hot button" and pushed for public input before any vote. The input meeting was held Sept 1, 2026; the chief withdrew the request on Sept 8.
 aliases:
   - "People/WNC/Dean Lytle"
 ---
