@@ -14,15 +14,13 @@ The resolution calling for the city manager to terminate the city's contract wit
 
 What passed is the resolution as written at the [[2026-08-20 Agenda Briefing|briefing]]: terminate the contract, request that Flock remove its 11 cameras, stop city searches of Flock data, delete the data the law allows the city to delete, and send the city manager off on a review with ten study topics, including "whether the city should resume use of flock technology" [(2:20:45)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=8445s). No member moved to amend it before the vote.
 
-## The second that never came
-
-The night's most consequential moment took one minute and produced no vote at all.
+## The moratorium motion
 
 Right after the resolution passed, [[Kim Roney|Roney]] moved to add a pause on buying new license plate readers while the city runs the review the resolution just ordered [(4:06:19)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14779s): "I move to have a moratorium on the purchase of new [ALPRs]." The city attorney advised that this needed a motion to add the item to the agenda [(4:07:14)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14834s); she so moved. The mayor asked: "Anybody have a second?" [(4:07:34)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14854s).
 
 No one answered. "All right, the motion fails for lack of a second" [(4:07:36)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14856s). The mayor, declining it herself: "I've got enough faith in the manager to do what we just talked about" [(4:07:29)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14849s).
 
-So the council that voted to end one plate reader contract declined, in the same ten minutes, to bind itself against buying more plate readers during its own review. What stands in place of that binding is the next section.
+No moratorium was adopted; the city manager's assurance in the next section stands in its place.
 
 ## The Axon contract, confirmed from the dais
 
@@ -34,7 +32,7 @@ City Manager D.K. Wesley then gave the assurance that stands where the failed mo
 
 That is the arrangement the city left the room with: the contract that covers stationary Axon plate readers stands, the 162 vehicle-mounted Axon readers APD confirmed to local press on Aug 20 stand ([828NewsNOW](https://828newsnow.com/news/228822-ending-flock-wouldnt-end-ashevilles-license-plate-surveillance/); the city's own transparency portal listed 137 vehicles on Aug 26, a discrepancy we are tracking), and the barrier to new fixed cameras is the manager's word, given verbally, bound by nothing council voted on.
 
-## What "deleted" means, from the chief
+## The chief on data deletion
 
 Answering [[Kim Roney|Roney's]] questions, APD Interim Police Chief Jackie Stepp put the retention mechanics on the record [(2:24:26)](https://www.youtube.com/watch?v=n5eLonf3x_I&t=8666s): "we do have a retention schedule. Flock is currently 21 days. Anything beyond 21 days [is] automatically purged... **Anything that's an active case investigation has been uploaded into evidence.com, and it is no longer stored in the Flock platform**," where it falls under separate statutory retention schedules.
 

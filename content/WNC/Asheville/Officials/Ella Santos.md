@@ -20,7 +20,7 @@ Two months before that, HACA's IT section reported "Surveillance Integration: We
 
 ## The board
 
-Chair **Mychal Bacoate** (appointed January 2025); Vice Chair Kimberly Collins; commissioners Scott Farkas, Maggie Burton-Hughes, Carol Goins, Laura Sotelo Garcia, David L. Robinson Sr., Kidada Wynn, and **[[Sean Aardema]], APD's Deputy Chief of Operations**, who made and seconded motions at the same May 20 meeting where his own chief presented the RTIC ([minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf)). The official who promised the RTIC "will not be sharing information with federal immigration" sits on the board of the authority whose residents are most exposed if it does.
+Chair **Mychal Bacoate** (appointed January 2025); Vice Chair Kimberly Collins; commissioners Scott Farkas, Maggie Burton-Hughes, Carol Goins, Laura Sotelo Garcia, David L. Robinson Sr., Kidada Wynn, and **Sean Aardema, APD's Deputy Chief of Operations**, who made and seconded motions at the same May 20 meeting where his own chief presented the RTIC ([minutes](https://haca.org/wp-content/uploads/2026/08/05202026-Reg-Meeting-Mins-s.pdf)). The official who promised the RTIC "will not be sharing information with federal immigration" sits on the board of the authority whose residents are most exposed if it does.
 
 ## The question for her
 

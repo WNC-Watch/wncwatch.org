@@ -40,7 +40,6 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Kim Roney]]**: Council member since 2020. Voted no on the county camera agreement in 2023 and on each RTIC item in 2025 and 2026; moved the Flock termination Aug 25, 2026. Running for mayor on November 3, 2026.
 - **[[Maggie Ullman]]**: Council member since 2022. Seconded the RTIC motions on May 12, 2026; on Aug 20 said she supports removing the Flock cameras and keeping Axon's tools; voted for termination Aug 25. On the November 3, 2026 ballot.
 - **[[Sage Turner]]**: Council member since 2020. Voted yes on May 12, 2026 with removal of the city's Flock cameras as a stated condition; documented on Aug 17 that the cameras were still up; seconded the termination Aug 25. Not on the ballot until 2028.
-- **[[Sean Aardema]]**: APD Deputy Chief of Operations. To WLOS, May 14, 2026: \"We control Axon Fusus and we will not be sharing information with federal immigration.\"
 - **[[Sheneika Smith]]**: Council member since 2017. On March 25, 2025 suggested a community forum on the RTIC, which was not held; voted yes May 12, 2026; voted no on the Flock termination Aug 25, 2026. On the November 3, 2026 ballot.
 
 #### [[WNC/Asheville/Record/index|Record]]
@@ -53,7 +52,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[The Constitutionality Memo|The city attorney's constitutionality memo]]**: The city attorney's memo circulated the night before the Aug 25, 2026 Flock vote: what it says, and the two cases it does not mention, the Norfolk appeal in the Fourth Circuit and the Supreme Court's June 2026 location-data ruling.
 - **[[The People Who Showed Up]]**: Residents who spoke at council against the RTIC, quoted from the public record with dates and timestamps.
 - **[[The Check-In Meetings|The pre-meeting check-in sessions]]**: Asheville council members discuss agenda items in groups of three before meetings, below the open meetings law's quorum: how the practice works, what the record shows, and the RTIC items it covered.
-- **[[The Committee|The Public Safety Committee]]**: Asheville's Public Safety Committee, where RTIC oversight is assigned: a meeting-by-meeting review of its recordings, what it took up, and the March 26, 2026 meeting that advanced the RTIC grant with no recording published.
+- **[[The Committee|The Public Safety Committee]]**: Asheville's Public Safety Committee, where RTIC oversight is assigned: members, schedule, and a record of each recorded meeting since May 2025, including the March 26, 2026 meeting that advanced the RTIC grant with no recording published.
 - **[[The RTIC Policy]]**: Seven released records on how the RTIC's governing policy was written: what Policy 1703 says, what changed between its four drafts, and the emails dating the Axon contract's signature to July 2026.
 
 #### [[WNC/Asheville/Community/index|Community]]

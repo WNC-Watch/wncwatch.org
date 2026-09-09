@@ -8,7 +8,7 @@ aliases:
 
 One day after [[Esther Manheimer|Mayor Manheimer]]'s [[Getting Flock Out|termination statement]], and hours after [[The RTIC Policy|the RTIC policy records]] became public, council held its agenda briefing for the August 25 meeting ([city's video](https://www.youtube.com/watch?v=KO0Y7oa3E8A), the Flock item from [50:01](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3001s) to [1:13:24](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=4404s)). No public comment is taken at briefings. Captions don't label speakers and garble words; quotes below are from the auto-captions, attributions follow meeting context, and where attribution isn't certain we say "a council member."
 
-## What's actually on Tuesday's agenda
+## The Aug 25 agenda
 
 The last item under new business is **a resolution calling for the city manager to terminate the city's Flock contract** [(50:01)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3001s). Manheimer, presenting it, went further than her Aug 19 statement in several load-bearing ways:
 
@@ -20,7 +20,7 @@ The last item under new business is **a resolution calling for the city manager 
 
 She also stated the city's count plainly [(56:37)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3397s): 11 cameras, all stationary, in place "for some time" with no recent vote, alongside Flock cameras owned by "a university, or the sheriff's department" and private parties that the city can't control. Her summary of the company [(58:45)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3525s): "Flock has always kind of been an odd company... they've gotten some things wrong along the way... when you get things wrong, sometimes you lose business. And that's what we're doing here."
 
-## The memo: the vendor swap, in staff's own words
+## The staff memo
 
 The briefing's most important document isn't the resolution; it's a staff memo [[Kim Roney]] read from and asked to be attached to Tuesday's public agenda materials [(1:10:24)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=4224s):
 
@@ -32,9 +32,9 @@ Manheimer, to her credit, engaged the point instead of deflecting it, and confir
 
 > "What Councilwoman Roney is citing is: if we were to move ahead with replacing Flock-style stationary license plate readers with **Axon stationary license plate readers**, the question around constitutional protection would come back into play... It could be that we land in a place where there's not a resolution to a replacement that's same-for-same... **We're not about to pull down these cameras and right at this moment put the new technology up. But it is something that is in the pipeline**, and we need to have a discussion about it for sure."
 
-Put that beside the record: the [[What Axon Contracts Do|Axon contract]] already pre-authorizes fixed plate readers with no new council vote; [[The RTIC Policy|released emails]] show a never-announced contract for 20 Axon Fleet in-car readers and Axon's rep marketing "Request a demo of our Fixed ALPR here!" in every message; and the mayor herself noted every APD vehicle's dash camera "technically has a license plate reader function" [(55:06)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3306s). "In the pipeline" is not a hypothetical. [[Getting Flock Out|Demand 7]], a separate public vote for any fixed Axon plate reader, is the ask that meets this moment, and **[[Sage Turner]] opened the door to it** (attribution confirmed by watching the video) [(1:09:32)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=4172s): "I did reach out to legal, I did learn Axon has ALPRs... **maybe that's a part of the contract we wish wasn't there**... I'm not interested in dismantling body cams and dash cams." A member of the May 12 majority, saying out loud that the plate-reader component of the contract she voted for may be unwanted: that's the opening for the carve-out vote.
+Put that beside the record: the [[What Axon Contracts Do|Axon contract]] already pre-authorizes fixed plate readers with no new council vote; [[The RTIC Policy|released emails]] show a never-announced contract for 20 Axon Fleet in-car readers and Axon's rep marketing "Request a demo of our Fixed ALPR here!" in every message; and the mayor herself noted every APD vehicle's dash camera "technically has a license plate reader function" [(55:06)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3306s). [[Getting Flock Out|Demand 7]] asks for a separate public vote before any fixed Axon plate reader. [[Sage Turner]] said (attribution confirmed by watching the video) [(1:09:32)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=4172s): "I did reach out to legal, I did learn Axon has ALPRs... **maybe that's a part of the contract we wish wasn't there**... I'm not interested in dismantling body cams and dash cams."
 
-## Roney's checklist for Tuesday
+## Roney's requests
 
 Roney's other asks, each tracking a documented failure mode [(1:02:05)](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3725s):
 
@@ -58,7 +58,7 @@ One exchange to hold onto [(1:03:49)](https://www.youtube.com/watch?v=KO0Y7oa3E8
 
 The agenda posted the next day with the [resolution](https://docs.google.com/document/d/1uhGDUZtpecu4I31Y2ePjYNk1AcM4BPXVP7TbSrRbs40/edit) and [the memo Roney read from](https://docs.google.com/document/d/13kwmbwt6T9PiEjUgrFNb9ZHFGzaIsHi5cvsBHkpq-lY/edit) attached. The memo is dated August 14 and signed by [[Jackie Stepp]]. Beyond the sentence above, it says: APD "is not pursuing a full transition away from Flock" and is "exploring transitioning from its existing Flock camera deployment to a Flock software license that would preserve access to the Flock network"; "by February 2027, APD expects to complete the planned reduction of its Flock contract and have the Axon ALPR infrastructure operational"; there are "86 Flock cameras deployed throughout Buncombe County, including 11 owned by the City"; the county sheriff "currently uses Flock ALPR cameras" and APD is "evaluating consolidating the BCSO RTIC into the APD RTIC"; and in August 2026 APD cut authorized searchers "from 18 to 12," narrowed outside access from the 500-mile radius to four neighboring states, and cut retention from 30 to 21 days. It also dates Flock to February 2025 and Axon in-car readers to April 2024, and misdates council's civil-liberties resolution to June (it passed May 12). The resolution's seven sections, scored against the eight demands, are on [[Getting Flock Out]]: one demand met, one partly, six not addressed, and Axon absent from the text.
 
-## What this means for Tuesday
+## Before the Aug 25 vote
 
 The vote is real, the resolution text is public, and the mechanics are now public: termination is the removal mechanism because the poles are Flock's property, and Flock's own 10-camera minimum forecloses the token-camera compromise. What the briefing put beyond argument is the follow-on question: the city's staff memo describes **expanding Axon plate readers** while Flock comes down, and the mayor confirmed replacements are "in the pipeline." Support the termination Tuesday, and put [[Getting Flock Out|demands 2 through 8]] on the record while the room is full: a removal date, covered cameras until they're gone, written data deletion, and a public vote before any Axon pole goes up.
 
