@@ -10,9 +10,9 @@
   source_url: "https://www.cityofbrevard.com/AgendaCenter"
   camera_item: "yes"
   status: held
-  account_url: "https://www.transylvaniatimes.com/news/police-chief-cancels-camera-plan/article_5515e786-0bdd-4c13-af0c-f9fcc4041b33.html"
-  verify_note: "Held Sept 8; the chief withdrew item M.3 at the start of the meeting per the Transylvania Times of Sept 8; no recording or minutes posted on the Agenda Center as of Sept 9."
-  verified: 2026-09-09
+  account_url: "https://www.youtube.com/watch?v=BHIQQfdGmZ4"
+  verify_note: "Held Sept 8; the chief withdrew item M.3 at the start of the meeting (city recording 0:05:50); council 3 to 2 on the modified agenda; minutes not posted as of Sept 10."
+  verified: 2026-09-10
 
 - id: henderson-county-board
   area: Henderson County
@@ -27,8 +27,9 @@
   source_url: "https://www.hendersoncountync.gov/meetings?field_microsite_tid_1=111"
   camera_item: "no"
   status: held
-  verify_note: "Held Sept 8; no camera item on the agenda; the county's recording was not posted as of Sept 9."
-  verified: 2026-09-09
+  account_url: "https://www.hendersoncountync.gov/boc/page/board-commissioners-meeting-1398"
+  verify_note: "Held Sept 8; no camera item; 41 minutes of public comment on the cameras, 14 of 17 against; chair promised a public board discussion, no date; county recording on the meeting page."
+  verified: 2026-09-10
 
 - id: macon-county-board
   area: Macon County
@@ -43,8 +44,9 @@
   source_url: "https://www.maconnc.org/roster.html"
   camera_item: "no"
   status: held
-  verify_note: "Held Sept 8; no camera item on the agenda; the county's recording was not posted as of Sept 9, the channel's newest upload being July 14."
-  verified: 2026-09-09
+  account_url: "https://www.youtube.com/watch?v=gtjtKs1Lj4U"
+  verify_note: "Held Sept 8; no camera item; cameras not raised at public comment; county recording (YouTube live link, not on the channel tab)."
+  verified: 2026-09-10
 
 - id: rutherford-county-board
   area: Rutherford County

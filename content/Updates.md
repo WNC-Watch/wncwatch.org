@@ -5,6 +5,12 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## September 10, 2026: the Sept 8 recordings
+
+- **Henderson County.** The county's Sept 8 recording is up, and the cameras filled the comment period: seventeen speakers, fourteen against, none for. Chair Bill Lapsley said the board "will be discussing it amongst ourselves" and "will certainly be public with our discussions"; no date was set. On [[WNC/Henderson County/index|Henderson County]] and [[Bill Lapsley]].
+- **Brevard.** The city's Sept 8 recording and the Sept 1 session audio and slides are up. The chief's statement is now quoted from the recording, including that the tasers and body cameras proceed and that plate readers could return only through a budget request; council voted 3 to 2 on the modified agenda. On [[WNC/Transylvania County/index|Transylvania County]] and [[Christy Wentzell]].
+- **Macon.** The first meeting after the removal did not touch the cameras; the recording is linked on [[WNC/Macon County/index|Macon County]].
+
 ## September 9, 2026: Brevard's request withdrawn, Rutherford's petition, two cancellations in the east
 
 - **Brevard.** At the start of the Sept 8 council meeting the police chief withdrew the request for three Axon plate readers; no vote was taken, and the taser and body-camera purchase the cameras were attached to is still pending. [[WNC/Transylvania County/index|Transylvania County]] carries the account and the next check, the Sept 21 meeting; the calendar item is marked held.
