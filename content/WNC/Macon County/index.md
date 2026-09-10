@@ -11,7 +11,7 @@ systems:
     detail: "12 county cameras removed after the commissioners' July 14, 2026 vote, 5 to 0; the sheriff's office lost access to all 16 on the account; four school cameras unresolved; the county still appears on network membership lists."
     links:
       - "Companies/Flock Safety"
-verified: 2026-09-08
+verified: 2026-09-10
 ---
 
 Macon County commissioners voted 5 to 0 on July 14, 2026 to end the sheriff's Flock contract; the cameras came down.
@@ -55,6 +55,8 @@ The full July 14 recording is public ([the meeting video](https://www.youtube.co
 
 - **The four school cameras are still unresolved**: commissioners deferred them to school leaders; the school system says **neither MCSO nor Flock has contacted them** about the cameras on their buildings. No school-board vote has ever been taken.
 - **False claims circulated online** that Franklin had Flock cameras (it has none), and town officials reported threats during the July 2026 debate.
+
+The board's first regular meeting after the removal, September 8, 2026, did not touch the cameras: no agenda item, and none of the six residents at public comment raised them ([county recording](https://www.youtube.com/watch?v=gtjtKs1Lj4U), 1 hour 58 minutes).
 
 ## After the vote: the paperwork that still applies
 

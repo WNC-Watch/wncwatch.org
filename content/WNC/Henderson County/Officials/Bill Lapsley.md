@@ -16,6 +16,8 @@ The county's plate readers have never had a commission vote, and Lapsley has sig
 
 "Until we hear of some abuse" describes a system whose abuse is discovered by audit logs the county has never asked for ([[Camera Network Misuse|Camera network misuse, documented cases]]). The board holds the only lever the law gives it, the budget, and has declined to touch it ([[What the Law Lets the County Do]]).
 
+**September 8, 2026, closing informal public comment** after fourteen of seventeen speakers opposed the cameras: "First, appreciate everyone's attendance tonight. Appreciate your comments and information. The board certainly hears you, and we will be discussing it amongst ourselves to see how we as a board want to proceed, discuss it. I know we'll certainly be public with our discussions on the matter." No date, item, or position followed in the meeting ([county recording](https://www.hendersoncountync.gov/boc/page/board-commissioners-meeting-1398), 0:51:58).
+
 ## The question for him
 
 He leaves office having never put the cameras to a vote. Will he schedule one before December, or hand a 2,048-agency sharing network to a successor none of the three Republican candidates has been asked about? ([[WNC/Henderson County/index|Henderson County]])
