@@ -15,7 +15,33 @@ aliases:
 
 As a county commissioner, Ball sits on the body that funds the Sheriff's ~1,800-camera Fusus network, the system Asheville's [[What Is the RTIC|RTIC]] extends. No vote on Fusus, Flock, or the RTIC, and no written statement found (searched Aug 17 and Sept 17, 2026: campaign site, campaign accounts, regional news). His first statement on the cameras came at a West Asheville candidate forum:
 
-- **Sept 16, 2026.** Asked about surveillance and the Flock vote, he said residents are asking "Are we being tracked? Is this a nationwide system that's being built here?" (8:40), that he had completed the Citizens Police Academy and a West Asheville ride-along to see "how police are using this technology and what it can do" (9:11), and that "Flock cameras helped police find out where those kids were" in the paintball case (9:25). His conditions: if police are to read license plates there must be audit logs, and "We need to make sure we control our data so it's not fed to a national network. We need closed loop systems that we control" (10:09). He said he trusts APD, and: "I don't trust the Trump administration or ICE" (10:22). He also said the experts on both sides "should [be brought] together before the decision is made" (10:02). (audience recording of the Sept 16, 2026 council candidate forum, held by this site; timestamps are minutes into it.)
+- **Sept 16, 2026.** Answered the surveillance and check-ins questions at the West Asheville council candidate forum; his words and audio are in the forum section below.
+
+## At the Sept 16, 2026 candidate forum
+
+Words are from an audience recording this site holds, with ums and repeats removed and nothing else changed; times are minutes into it. Every candidate's answers are on [[2026-09-16 Council Candidate Forum|the Sept 16 forum record]].
+
+**On surveillance and the Flock vote** (8:16)
+
+![[forum-2026-09-16-ball-surveillance.m4a]]
+
+> "People are concerned about their privacy, they're concerned about what's appropriate. Are we being tracked? Is this a nationwide system that's being built here? Those are really important questions." (8:47)
+
+> "Do you all hear about the folks that were riding around shooting people with a paintball gun, particularly targeting homeless people? Flock cameras helped police find out where those kids were and stop them from doing that." (9:25)
+
+> "There's aspects where technology can be useful, but at the same time, you really need to think about how much privacy we're willing to give up." (9:43)
+
+> "We need to make sure we control our data so it's not fed to a national network. We need closed loop systems that we control." (10:09)
+
+He said he had completed the Asheville Citizens Police Academy and a West Asheville ride-along (9:11), that a plate reader system would need audit logs (10:09; the word is garbled on the recording), and that he trusts APD: "I don't trust the Trump administration or ICE" (10:22).
+
+**On three-person check-ins out of public view** (57:39)
+
+![[forum-2026-09-16-ball-checkins.m4a]]
+
+> "3-by-3s have been permitted by law. Typically, the city or county will be looking for guidance on an HR matter that can cause concern if it's discussed in public or a legal matter. But at the county level, I'm always really quick when we have a 3-by-3 to say, is there any reason we shouldn't be doing this during the briefing?"
+
+> "I think doing these things in public is really critical." (58:40)
 
 ## In his words
 

@@ -5,6 +5,7 @@ description: Seven council meetings reconstructed from the city's own video, wit
 
 Each page is built from the city's published video and documents. Quotes link to the timestamp where they were said. Newest first.
 
+- **[[2026-09-16 Council Candidate Forum|2026-09-16 Council Candidate Forum]]**: five council candidates on surveillance and on closed-door check-ins, with audio.
 - **[[2026-08-25 City Council]]**: Flock termination vote, 5 to 2.
 - **[[2026-08-20 Agenda Briefing]]**: agenda briefing, Flock termination resolution.
 - **[[2026-05-12 City Council]]**: RTIC grant and Axon contract vote, 6 to 1.
