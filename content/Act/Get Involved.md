@@ -23,4 +23,4 @@ This site is a reference, not an organization. These are the people doing the or
 
 2. **Show up.** Asheville's [[The Committee|Public Safety Committee]] meets <span data-cal="asheville-public-safety"></span>; the question to bring is where the audit reports state law already requires are. See [[Speak at Council]].
 3. **Take the tour.** APD runs public RTIC tours every other Thursday, 2–4 PM (828-259-5881). Go with questions from the [[Promise Tracker]] and write down the answers.
-4. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly, in public, on the record.
+4. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly, in public, on the record. Some of what candidates have said comes from recordings readers sent in that are not posted anywhere public; the Sept 16, 2026 council forum is one. Those files are available to anyone who wants to check a quotation: ask through any of the accounts above, and send in your own recordings the same way, with the date and place.

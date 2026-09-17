@@ -1,6 +1,6 @@
 ---
 title: Keith Young
-description: "Former council member (2015 to 2020), running for council on November 3, 2026. His DSA questionnaire calls for a \"local firewall\" and data-minimization rules; it does not name the RTIC, Fusus, or Flock."
+description: "Former council member (2015 to 2020), running for council on November 3, 2026. His DSA questionnaire calls for a \"local firewall\" and data-minimization rules. At a Sept 16, 2026 forum he said the system council agreed on is \"probably not\" the one to use and called for a community conversation."
 aliases:
   - "People/Keith Young"
   - "People/Asheville/Keith Young"
@@ -19,8 +19,12 @@ No votes on the current buildout (he left council before it). But Young is **the
 - Ensure local government "is not feeding a pipeline into enforcement through data, technology, or informal collaboration"
 - "Strong privacy and data minimization rules"; nonpublic records "not accessed without a proper judicial warrant"
 
-Read those against the [[What Is the RTIC|RTIC]]'s design, with its 500-mile data-sharing radius and informal inter-agency lookups as the documented ICE pathway ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]), and his language describes the problem almost exactly. **He has never named the RTIC, Fusus, or Flock.** His [Chamber survey](https://www.ashevillechamber.org/news-events/2026-city-council-candidate-survey-keith-young/) frames public safety as staffing and response times.
+Read those against the [[What Is the RTIC|RTIC]]'s design, with its 500-mile data-sharing radius and informal inter-agency lookups as the documented ICE pathway ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]), and his language describes the problem almost exactly. His first statement on the cameras came at a West Asheville candidate forum:
+
+- **Sept 16, 2026.** Citing his day job handling search warrants as a deputy clerk of Superior Court and the consent-to-search requirement council adopted during his 2015 to 2020 term, "basically a protection of your Fourth Amendment right" (6:26), he put the residents' questions as "Who controls the data? When is it used? When are the cameras being turned on?" (7:23), and closed: "Can we use this system to make our public safety system stronger? Yes, but should it be the one that they agreed upon? Probably not. I think we should have a community conversation, bring people to the table, and figure out what works best for Asheville" (7:51). He did not name the RTIC, Axon, or Flock. (audience recording of the Sept 16, 2026 council candidate forum, held by this site; timestamps are minutes into it.)
+
+**No written statement naming the RTIC, Fusus, or Flock has been found.** Searched Sept 17, 2026: his campaign site ([keithforavl.com](https://www.keithforavl.com/)), including its Issues page, whose "Fairness, Equity, and Civil Rights Protections" and "Community Trust and Transparency" sections do not mention surveillance, and regional news since the primary; the earlier search was Aug 17. His [Chamber survey](https://www.ashevillechamber.org/news-events/2026-city-council-candidate-survey-keith-young/) frames public safety as staffing and response times.
 
 ## The question for him
 
-Does the "local firewall" include the RTIC? Would he vote to release the [[What Axon Contracts Do|Axon contract]], publish the audits, and pass an oversight ordinance? He's one direct question away from being the first council candidate with an actual position. See [[Election 2026]].
+Does the "local firewall" include the RTIC, and is the RTIC the system he said is "probably not" the right one? Would he vote to release the [[What Axon Contracts Do|Axon contract]], publish the audits, and pass an oversight ordinance? See [[Election 2026]].
