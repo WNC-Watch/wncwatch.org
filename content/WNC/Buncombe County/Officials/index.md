@@ -12,7 +12,7 @@ The county built its network first, in 2022, and the city copied its rulebook. T
 | | Role | Since | Surveillance record |
 |---|---|---|---|
 | [[Quentin Miller]] | Sheriff, seeking a 3rd term | 2018 | Built the Fusus network; his policies allow sharing for "intelligence operations" with no federal limit |
-| [[Gary Parris]] | Republican nominee for sheriff | | No position found |
+| [[Gary Parris]] | Republican nominee for sheriff | | Feb 24, 2026: pledged a "Unified Operations Intelligence Center to share actionable intelligence with all agencies"; nothing found on Fusus, Flock, or plate readers (searched Sept 17) |
 | [[Board of Commissioners]] | All seven, plus the November candidates | No member has questioned the RTIC on the record since 2022 |
 | [[Board of Education]] | Buncombe County Schools board, plus Asheville City Schools | Controls deputy access to ~1,500 school cameras; no public vote on the agreement is on the record; three seats on the ballot |
 

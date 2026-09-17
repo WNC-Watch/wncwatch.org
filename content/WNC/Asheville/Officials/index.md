@@ -37,7 +37,7 @@ The city is where the RTIC was approved and where the Flock contract was ended o
 | [[Maggie Ullman]] | Council member | 2022 | **Yes**; first public position Aug 20, 2026: pull Flock, keep Axon |
 | [[Drew Ball]] | County commissioner, running for council | 2024 | Challenger; no position found |
 | [[Keith Young]] | Former council member, running again | | Challenger; a "local firewall" in his DSA questionnaire, nothing on the RTIC |
-| [[Jeffrey Burroughs]] | First-time candidate | | Challenger; no position found |
+| [[Jeffrey Burroughs]] | First-time candidate | | Challenger; May 14, 2026: "If I had been on council, I would have voted no" on the RTIC and Axon; Aug 25: supports ending the Flock contract |
 
 ## Not on a ballot until 2028
 
