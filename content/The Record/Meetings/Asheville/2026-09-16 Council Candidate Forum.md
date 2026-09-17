@@ -17,7 +17,7 @@ Two of the questions bear on what this site tracks: surveillance and the Flock v
 
 The question was already under way when the recording starts. From the answers, it covered the Aug 25 vote to end the Flock contract ([[2026-08-25 City Council|the record of that meeting]]), whether the candidate supports surveillance, and neighborhoods that experience violence.
 
-### Maggie Ullman (0:00 to 1:40)
+### [[Maggie Ullman]] (0:00 to 1:40)
 
 ![[forum-2026-09-16-ullman-surveillance.m4a]]
 
@@ -31,7 +31,7 @@ On the word surveillance, she said body cameras are called surveillance too, and
 
 Beside the record: she voted for the Axon contract on May 12 and for ending Flock on Aug 25. On Aug 20 she said dropping Axon "starts to hit a wall where I can't fathom pulling back on our transparency tools" ([[2026-08-20 Agenda Briefing]]). The city's 11 Flock cameras were still up pending removal as of Sept 8.
 
-### Antanette Mosley (1:43 to 3:27)
+### [[Antanette Mosley]] (1:43 to 3:27)
 
 ![[forum-2026-09-16-mosley-surveillance.m4a]]
 
@@ -45,7 +45,7 @@ She described asking a prior gathering of Democrats how many had heard of the ma
 
 Beside the record: she voted no on ending Flock on Aug 25. No document on this site records a resident request to keep the cameras; the Sheriff's access log shows 58% of logged camera views on public housing ([[Sheriffs Audit Log|the log]] · [[Cameras in Public Housing]]).
 
-### Jeffrey Burroughs (3:37 to 5:49)
+### [[Jeffrey Burroughs]] (3:37 to 5:49)
 
 ![[forum-2026-09-16-burroughs-surveillance.m4a]]
 
@@ -59,7 +59,7 @@ Beside the record: she voted no on ending Flock on Aug 25. No document on this s
 
 He cited a Texas case of a woman seeking reproductive care who was subpoenaed and jailed "because of these systems" (5:39), and was cut off for time while referring to state troopers and ICE. The committee's history is on [[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]].
 
-### Keith Young (6:03 to 8:10)
+### [[Keith Young]] (6:03 to 8:10)
 
 ![[forum-2026-09-16-young-surveillance.m4a]]
 
@@ -73,7 +73,7 @@ He described his day job as a deputy clerk of Superior Court handling search war
 
 He did not name the RTIC, Axon, or Flock.
 
-### Drew Ball (8:16 to 10:24)
+### [[Drew Ball]] (8:16 to 10:24)
 
 ![[forum-2026-09-16-ball-surveillance.m4a]]
 
@@ -97,7 +97,7 @@ The moderator's question (51:50): "Many residents are under the impression that 
 
 What the record holds on the practice is on [[The Check-In Meetings|the pre-meeting check-in sessions]]: council voted in February 2023 to replace the check-ins with public work sessions, and reporting in 2025 and 2026 documents that the practice resumed.
 
-### Jeffrey Burroughs (52:27)
+### [[Jeffrey Burroughs]] (52:27)
 
 ![[forum-2026-09-16-burroughs-checkins.m4a]]
 
@@ -105,7 +105,7 @@ What the record holds on the practice is on [[The Check-In Meetings|the pre-meet
 
 > "So maybe just have that meeting once, maybe go ahead and tape it, put everything down. If it's going to be said out loud, if there's nothing to hide ... then there's no reason that it can't just be done out in public." (53:05)
 
-### Maggie Ullman (53:39)
+### [[Maggie Ullman]] (53:39)
 
 ![[forum-2026-09-16-ullman-checkins.m4a]]
 
@@ -115,7 +115,7 @@ What the record holds on the practice is on [[The Check-In Meetings|the pre-meet
 
 > "The three-by-three I participated in around the budget was when our city manager, early in the budget, was giving us numbers that were really scary ... As someone who stewards a $250 million budget with 1,400 people and their families, I thought that was appropriate to have that as a private conversation instead of on the headlines ... I think that felt appropriate to be more discreet." (54:40)
 
-### Keith Young (55:20)
+### [[Keith Young]] (55:20)
 
 ![[forum-2026-09-16-young-checkins.m4a]]
 
@@ -125,7 +125,7 @@ What the record holds on the practice is on [[The Check-In Meetings|the pre-meet
 
 > "What has transpired to now, I don't know." (56:30)
 
-### Antanette Mosley (56:33)
+### [[Antanette Mosley]] (56:33)
 
 ![[forum-2026-09-16-mosley-checkins.m4a]]
 
@@ -133,7 +133,7 @@ What the record holds on the practice is on [[The Check-In Meetings|the pre-meet
 
 > "I understand why we don't want 3-by-3s. I'm willing to forgo them, but also keep in mind that some parts of our community will suffer if we do forgo them." (57:21)
 
-### Drew Ball (57:39)
+### [[Drew Ball]] (57:39)
 
 ![[forum-2026-09-16-ball-checkins.m4a]]
 
