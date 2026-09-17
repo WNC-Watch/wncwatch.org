@@ -19,9 +19,33 @@ verified: 2026-09-08
 - **July 31, 2025.** At the Public Safety Committee, asked staff about federal immigration access to the system ([[The Committee]]).
 - **May 12, 2026.** Voted for the RTIC grant and the Axon contract; each passed 6 to 1. [[2026-05-12 City Council|The meeting record]]. No public statement on the items before Aug 25, 2026 was found in council recordings, candidate questionnaires, or local coverage (checked through Aug 17, 2026).
 - **August 25, 2026.** Cast one of the two no votes on the Flock termination resolution, which passed 5 to 2. Her statement: concerns about "privacy, data sharing, civil liberties and accountability... are not new for me," citing her years representing the pedestrian beaten by an APD officer in 2017. "This whole thing feels deeply political to me. We are [in] the middle of an election season... My job is not to participate in political theater. My job is to govern... I cannot support this resolution in [its] current [form] tonight." Asked what change would win her vote: "what we're attempting to do quite frankly is a bait and switch, and I think we're not giving our citizens credit for seeing that." She read into the record a letter from the housing authority's executive director: residents "want cameras... more security not less," and "their absence at council meetings should not be mistaken for silence." [[2026-08-25 City Council|The meeting record]].
-- **September 16, 2026.** At a West Asheville candidate forum, asked about surveillance and the Flock vote: "I'm the liaison for the Asheville Housing Authority on City Council. And those folks in those neighborhoods requested that we maintain the cameras" (2:10); "I happen to not believe that we have to choose between public safety and civil liberties. I think we can do both. And I think where we landed is a good indication that we can do both" (3:09). (audience recording of the Sept 16, 2026 council candidate forum, held by this site; timestamps are minutes into it.) No document on this site records a resident request to keep the cameras; the Sheriff's access log shows 58% of camera viewing on public housing ([[Sheriffs Audit Log|the log]]).
+- **Sept 16, 2026.** Answered the surveillance and check-ins questions at the West Asheville council candidate forum; her words and audio are in the forum section below.
 
 She holds the council's non-voting seat on the board of the Asheville Downtown Improvement District, the nonprofit that operates the downtown Business Improvement District she voted to create in June 2024 ([[Follow the Money]]).
+
+## At the Sept 16, 2026 candidate forum
+
+Words are from an audience recording this site holds, with ums and repeats removed and nothing else changed; times are minutes into it. Every candidate's answers are on [[2026-09-16 Council Candidate Forum|the Sept 16 forum record]].
+
+**On surveillance and the Flock vote** (1:43)
+
+![[forum-2026-09-16-mosley-surveillance.m4a]]
+
+> "I'm the liaison for the Asheville Housing Authority on City Council. And those folks in those neighborhoods requested that we maintain the cameras. I think it's very important who represents whom, and that even dissenting voices are heard. With that in mind, I'm willing to support those vulnerable neighborhoods." (2:10)
+
+> "I happen to not believe that we have to choose between public safety and civil liberties. I think we can do both. And I think where we landed is a good indication that we can do both." (3:09)
+
+She described asking a prior gathering of Democrats how many had heard of the mass shooting on Biltmore and how many knew people or families involved: "very few" (2:42). Beside the record: no document on this site records a resident request to keep the cameras; the Sheriff's access log shows 58% of logged camera views on public housing ([[Sheriffs Audit Log|the log]] · [[Cameras in Public Housing]]).
+
+**On three-person check-ins out of public view** (56:33)
+
+![[forum-2026-09-16-mosley-checkins.m4a]]
+
+> "There is no formal 3-by-3 process at this point with your city council ... What we do now is we do regular agenda briefings, live, on air."
+
+> "I understand why we don't want 3-by-3s. I'm willing to forgo them, but also keep in mind that some parts of our community will suffer if we do forgo them." (57:21)
+
+Beside the record: reporting in 2025 and 2026 documents that the practice resumed after council's February 2023 vote to replace it ([[The Check-In Meetings|the pre-meeting check-in sessions]]).
 
 ## In her words
 

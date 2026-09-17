@@ -38,6 +38,18 @@ The experts who've looked at Asheville's version, on the record: Hugh Stevens, l
 
 City Attorney Brad Branham's defense over the years has been consistent: the meetings are lawful because "the board can't rely on these individual meetings to take official action, which we don't." No minutes exist.
 
+## What the council candidates said, Sept 16, 2026
+
+At a West Asheville candidate forum, five of the six council candidates were asked for their thoughts on "council holding three-person check-ins that are not open to the public." Their answers, with audio, are on [[2026-09-16 Council Candidate Forum|the forum record]]; the lines that bear on this page:
+
+- **[[Keith Young]]**, on council 2015 to 2020, gave an account of the origin: "This started when I was on council ... When I arrived on council, there was no information hub ... In a 2017 UNCA council retreat, we talked about how we would bring that information in, and everybody would get the same information at the same time ... That was supposed to be for information purposes." On the practice today: "What has transpired to now, I don't know."
+- **[[Maggie Ullman]]**: the routine sessions have not happened "since early 2023"; "The last three-by-three I was in was around the budget process this spring ... We have had ad hoc ones that have come up." On that budget session: "I thought that was appropriate to have that as a private conversation instead of on the headlines."
+- **[[Antanette Mosley]]**: "There is no formal 3-by-3 process at this point with your city council ... What we do now is we do regular agenda briefings, live, on air." And: "I'm willing to forgo them, but also keep in mind that some parts of our community will suffer if we do forgo them."
+- **[[Jeffrey Burroughs]]**: "If this is the work that's happening to leading to the result of the vote, it just needs to be done in public ... maybe just have that meeting once, maybe go ahead and tape it."
+- **[[Drew Ball]]**, a county commissioner: "3-by-3s have been permitted by law ... at the county level, I'm always really quick when we have a 3-by-3 to say, is there any reason we shouldn't be doing this during the briefing? ... I think doing these things in public is really critical."
+
+Two sitting members described the sessions as ad hoc since early 2023, with a budget session in spring 2026. That matches the reporting above on budget check-ins. Neither said whether any session covered the RTIC items, and no minutes exist for any of them.
+
 ## The RTIC votes
 
 **What's documented:** the check-in system existed before, during, and after the [[What Is the RTIC|RTIC]] approvals; every RTIC vote arrived at the public meeting and passed 6–1 with no council deliberation visible beyond [[Kim Roney|Roney]]'s dissents; on May 12 the motion was seconded before public comment began and the vote came [[2026-05-12 City Council|six seconds after the last speaker]].
