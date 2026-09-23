@@ -25,13 +25,13 @@ A request needs no magic words. State that you are requesting public records und
 
 ## The queue
 
-### 1. The executed Axon contract, authorized May 12, 2026
+### 1. The Axon quote, the Fleet contract and the purchase orders behind the contract signed Aug 4, 2026
 
-**To: City of Asheville.** On May 7, 2026, the city manager confirmed the Axon agreement council was about to authorize "[[2026-05-07 Agenda Briefing|does not exist yet]]." Council voted [[2026-05-12 City Council|May 12]] to let her negotiate and sign it. The final signed terms have never been published.
+**To: City of Asheville.** On May 7, 2026, the city manager confirmed the Axon agreement council was about to authorize "[[2026-05-07 Agenda Briefing|does not exist yet]]." Council voted [[2026-05-12 City Council|May 12]] to let her negotiate and sign it; she signed Aug 4, and the city posted the eight-page contract in August ([[The Axon Contract as Signed|the contract, as signed]]). The quote it references, the separate contract for 20 Axon Fleet in-car readers, and the purchase orders have not been published.
 
-> Under N.C.G.S. Chapter 132, I request electronic copies of: (1) the fully executed master agreement between the City of Asheville and Axon Enterprises authorized by City Council on May 12, 2026, including all exhibits, appendices, statements of work, quotes, and amendments; (2) all purchase orders issued to Axon from January 1, 2023 to present. If any portion is withheld, please identify it and cite the specific statutory exemption.
+> Under N.C.G.S. Chapter 132, I request electronic copies of: (1) Axon quote Q-808220-46198AS, referenced in Exhibit A of City of Asheville Contract 92700065, with all line items, quantities and unit prices, and any revision of it; (2) the executed contract and quote for the 20 Axon Fleet in-car license plate readers referenced in APD's July 2026 correspondence with Axon; (3) all purchase orders issued to Axon from January 1, 2023 to present. If any portion is withheld, please identify it and cite the specific statutory exemption.
 
-**What it proves:** whether the signed terms match the public promises: retention, data ownership, ACEIP, termination, renewal pricing. ([[What Axon Contracts Do]]). **Status: not filed as of Sept 8, 2026**
+**What it proves:** what was bought and in what quantity, which Fusus tier, and whether any Lightpost fixed-reader hardware was purchased ([[The Axon Contract as Signed|the contract, as signed]]). **Status: not filed as of Sept 23, 2026**
 
 ### 2. The city's participation status in Axon's ACEIP data program
 

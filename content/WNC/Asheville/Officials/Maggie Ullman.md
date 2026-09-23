@@ -55,7 +55,7 @@ Beside the record: council voted in February 2023 to replace the check-ins with 
 ## What is pending with her
 
 - Whether she would require a separate council vote before any fixed Axon plate reader goes up ([[Getting Flock Out|demand 7]]). As of Sept 8, 2026, no position.
-- Whether she supports releasing the executed Axon contract and publishing the quarterly audits ([[Promise Tracker]]). As of Sept 8, 2026, no public position.
+- Whether she supports posting the itemized Axon quote and the Fleet contract, and publishing the quarterly audits ([[Promise Tracker]]). As of Sept 23, 2026, no public position.
 - Her seat is on the Nov 3, 2026 ballot ([[Election 2026]]). Contact: maggieullman@avlcouncil.com.
 
 A statement from the Aug 20 briefing once attributed to her on this page belongs to [[Sage Turner]]; see [[Corrections]], Aug 26, 2026.

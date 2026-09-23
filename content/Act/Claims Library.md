@@ -41,7 +41,7 @@ Each pattern below is documented in Asheville's record; the third column is the 
 - APD's 11 Flock cameras scanned **~3.1 million plates in 21 months**, in a city of ~95,000. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 - That data is shared with law enforcement agencies across a **500-mile, multi-state radius**: a circle reaching Atlanta, Nashville, and Washington, DC, including states with different laws on abortion and immigration. ([Annie Dance](https://anniedance.substack.com/p/asheville-expands-regional-surveillance))
 - The county network Asheville plugs into includes **~1,500 cameras inside [[WNC/Buncombe County/index|Buncombe County]] schools**. ([Citizen Times via Yahoo](https://www.yahoo.com/news/2-000-camera-network-feeding-090126108.html))
-- The Axon contract runs **7.5 years, to 2033**, authorized May 12, 2026 before the text existed; the executed contract has not been released. Axon's own investor pitch touts ~25%/year customer spending growth ("Flywheel of Growth"). ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
+- The Axon contract runs **7.5 years, to 2033**, authorized May 12, 2026 before the text existed; the signed contract was posted by the city in August 2026, the quote was not ([[The Axon Contract as Signed|the contract, as signed]]). Axon's own investor pitch touts ~25%/year customer spending growth ("Flywheel of Growth"). ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
 - Total known costs: $1.14M federal grant, ~$400K video wall, **$467K software over the contract**, ~$250K operational. ([Asheville Watchdog](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/))
 
 ## Asheville's commitments and the record
@@ -49,7 +49,7 @@ Each pattern below is documented in Asheville's record; the third column is the 
 - The city **refused a public records request for APD's Flock audit logs** (July 2025), citing G.S. 20-183.31(b) and the criminal-intelligence exemption, while officials tout the system's "robust audit trail." ([Sunshine Request dispute](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/))
 - APD's transparency page's ALPR dashboard link returned a 404 on Aug 17, 2026 and was restored Aug 20, 2026 with the Axon link working ([[Promise Tracker|row 10]]). ([APD transparency page](https://www.ashevillenc.gov/department/police/transparency/))
 - APD's [ALPR policy](https://public.powerdms.com/ASHV/documents/3369604) was **revised May 5, 2026 (a week before the vote) and already assigned duties to "the RTIC supervisor"** for a center council hadn't approved yet.
-- The **executed Axon contract has never been released**: Resolution 26-99 authorized the City Manager to sign it; the public has never seen what was signed. ([[Documents]])
+- The **signed Axon contract was posted in August 2026**, three months after council authorized it unwritten; the itemized quote, the 20-camera Fleet contract and the ACEIP confirmation remain unposted. ([[The Axon Contract as Signed|the contract, as signed]] · [[Documents]])
 
 ## The national record
 

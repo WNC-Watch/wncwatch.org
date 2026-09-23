@@ -39,11 +39,11 @@ North Carolina law permits disclosure to "a similar official at a federal law en
 
 | Date | What happened | Source |
 |---|---|---|
+| 2018 to 2020 | Memphis police ran fake social-media accounts to monitor Black Lives Matter activists, in violation of a federal consent decree in force since 1978; an ACLU lawsuit and trial established it | [ACLU-TN](https://www.aclu-tn.org/press-releases/aclu-tn-demands-memphis-police-compliance-with-kendrick-consent-decree-during-federal-deployment/) |
+| 2020 | San Francisco police monitored a business district's 300-plus camera network live for eight days during the George Floyd protests, without the approval the city's surveillance ordinance required | [EFF, Williams v. San Francisco](https://www.eff.org/cases/williams-v-san-francisco) |
+| 2020 | The NYPD used facial recognition on an Instagram photo to identify a protest organizer, then held his apartment building for five hours without producing a warrant | [Gothamist](https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment) |
 | May 29, 2025 | A Johnson County, Texas deputy searched 83,000-plus cameras across 6,809 networks, including in states where abortion is legal, for a woman who had self-managed an abortion, logged as "had an abortion, search for female"; the sheriff called it a welfare check | [404 Media](https://www.404media.co/a-texas-cop-searched-license-plate-cameras-nationwide-for-a-woman-who-got-an-abortion/) |
 | Oct 7, 2025 | Court records showed the same office was running a "death investigation" and had discussed criminal charges with prosecutors | [404 Media](https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/) · [EFF](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it) |
-| 2020 | San Francisco police monitored a business district's 300-plus camera network live for eight days during the George Floyd protests, without the approval the city's surveillance ordinance required | [EFF, Williams v. San Francisco](https://www.eff.org/cases/williams-v-san-francisco) |
-| 2018 to 2020 | Memphis police ran fake social-media accounts to monitor Black Lives Matter activists, in violation of a federal consent decree in force since 1978; an ACLU lawsuit and trial established it | [ACLU-TN](https://www.aclu-tn.org/press-releases/aclu-tn-demands-memphis-police-compliance-with-kendrick-consent-decree-during-federal-deployment/) |
-| 2020 | The NYPD used facial recognition on an Instagram photo to identify a protest organizer, then held his apartment building for five hours without producing a warrant | [Gothamist](https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment) |
 | Aug 12, 2026 | State fusion centers circulated bulletins tracking anti-Flock social media accounts and the DeFlock National Week of Action | [404 Media](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/) |
 
 North Carolina is the second-largest destination state for abortion care; through August 2026 Asheville's plate data reached a 500-mile radius ([[Who Gets Watched]]).
@@ -75,17 +75,17 @@ Across the cases above, the misuse was found by: the person being tracked, throu
 |---|---|---|
 | 2025 | EFF's analysis of 11.4 million Flock searches found more than 14 percent logged with the single word "investigation" as the justification | [ACLU](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/police-audit-logs) |
 | 2025 | After the immigration searches drew attention, the ACLU documented officers advising each other on what to enter in the reason field | [ACLU](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/police-audit-logs) |
+| Jul 2025 **NC** | Asheville refused a resident's request for its Flock audit records (refusal dated Sept 9, 2025) | [[Records Center]] |
 | Oct 16, 2025 | Sen. Ron Wyden described Flock's technical filters as "meaningless... easy to circumvent" | [404 Media](https://www.404media.co/ice-secret-service-navy-all-had-access-to-flocks-nationwide-network-of-cameras/) |
 | Aug 13, 2026 | Flock announced mandatory case numbers per search, automatic anomaly flagging, and 7-day default retention, effective January 1, 2027 | [CNN](https://www.cnn.com/2026/08/13/tech/flock-cameras-police-auditing-controls) |
-| Jul 2025 **NC** | Asheville refused a resident's request for its Flock audit records (refusal dated Sept 9, 2025) | [[Records Center]] |
 
 ## The wrong person, stopped
 
 | Date | What happened | Source |
 |---|---|---|
-| Jul 13, 2026 | LAPD's inspector general: in two months, 161 innocent people were investigated on false stolen-vehicle hits out of 210.5 million reads, with high-risk stops, backup, and air support; the department let Flock lapse pending "a full audit process" | [404 Media](https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/) |
 | Jan 14, 2026 | Body-camera footage showed an officer using Flock to accuse a woman, then declining to look at evidence that cleared her | [404 Media](https://www.404media.co/cop-used-flock-to-wrongfully-accuse-a-woman-then-refused-to-look-at-evidence-that-exonerated-her-body-camera-shows/) |
 | Mar 26, 2026 | Police used a Flock image to ticket a driver for holding a phone | [404 Media](https://www.404media.co/police-used-flock-to-give-a-man-a-traffic-ticket/) |
+| Jul 13, 2026 | LAPD's inspector general: in two months, 161 innocent people were investigated on false stolen-vehicle hits out of 210.5 million reads, with high-risk stops, backup, and air support; the department let Flock lapse pending "a full audit process" | [404 Media](https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/) |
 | Aug 5, 2026 | Officers tracked a man across state lines with Flock to create a pretext to search his car | [404 Media](https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/) |
 
 Jackson County, NC logged 4,652 hot-list hits against 563 searches in one month; how many hits were wrong is not published ([[WNC/Jackson County/index|Jackson County]]).
@@ -128,10 +128,10 @@ The mechanism, step by step, is on [[What They Can Actually Learn About You|What
 | Feb 26, 2025 | Flock sent a cease-and-desist to DeFlock's founder over the project's name; EFF answered that the claims were "groundless" | [404 Media](https://www.404media.co/flock-threatens-open-source-developer-mapping-its-surveillance-cameras/) |
 | Apr 30, 2026 | Flock ran sales demos on a Jewish community center's gymnastics-room, pool, and playground cameras in Dunwoody, Georgia | [404 Media](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/) |
 | May 28 and Jul 22, 2026 | Cities put trash bags over cameras Flock would not remove; Verona, Wisconsin's emails show a "maintenance" work order instead of removal | [404 Media](https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/) |
+| Jul 14, 2026 **NC** | Macon County commissioners voted 5 to 0 to end Flock; the sheriff: "I respect the decision" | [[WNC/Macon County/index\|Macon County]] |
 | Jul 23, 2026 | Flock's CEO said the cameras take "a static picture of a car" after a year of announcing live video on every reader | [404 Media](https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/) |
 | Aug 3, 2026 | A Flock government-affairs manager resigned: "They lied" | [404 Media](https://www.404media.co/why-a-flock-worker-quit-they-lied/) |
 | Aug 7, 2026 | Flock pitched putting readers in 350,000 Uber, Lyft, and delivery vehicles | [404 Media](https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/) |
 | Aug 18, 2026 | The National Park Service is using Flock at Yosemite and Golden Gate; a ranger: "I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate" | [404 Media](https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/) |
-| Jul 14, 2026 **NC** | Macon County commissioners voted 5 to 0 to end Flock; the sheriff: "I respect the decision" | [[WNC/Macon County/index\|Macon County]] |
 
 *Related: [[Flock Safety]] · [[Axon]] · [[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]] · [[What They Can Actually Learn About You|What a plate read becomes]] · [[Who Gets Watched]] · [[Promise Tracker]]*

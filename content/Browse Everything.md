@@ -27,15 +27,15 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Antanette Mosley]]**: Vice Mayor and council member since 2020. Voted yes on the RTIC items on March 25, 2025 and May 12, 2026; voted no on the Flock termination Aug 25, 2026. On the November 3, 2026 ballot.
 - **[[Bo Hess]]**: Asheville City Council member since December 2024 and chair of the Public Safety Committee. Voted yes on the RTIC grant and the Axon contract on May 12, 2026, and yes to end the Flock contract on Aug 25, 2026. Not on the ballot until 2028.
 - **[[Brad Branham]]**: Asheville City Attorney since 2019. On April 28, 2026 he told the committee he would provide a legal opinion on the Flock contract's data-license clause; none has been made public as of Sept 8, 2026.
-- **[[D.K. Wesley]]**: Asheville City Manager since January 12, 2026. Council authorized her on May 12, 2026 to negotiate and sign the Axon contract; it went for signature July 16 and has not been released. She names the next police chief, expected September 2026.
+- **[[D.K. Wesley]]**: Asheville City Manager since January 12, 2026. Council authorized her on May 12, 2026 to negotiate and sign the Axon contract; she signed it Aug 4, 2026 and the city posted it in August. She names the next police chief, expected September 2026.
 - **[[David Nash]]**: Housing Authority CEO until June 2023. Spoke in favor of the county camera agreement at council on January 24, 2023, describing public housing as \"underpoliced.\"
 - **[[Downtown Institutions]]**: The Chamber of Commerce, the Downtown Association, and the tourism authority: what each said about registering business cameras for the county network, with dates.
-- **[[Drew Ball]]**: Buncombe County Commissioner since December 2024, running for Asheville City Council on November 3, 2026. No public statement on the RTIC found as of Aug 17, 2026.
+- **[[Drew Ball]]**: Buncombe County Commissioner since December 2024, running for Asheville City Council on November 3, 2026. First statement on the cameras Sept 16, 2026, at a West Asheville candidate forum: wants audit logs, locally controlled data not fed to a national network, and closed-loop systems; credits Flock in the paintball case.
 - **[[Ella Santos]]**: President and CEO of the Housing Authority since 2025. At the May 20, 2026 board meeting the board was told that a HACA staff member will sit on the RTIC's policy board; the approved minutes record no questions from the board.
 - **[[Esther Manheimer]]**: Mayor since 2013. Presided over the RTIC votes of March 25, 2025 and May 12, 2026; called for Flock termination on Aug 19, 2026 and voted for it Aug 25. Seeking a fourth term on November 3, 2026, against Kim Roney.
 - **[[Jackie Stepp]]**: Asheville's interim police chief since November 2025. Presented the Real-Time Intelligence Center to council at five meetings, convened the policy workgroup that wrote its governing policy, and wrote the Aug 14, 2026 memo on Flock and Axon. The permanent chief is the city manager's decision, expected in September 2026.
-- **[[Jeffrey Burroughs]]**: Candidate for Asheville City Council, November 3, 2026; jeweler and president of the River Arts District Artists' Association. No public statement on the RTIC found as of Aug 17, 2026.
-- **[[Keith Young]]**: Former council member (2015 to 2020), running for council on November 3, 2026. His DSA questionnaire calls for a \"local firewall\" and data-minimization rules; it does not name the RTIC, Fusus, or Flock.
+- **[[Jeffrey Burroughs]]**: Candidate for Asheville City Council, November 3, 2026; jeweler and president of the River Arts District Artists' Association. On May 14, 2026 said he would have voted no on the RTIC and the Axon agreement; on Aug 25, 2026 said he supports ending the Flock contract.
+- **[[Keith Young]]**: Former council member (2015 to 2020), running for council on November 3, 2026. His DSA questionnaire calls for a \"local firewall\" and data-minimization rules. At a Sept 16, 2026 forum he said the system council agreed on is \"probably not\" the one to use and called for a community conversation.
 - **[[Kim Roney]]**: Council member since 2020. Voted no on the county camera agreement in 2023 and on each RTIC item in 2025 and 2026; moved the Flock termination Aug 25, 2026. Running for mayor on November 3, 2026.
 - **[[Maggie Ullman]]**: Council member since 2022. Seconded the RTIC motions on May 12, 2026; on Aug 20 said she supports removing the Flock cameras and keeping Axon's tools; voted for termination Aug 25. On the November 3, 2026 ballot.
 - **[[Sage Turner]]**: Council member since 2020. Voted yes on May 12, 2026 with removal of the city's Flock cameras as a stated condition; documented on Aug 17 that the cameras were still up; seconded the termination Aug 25. Not on the ballot until 2028.
@@ -48,10 +48,14 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Follow the Money]]**: The Business Improvement District, the Tourism Development Authority, and the surveillance buildout: the three funding streams, the organizations behind each, and the council votes, with what is documented and what is not.
 - **[[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]]**: Requests by Asheville residents for police oversight over thirty-five years, and what each produced, with the enforcement mechanism noted where one exists.
 - **[[Promise Tracker]]**: The commitments APD and the city made as the RTIC was approved, each dated and tracked to 2033.
+- **[[The Axon Contract as Signed|The Axon contract, as signed]]**: City of Asheville Contract 92700065 with Axon Enterprise, posted by the city in August 2026: the term to 2033, the $7,423,161.15 schedule, the termination clauses and the Fusus carve-out, the scope sentence that names Lightpost, the signature dates, and the quote the contract references but the city has not posted.
 - **[[The Constitutionality Memo|The city attorney's constitutionality memo]]**: The city attorney's memo circulated the night before the Aug 25, 2026 Flock vote: what it says, and the two cases it does not mention, the Norfolk appeal in the Fourth Circuit and the Supreme Court's June 2026 location-data ruling.
+- **[[The Technology and Public Safety Page|The city's Technology and Public Safety page, annotated]]**: The City of Asheville's August 2026 page on the RTIC, plate readers, body cameras and drones (publicinput.com/f65124): each statement quoted as read on Sept 23, 2026, with the dated facts in the record beside it, and what the page does not carry.
+- **[[The Grant and the Contract|The federal grant and the city's share of the contract]]**: The statement made for the RTIC vote, that accepting the $1.14 million federal award saves the city money, set beside the city's own staff report, the chief's presentation, and the signed Axon contract: what the grant pays, what the city pays, the savings as stated and as documented, and the costs nobody has priced.
 - **[[The People Who Showed Up]]**: Residents who spoke at council against the RTIC, quoted from the public record with dates and timestamps.
 - **[[The Check-In Meetings|The pre-meeting check-in sessions]]**: Asheville council members discuss agenda items in groups of three before meetings, below the open meetings law's quorum: how the practice works, what the record shows, and the RTIC items it covered.
 - **[[The Committee|The Public Safety Committee]]**: Asheville's Public Safety Committee, where RTIC oversight is assigned: members, schedule, and a record of each recorded meeting since May 2025, including the March 26, 2026 meeting that advanced the RTIC grant with no recording published.
+- **[[The Real-Time Intelligence Center]]**: Asheville's Real-Time Intelligence Center in one place: where it stands, the signed Axon contract and the other documents, the money, what each official has said and voted, what is pending, and where the rest of the record is.
 - **[[The RTIC Policy]]**: Seven released records on how the RTIC's governing policy was written: what Policy 1703 says, what changed between its four drafts, and the emails dating the Axon contract's signature to July 2026.
 
 #### [[WNC/Asheville/Community/index|Community]]
@@ -67,7 +71,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Avril Pinder]]**: Buncombe County Manager since 2019. Presents the county budget, in which the sheriff's camera network has no line of its own.
 - **[[Board of Commissioners|Buncombe County Board of Commissioners]]**: The seven commissioners who approve the budget that funds the sheriff's network, what each has said about it on the record, and the two seats on the November 3, 2026 ballot.
 - **[[Board of Education|Buncombe County Board of Education]]**: The board whose agreement gives deputies access to the school cameras. No public vote on the agreement is on the record. Three seats are on the November 3, 2026 ballot.
-- **[[Gary Parris]]**: Republican nominee for Buncombe County Sheriff, November 3, 2026, against Sheriff Quentin Miller. No public statement on the Fusus network found as of Aug 17, 2026.
+- **[[Gary Parris]]**: Republican nominee for Buncombe County Sheriff, November 3, 2026, against Sheriff Quentin Miller. In February 2026 pledged a \"Unified Operations Intelligence Center to share actionable intelligence with all agencies\"; no statement on the Fusus network, Flock, or plate readers found as of Sept 17, 2026.
 - **[[Martin Moore]]**: Buncombe County Commissioner and Democratic nominee for District Attorney; no Republican filed. Would take office as DA in January 2027.
 - **[[Melissa Moore]]**: Buncombe County Finance Director since September 2023. Her preaudit certificate is required before the county can pay on a contract.
 - **[[Quentin Miller]]**: Buncombe County Sheriff since 2018. His office runs the Fusus network of about 2,000 cameras that Asheville's RTIC connects to. Seeking a third term on November 3, 2026, against Gary Parris.
@@ -146,10 +150,10 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 #### [[WNC/Transylvania County/Officials/index|Officials]]
 
-- **[[Aaron Baker]]**: Brevard Mayor Pro Tem; with Dean Lytle, pushed for public input before any plate-reader vote. Whether it happens is his call as much as anyone's.
-- **[[Christy Wentzell]]**: Brevard Police Chief; proposed six Flock cameras as "the extra eyes we don't have." The proposal came back as an Axon bundle.
+- **[[Aaron Baker]]**: Brevard Mayor Pro Tem; with Dean Lytle, pushed for public input before any plate-reader vote. The input meeting was held Sept 1, 2026; the chief withdrew the request on Sept 8.
+- **[[Christy Wentzell]]**: Brevard Police Chief; proposed six Flock cameras as "the extra eyes we don't have." The proposal came back as an Axon bundle, and she withdrew it at the Sept 8, 2026 council meeting before a vote.
 - **[[Chuck Owenby]]**: Transylvania County Sheriff; installed eight Flock cameras in 2024 with no vote, credits them with finding six missing people, and runs unopposed in November.
-- **[[Dean Lytle]]**: Brevard City Council member who called the plate-reader proposal a "hot button" and pushed for public input before any vote. The input meeting still has no date.
+- **[[Dean Lytle]]**: Brevard City Council member who called the plate-reader proposal a "hot button" and pushed for public input before any vote. The input meeting was held Sept 1, 2026; the chief withdrew the request on Sept 8.
 
 ### [[WNC/Watauga County/index|Watauga County]]
 
@@ -188,7 +192,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]**: A dated table of the cities, counties and agencies that ended, rejected or limited plate-reader and camera-network contracts, what each body did and by what tally, with the source; then the state actions of late August 2026, the court cases that bind North Carolina, and the vendors' responses when a town said no.
 - **[[Flock Safety]]**: The Atlanta company whose eleven Asheville cameras council voted to remove on Aug 25, 2026, whose network the county sheriff's office still searches, and whose documents, leaks, and audit logs make up much of the public record.
 - **[[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]]**: Flock's leaked guide for police on presenting camera systems to councils, set beside what Asheville officials said and did, with dates.
-- **[[What Axon Contracts Do]]**: Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's executed contract has not been released.
+- **[[What Axon Contracts Do]]**: Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's signed contract, posted in August 2026, is read against them.
 
 ### [[Companies/People/index|Company executives]]
 
@@ -197,6 +201,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[Act/index|Act]]
 
+- **[[Asking About the RTIC]]**: The questions to put to the city manager, the chief, the council, the Public Safety Committee and the November candidates about the Real-Time Intelligence Center, each with an owner and the document it rests on, and a three-minute structure for the podium.
 - **[[Claims Library]]**: Sourced, citable facts organized by use: public comment, petition, letter to council, op-ed.
 - **[[Election 2026]]**: Where each candidate on the November 3, 2026 ballot stands on the camera networks: votes, statements, and the date a position was last looked for where none was found.
 - **[[Get Involved]]**: The groups organizing on surveillance in Asheville and WNC, and how to reach them.
@@ -217,6 +222,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[2026-05-12 City Council|2026-05-12: Asheville City Council, RTIC grant and Axon contract vote]]**: The May 12, 2026 meeting, minute by minute from the city's video: public comment, the 6 to 1 votes on the RTIC grant and the Axon contract, and the vote taken off-microphone.
 - **[[2026-08-20 Agenda Briefing|2026-08-20: Asheville City Council agenda briefing, Flock termination resolution]]**: The agenda briefing for the Aug 25 vote: Flock's 10-camera minimum for network access, the cameras as Flock's property, the staff memo on expanding Axon plate readers, and the mayor's statement that replacements are \"in the pipeline.\"
 - **[[2026-08-25 City Council|2026-08-25: Asheville City Council, Flock termination vote]]**: Council voted 5 to 2 to terminate the Flock contract; a motion to pause new plate-reader purchases during the review failed for lack of a second. The Axon contract covers stationary plate readers; the city manager's assurance that none go up before a community conversation was given verbally.
+- **[[2026-09-16 Council Candidate Forum|2026-09-16: Asheville City Council candidate forum, West Asheville]]**: Five of the six council candidates on surveillance and the Flock vote, and on three-person council check-ins held out of public view, from an audience recording this site holds. Each candidate's answer in their own words, with audio.
 
 ## [[Reference/index|Reference]]
 

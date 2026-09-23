@@ -25,6 +25,8 @@ That is the full justification. No data, no crime figures, no cost analysis, no 
 
 **The timing.** Per [CAMS](https://camsavl.org/rtic-funding-vote/), the funding was requested in 2024 **without Asheville City Council being informed**: the May 22, 2024 letter predates council's first RTIC vote conversation by months, and predates the [[2026-05-12 City Council|May 12, 2026 vote]] by two years. By the time council "decided," the money was already sitting there. See [[Timeline]].
 
+**Who initiated, in APD's words.** APD's March 2026 slides to the Public Safety Committee, posted on the city's Technology and Public Safety page: "In 2024, APD was invited to complete a questionnaire provided by Rep. Edwards' office requesting funding to assist in implementing a Real-Time Intelligence Center (RTIC)." The May 12, 2026 staff report: "APD was contacted in April 2024 by a representative from Congressman Chuck Edwards' office regarding potential funding." Both are the department's account; his office's has not been published ([[Records Center|request 14]] · [[The Grant and the Contract|the federal grant and the city's share of the contract]]).
+
 **Who called whom: an open question.** CAMS and [BPR](https://www.bpr.org/politics-government/2026-04-15/asheville-city-council-punts-vote-on-police-tech-funding-and-suggests-property-tax-hike) report the earmark came at APD's request. Mountain Xpress, citing a city report, describes it the other way: **Edwards' office contacted APD in April 2024** about potential funding, and the department pursued it. Both versions trace to city documents; the underlying report would settle which door opened first. That's a records request; see [[Records Center]].
 
 ## His statements on the earmark
@@ -50,6 +52,6 @@ In 2020, as a state senator, after city council shifted $770,000 out of APD's bu
 
 ## What is pending with him
 
-He holds the office through January 2027. Questions that are still live: Why did the request double? What analysis, if any, sat behind the one-sentence justification? Who initiated the April 2024 contact? He also remains a named figure in the [[Records Center]] requests that would answer them.
+He holds the office through January 2027. Questions that are still live: Why did the request double? What analysis, if any, sat behind the one-sentence justification? Who initiated the April 2024 contact (APD's account: his office did)? He also remains a named figure in the [[Records Center]] requests that would answer them.
 
 *Sources: primary PDFs linked above (archived locally and at the Wayback Machine; house.gov pages are typically purged when a member leaves office); WLOS; Mountain Xpress; BPR; CAMS*

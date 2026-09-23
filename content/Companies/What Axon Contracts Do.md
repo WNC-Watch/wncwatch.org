@@ -1,11 +1,11 @@
 ---
 title: What Axon Contracts Do
-description: "Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's executed contract has not been released."
+description: "Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's signed contract, posted in August 2026, is read against them."
 aliases:
   - "What Axon Contracts Do"
 ---
 
-Asheville's executed Axon contract has never been released ([[Promise Tracker]] row 12). But the contract *form* is national, and its record is documented. This page collects what the same contract form did in other cities, dated and linked.
+Asheville's signed Axon contract was posted by the city in August 2026 ([[The Axon Contract as Signed|the contract, as signed]]); the itemized quote it references was not. The contract *form* is national, and its record is documented. This page collects what the same contract form did in other cities, dated and linked.
 
 ## Cost over the life of Axon contracts
 
@@ -48,7 +48,7 @@ Both contracts allow termination for the vendor's breach and for non-appropriati
 
 **North Carolina law supplies the lever, not the exit.** [G.S. 160A-17](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_160A/GS_160A-17.html) (cities) and [G.S. 153A-13](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_153A/GS_153A-13.html) (counties) let a local government sign multi-year contracts and say the governing board "shall appropriate sufficient funds" in each later year; [G.S. 159-28](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_159/GS_159-28.html) forbids any obligation without an appropriation and a preaudit certificate on the face of the contract. That annual structure is why every vendor contract with an NC government carries a non-appropriation clause, and the clause is the door: the board declines to fund the line in the June budget, and the contract ends on its own terms. Whether a board may decline to appropriate for a contract it already signed, given the statute's "shall," is the question for a lawyer ([[What the Law Lets the County Do|the needs-a-lawyer list]]).
 
-The executed Asheville contract, still unreleased, is the only document that says whether the city negotiated anything beyond the baseline ([[Records Center|request 15]]).
+The signed Asheville contract shows what the city added to the baseline: a thirty-day termination clause that defers to Sourcewell's Section 16, a non-appropriation clause with device return, and a Fusus-only exit if the grant fails. Whether anything else was negotiated is in the unposted quote ([[Records Center|request 1]]).
 
 ## Terms other cities negotiated
 

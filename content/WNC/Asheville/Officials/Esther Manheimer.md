@@ -35,7 +35,7 @@ Manheimer attends all three of the small-group [[The Check-In Meetings|check-in 
 
 ## What is pending with her
 
-- The release of the executed [[What Axon Contracts Do|Axon contract]] ([[Promise Tracker|row 12]]). As of Sept 8, 2026 she has taken no public position on releasing it.
+- The itemized Axon quote and the 20-camera Fleet contract ([[Promise Tracker|row 12]]); the contract itself was posted in August 2026. As of Sept 23, 2026 she has taken no public position on posting the rest.
 - The community conversation the city manager said would precede any stationary Axon plate reader. No date has been set as of Sept 8, 2026.
 - Whether she would support making APD's stated safeguards binding by ordinance. As of Sept 8, 2026, no public position.
 - On November 3, 2026 she faces [[Kim Roney]], who voted no on each camera item since 2023 ([[Election 2026]]).
