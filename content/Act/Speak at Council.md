@@ -37,7 +37,7 @@ Comment runs **3 minutes per speaker, capped at 1 hour per item**. On May 12, 20
 
 These are the accountability demands already in motion ([[Get Involved|CAMS]]'s core three, plus the structural fix). Any speaker can carry one. For the Flock exit, the eight demands are on [[Getting Flock Out]]. The standing asks:
 
-1. **Release the contract.** "The final Axon contract was not public before the vote. Will the city release the full executed contract, including pricing schedules and renewal terms?"
+1. **Post the quote.** "The city posted the Axon contract in August. Will the city post the itemized quote it references, Q-808220-46198AS, with products, quantities and the Fusus tier, and the separate contract for 20 in-car readers?" The full list of RTIC asks by addressee: [[Asking About the RTIC]].
 2. **Publish the audit logs.** "APD promised quarterly audits of RTIC access. Will those audits be published (not summarized, published), and when is the first one due?"
 3. **Define the ICE policy in writing.** "APD says no data goes to federal immigration without a court order. Officers in other cities ran searches for ICE as favors. What policy, with what penalty, prevents that here, and can council see it?"
 4. **Make the promises law.** "Will council adopt an ordinance requiring council approval and annual public reporting for surveillance technology, a surveillance-oversight ordinance of the kind [other cities have adopted](https://www.aclu.org/community-control-over-police-surveillance), so APD's policies can't change without a public vote?"

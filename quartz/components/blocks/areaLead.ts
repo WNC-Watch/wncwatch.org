@@ -4,7 +4,8 @@ import { resolveRelative } from "../../util/path"
 import { BodyBlock } from "../pages/Content"
 import { AGENDA_LABEL, CalendarItem, formatDate, loadCalendar, todayISO } from "../../plugins/transformers/calendar"
 
-// Area lead: the first thing on an area page (WNC/<Area>/index). Three rows
+// Area lead: the first thing on an area page (WNC/<Area>/index), or on any
+// page whose frontmatter sets `lead: true`. Three rows
 // drawn from data: where the community stands (frontmatter `standing`, with
 // `standing_kind` expand | resist | future for the colour the timelines use);
 // the systems in place, one line per vendor (frontmatter `systems`, a list of
@@ -49,8 +50,10 @@ export const AreaLead: BodyBlock = {
   render({ fileData, ctx, allFiles }: QuartzComponentProps): Element | null {
     const slug = fileData.slug ?? ""
     const parts = slug.split("/")
-    if (parts.length !== 3 || parts[0] !== "WNC" || parts[2] !== "index") return null
     const fm = (fileData.frontmatter ?? {}) as Record<string, unknown>
+    const isArea = parts.length === 3 && parts[0] === "WNC" && parts[2] === "index"
+    // A page outside the area tree opts in with `lead: true` (the RTIC hub, 2026-09-23).
+    if (!isArea && fm.lead !== true) return null
     const rows: Element[] = []
 
     const standing = typeof fm.standing === "string" ? fm.standing.trim() : ""

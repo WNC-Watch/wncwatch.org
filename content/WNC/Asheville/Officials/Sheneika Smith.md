@@ -26,5 +26,5 @@ verified: 2026-09-08
 ## What is pending with her
 
 - The community forum she proposed on March 25, 2025. None has been held as of Sept 8, 2026.
-- Whether she supports releasing the executed [[What Axon Contracts Do|Axon contract]] and publishing the quarterly audits ([[Promise Tracker]]). As of Sept 8, 2026, no public position.
+- Whether she supports posting the itemized Axon quote and the Fleet contract, and publishing the quarterly audits ([[Promise Tracker]]). As of Sept 23, 2026, no public position.
 - Her seat is on the Nov 3, 2026 ballot ([[Election 2026]]). Contact: sheneikasmith@avlcouncil.com.

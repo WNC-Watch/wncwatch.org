@@ -34,7 +34,7 @@ Two later records bear on those answers. In 2025 Flock's own customers learned o
 - **May 28, 2026**: 38 minutes; no surveillance items. The comment system was down; the chair said emails could be read by the meeting's end; none were read.
 - **July 29, 2026**: no surveillance items; the words Flock, Fusus, intelligence center, and audit do not occur in the recording.
 
-No plate-reader audit report had been presented to the committee as of its July 29, 2026 meeting. State law requires such reports to exist ([[Records Center|G.S. 20-183.31(a)(7)]]); APD's Policy 1703 routes its quarterly review to the chief ([[Promise Tracker|row 4]]).
+No plate-reader audit report had been presented to the committee as of its July 29, 2026 meeting. State law requires such reports to exist ([[Records Center|G.S. 20-183.31(a)(7)]]); APD's Policy 1703 routes its quarterly review to the chief ([[Promise Tracker|row 4]]). The Sept 24, 2026 agenda, for a meeting moved from 11:00 a.m. to 1:00 p.m., carries no plate-reader or audit item; public comment runs 30 minutes ([[Asking About the RTIC|the asks for the committee]]).
 
 ## Figures presented to the committee
 

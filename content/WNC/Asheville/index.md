@@ -3,7 +3,7 @@ title: Asheville
 description: "Asheville's cameras and the Real-Time Intelligence Center, 2022 to now: where each system stands, the timeline, and who decides."
 aliases:
   - "WNC/Asheville"
-standing: "Flock contract terminated Aug 25, 2026; the Axon contract and the RTIC stand. Pending: the 11 cameras down and APD's Flock accounts closed, the data-deletion notice to council, the executed Axon contract released, the audit reports at the Sept 24 committee."
+standing: "Flock contract terminated Aug 25, 2026; the Axon contract, signed Aug 4, 2026, and the RTIC stand. Pending: the 11 cameras down and APD's Flock accounts closed, the data-deletion notice to council, the itemized Axon quote and Policy 1703 posted, the audit reports at the Sept 24 committee."
 systems:
   - vendor: "Flock Safety"
     kind: future
@@ -14,8 +14,10 @@ systems:
       - "Companies/Flock Safety"
   - vendor: "Axon"
     kind: expand
-    detail: "Real-Time Intelligence Center contract authorized May 12, 2026, sent for signature July 16, running to 2033; the RTIC is projected operational in 2027. Fixed plate readers are pre-authorized under the contract, and a second contract for 20 in-car plate readers was in signature in July 2026. The executed contract has not been released."
+    detail: "Real-Time Intelligence Center contract authorized May 12, 2026, signed Aug 4, 2026 (City of Asheville Contract 92700065, $7,423,161.15 to Dec 31, 2033) and posted by the city in August; the RTIC is projected operational in 2027. Fixed plate readers are pre-authorized under the contract, and a second contract for 20 in-car plate readers was in signature in July 2026. The itemized quote is not posted."
     links:
+      - "WNC/Asheville/Record/The Real-Time Intelligence Center"
+      - "WNC/Asheville/Record/The Axon Contract as Signed"
       - "Companies/What Axon Contracts Do"
       - "WNC/Asheville/Record/The RTIC Policy"
       - "WNC/Asheville/Record/Promise Tracker"

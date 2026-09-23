@@ -54,7 +54,7 @@ Beside the record: reporting in 2025 and 2026 documents that the practice resume
 
 ## What is pending with her
 
-- Whether she supports releasing the executed [[What Axon Contracts Do|Axon contract]], publishing the quarterly audits, and making the stated safeguards binding by ordinance ([[Promise Tracker]]). As of Sept 8, 2026, no public position on any of the three.
+- Whether she supports posting the itemized Axon quote and the Fleet contract, publishing the quarterly audits, and making the stated safeguards binding by ordinance ([[Promise Tracker]]). As of Sept 23, 2026, no public position on any of the three.
 - Her seat is on the Nov 3, 2026 ballot ([[Election 2026]]). Contact: antanettemosley@avlcouncil.com.
 
 ## Ballot note
