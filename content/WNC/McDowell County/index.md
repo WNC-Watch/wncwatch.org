@@ -24,12 +24,9 @@ McDowell County's sheriff's office runs at least 12 Flock cameras; no vote, cont
 
 ## Timeline
 
-<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span><span class="lg-report">what was reported</span></div>
 
-<div class="avl-tl">
-<div class="tl-item tl-expand"><div class="tl-date">August 10, 2026</div><div class="tl-body"><strong>A new sheriff.</strong> Ricky "Buck" Buchanan retires August 1; <strong>Nathan Mace</strong> is sworn in as McDowell's 26th sheriff, with Paul Alkire as chief deputy (<a href="https://www.foxcarolina.com/2026/08/10/new-mcdowell-county-sheriff-officially-sworn-into-office/">Fox Carolina</a>). Mace won the March Republican primary and appears to have no November opponent. He inherits the cameras and has said nothing public about them.</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">By September 2025</div><div class="tl-body"><strong>12 or more cameras on the record.</strong> Per public records compiled by <a href="https://www.atlasofsurveillance.org/search?location=McDowell+County%2C+NC">EFF's Atlas of Surveillance</a>, the <strong>Sheriff's Office runs 8 Flock cameras</strong> and <strong>Marion PD runs 4</strong>, with two more mapped in Old Fort. No commission vote, no council vote, no news story precedes or follows. (<a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
-</div>
+<div class="avl-tl" data-events="WNC/McDowell County/index"></div>
 
 ## Links of note
 

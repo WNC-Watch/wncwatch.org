@@ -67,6 +67,10 @@ rsync -az "$SITE/quartz.config.ts" "$SITE/quartz.layout.ts" "docker-01:~/$REMOTE
 if [ -f "$CALENDAR_YML" ]; then
   rsync -az "$CALENDAR_YML" "docker-01:~/$REMOTE_DIR/"
 fi
+# site/events.yml: the timeline entries the Events transformer draws into pages.
+if [ -f "$SITE/events.yml" ]; then
+  rsync -az "$SITE/events.yml" "docker-01:~/$REMOTE_DIR/"
+fi
 rsync -az --delete --exclude .quartz-cache "$SITE/quartz/" "docker-01:~/$REMOTE_DIR/quartz/"
 
 echo "Building on docker-01 (~/$REMOTE_DIR)..."

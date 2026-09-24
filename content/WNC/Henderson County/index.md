@@ -25,19 +25,9 @@ Henderson County's cameras were bought inside the sheriff's approved budget, so 
 
 ## Timeline
 
-<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span><span class="lg-report">what was reported</span></div>
 
-<div class="avl-tl">
-<div class="tl-item tl-expand"><div class="tl-date">June 9, 2020</div><div class="tl-body"><strong>The sheriff signs with ICE.</strong> Sheriff Lowell Griffin's office holds a 287(g) Jail Enforcement Model agreement, the only one of its kind in Western North Carolina, per ICE's participating-agencies list of August 21, 2026 (<a href="https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx">ICE</a>). <a href="./Briefings/What-the-Law-Lets-the-County-Do">What the Law Lets the County Do</a></div></div>
-<div class="tl-item tl-expand"><div class="tl-date">2025</div><div class="tl-body"><strong>Sheriff's Office buys in.</strong> Sheriff Lowell Griffin's office purchases 12–13 Flock cameras for <strong>$44,150</strong>, with no commission vote, then or since (<a href="https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html">Hendersonville Lightning</a>).</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">Fall 2025</div><div class="tl-body"><strong>Fletcher PD deploys.</strong> Counts and contract largely unpublished.</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">Early 2026</div><div class="tl-body"><strong>Laurel Park PD adds 4 cameras.</strong> Countywide total reaches ~39–42 per DeFlock mapping.</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">August 3, 2026</div><div class="tl-body"><strong>the petition organizer addresses the commissioners.</strong> The Edneyville resident behind the DeFlock Henderson County group takes the fight to the board (<a href="https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community">WLOS</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a></div></div>
-<div class="tl-item tl-resist"><div class="tl-date">August 18, 2026</div><div class="tl-body"><strong>"Opposition to Henderson County Flock cameras bridges ideological divide."</strong> The Times-News headline; the article sits behind a paywall (<a href="https://x.com/BlueRidgeNow/status/2089683794244591738">BlueRidgeNow</a>).</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">August 22, 2026</div><div class="tl-body"><strong>The sheriff's portal lists 2,048 agencies with access to the county's data</strong>, including the FBI and the US Postal Inspection Service (see the inventory below).</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">September 8, 2026</div><div class="tl-body"><strong>the comment period fills with the cameras.</strong> Seventeen residents spoke at informal public comment; fourteen opposed the cameras, none spoke for them, and three raised other subjects. Chair Bill Lapsley, closing the period: "The board certainly hears you, and we will be discussing it amongst ourselves to see how we as a board want to proceed ... I know we'll certainly be public with our discussions on the matter." No other commissioner, the county manager, or the sheriff responded on the substance, and the subject was not raised again in the meeting (<a href="https://www.hendersoncountync.gov/boc/page/board-commissioners-meeting-1398">county recording</a>, 0:12:14 to 0:53:14). No date was set.</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">August 10–17, 2026</div><div class="tl-body"><strong>The petition more than doubles in a week.</strong> 937 signatures on Aug 10, 1,000+ by Aug 14, <strong>2,071 by Aug 17</strong> (<a href="https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc">the defund petition</a>). <a href="../Act/Getting-Flock-Out">Getting Flock Out</a> · <a href="../Companies/Communities-That-Ended-or-Limited-Contracts">Communities that ended or limited camera contracts</a></div></div>
-</div>
+<div class="avl-tl" data-events="WNC/Henderson County/index"></div>
 
 ## Links of note
 
@@ -45,7 +35,7 @@ Henderson County's cameras were bought inside the sheriff's approved budget, so 
 - [Hendersonville PD portal](https://transparency.flocksafety.com/hendersonville-nc-pd): the city's own numbers
 - [The defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): WNC's fastest-growing removal push
 - [Hendersonville Lightning](https://www.hendersonvillelightning.com/news/16237-surveillance-cameras-trigger-deflock-henderson-county-a-citizen-uprising.html): the citizen-uprising story; best local press
-- [WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community): the petition organizer on Flock's "honor system" safeguards
+- [WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community): a county resident on Flock's "honor system" safeguards
 
 ## The inventory (verified against Flock's own portals, Aug 22, 2026)
 
@@ -77,7 +67,7 @@ Hendersonville's council record on YouTube runs deeper, and says the same thing.
 
 ## The resident campaign to remove the cameras
 
-**An Edneyville resident** started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17**, more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) The same resident spoke at the Aug 3 commissioners' meeting and runs the DeFlock Henderson County group; their response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
+**A county resident** started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17**, more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) The same resident spoke at the Aug 3 commissioners' meeting; their response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
 
 ## Who decides here
 
