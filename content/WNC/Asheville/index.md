@@ -3,33 +3,40 @@ title: Asheville
 description: "Asheville's cameras and the Real-Time Intelligence Center, 2022 to now: where each system stands, the timeline, and who decides."
 aliases:
   - "WNC/Asheville"
-standing: "Flock contract terminated Aug 25, 2026; the Axon contract, signed Aug 4, 2026, and the RTIC stand. Pending: the 11 cameras down and APD's Flock accounts closed, the data-deletion notice to council, the itemized Axon quote and Policy 1703 posted, the audit reports at the Sept 24 committee."
+standing: "Axon contract signed Aug 4, 2026, to Dec 31, 2033, $6,955,559 of it city money; Flock contract terminated Aug 25, removal and deletion unconfirmed. Pending: the Axon quote, Policy 1703, any audit, a written answer on fixed Axon readers."
 systems:
+  - vendor: "Axon, the RTIC contract"
+    kind: expand
+    detail: "City of Asheville Contract 92700065, authorized May 12, 2026, signed Aug 4, 2026, $7,423,161.15 to Dec 31, 2033, posted by the city in August; the itemized quote is not posted. Bundles body cameras, tasers, drones and interview-room recording and adds Fusus, the software that puts the city's cameras, plate readers, drones and integrated private cameras on one screen. The center is projected fully operational in spring 2027."
+    links:
+      - "WNC/Asheville/Record/The Real-Time Intelligence Center"
+      - "WNC/Asheville/Record/The Axon Contract as Signed"
+      - "WNC/Asheville/Record/The Grant and the Contract"
+      - "WNC/Asheville/Record/The RTIC Policy"
+  - vendor: "Axon, plate readers"
+    kind: expand
+    detail: "In-car readers since April 2024, never brought to council: 139 active and 835,194 plate reads retained over 21 days on Sept 23, 2026, per the city's Axon portal. A contract for 20 more was in signature in July 2026. Fixed Axon readers are available under the contract on request; the chief's Aug 14 memo plans Axon plate-reader infrastructure by February 2027, and the city manager said Aug 25 none go up before a community conversation."
+    links:
+      - "WNC/Asheville/Record/The Technology and Public Safety Page"
+      - "Companies/What Axon Contracts Do"
+      - "WNC/Asheville/Record/Promise Tracker"
+  - vendor: "Fusus, the county network"
+    kind: expand
+    detail: "APD access to the county sheriff's Fusus camera network under a December 2022 MOU and a January 2023 interlocal agreement; about 1,800 cameras at the 2023 vote, about 2,000 today. The chief's memo says APD is evaluating consolidating the county's center into the city's."
+    links:
+      - "WNC/Buncombe County/index"
+      - "WNC/Buncombe County/Record/Sheriffs Audit Log"
   - vendor: "Flock Safety"
     kind: future
-    detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2, and asked Flock to remove the cameras; account termination and the deletion notice are pending."
+    detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2; the city says APD's accounts are deactivated. No removal date, deletion confirmation, or notice to council published as of Sept 24, 2026."
     links:
       - "The Record/Meetings/Asheville/2026-08-25 City Council"
       - "Act/Getting Flock Out"
       - "Companies/Flock Safety"
-  - vendor: "Axon"
-    kind: expand
-    detail: "Real-Time Intelligence Center contract authorized May 12, 2026, signed Aug 4, 2026 (City of Asheville Contract 92700065, $7,423,161.15 to Dec 31, 2033) and posted by the city in August; the RTIC is projected operational in 2027. Fixed plate readers are pre-authorized under the contract, and a second contract for 20 in-car plate readers was in signature in July 2026. The itemized quote is not posted."
-    links:
-      - "WNC/Asheville/Record/The Real-Time Intelligence Center"
-      - "WNC/Asheville/Record/The Axon Contract as Signed"
-      - "Companies/What Axon Contracts Do"
-      - "WNC/Asheville/Record/The RTIC Policy"
-      - "WNC/Asheville/Record/Promise Tracker"
-  - vendor: "Fusus (Axon)"
-    kind: expand
-    detail: "APD access to the county sheriff's Fusus camera network under a December 2022 MOU and a January 2023 interlocal agreement; about 1,800 cameras at the 2023 vote, about 2,000 today."
-    links:
-      - "WNC/Buncombe County/index"
-verified: 2026-09-08
+verified: 2026-09-24
 ---
 
-Asheville is this collection's home case, documented across forty-plus pages. This page is the regional view: the same timeline-first format as its [[Western North Carolina and the State|WNC neighbors]], so you can lay the city's buildout beside Hendersonville's, [[WNC/Macon County/index|Macon]]'s, or Woodfin's and read the city's sequence beside its neighbors'. Each entry links to the page that documents it in full.
+Asheville is building a Real-Time Intelligence Center on Axon's Fusus platform under a 7.5-year contract, joined to the county sheriff's camera network, with Axon plate readers in its patrol cars. The Flock cameras were the smaller system and the one council voted to end. This page is the timeline from 2022, in the same format as the [[Western North Carolina and the State|WNC neighbors]] so the city's sequence reads beside Hendersonville's, [[WNC/Macon County/index|Macon]]'s or Woodfin's. The center itself, its documents, its money and what each official has said: [[The Real-Time Intelligence Center]].
 
 ## Timeline
 
@@ -50,10 +57,13 @@ Asheville is this collection's home case, documented across forty-plus pages. Th
 <div class="tl-item tl-expand"><div class="tl-date">April 28, 2026</div><div class="tl-body"><strong>Work session with Flock and Axon.</strong> Axon and Flock representatives present, no public comment taken; the Durham "peer city" example is challenged during the session; Roney reads the Flock contract's "irrevocable, worldwide license" clause into the record. Full write-up: <a href="../The-Record/Meetings/Asheville/2026-04-28-Work-Session">2026-04-28 Work Session</a>.</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">May 7, 2026</div><div class="tl-body"><strong>Agenda briefing: the Axon contract not yet written.</strong> Five days before the vote, the city manager confirms the Axon contract council will authorize hasn't been written; the "keep one Flock camera" plan is explained as a network-access subscription. Full write-up: <a href="../The-Record/Meetings/Asheville/2026-05-07-Agenda-Briefing">2026-05-07 Agenda Briefing</a>.</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">May 12, 2026</div><div class="tl-body"><strong>Council approves the RTIC grant and Axon contract, 6 to 1.</strong> After six hours, 22 of 23 speakers oppose the items; 21 more had signed up and did not speak; the motion was seconded before public comment began. The vote is <strong>6 to 1</strong>, Roney the no. $1.14M accepted, 7.5-year Axon authorization granted. Full write-up: <a href="../The-Record/Meetings/Asheville/2026-05-12-City-Council">2026-05-12 City Council</a>.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">July 16, 2026</div><div class="tl-body"><strong>The Axon contract goes out for signature.</strong> City emails released Aug 20 show the contract sent to Axon nine weeks after the vote, a second contract for 20 Axon Fleet in-car plate readers in "final signature stage," and the city attorney's office opting out of Axon's default data program by email. (<a href="../WNC/Asheville/Record/The-RTIC-Policy">The RTIC Policy</a>)</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">August 4, 2026</div><div class="tl-body"><strong>The city manager signs the Axon contract.</strong> City of Asheville Contract 92700065: $7,423,161.15 from Aug 1, 2026 to Dec 31, 2033, $6,955,559 of it city money; the interim chief signed July 27. (<a href="../WNC/Asheville/Record/The-Axon-Contract-as-Signed">The Axon contract, as signed</a> · <a href="../WNC/Asheville/Record/The-Grant-and-the-Contract">The grant and the contract</a>)</div></div>
 <div class="tl-item tl-expand"><div class="tl-date">August 2026</div><div class="tl-body"><strong>APD's explainer interview on the Flock cameras.</strong> APD's explainer interview: 11 cameras, 18 authorized searchers, "you have to put the reason" (Sen. Ron Wyden's office had described Flock's reason field as "meaningless"). (<a href="../Briefings/What-They-Can-Actually-Learn-About-You">What a plate read becomes</a> · <a href="https://828newsnow.com/news/228822-flock-cameras-asheville-police-explain-use-of-11-license-plate-readers/">828NewsNow</a>)</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">August 14, 2026</div><div class="tl-body"><strong>The chief's memo and the city's technology page.</strong> Interim Chief Stepp's memo to council: APD "is not pursuing a full transition away from Flock" and expects "the Axon ALPR infrastructure operational" by February 2027. The city launches its Technology and Public Safety page with the signed contract; its plate-reader answers describe the Flock program. (<a href="../WNC/Asheville/Record/The-Technology-and-Public-Safety-Page">The city's page, annotated</a>)</div></div>
 <div class="tl-item tl-resist"><div class="tl-date">August 25, 2026</div><div class="tl-body"><strong>Council terminates the Flock contract, 5 to 2.</strong> Roney moves, Turner seconds; Mosley and Smith vote no. Full write-up: <a href="../The-Record/Meetings/Asheville/2026-08-25-City-Council">2026-08-25 City Council</a>.</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">August 29–September 1, 2026</div><div class="tl-body"><strong>The G20 finance ministerial in Asheville.</strong> Finance ministers, federal security, road closures; Asheville's cameras remained in Flock's national network, whose logs elsewhere show searches tagged "protest." (<a href="../Briefings/Who-Gets-Watched">Who Gets Watched</a>)</div></div>
-<div class="tl-item tl-future"><div class="tl-date">~February 2027</div><div class="tl-body"><strong>Flock contract term ends.</strong> The original contract term. Council terminated the contract on Aug 25, 2026; the deletion notice and camera removal are tracked on <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>.</div></div>
+<div class="tl-item tl-expand"><div class="tl-date">August 29–September 1, 2026</div><div class="tl-body"><strong>The G20 finance ministerial in Asheville.</strong> Finance ministers, federal security, road closures; Asheville's cameras remained in Flock's national network, whose logs elsewhere show searches tagged "protest." APD's drone unit covered the summit's temporary flight restriction around the clock and located nine drone pilots inside it, the department told the Public Safety Committee on Sept 24. (<a href="../Briefings/Who-Gets-Watched">Who Gets Watched</a> · <a href="../The-Record/Meetings/Asheville/2026-09-24-Public-Safety-Committee">2026-09-24 Public Safety Committee</a>)</div></div>
+<div class="tl-item tl-future"><div class="tl-date">January 31, 2027</div><div class="tl-body"><strong>Flock contract term ends.</strong> The original term of City of Asheville Contract 92500339. Council terminated the contract on Aug 25, 2026; the deletion notice and camera removal are tracked on <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>.</div></div>
 <div class="tl-item tl-future"><div class="tl-date">Spring/summer 2027</div><div class="tl-body"><strong>RTIC fully operational (projected).</strong> The oversight commitments made at the vote come due; Promise Tracker lists them. (<a href="../WNC/Asheville/Record/Promise-Tracker">Promise Tracker</a>)</div></div>
 <div class="tl-item tl-future"><div class="tl-date">2033</div><div class="tl-body"><strong>Axon contract term ends.</strong> The renewal terms are on What Axon Contracts Do. (<a href="../Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a>)</div></div>
 </div>
@@ -71,8 +81,8 @@ Mayor [[Esther Manheimer]] (on the ballot against [[Kim Roney]]) · council memb
 - [Asheville Watchdog on transparency](https://avlwatchdog.org/opinion-youre-on-camera-whether-you-like-it-or-not-but-asheville-needs-to-be-more-transparent-about-video-surveillance-proposal/): 3.1M plates scanned, the case for disclosure
 - [WLOS inside the RTIC](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations): what the center will merge
 
-## The pattern, for regional comparison
+## The sequence, for regional comparison
 
-Read against the county pages, Asheville's sequence is the playbook at maximum scale: infrastructure first (2022–2024), briefing only when caught (March 2025), money on consent (March 2025), committee bypass (2026), vendor-led "education" (April 2026), vote on an unwritten contract at midnight (May 2026). Macon's commissioners reversed the same playbook with one 5–0 vote ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]); Hendersonville and Woodfin are mid-story. Asheville followed the same playbook at larger scale, but until the RTIC goes operational in 2027, it can still be stopped or constrained.
+Read against the county pages, Asheville's sequence runs: camera access and plate readers first, without a council vote (2022 to 2024); the first council briefing in March 2025; the first grant on the consent agenda; vendor presentations at the April 2026 work session; the contract authorized May 12, 2026, before it was written; the contract signed in August. Macon's commissioners ended a camera program with one 5 to 0 vote ([[Communities That Ended or Limited Contracts|Communities that ended or limited camera contracts]]); Hendersonville and Woodfin are mid-decision. The center is projected fully operational in spring 2027, and the contract's non-appropriation clause puts it before council in every budget ([[The Axon Contract as Signed|the contract, as signed]]).
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Timeline]] · [[What Is the RTIC]] · [[Getting Flock Out]] · [[Election 2026]]*

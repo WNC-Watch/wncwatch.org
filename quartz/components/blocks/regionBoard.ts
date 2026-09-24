@@ -3,6 +3,7 @@ import { QuartzComponentProps } from "../types"
 import { BodyBlock } from "../pages/Content"
 import { resolveRelative } from "../../util/path"
 import { AGENDA_LABEL, formatDate, loadCalendar, todayISO } from "../../plugins/transformers/calendar"
+import { labelTable } from "../../plugins/transformers/tables"
 
 // Region board: the homepage table of communities, rendered from the same
 // data the area lead draws (each area page's `standing`, `systems` with their
@@ -81,11 +82,9 @@ export const RegionBoard: BodyBlock = {
       )
     }
     if (rows.length === 0) return null
-    return el("div", { className: ["avl-board"] }, [
-      el("table", {}, [
-        el("tr", {}, HEAD.map((h) => el("th", {}, [text(h)]))),
-        ...rows,
-      ]),
-    ])
+    const table = el("table", {}, [el("tr", {}, HEAD.map((h) => el("th", {}, [text(h)]))), ...rows])
+    // column labels for the phone layout, where each community becomes a card
+    labelTable(table, 0)
+    return el("div", { className: ["avl-board"] }, [table])
   },
 }

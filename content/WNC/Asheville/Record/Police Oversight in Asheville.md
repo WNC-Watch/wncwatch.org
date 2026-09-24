@@ -36,7 +36,7 @@ Put the three records together:
 
 1. **[[Camera Network Misuse|Camera network misuse, documented cases]]** records the misuse cases elsewhere; the safeguards did not catch them before an audit or a records request did.
 2. **This page** shows Asheville cannot build real oversight even when it wants to: state law withholds the powers a review board would need, and bills to grant them have not been heard.
-3. **The [[Promise Tracker]]** shows the city has *already* refused to show the public its audit logs, while the promised transparency dashboards 404.
+3. **The [[Promise Tracker]]** records the city refusing to release its Flock audit logs in September 2025; the Axon plate-reader portal now publishes retention and device counts, and no audit result has been published.
 
 Our concern is accountability and oversight, not cameras as such; the position is stated in full on the [[index|homepage]]. The specific asks are on [[Getting Flock Out]] and [[Speak at Council]].
 

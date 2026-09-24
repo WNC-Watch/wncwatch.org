@@ -1,16 +1,20 @@
 ---
 title: The Public Safety Committee
-description: "Asheville's Public Safety Committee, where RTIC oversight is assigned: members, schedule, and a record of each recorded meeting since May 2025, including the March 26, 2026 meeting that advanced the RTIC grant with no recording published."
+description: "Asheville's Public Safety Committee, where RTIC oversight is assigned: members, schedule, and a record of each recorded meeting from May 2025 through Sept 24, 2026, including the March 26, 2026 meeting that advanced the RTIC grant with no recording published."
 aliases:
   - "The Committee"
   - "The Record/The Committee"
 ---
 
-The Public Safety Committee is the council committee assigned oversight of the [[What Is the RTIC|RTIC]]: three council members (chair [[Bo Hess]], Vice Mayor [[Antanette Mosley]], [[Sheneika Smith]]) meeting remotely, roughly every other month. Below is the record of each meeting from the committee's May 2025 relaunch through July 2026, from the city's own meeting streams. Captions are unlabeled, so attributions follow the meeting context.
+The Public Safety Committee is the council committee assigned oversight of the [[What Is the RTIC|RTIC]]: three council members (chair [[Bo Hess]], Vice Mayor [[Antanette Mosley]], [[Sheneika Smith]]) meeting remotely, roughly every other month. Below is the record of each meeting from the committee's May 2025 relaunch through Sept 24, 2026, from the city's own meeting streams. Captions are unlabeled, so attributions follow the meeting context.
 
 ## Next meeting
 
 <div data-cal="asheville-public-safety"></div>
+
+## September 24, 2026
+
+No RTIC, plate-reader or audit item; the meeting was moved from 11:00 a.m. to 1:00 p.m. The one caller, a resident who requested the Axon quote on Aug 17 and has not been provided it, asked the committee to have the quote published, prices redacted if need be, and to take up the Resolution 26-180 review with a way for the public to follow it. No committee member or staff member responded; the chair adjourned. APD reported its drone unit's coverage of the G20 flight restriction and, at the PGA Tour event, "airspace monitoring to detect unauthorized flights from other drones." Deputy Chief Sean Aardema described a planned exchange of APD data on juveniles with the Department of Juvenile Justice and the district court judges, still at the planning stage. Full record: [[2026-09-24 Public Safety Committee]].
 
 ## March 26, 2026: no recording published
 
@@ -33,13 +37,14 @@ Two later records bear on those answers. In 2025 Flock's own customers learned o
 - **March 26, 2026**: the RTIC vote; no recording (above).
 - **May 28, 2026**: 38 minutes; no surveillance items. The comment system was down; the chair said emails could be read by the meeting's end; none were read.
 - **July 29, 2026**: no surveillance items; the words Flock, Fusus, intelligence center, and audit do not occur in the recording.
+- **September 24, 2026**: no surveillance item on the agenda; one caller on the Axon quote and the review, no response (above).
 
-No plate-reader audit report had been presented to the committee as of its July 29, 2026 meeting. State law requires such reports to exist ([[Records Center|G.S. 20-183.31(a)(7)]]); APD's Policy 1703 routes its quarterly review to the chief ([[Promise Tracker|row 4]]). The Sept 24, 2026 agenda, for a meeting moved from 11:00 a.m. to 1:00 p.m., carries no plate-reader or audit item; public comment runs 30 minutes ([[Asking About the RTIC|the asks for the committee]]).
+No plate-reader audit report had been presented to the committee as of its Sept 24, 2026 meeting, which had no RTIC, plate-reader or audit item. State law requires such reports to exist ([[Records Center|G.S. 20-183.31(a)(7)]]); APD's Policy 1703 routes its quarterly review to the chief ([[Promise Tracker|row 4]]). Public comment runs 30 minutes ([[Asking About the RTIC|the asks for the committee]]).
 
 ## Figures presented to the committee
 
 - July 2025: Chief Lamb described "predictive policing" and "predictive analytics"; the city's later description of the RTIC was "reactive, not predictive" ([[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]).
 - July 2025: a "multi-year 100% clearance rate for homicides" was stated; a deputy chief's figures in the same period showed two 2024 homicides open.
-- The violent-crime reduction was given as "37%" in July 2025, "over 36%" in November 2025, and 24% in the annual figure reported in January 2026.
+- The violent-crime reduction was given as "37%" in July 2025, "over 36%" in November 2025, and 24% in the annual figure reported in January 2026. In September 2026, violent crime through Aug 31 was given as "33% below the four year historical average" of 2021 to 2024 ([[2026-09-24 Public Safety Committee|Sept 24]]).
 
 *Related: [[Police Oversight in Asheville|Police oversight in Asheville, 1991 to 2026]] · [[Bo Hess]] · [[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]] · [[Records Center]] · [[Promise Tracker]]*

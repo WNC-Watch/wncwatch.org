@@ -4,7 +4,7 @@ description: "City of Asheville Contract 92700065 with Axon Enterprise, posted b
 aliases:
   - "The Axon Contract"
   - "Contract 92700065"
-verified: 2026-09-23
+verified: 2026-09-24
 ---
 
 City Council authorized the city manager to sign a contract with Axon on May 12, 2026 (Resolution 26-99), before the contract existed ([[2026-05-07 Agenda Briefing|the May 7 briefing]]). Emails released Aug 20, 2026 dated the signature package to July 16 ([[The RTIC Policy]]). The signed contract is now public: the City of Asheville posted it on its [Technology and Public Safety page](https://publicinput.com/f65124) in August 2026, in two files under the label "Sourcewell/Axon Combined," with the Sourcewell master agreement and the FUSUS appendix beside it. This page reads the eight pages the city posted. Local copies with hashes are held by this site (SRC 2026-0955 and 2026-0956). What the contract references and the city has not posted is listed at the end.
@@ -72,6 +72,16 @@ Posted beside the contract: the Sourcewell amendment Axon signed July 9, 2024. I
 
 "Overages may result in additional fees or the need to upgrade products." The data clause: "Axon may collect, use, transfer, disclose and otherwise process Customer Content in the context of facilitating communication of data with Customer through their use of FUSUS cloud services FUSUS app (iOS or Android interface), complying with legal requirements, monitoring the Customer's use of FUSUS systems, and undertaking data analytics. Customer Content saved in Axon Cloud Services is the sole property of Customer and may not be distributed by Axon to any third parties outside of the Customer's organization without the Customer's expressed written consent." The tier Asheville bought is in the quote.
 
+## What the master agreement says about data
+
+The contract defers to Axon's Master Services and Purchasing Agreement, version 19.0, which the city posted as Exhibit B (104 pages; local copy SRC 2026-0964). Its cloud terms set out who owns what:
+
+- **Section 3, "Agency Owns Agency Content":** "Agency controls and owns all right, title, and interest in Agency Content." The same section: "Agency agrees to allow Axon access to Agency Content to (a) perform troubleshooting, maintenance, or diagnostic screenings; and (b) enforce this Agreement or policies governing use of the Axon products."
+- **Section 6, Privacy:** "Non-Content Data" is "data, configuration, and usage information about Agency's Axon Cloud Services tenant, Axon Devices and client software, and users," and the agency agrees "to allow Axon access to Non-Content Data" to "provide, develop, improve, and support current and future Axon products and related services."
+- **The Customer Experience Improvement Program appendix:** "By default, Agency will be a participant in ACEIP Tier 1," under which Axon "may make limited use of Agency Content from all of its customers to provide, develop, improve, and support current and future Axon products." The appendix's own examples include "extracting license plate data to improve Automated License Plate Recognition (ALPR) capabilities." Consent can be revoked in writing, after which Axon has 30 days to stop and delete.
+
+The city's opt-out rests on a sales representative's July 16, 2026 email; the contract text does not mention it, and Axon's written confirmation is not posted ([[The RTIC Policy]]). The master agreement sets no retention period for plate reads or Fusus content, and neither do the eight contract pages. On May 12, 2026 the chief told council: "Axon neither has access to the Fusus or to the system, or retains data" ([[Asheville RTIC Claims and the Record|the claims, with sources]]).
+
 ## Who signed, and when
 
 - Axon: its executive vice president for global operations, notarized in Maricopa County, Arizona, July 21, 2026.
@@ -81,9 +91,10 @@ Council authorized the contract May 12, 2026; the vote was 6 to 1, [[Kim Roney]]
 
 ## What is referenced and not posted
 
-- Axon quote Q-808220-46198AS: the products, quantities, unit prices and the Fusus tier.
+- Axon quote Q-808220-46198AS: the products, quantities, unit prices and the Fusus tier. A resident requested it on Aug 17, 2026 and it was not provided ([[2026-09-24 Public Safety Committee]]).
 - The contract for 20 Axon Fleet in-car plate readers, in "final signature stage" per a July 13, 2026 email ([[The RTIC Policy]]).
 - Axon's written confirmation that the city is out of the ACEIP data program, which Axon's appendix says it provides within 30 days of a request.
+- The April 2024 agreement for the Axon in-car plate readers, listed in the city page's timeline; whether it is among the ten quotes the scope ends is not stated. It was not brought to council.
 - The DOJ award conditions for the $1,141,255.56 earmark, published to the city after acceptance ([[Chuck Edwards]]).
 
 Each is drafted as a request on [[Records Center]].

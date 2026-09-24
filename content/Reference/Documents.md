@@ -58,7 +58,7 @@ The Buncombe County Sheriff's Office publishes its manual on [PowerDMS](https://
 
 - **[APD Flock Camera Sheet](https://www.sunshinerequest.com/wp-content/uploads/2025/07/APD-Flock-Camera-Sheet1.pdf)**: which agencies have search and hot-list access to Asheville's Flock data (released Sept 2025 via [Sunshine Request](https://www.sunshinerequest.com/records_request/july-2025-request-for-city-of-asheville-nc-government-organization-and-network-audit-in-flock-06-01-2024-present-and-list-of-data-sharing-agencies-and-organizations/)).
 - **Refused:** the same request asked for Flock **organization and network audit logs**, the record of who searched what. The city declined, citing G.S. 20-183.31(b) and the criminal-intelligence exemption (G.S. 132-1.4). The dispute remains open. The trail exists, and **the city has already refused to show it to the public.** See [[Promise Tracker]].
-- **Missing:** APD's [transparency page](https://www.ashevillenc.gov/department/police/transparency/) describes an "Axon ALPR Dashboard" and a "Flock Safety ALPR Dashboard," but the page contains no working links and the dashboard page returns a 404 (checked Aug 17, 2026).
+- **Dashboards:** APD's [transparency page](https://www.ashevillenc.gov/department/police/transparency/) returned a 404 on Aug 17, 2026 and was restored Aug 20. The [Axon plate-reader portal](https://ashevillepdbwc.evidence.com/alpr/public/policy) publishes retention, device counts and hotlist hits; the [Flock portal](https://transparency.flocksafety.com/asheville-nc-pd) showed an overview paragraph only on Sept 23, 2026. Neither publishes audit results.
 
 ## Filing your own requests
 

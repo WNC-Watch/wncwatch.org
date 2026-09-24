@@ -31,7 +31,7 @@ A request needs no magic words. State that you are requesting public records und
 
 > Under N.C.G.S. Chapter 132, I request electronic copies of: (1) Axon quote Q-808220-46198AS, referenced in Exhibit A of City of Asheville Contract 92700065, with all line items, quantities and unit prices, and any revision of it; (2) the executed contract and quote for the 20 Axon Fleet in-car license plate readers referenced in APD's July 2026 correspondence with Axon; (3) all purchase orders issued to Axon from January 1, 2023 to present. If any portion is withheld, please identify it and cite the specific statutory exemption.
 
-**What it proves:** what was bought and in what quantity, which Fusus tier, and whether any Lightpost fixed-reader hardware was purchased ([[The Axon Contract as Signed|the contract, as signed]]). **Status: not filed as of Sept 23, 2026**
+**What it proves:** what was bought and in what quantity, which Fusus tier, and whether any Lightpost fixed-reader hardware was purchased ([[The Axon Contract as Signed|the contract, as signed]]). **Status: not filed from this queue as of Sept 24, 2026.** Part (1) was requested by a resident on Aug 17, 2026 and not provided, as the requester told the [[2026-09-24 Public Safety Committee|Sept 24 committee]].
 
 ### 2. The city's participation status in Axon's ACEIP data program
 
