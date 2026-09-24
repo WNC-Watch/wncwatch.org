@@ -2,6 +2,7 @@
 title: The RTIC Policy
 description: "Seven released records on how the RTIC's governing policy was written: what Policy 1703 says, what changed between its four drafts, and the emails dating the Axon contract's signature to July 2026."
 aliases:
+  - "WNC/Asheville/Record/The RTIC Policy"
   - "The RTIC Policy"
   - "The Record/The RTIC Policy"
 type: tracker

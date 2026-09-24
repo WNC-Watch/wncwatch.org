@@ -35,14 +35,14 @@ More than a hundred pages. Start with what you need:
 </ol></div>
 <div class="door"><span class="door-k">Why should I care</span><p class="door-t">Who the networks reach</p><ol>
 <li><a href="./Briefings/Who-Gets-Watched">Who gets watched</a></li>
-<li><a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The sheriff's Fusus access log, 2024 to 2026</a></li>
-<li><a href="./WNC/Asheville/Record/Cameras-in-Public-Housing">Cameras in public housing</a></li>
+<li><a href="./WNC/Buncombe-County/Tracking/Sheriffs-Audit-Log">The sheriff's Fusus access log, 2024 to 2026</a></li>
+<li><a href="./WNC/Asheville/Tracking/Cameras-in-Public-Housing">Cameras in public housing</a></li>
 <li><a href="./Companies/Camera-Network-Misuse">Camera network misuse, documented cases</a></li>
 </ol></div>
 <div class="door"><span class="door-k">Who decides</span><p class="door-t">Where your officials stand</p><ol>
 <li><a href="./WNC/index">Every official and candidate, one page each</a></li>
 <li><a href="./Act/Election-2026">The November ballot</a></li>
-<li><a href="./WNC/Asheville/Record/Asheville-RTIC-Claims-and-the-Record">Asheville's RTIC claims and the record</a></li>
+<li><a href="./WNC/Asheville/Tracking/Asheville-RTIC-Claims-and-the-Record">Asheville's RTIC claims and the record</a></li>
 </ol></div>
 <div class="door"><span class="door-k">The Asheville record</span><p class="door-t">Asheville, 2022 to now</p><ol>
 <li><a href="./Briefings/What-Is-the-RTIC">What is the RTIC?</a></li>
@@ -74,9 +74,9 @@ How it happened in Asheville, the region's deepest case, is kept meeting by meet
 <li><strong>The 11 Flock cameras removed</strong> and APD's Flock accounts closed. <a href="./Act/Getting-Flock-Out">What a full exit requires</a></li>
 <li><strong>The data deletion notice</strong> staff promised council on the record. <a href="./Meetings/Asheville/2026-08-25-City-Council">The commitment, timestamped</a></li>
 <li><strong>The executed Axon contract released</strong>, and the second contract for 20 in-car plate readers. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
-<li><strong>The audit reports</strong> state law already requires, at the Sept 24 Public Safety Committee. <a href="./WNC/Asheville/Record/The-Committee">The Committee</a></li>
-<li><strong>Retention and counts</strong>: the city's portal showed 90-day retention on Aug 25 and 21 days as of Sept 8; the vehicle reader count is 162 by APD's statement and 137 by its portal. Both archived. <a href="./WNC/Asheville/Record/Promise-Tracker">Promise Tracker</a></li>
-<li><strong>The sheriff's network</strong>: access to 1,355 Flock networks, five-year Fusus retention, and an access log with 58 percent of viewing on public housing. <a href="./WNC/Buncombe-County/Record/Sheriffs-Audit-Log">The audit log</a> · <a href="./WNC/Buncombe-County/index">Buncombe County</a></li>
+<li><strong>The audit reports</strong> state law already requires, at the Sept 24 Public Safety Committee. <a href="./WNC/Asheville/Tracking/The-Committee">The Committee</a></li>
+<li><strong>Retention and counts</strong>: the city's portal showed 90-day retention on Aug 25 and 21 days as of Sept 8; the vehicle reader count is 162 by APD's statement and 137 by its portal. Both archived. <a href="./WNC/Asheville/Tracking/Promise-Tracker">Promise Tracker</a></li>
+<li><strong>The sheriff's network</strong>: access to 1,355 Flock networks, five-year Fusus retention, and an access log with 58 percent of viewing on public housing. <a href="./WNC/Buncombe-County/Tracking/Sheriffs-Audit-Log">The audit log</a> · <a href="./WNC/Buncombe-County/index">Buncombe County</a></li>
 </ul>
 </div>
 

@@ -45,7 +45,12 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Sage Turner]]**: Council member since 2020. Voted yes on May 12, 2026 with removal of the city's Flock cameras as a stated condition; documented on Aug 17 that the cameras were still up; seconded the termination Aug 25. Not on the ballot until 2028.
 - **[[Sheneika Smith]]**: Council member since 2017. On March 25, 2025 suggested a community forum on the RTIC, which was not held; voted yes May 12, 2026; voted no on the Flock termination Aug 25, 2026. On the November 3, 2026 ballot.
 
-#### [[WNC/Asheville/Record/index|Record]]
+#### [[WNC/Asheville/Community/index|Community]]
+
+- **[[Benn Jordan]]**: Independent researcher whose Flock Safety security findings were reported nationally; spoke in Asheville in May 2026. His work is cited on the misuse and vendor pages.
+- **[[Patrick Conant]]**: Sunshine Labs founder. Asked council on May 12, 2026 what the RTIC's operating cost will be after the grant; filed the records requests that produced the RTIC policy documents released Aug 20, 2026.
+
+#### [[WNC/Asheville/Tracking/index|Tracking]]
 
 - **[[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]**: Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it.
 - **[[Cameras in Public Housing]]**: Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published.
@@ -62,11 +67,6 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[The Real-Time Intelligence Center]]**: Asheville's Real-Time Intelligence Center in one place: where it stands, the signed Axon contract and the other documents, the money, what each official has said and voted, what is pending, and where the rest of the record is.
 - **[[The RTIC Policy]]**: Seven released records on how the RTIC's governing policy was written: what Policy 1703 says, what changed between its four drafts, and the emails dating the Axon contract's signature to July 2026.
 
-#### [[WNC/Asheville/Community/index|Community]]
-
-- **[[Benn Jordan]]**: Independent researcher whose Flock Safety security findings were reported nationally; spoke in Asheville in May 2026. His work is cited on the misuse and vendor pages.
-- **[[Patrick Conant]]**: Sunshine Labs founder. Asked council on May 12, 2026 what the RTIC's operating cost will be after the grant; filed the records requests that produced the RTIC policy documents released Aug 20, 2026.
-
 ### [[WNC/Buncombe County/index|Buncombe County]]
 
 #### [[WNC/Buncombe County/Officials/index|Officials]]
@@ -82,7 +82,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Rob Jackson]]**: Buncombe County Schools superintendent until September 1, 2026. The school cameras' connection to the sheriff's network predates his term; the board's public record shows no vote revisiting it.
 - **[[Todd Williams]]**: Buncombe County District Attorney since 2014, leaving office December 31, 2026. His letter of April 30, 2026, read into the record at the May 12 vote, states that he had been assured the system could not be used for immigration enforcement.
 
-#### [[WNC/Buncombe County/Record/index|Record]]
+#### [[WNC/Buncombe County/Tracking/index|Tracking]]
 
 - **[[Sheriffs Audit Log|Buncombe County Sheriff's Office Fusus access log, 2024 to 2026]]**: Twenty-eight months of the Buncombe County Sheriff's Office's own Fusus access records, released by public records request: 337,838 entries, 58 percent of camera viewing on public housing, almost all of it live, most of it by three accounts. The county withheld every timestamp.
 

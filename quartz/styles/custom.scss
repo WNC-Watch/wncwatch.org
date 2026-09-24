@@ -539,3 +539,21 @@ article .table-container {
   color: var(--darkgray);
   font-size: 0.9em;
 }
+
+// Folder table of contents (FolderContent): title, then its one-line description.
+.folder-toc {
+  margin-top: 1.5rem;
+  ul { list-style: none; padding-left: 0; margin: 0; }
+  li { margin: 0 0 0.9rem 0; line-height: 1.45; }
+  li > a { font-weight: 600; }
+  .folder-toc-desc { display: block; color: var(--darkgray); font-size: 0.95em; }
+  .folder-toc-status {
+    margin-left: 0.5rem;
+    font-size: 0.72em;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--darkgray);
+  }
+  .folder-toc-status.st-pending { color: var(--tl-future); }
+}

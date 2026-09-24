@@ -2,6 +2,7 @@
 title: "The city's Technology and Public Safety page, annotated"
 description: "The City of Asheville's August 2026 page on the RTIC, plate readers and drones (publicinput.com/f65124), read against the documents it links: which plate readers its answers describe, the wording it shares with Axon's and Flock's own pages, each answer beside the record, and what the page does not carry."
 aliases:
+  - "WNC/Asheville/Record/The Technology and Public Safety Page"
   - "Technology and Public Safety Page"
   - "The City Technology Page"
 verified: 2026-09-24

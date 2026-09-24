@@ -2,6 +2,7 @@
 title: Cameras in Public Housing
 description: "Police-connected cameras in Asheville's public housing: about 500 cameras on housing communities, the national record of camera footage in eviction cases, and the notice and consent records not yet published."
 aliases:
+  - "WNC/Asheville/Record/Cameras in Public Housing"
   - "WNC/Asheville/Record/Watching the Poor"
   - "Watching the Poor"
   - "Cameras in Public Housing"

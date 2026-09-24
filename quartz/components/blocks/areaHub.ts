@@ -13,7 +13,7 @@ import { BodyBlock } from "../pages/Content"
 
 const LABELS = {
   officials: "Officials",
-  record: "Record",
+  record: "Tracking",
   community: "Community",
   meetings: "Meetings",
   other: "Other pages",
@@ -69,11 +69,11 @@ export const AreaHub: BodyBlock = {
     const prefix = `WNC/${area}/`
 
     const officials = pagesUnder(allFiles, `${prefix}Officials/`).sort(byTitle)
-    const record = pagesUnder(allFiles, `${prefix}Record/`).sort(byTitle)
+    const record = pagesUnder(allFiles, `${prefix}Tracking/`).sort(byTitle)
     const community = pagesUnder(allFiles, `${prefix}Community/`).sort(byTitle)
     // meeting records live under Meetings/ and carry the town as their folder
     const meetings = pagesUnder(allFiles, `Meetings/${area}/`).sort(byTitle).reverse()
-    const known = new Set(["Officials", "Record", "Community"])
+    const known = new Set(["Officials", "Tracking", "Community"])
     const other = pagesUnder(allFiles, prefix)
       .filter((f) => !known.has(f.slug!.slice(prefix.length)))
       .sort(byTitle)

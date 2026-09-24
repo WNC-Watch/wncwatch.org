@@ -10,7 +10,7 @@ systems:
     kind: expand
     detail: "The sheriff's network: about 2,000 cameras, about 1,500 of them in schools, and 20 or more plate readers; five-year retention; no published audit. The county released 28 months of the access log in May 2026."
     links:
-      - "WNC/Buncombe County/Record/Sheriffs Audit Log"
+      - "WNC/Buncombe County/Tracking/Sheriffs Audit Log"
 verified: 2026-09-08
 type: area
 area:
