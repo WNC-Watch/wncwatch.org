@@ -7,7 +7,7 @@ aliases:
 verified: 2026-09-23
 ---
 
-The case made to City Council for the Real-Time Intelligence Center on May 12, 2026 rested in part on money: the federal government would pay for the center, and bundling the city's Axon agreements would save money. This page sets that case beside the documents that carry the numbers: the two staff reports council voted on, the chief's presentation and the minutes, the budget amendment, and the contract the city signed in August and posted in September ([[The Axon Contract as Signed|the contract, as signed]]). Every figure is quoted or computed from those, and each computation is shown. The hub for the center is [[The Real-Time Intelligence Center]].
+The case made to City Council for the Real-Time Intelligence Center on May 12, 2026 rested in part on money: the federal government would pay for the center, and bundling the city's Axon agreements would save money. This page sets that case beside the documents that carry the numbers: the two staff reports council voted on, the chief's presentation and the minutes, the budget amendment, and the contract the city signed and posted in August ([[The Axon Contract as Signed|the contract, as signed]]). Every figure is quoted or computed from those, and each computation is shown. The hub for the center is [[The Real-Time Intelligence Center]].
 
 ## What was said
 

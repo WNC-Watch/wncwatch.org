@@ -19,18 +19,46 @@ The officials who voted on the [[What Is the RTIC|RTIC]] and the sheriff who run
 
 The March primary cut twenty candidates to six. Three are incumbents who **voted yes on May 12**. As of Sept 17, 2026, one of the six, Jeffrey Burroughs, had stated a position on the RTIC and the Flock contract in campaign posts. At a West Asheville candidate forum on Sept 16, 2026, five of the six answered a surveillance question; Sheneika Smith is not on the audience recording this site holds. None has yet been asked in a questionnaire.
 
-| Candidate | RTIC record | Campaign position |
+| Candidate | RTIC record | On the record since the vote |
 |---|---|---|
-| **[[Maggie Ullman]]** (i) | Voted yes and seconded both motions, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | First public position **Aug 20, 2026**, at the [[2026-08-20 Agenda Briefing|agenda briefing]]: supports pulling the Flock cameras now ("I'm happy to move forward on just pulling them now"), but "get rid of Axon... starts to hit a wall where I can't fathom pulling back on our transparency tools." On Aug 25, 2026 she voted for the Flock termination: "I will support getting rid of these Flocks. I'm glad to hear the manager lay it straight that we're going to have a conversation before any other action would happen. This isn't a bait and switch." ([[2026-08-25 City Council|the record]]) Sept 16 forum: "I'm okay pausing or stopping this and pulling out from the city's 11" (0:40); "unchecked surveillance that is networked nationally to companies we don't know is very concerning" (1:30). |
-| **[[Antanette Mosley]]** (i, Vice Mayor) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]); voted no on the Flock termination, Aug 25, 2026 | Aug 25, 2026, on the termination: "My general concern is that what we're attempting to do quite frankly is a bait and switch, and I think we're not giving our citizens credit for seeing that." ([[2026-08-25 City Council|the record]]) Sept 16 forum: Housing Authority residents "requested that we maintain the cameras" (2:10); "I happen to not believe that we have to choose between public safety and civil liberties" (3:09). |
-| **[[Sheneika Smith]]** (i) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]); in 2025 suggested a community forum on the RTIC, which was not held; voted no on the Flock termination, Aug 25, 2026 | Aug 25, 2026: "I haven't heard any resolutions. I haven't heard about replacements. What do we do?" ([[2026-08-25 City Council|the record]]) |
-| **[[Drew Ball]]** (county commissioner) | — | First position Sept 16, 2026, at a West Asheville forum: audit logs, "control our data so it's not fed to a national network," "closed loop systems that we control" (10:09); credited Flock in the paintball case (9:25); "I don't trust the Trump administration or ICE" (10:22). No written statement found (searched Sept 17). (audience recording held by this site) |
-| **[[Keith Young]]** (former council member) | — | Closest thing to a stance: his [DSA questionnaire](https://avldsa.org/2026-city-council-primary-questionnaire-responses/) calls for a "local firewall" so city government isn't "feeding a pipeline into enforcement through data, technology, or informal collaboration," plus "strong privacy and data minimization rules" and warrant requirements. At the Sept 16, 2026 forum: "Can we use this system to make our public safety system stronger? Yes, but should it be the one that they agreed upon? Probably not. I think we should have a community conversation" (7:51); did not name the RTIC, Axon, or Flock. No written statement found (searched Sept 17). (audience recording held by this site) |
-| **[[Jeffrey Burroughs]]** | — | May 14, 2026, two days after the vote, on his campaign Instagram: "If I had been on council, I would have voted no." Aug 25, 2026, the day of the Flock vote: "I am against mass surveillance. I support ending our city contract with Flock cameras." Sept 16 forum: "Could I vote on supporting this tomorrow? We haven't done the work" (5:24); asked whether a Citizens Police Advisory Committee, "paused in 2020," would have caught it (4:13). Nothing yet on an oversight ordinance, posting the Axon quote, or a vote before fixed Axon readers go in. ([May 14 reel](https://www.instagram.com/reel/DYVPiZiv3e8/) · [Aug 25 reel](https://www.instagram.com/reel/DceULhqPx3_/)) |
+| **[[Maggie Ullman]]** (i) | Voted yes and seconded both motions, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | Council, Aug 20 and Aug 25, 2026; the Sept 16 forum. [Their words](#maggie-ullman) |
+| **[[Antanette Mosley]]** (i, Vice Mayor) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]); voted no on the Flock termination, Aug 25, 2026 | Council, Aug 25, 2026; the Sept 16 forum. [Their words](#antanette-mosley) |
+| **[[Sheneika Smith]]** (i) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]); in 2025 suggested a community forum on the RTIC, which was not held; voted no on the Flock termination, Aug 25, 2026 | Council, Aug 25, 2026; not on the Sept 16 recording this site holds. [Their words](#sheneika-smith) |
+| **[[Drew Ball]]** (county commissioner) | — | The Sept 16 forum; no written statement found (searched Sept 17). [Their words](#drew-ball) |
+| **[[Keith Young]]** (former council member) | — | His DSA questionnaire; the Sept 16 forum; no written statement found (searched Sept 17). [Their words](#keith-young) |
+| **[[Jeffrey Burroughs]]** | — | Campaign posts, May 14 and Aug 25, 2026; the Sept 16 forum. [Their words](#jeffrey-burroughs) |
 
 **The questionnaire gap:** not one 2026 candidate questionnaire in Buncombe County ([Asheville DSA's](https://avldsa.org/2026-city-council-primary-questionnaire-responses/), [BPR's](https://www.bpr.org/politics-government/2026-02-25/asheville-city-council-candidates-answer-bprs-questions), or [the Chamber's](https://www.ashevillechamber.org/news-events/2026-election-guide/)) asked a single question about surveillance. An August candidate forum at Shiloh covered seniors and displacement; surveillance never came up.
 
-**The last forum:** Sept 16, 2026, West Asheville, council candidates only ([[2026-09-16 Council Candidate Forum|the record, with each candidate's answers and audio]]). Surveillance and the Flock vote was the first question; the others were affordable housing against infrastructure, Patton Avenue pedestrian safety, building four-vote coalitions, whether permitting hinders affordable housing, and three-person council check-ins. Five of the six candidates answered; the lines above come from an audience recording this site holds, which begins part-way through the first answer. Timestamps are minutes into it; the file is available on request through [[Get Involved]].
+**The last forum:** Sept 16, 2026, West Asheville, council candidates only ([[2026-09-16 Council Candidate Forum|the record, with each candidate's answers and audio]]). Surveillance and the Flock vote was the first question; the others were affordable housing against infrastructure, Patton Avenue pedestrian safety, building four-vote coalitions, whether permitting hinders affordable housing, and three-person council check-ins. Five of the six candidates answered; the forum lines below come from an audience recording this site holds, which begins part-way through the first answer. Timestamps are minutes into it; the file is available on request through [[Get Involved]].
+
+## Each council candidate, in their words
+
+Quoted in full, with dates and times; forum times are on the audience recording this site holds.
+
+### Maggie Ullman
+
+First public position **Aug 20, 2026**, at the [[2026-08-20 Agenda Briefing|agenda briefing]]: supports pulling the Flock cameras now ("I'm happy to move forward on just pulling them now"), but "get rid of Axon... starts to hit a wall where I can't fathom pulling back on our transparency tools." On Aug 25, 2026 she voted for the Flock termination: "I will support getting rid of these Flocks. I'm glad to hear the manager lay it straight that we're going to have a conversation before any other action would happen. This isn't a bait and switch." ([[2026-08-25 City Council|the record]]) Sept 16 forum: "I'm okay pausing or stopping this and pulling out from the city's 11" (0:40); "unchecked surveillance that is networked nationally to companies we don't know is very concerning" (1:30).
+
+### Antanette Mosley
+
+Aug 25, 2026, on the termination: "My general concern is that what we're attempting to do quite frankly is a bait and switch, and I think we're not giving our citizens credit for seeing that." ([[2026-08-25 City Council|the record]]) Sept 16 forum: Housing Authority residents "requested that we maintain the cameras" (2:10); "I happen to not believe that we have to choose between public safety and civil liberties" (3:09).
+
+### Sheneika Smith
+
+Aug 25, 2026: "I haven't heard any resolutions. I haven't heard about replacements. What do we do?" ([[2026-08-25 City Council|the record]])
+
+### Drew Ball
+
+First position Sept 16, 2026, at a West Asheville forum: audit logs, "control our data so it's not fed to a national network," "closed loop systems that we control" (10:09); credited Flock in the paintball case (9:25); "I don't trust the Trump administration or ICE" (10:22). No written statement found (searched Sept 17). (audience recording held by this site)
+
+### Keith Young
+
+Closest thing to a stance: his [DSA questionnaire](https://avldsa.org/2026-city-council-primary-questionnaire-responses/) calls for a "local firewall" so city government isn't "feeding a pipeline into enforcement through data, technology, or informal collaboration," plus "strong privacy and data minimization rules" and warrant requirements. At the Sept 16, 2026 forum: "Can we use this system to make our public safety system stronger? Yes, but should it be the one that they agreed upon? Probably not. I think we should have a community conversation" (7:51); did not name the RTIC, Axon, or Flock. No written statement found (searched Sept 17). (audience recording held by this site)
+
+### Jeffrey Burroughs
+
+May 14, 2026, two days after the vote, on his campaign Instagram: "If I had been on council, I would have voted no." Aug 25, 2026, the day of the Flock vote: "I am against mass surveillance. I support ending our city contract with Flock cameras." Sept 16 forum: "Could I vote on supporting this tomorrow? We haven't done the work" (5:24); asked whether a Citizens Police Advisory Committee, "paused in 2020," would have caught it (4:13). Nothing yet on an oversight ordinance, posting the Axon quote, or a vote before fixed Axon readers go in. ([May 14 reel](https://www.instagram.com/reel/DYVPiZiv3e8/) · [Aug 25 reel](https://www.instagram.com/reel/DceULhqPx3_/))
 
 ## Sheriff: the county camera network is on the ballot
 

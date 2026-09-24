@@ -388,9 +388,16 @@
     vertical-align: top;
   }
   td.bd-place { white-space: nowrap; font-weight: 600; }
-  td.bd-systems { white-space: nowrap; }
   .bd-agenda { font-size: 0.85em; color: var(--gray); }
-  td.bd-next { white-space: nowrap; }
+  // "Next" wraps; it used to hold one line and squeeze "Where it stands" to a
+  // few words a line (2026-09-24)
+}
+// board column widths, above the general content-table rule below
+article .avl-board .table-container > table {
+  td.bd-place { min-width: 0; }
+  td.bd-systems { white-space: normal; min-width: 9rem; }
+  td:nth-child(3) { min-width: 15rem; }
+  td.bd-next { white-space: normal; min-width: 9rem; }
 }
 // Status dot, shared by the homepage board and the area lead block
 .bd-dot::before {
@@ -406,7 +413,100 @@
 .bd-resist::before { background: var(--tl-resist); }
 .bd-future::before { background: var(--tl-future); }
 @media (max-width: 640px) {
-  .avl-board table { font-size: 0.8rem; }
+  .avl-board table { font-size: 0.88rem; }
+  .avl-board td.bd-place,
+  .avl-board td.bd-systems { white-space: normal; }
+  article .avl-board .table-container > table td.bd-place { font-size: 1rem; padding-bottom: 0.3rem; }
+  article .avl-board .table-container > table.tbl-prose td.bd-place::before { display: none; }
+}
+
+// ── Content tables: readable rows (2026-09-24) ───────────────────
+// Quartz's base styles give every table line a 2rem line height, indent the
+// table 1rem and let columns shrink to 75px, so long cells became tall, airy
+// stripes a few words wide. Tables whose longest cell runs 12 words or more
+// carry "tbl-prose" (quartz/plugins/transformers/tables.ts): wider columns on
+// a desktop, and one card per row on a phone, each value under its column name.
+article .table-container {
+  margin: 1rem 0 1.25rem;
+
+  & > table {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 0.92rem;
+
+    & > * {
+      line-height: 1.5;
+    }
+    th,
+    td {
+      vertical-align: top;
+      line-height: 1.5;
+    }
+    th {
+      padding: 0.45rem 0.9rem 0.45rem 0;
+      font-size: 0.85rem;
+    }
+    td {
+      padding: 0.6rem 0.9rem 0.6rem 0;
+    }
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+  }
+
+  & > table.tbl-prose td {
+    min-width: 9rem;
+  }
+  & > table.tbl-prose td:first-child {
+    min-width: 3rem;
+  }
+}
+
+@media (max-width: 640px) {
+  article .table-container > table.tbl-prose {
+    display: block;
+    border: none;
+
+    thead,
+    tr:has(> th) {
+      display: none;
+    }
+    tbody,
+    tr {
+      display: block;
+    }
+    tr {
+      border-bottom: 1px solid var(--lightgray);
+      padding: 0.7rem 0;
+    }
+    td,
+    td:first-child {
+      display: block;
+      min-width: 0;
+      padding: 0.2rem 0;
+      border: none;
+    }
+    td:empty {
+      display: none;
+    }
+    td[data-label="#"] {
+      font-weight: 600;
+    }
+    td[data-label="#"]::before {
+      display: none;
+    }
+    td[data-label]::before {
+      content: attr(data-label);
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--gray);
+    }
+  }
 }
 
 // verified footer: the dated line at the foot of a page, rendered from frontmatter
