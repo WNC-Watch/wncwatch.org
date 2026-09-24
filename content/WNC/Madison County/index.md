@@ -24,15 +24,9 @@ Madison County's sheriff's office put 15 Flock cameras into use by March 2026 wi
 
 ## Timeline
 
-<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span><span class="lg-report">what was reported</span></div>
 
-<div class="avl-tl">
-<div class="tl-item tl-expand"><div class="tl-date">By March 2026</div><div class="tl-body"><strong>15 Flock cameras in use countywide, with no commission vote and no public discussion.</strong> Sheriff Buddy Harwood's office announced the deployment via the sheriff's Facebook page. (<a href="https://www.madisonforprivacy.org/">Madison for Privacy</a> · <a href="https://deflockilm.org/flock-in-north-carolina/">DeFlockILM tracker</a> · <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">March 10, 2026</div><div class="tl-body"><strong>first organized public comment.</strong> Madison for Privacy brought Fourth Amendment objections to the commissioners meeting; the comments are on tape (<a href="https://www.youtube.com/@madisoncountygovernment3990">Madison County Government on YouTube</a>).</div></div>
-<div class="tl-item tl-expand"><div class="tl-date">June 9, 2026</div><div class="tl-body"><strong>"You will not speak on Flock tonight."</strong> Chairman Michael Garrison refused to let dozens of objecting residents speak individually (allowing one seven-minute spokesperson) and argued the board has no oversight of the Sheriff's technology purchases; the story went national via <a href="https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/">404 Media</a>. (<a href="../WNC/Asheville/Record/Police-Oversight-in-Asheville">Police oversight in Asheville, 1991 to 2026</a>)</div></div>
-<div class="tl-item tl-resist"><div class="tl-date">August 2026</div><div class="tl-body"><strong>national week of action.</strong> "Popsicles for Privacy," organized with Madison for Privacy. (<a href="https://atlpresscollective.com/2026/08/15/flock-week-of-action/">Atlanta Press Collective</a>)</div></div>
-<div class="tl-item tl-future tl-now"><div class="tl-date">November 2026</div><div class="tl-body"><strong>Sheriff Harwood on the ballot</strong> (vs. Robin Lyles, R); no public position on the cameras found for either candidate as of Sept 8, 2026.</div></div>
-</div>
+<div class="avl-tl" data-events="WNC/Madison County/index"></div>
 
 ## Links of note
 

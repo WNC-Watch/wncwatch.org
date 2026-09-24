@@ -6,11 +6,13 @@
   --tl-expand: #a8323e; // surveillance expands
   --tl-resist: #2e7d5b; // resistance & wins
   --tl-future: #b07d2f; // ahead / decision points
+  --tl-report: #4f6a8f; // reported: press, positions, statements
 }
 :root[saved-theme="dark"] {
   --tl-expand: #e06c75;
   --tl-resist: #6fbf9a;
   --tl-future: #d9a441;
+  --tl-report: #8fa9cc;
 }
 
 // Legend
@@ -33,6 +35,7 @@
   .lg-expand::before { background: var(--tl-expand); }
   .lg-resist::before { background: var(--tl-resist); }
   .lg-future::before { background: var(--tl-future); }
+  .lg-report::before { background: var(--tl-report); }
 }
 
 // Timeline container
@@ -91,6 +94,8 @@
 .tl-expand::before { background: var(--tl-expand); }
 .tl-resist::before { background: var(--tl-resist); }
 .tl-future::before { background: var(--tl-future); }
+.tl-report::before { background: var(--tl-report); }
+.tl-none::before { background: var(--gray); }
 
 .tl-now::before {
   box-shadow: 0 0 0 4px var(--highlight);
@@ -106,6 +111,23 @@
 .tl-expand .tl-date { color: var(--tl-expand); }
 .tl-resist .tl-date { color: var(--tl-resist); }
 .tl-future .tl-date { color: var(--tl-future); }
+.tl-report .tl-date { color: var(--tl-report); }
+.tl-none .tl-date { color: var(--darkgray); }
+
+// The headline stands on its own line; the detail follows beneath it.
+.tl-head {
+  display: block;
+}
+
+// The kind, as a word beside the color (never color alone).
+.tl-kind {
+  margin-left: 0.5rem;
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
 
 .tl-body {
   margin-top: 0.05rem;
