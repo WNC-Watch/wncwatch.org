@@ -4,6 +4,10 @@ description: "NC House member for District 117 since January 2023; Republican no
 aliases:
   - "People/Jennifer Balkcom"
   - "People/State/Jennifer Balkcom"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** NC State Representative, House District 117 (Henderson County) · Republican nominee for U.S. House NC-11 ([BPR](https://www.bpr.org/politics-government/2026-08-10/state-rep-jennifer-balkcom-to-replace-rep-chuck-edwards-on-nc-11-ballot))

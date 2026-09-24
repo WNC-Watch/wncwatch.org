@@ -3,6 +3,11 @@ title: "Buncombe County Sheriff's Office Fusus access log, 2024 to 2026"
 description: "Twenty-eight months of the Buncombe County Sheriff's Office's own Fusus access records, released by public records request: 337,838 entries, 58 percent of camera viewing on public housing, almost all of it live, most of it by three accounts. The county withheld every timestamp."
 aliases:
   - "The System/Sheriffs Audit Log"
+type: tracker
+area:
+  - "Buncombe County"
+vendor: axon
+status: pending
 ---
 
 On May 12, 2026, the night Asheville's council approved its own intelligence center, someone filed a public records request with Buncombe County for the audit trail of the Sheriff's Office's Fusus platform: every time a department account "accessed live or recorded video footage," from January 1, 2024 forward ([the request, on MuckRock](https://www.muckrock.com/foi/buncombe-county-4590/public-records-request-fusus-logs-211165/)). The county answered the next day with a spreadsheet, [Fusus Audit, Jan 1 2024 to May 13 2026](https://cdn.muckrock.com/foia_files/2026/05/14/Fusus_Audit_-_Jan_1_2024_to_May_13_2026.csv), and closed the request. Asked why eight of the sixteen columns were blank, the county cited [G.S. 132-1.4](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_132/GS_132-1.4.html), the criminal-investigations exemption, for information that "could compromise a case."

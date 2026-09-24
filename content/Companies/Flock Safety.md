@@ -1,6 +1,10 @@
 ---
 title: Flock Safety
 description: "The Atlanta company whose eleven Asheville cameras council voted to remove on Aug 25, 2026, whose network the county sheriff's office still searches, and whose documents, leaks, and audit logs make up much of the public record."
+type: vendor
+area:
+  - "region"
+vendor: flock
 ---
 
 Flock Safety sells the plate readers Asheville installed in 2024 and voted on Aug 25, 2026 to remove ([[Getting Flock Out]]). It also sells the network behind them, which is the part removal does not touch: any agency with a login can search any other customer's reads that are shared with it, which is how [[WNC/Henderson County/index|Henderson County]]'s sheriff ended up granting access to 2,048 organizations. This page is the company: what it is, who runs it, what it has built, and what its own records show. The leaked sales script is on [[Flock Guide for Presenting to Councils|Flock's guide for presenting to councils]]; the dated incident list is on [[Camera Network Misuse|Camera network misuse, documented cases]].

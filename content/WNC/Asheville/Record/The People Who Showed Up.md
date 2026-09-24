@@ -4,6 +4,10 @@ description: "Residents who spoke at council against the RTIC, quoted from the p
 aliases:
   - "The People Who Showed Up"
   - "The Record/The People Who Showed Up"
+type: reference
+area:
+  - "Asheville"
+vendor: both
 ---
 
 Between January 2025 and May 2026, across nine public meetings, 36 Asheville residents stood at the podium or called in to speak on the record about the city's surveillance buildout, and five more signed up just to cede their time so a neighbor could finish an argument. All but one spoke in opposition. On May 12, 2026, the night council voted on the [[What Is the RTIC|Real-Time Intelligence Center]], 23 residents spoke after waiting through a six-hour agenda; 22 of them said no. Council passed both items 6–1 anyway.

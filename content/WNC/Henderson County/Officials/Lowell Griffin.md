@@ -4,6 +4,10 @@ description: "Henderson County Sheriff since 2018. His office bought the county'
 aliases:
   - "People/WNC/Lowell Griffin"
 verified: 2026-09-08
+type: person
+area:
+  - "Henderson County"
+vendor: none
 ---
 
 **Title:** Henderson County Sheriff · Republican · [office bio](https://www.hendersoncountync.gov/sheriff/page/about-sheriff-lowell-s-griffin)

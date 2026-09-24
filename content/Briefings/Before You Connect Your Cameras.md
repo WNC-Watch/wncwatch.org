@@ -5,6 +5,10 @@ aliases:
   - "Briefings/Before You Plug In"
   - "Before You Plug In"
   - "The System/Before You Plug In"
+type: explainer
+area:
+  - "Asheville"
+vendor: both
 ---
 
 *Community research, not legal advice; consult your attorney and your insurance agent. Every claim below links its source, including the actual contract text.*

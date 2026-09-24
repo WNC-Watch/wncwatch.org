@@ -12,6 +12,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-08
+type: area
+area:
+  - "Madison County"
+body:
+  - "Madison County Board of Commissioners"
+vendor: flock
 ---
 
 Madison County's sheriff's office put 15 Flock cameras into use by March 2026 without a commission vote or public discussion.

@@ -4,6 +4,10 @@ description: "Where each WNC community stands, the state plate-reader program an
 aliases:
   - "WNC/WNC and NC"
   - "WNC and NC"
+type: explainer
+area:
+  - "Macon County"
+vendor: flock
 ---
 
 Where each Western North Carolina community stands on its camera systems, what the state layer above them requires, and which sheriffs hold immigration agreements. Each entry is dated and linked.

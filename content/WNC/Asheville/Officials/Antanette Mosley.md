@@ -5,6 +5,10 @@ aliases:
   - "People/Antanette Mosley"
   - "People/Asheville/Antanette Mosley"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** City Council member & Vice Mayor · attorney · [[The Committee|Public Safety Committee]] member

@@ -3,6 +3,10 @@ title: Aaron Ellenburg
 description: "Rutherford County Sheriff. Pitched commissioners an eight-camera Flock network on February 3, 2025, citing \"access to the nationwide database\"; no vote followed. On the November 3, 2026 ballot, apparently unopposed."
 aliases:
   - "People/WNC/Aaron Ellenburg"
+type: person
+area:
+  - "Rutherford County"
+vendor: none
 ---
 
 **Title:** Rutherford County Sheriff · Republican

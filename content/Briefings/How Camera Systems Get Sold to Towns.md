@@ -3,6 +3,11 @@ title: How Camera Systems Get Sold to Towns
 aliases:
   - "How the Boilerplate Arrives"
 description: "The channel that carries the same camera proposal into town after town, documented link by link from public records: the vendor's script, the outside money, the cooperative purchasing contract, the briefing venue, and the vote before the contract exists."
+type: explainer
+area:
+  - "Asheville"
+  - "Hendersonville"
+vendor: both
 ---
 
 This page is built from documents anyone can open: a leaked vendor guide whose full text is public, the signed Axon contract Durham published with its council agenda, emails released under Asheville's records requests, the videos and agendas of the council meetings cited, and the research of an allied group, credited and linked where used. It documents the path a camera proposal travels on its way to a WNC council vote. The purpose is practical: each link in the path is a decision a community can see coming, and the closing section lists the specific asks that put each one on a public agenda.

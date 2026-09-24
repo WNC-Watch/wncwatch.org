@@ -5,6 +5,11 @@ aliases:
   - "Technology and Public Safety Page"
   - "The City Technology Page"
 verified: 2026-09-24
+type: tracker
+area:
+  - "Asheville"
+vendor: both
+status: open
 ---
 
 The City of Asheville published a "Technology and Public Safety" page in August 2026 ([publicinput.com/f65124](https://publicinput.com/f65124)): frequently asked questions on the Real-Time Intelligence Center, body cameras, license plate readers and drones, a timeline, a question box, and links to documents. This annotation was built from the page as captured Sept 23, 2026; every document it links, including the 104-page Axon master agreement and the chief's Aug 14, 2026 memo; the Axon and Flock transparency portals; the Connect Asheville registration site the page sends camera owners to; and Axon's and Flock's own product pages as read Sept 24, 2026. Local copies of each are held by this site (SRC 2026-0954 to 2026-0968).

@@ -3,6 +3,8 @@ title: Garrett Langley
 description: "Co-founder and CEO of Flock Safety; told an interviewer on July 23, 2026 that the cameras take \"a static picture of a car,\" a year after the company announced live video on every reader."
 aliases:
   - "People/Companies/Garrett Langley"
+type: person
+vendor: flock
 ---
 
 **Title:** Co-founder and Chief Executive Officer, Flock Safety (founded 2017 with Matt Feury and Paige Todd) · Atlanta

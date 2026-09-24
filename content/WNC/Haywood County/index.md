@@ -12,6 +12,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-08
+type: area
+area:
+  - "Haywood County"
+body:
+  - "Haywood County Board of Commissioners"
+vendor: flock
 ---
 
 Haywood County's sheriff's office has run about 8 Flock cameras since 2024; commissioners said in July 2026 they would keep them. No vote on the cameras is on the record.

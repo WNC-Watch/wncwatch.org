@@ -4,6 +4,10 @@ description: "Buncombe County Commissioner and Democratic nominee for District A
 aliases:
   - "People/Martin Moore"
   - "People/Buncombe/Martin Moore"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 **Title:** Buncombe County Commissioner, District 2 & commission vice chair · Democratic nominee for District Attorney · attorney, former public defender · on track to be Buncombe's first Black DA ([BPR](https://www.bpr.org/politics-government/2026-03-06/martin-moore-to-be-buncombe-countys-first-black-district-attorney))

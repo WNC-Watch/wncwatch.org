@@ -3,6 +3,10 @@ title: Buncombe County Board of Commissioners
 description: "The seven commissioners who approve the budget that funds the sheriff's network, what each has said about it on the record, and the two seats on the November 3, 2026 ballot."
 aliases:
   - "People/Buncombe/Board of Commissioners"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 The Board of Commissioners cannot direct the sheriff, but it adopts his budget every June, certifies his contracts, and co-signs the federal forfeiture paperwork ([[What the Law Lets the County Do]]). The last commissioners to question the RTIC on the record, Jasmine Beach-Ferrara and Brownie Newman, left the board in 2024. No statement on the network from any current commissioner was found as of Sept 8, 2026.

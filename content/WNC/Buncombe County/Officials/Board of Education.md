@@ -3,6 +3,10 @@ title: Buncombe County Board of Education
 description: "The board whose agreement gives deputies access to the school cameras. No public vote on the agreement is on the record. Three seats are on the November 3, 2026 ballot."
 aliases:
   - "People/Buncombe/Board of Education"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 The district says it "has the authority to decide when the sheriff's office can access video" ([WLOS, 2021](https://wlos.com/news/local/program-gives-buncombe-deputies-access-to-real-time-video-during-school-emergencies)). No board vote, minutes entry, or public discussion of the 2021 Fusus memorandum has surfaced since it was signed, and none of the seven current members has said anything public about it ([[WNC/Buncombe County/index|Buncombe County]]). Board races became nonpartisan in 2026 under HB 66.

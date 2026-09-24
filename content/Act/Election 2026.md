@@ -3,6 +3,10 @@ title: Election 2026
 description: "Where each candidate on the November 3, 2026 ballot stands on the camera networks: votes, statements, and the date a position was last looked for where none was found."
 aliases:
   - "Election 2026"
+type: action
+area:
+  - "Asheville"
+vendor: both
 ---
 
 The officials who voted on the [[What Is the RTIC|RTIC]] and the sheriff who runs the county camera network are on the November 3, 2026 ballot. This page records each candidate's votes and statements, with the date a position was last looked for where none was found. If a candidate goes on record after the last update, [[Get Involved|tell us]] with a link or recording.

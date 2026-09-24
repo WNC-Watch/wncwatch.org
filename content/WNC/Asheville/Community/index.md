@@ -3,6 +3,10 @@ title: Community
 description: The public-record work on surveillance across Western North Carolina, and the two people whose published work this site cites by name.
 aliases:
   - "People/Community/index"
+type: reference
+area:
+  - "Asheville"
+vendor: none
 ---
 
 Not everyone in this record holds power over the cameras. Residents across the region document them, organize around them, file the records requests, and speak at the meetings; their work appears throughout this site, attributed by role and timestamp to the public record it lives in. Two people are named here because their published, bylined work is itself part of the record this site cites:

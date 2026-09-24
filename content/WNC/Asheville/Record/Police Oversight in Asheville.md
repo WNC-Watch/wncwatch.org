@@ -6,6 +6,11 @@ aliases:
   - "Oversight Theater"
   - "The Oversight Record"
   - "The Record/Oversight Theater"
+type: tracker
+area:
+  - "Asheville"
+vendor: none
+status: open
 ---
 
 This page records each request by Asheville residents for police oversight since 1991, what was delivered, and the state-law limits on what a city board may do. As of Sept 8, 2026, no civilian police oversight body in Asheville is meeting.

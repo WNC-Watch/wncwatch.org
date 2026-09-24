@@ -2,6 +2,10 @@
 title: Jennifer Hensley
 description: "Hendersonville Mayor Pro Tem, on council since 2019 and a candidate for mayor on November 3, 2026. Asked council's questions on the city's plate readers on Sept 3: documented misuse, how other agencies get access, phone tracing, and an unanswered records request."
 verified: 2026-09-08
+type: person
+area:
+  - "Hendersonville"
+vendor: none
 ---
 
 **Title:** Mayor Pro Tem and Council Member, City of Hendersonville ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members))

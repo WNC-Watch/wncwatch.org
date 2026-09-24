@@ -4,6 +4,10 @@ description: "Buncombe County Commissioner since December 2024, running for Ashe
 aliases:
   - "People/Drew Ball"
   - "People/Asheville/Drew Ball"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** Buncombe County Commissioner, District 3 (per the county's current roster; district lines were redrawn for 2026) · candidate for Asheville City Council · former Director of Environment North Carolina · volunteer firefighter

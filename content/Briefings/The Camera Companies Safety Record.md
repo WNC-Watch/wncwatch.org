@@ -3,6 +3,10 @@ title: The Camera Companies' Safety Record
 aliases:
   - "The Safety Culture Test"
 description: "What a safety culture is, a four-question test any reader can apply, and the dated record of the companies selling camera systems to WNC towns, with the local record run through the same test."
+type: explainer
+area:
+  - "region"
+vendor: both
 ---
 
 This page is built from dated public materials: the resigning Axon ethics board members' own statement, the Electronic Frontier Foundation's published investigations, news reporting named inline with its outlet and date, the Buncombe County Sheriff's Office's released access log, Asheville's released policy drafts, and the vendors' own transparency portals, which we checked in a browser on Aug 27, 2026. Where we hold the primary document, the claim stands on it; where we hold only reporting, the outlet is named in the sentence.

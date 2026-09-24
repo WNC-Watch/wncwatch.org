@@ -4,6 +4,10 @@ description: "Former council member (2015 to 2020), running for council on Novem
 aliases:
   - "People/Keith Young"
   - "People/Asheville/Keith Young"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** Candidate for Asheville City Council · former Asheville City Council member (Dec 2015–Dec 2020) · author of the July 2020 reparations resolution

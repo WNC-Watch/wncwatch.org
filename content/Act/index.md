@@ -1,6 +1,10 @@
 ---
 title: "Act"
 description: "What one person can do: the eight demands for a full Flock exit, public comment at each body, the records requests, citable facts, the November ballot, and the organizing groups."
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 Everything on this site points here. Pick the thing that fits the time you have.

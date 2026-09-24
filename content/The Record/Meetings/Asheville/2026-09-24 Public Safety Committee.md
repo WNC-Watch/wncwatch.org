@@ -5,6 +5,13 @@ aliases:
   - "2026-09-24 Public Safety Committee"
   - "Meetings/2026-09-24 Public Safety Committee"
 verified: 2026-09-24
+type: meeting
+date: 2026-09-24
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council Public Safety Committee"
+vendor: axon
 ---
 
 The committee met remotely at 1:00 p.m., moved from 11:00 a.m., with chair [[Bo Hess]], Vice Mayor [[Antanette Mosley]] and [[Sheneika Smith]] ([city's video](https://www.youtube.com/watch?v=lyLri93LH8I), 73 minutes). The agenda carried no RTIC, plate-reader or audit item ([[The Committee]]). Quotes below are from a machine transcript of the video, checked against a second, larger transcription for the public comment; each links its timestamp. Ums and repeated words are removed and nothing else is changed. This site also holds the audio.

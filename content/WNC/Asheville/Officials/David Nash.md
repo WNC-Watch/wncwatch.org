@@ -4,6 +4,10 @@ description: "Housing Authority CEO until June 2023. Spoke in favor of the count
 aliases:
   - "People/Buncombe/David Nash"
   - "People/Asheville/David Nash"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** former Executive Director and CEO, Housing Authority of the City of Asheville (deputy director from 2006; CEO 2019 to June 30, 2023; succeeded by Monique Pierre, then interim Rhodney Norman, then [[Ella Santos]])

@@ -34,6 +34,13 @@ systems:
       - "Act/Getting Flock Out"
       - "Companies/Flock Safety"
 verified: 2026-09-24
+type: area
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+  - "Asheville City Council Public Safety Committee"
+vendor: both
 ---
 
 Asheville is building a Real-Time Intelligence Center on Axon's Fusus platform under a 7.5-year contract, joined to the county sheriff's camera network, with Axon plate readers in its patrol cars. The Flock cameras were the smaller system and the one council voted to end. This page is the timeline from 2022, in the same format as the [[Western North Carolina and the State|WNC neighbors]] so the city's sequence reads beside Hendersonville's, [[WNC/Macon County/index|Macon]]'s or Woodfin's. The center itself, its documents, its money and what each official has said: [[The Real-Time Intelligence Center]].

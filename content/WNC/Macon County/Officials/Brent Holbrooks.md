@@ -3,6 +3,10 @@ title: Brent Holbrooks
 description: "Macon County Sheriff. Spoke for keeping Flock at the July 14, 2026 meeting; after the 5 to 0 vote to end it said, \"I respect the decision.\" Re-elected in the March primary, unopposed in November."
 aliases:
   - "People/WNC/Brent Holbrooks"
+type: person
+area:
+  - "Macon County"
+vendor: none
 ---
 
 **Title:** Macon County Sheriff · Republican

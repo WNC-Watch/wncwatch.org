@@ -3,6 +3,10 @@ title: Amanda Edwards
 description: "Chair of the Buncombe County Board of Commissioners since December 2024, a commissioner before that. The board approves the budget that funds the sheriff's Fusus network; its meeting record since 2022 shows no discussion of the network."
 aliases:
   - "People/Buncombe/Amanda Edwards"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 **Title:** Chair, Buncombe County Board of Commissioners · Democrat

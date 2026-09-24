@@ -3,6 +3,11 @@ title: Records Center
 description: "The public-records requests that would answer this site's open questions, pre-written and addressed to the custodian, with each request's status."
 aliases:
   - "Records Center"
+type: action
+area:
+  - "Asheville"
+  - "Buncombe County"
+vendor: both
 ---
 
 North Carolina's public records law gives **any person** (you, no residency requirement, no reason needed) the right to inspect the records below. This page is the queue: every request pre-written, addressed to the right custodian, with what it would prove. When one gets filed or answered, we'll mark it here.

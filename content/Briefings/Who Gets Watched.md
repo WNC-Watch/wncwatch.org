@@ -4,6 +4,10 @@ description: "Three groups the record shows camera networks reaching first: immi
 aliases:
   - "Who Gets Watched"
   - "The System/Who Gets Watched"
+type: explainer
+area:
+  - "region"
+vendor: flock
 ---
 
 When residents told council their fear was federal agencies reaching Asheville's cameras, Deputy Chief Sean Aardema answered with a promise: **"We control Axon Fusus and we will not be sharing information with federal immigration."** ([WLOS, May 14, 2026](https://wlos.com/news/local/asheville-police-department-city-council-new-surveillance-technology-violent-crimes-real-time-intelligence-center-housing-authority-patrol-officers-immigration-customs-enforcement-community-members-federal-government-investigation))

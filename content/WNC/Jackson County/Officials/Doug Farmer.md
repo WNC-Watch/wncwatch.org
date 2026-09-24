@@ -3,6 +3,10 @@ title: Doug Farmer
 description: "Jackson County Sheriff. His office runs four Flock cameras reading 1.19 million plates a month; its published policy manual has no plate-reader policy. Unopposed on November 3, 2026."
 aliases:
   - "People/WNC/Doug Farmer"
+type: person
+area:
+  - "Jackson County"
+vendor: none
 ---
 
 **Title:** Jackson County Sheriff · Republican

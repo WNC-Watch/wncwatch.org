@@ -1,6 +1,10 @@
 ---
 title: Reference
 description: "The primary sources, the bibliography, the site's update log, and the full page list."
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 - **[[Documents]]**: The primary sources: official minutes, resolutions, staff reports, APD and Sheriff's Office policies, the August 25 agenda documents, and released and refused records.

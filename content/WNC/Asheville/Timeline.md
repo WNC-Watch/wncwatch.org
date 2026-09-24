@@ -4,6 +4,10 @@ description: "How Asheville came to have a Real-Time Intelligence Center: each v
 aliases:
   - "Timeline"
   - "The Record/Timeline"
+type: reference
+area:
+  - "Asheville"
+vendor: both
 ---
 
 This is the spine of the record. Each entry links its sources. Where accounts conflict, we say so.

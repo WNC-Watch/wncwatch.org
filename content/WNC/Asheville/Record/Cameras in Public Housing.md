@@ -6,6 +6,11 @@ aliases:
   - "Watching the Poor"
   - "Cameras in Public Housing"
   - "The System/Watching the Poor"
+type: tracker
+area:
+  - "Asheville"
+vendor: none
+status: open
 ---
 
 In Toledo, Ohio, police with access to the Fusus platform (the same platform at the center of Asheville's RTIC) spent **18,751 hours in nine months** watching live feeds from 275 cameras at twelve subsidized-housing complexes. That was **double** the time they spent watching the other 439 cameras in the entire rest of the city. One public-housing complex alone drew 3,822 hours of live police viewing. Over 80% of Toledo's public-housing tenants are not white. A legal-aid attorney's assessment: "It's clearly discrimination on some level." ([Gizmodo, records-based](https://gizmodo.com/clearly-discrimination-how-a-city-uses-fusus-to-spy-on-its-poorest-residents-2000561795))

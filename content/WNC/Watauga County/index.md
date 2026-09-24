@@ -13,6 +13,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-08
+type: area
+area:
+  - "Watauga County"
+body:
+  - "Boone Town Council"
+vendor: none
 ---
 
 Boone and Appalachian State both cut their cameras' network sharing in 2026 after pulling the search logs.

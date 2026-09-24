@@ -4,6 +4,10 @@ description: "Democratic nominee for U.S. House, NC-11, November 3, 2026, agains
 aliases:
   - "People/Jamie Ager"
   - "People/State/Jamie Ager"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** Democratic nominee, U.S. House NC-11 · Fairview farmer, Hickory Nut Gap Farm · DCCC "Red to Blue" listed

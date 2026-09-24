@@ -5,6 +5,10 @@ aliases:
   - "Asking About the RTIC"
   - "RTIC asks"
 verified: 2026-09-24
+type: action
+area:
+  - "Asheville"
+vendor: both
 ---
 
 Every ask on this page names who can answer it and the document it rests on, so an answer or a silence goes on the record. The facts are on [[The Real-Time Intelligence Center]], [[The Axon Contract as Signed|the contract, as signed]], and [[The Technology and Public Safety Page|the city's page, annotated]]; the Flock exit has its own list on [[Getting Flock Out]]; comment procedure is on [[Speak at Council]].

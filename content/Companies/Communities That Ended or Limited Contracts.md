@@ -9,6 +9,10 @@ aliases:
   - "Companies/The National Wave"
   - "The Wider Fight/How Cities Won"
   - "The Wider Fight/The National Wave"
+type: vendor
+area:
+  - "region"
+vendor: both
 ---
 
 Each row below is a decision by a public body or an agency, dated, with what it did and the source. The count of communities that have dropped Flock Safety systems depends on the tracker: DeFlock's cancellation tracker and State of Surveillance put it between 50 and 102 across 27 or more states as of August 2026 ([DeFlock The USA](https://deflocktheusa.com/cancellations/) · [State of Surveillance](https://stateofsurveillance.org/news/flock-safety-cancel-wave-30-cities-alpr-surveillance-contracts-2026/)); Secure Justice, an Oakland advocacy group, put it at 214 cities and counties since 2021 by early September 2026, about 90 of them in August ([Cybernews](https://cybernews.com/privacy/flock-cameras-us-cities-record-terminations/) · [The Hill](https://thehill.com/policy/technology/6053849-flock-contract-cancellations-grow-data-concerns/)). Flock says new customers outnumber departures ([AP, Aug 16, 2026](https://www.spokesman.com/stories/2026/aug/16/flock-safety-tightens-safeguards-as-states-cities-/)). Rows marked **NC** are in North Carolina.

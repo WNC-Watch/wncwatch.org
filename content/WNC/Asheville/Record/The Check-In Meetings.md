@@ -4,6 +4,11 @@ description: "Asheville council members discuss agenda items in groups of three 
 aliases:
   - "The Check-In Meetings"
   - "The Record/The Check-In Meetings"
+type: tracker
+area:
+  - "Asheville"
+vendor: none
+status: open
 ---
 
 Asheville council members meet with staff in groups of three before each council meeting. This page records how the practice works, what the record shows, and the RTIC items it covered.

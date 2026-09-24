@@ -3,6 +3,10 @@ title: Clint Ingle
 description: "Rutherfordton Police Chief. A Flock camera of his department's was damaged in July 2026; he said the department would seek charges. No arrest had been reported as of Aug 22, 2026."
 aliases:
   - "People/WNC/Clint Ingle"
+type: person
+area:
+  - "Rutherford County"
+vendor: none
 ---
 
 **Title:** Chief of Police, Town of Rutherfordton (with the department since 2005; chief since May 1, 2020) ([Rutherford Weekly](https://www.rutherfordweekly.com/clint-ingle-is-rutherfordton-s-new-police-chief-cms-10046))

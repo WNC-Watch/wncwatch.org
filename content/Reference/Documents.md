@@ -3,6 +3,11 @@ title: Documents
 description: "The primary sources: minutes, resolutions, staff reports, APD policies, and released records."
 aliases:
   - "Documents"
+type: reference
+area:
+  - "Asheville"
+  - "Buncombe County"
+vendor: both
 ---
 
 Everything on this site traces back to documents like these. Read them yourself.

@@ -5,6 +5,10 @@ aliases:
   - "People/Jackie Stepp"
   - "People/Asheville/Jackie Stepp"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: both
 ---
 
 **Title:** Interim Chief of Police, Asheville Police Department (Jacquelyn "Jackie" Stepp)

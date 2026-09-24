@@ -4,6 +4,10 @@ description: "Asheville City Attorney since 2019. On April 28, 2026 he told the 
 aliases:
   - "People/Buncombe/Brad Branham"
   - "People/Asheville/Brad Branham"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** City Attorney, City of Asheville (appointed by unanimous council vote March 12, 2019; started April 8, 2019) ([city release](https://www.ashevillenc.gov/news/city-council-names-brad-branham-as-ashevilles-next-city-attorney/))

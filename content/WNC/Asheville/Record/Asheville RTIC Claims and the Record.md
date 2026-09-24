@@ -6,6 +6,11 @@ aliases:
   - "Their Claims vs The Record"
   - "Their Claims vs. The Record"
   - "The Record/Their Claims vs The Record"
+type: tracker
+area:
+  - "Asheville"
+vendor: both
+status: open
 ---
 
 This page is about Asheville: the [[What Is the RTIC|city's Real-Time Intelligence Center]], approved by Asheville City Council on May 12, 2026, and the statements made for it by Asheville police officials, council members, the mayor, and the vendors, at council and in local press. Each statement is held, quoted from the cited source, beside the dated facts in the record that bear on it. Where a fact is a document, the document is linked; where it is an absence, the date it was looked for is given. The statements and the facts sit side by side so a resident can read both before a meeting.

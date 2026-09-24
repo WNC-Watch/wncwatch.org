@@ -4,6 +4,13 @@ description: "The first RTIC grant, $71,999, approved 6 to 1 on the consent agen
 aliases:
   - "Meetings/2025-03-25 City Council"
   - "The Record/Meetings/2025-03-25 City Council"
+type: meeting
+date: 2025-03-25
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: axon
 ---
 
 Eighteen days after [[2025-03-07 Agenda Briefing|the briefing where council first learned]] its city had been running networked plate readers for two years, the first [[What Is the RTIC|Real-Time Intelligence Center]] funding came to a vote, as **consent agenda item G**. This page reconstructs how, from the [March 21 agenda-review video](https://www.youtube.com/watch?v=LwgtIUZwMGI) and the [March 25 meeting video](https://www.youtube.com/watch?v=Bc-VVlvBx0U). Captions don't label speakers; attributions follow meeting context.

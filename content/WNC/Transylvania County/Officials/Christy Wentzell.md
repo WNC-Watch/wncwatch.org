@@ -3,6 +3,10 @@ title: Christy Wentzell
 description: Brevard Police Chief; proposed six Flock cameras as "the extra eyes we don't have." The proposal came back as an Axon bundle, and she withdrew it at the Sept 8, 2026 council meeting before a vote.
 aliases:
   - "People/WNC/Christy Wentzell"
+type: person
+area:
+  - "Transylvania County"
+vendor: none
 ---
 
 **Title:** Chief of Police, City of Brevard (the city's first woman chief; previously a captain at Apex PD; 25 years in law enforcement) ([City of Brevard](https://www.cityofbrevard.com/CivicAlerts.aspx?AID=856) · [WLOS](https://wlos.com/news/local/brevard-appoints-christy-wentzell-next-police-chief-first-woman-female-city-council-appointment-named-replace-interim-law-enforcement-experience-georgia-tennessee))

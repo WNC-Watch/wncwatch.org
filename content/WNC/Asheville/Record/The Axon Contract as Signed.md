@@ -5,6 +5,11 @@ aliases:
   - "The Axon Contract"
   - "Contract 92700065"
 verified: 2026-09-24
+type: tracker
+area:
+  - "Asheville"
+vendor: axon
+status: pending
 ---
 
 City Council authorized the city manager to sign a contract with Axon on May 12, 2026 (Resolution 26-99), before the contract existed ([[2026-05-07 Agenda Briefing|the May 7 briefing]]). Emails released Aug 20, 2026 dated the signature package to July 16 ([[The RTIC Policy]]). The signed contract is now public: the City of Asheville posted it on its [Technology and Public Safety page](https://publicinput.com/f65124) in August 2026, in two files under the label "Sourcewell/Axon Combined," with the Sourcewell master agreement and the FUSUS appendix beside it. This page reads the eight pages the city posted. Local copies with hashes are held by this site (SRC 2026-0955 and 2026-0956). What the contract references and the city has not posted is listed at the end.

@@ -1,6 +1,10 @@
 ---
 title: Privacy Policy
 description: "What this site and our social accounts collect about you: as close to nothing as we can manage."
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 Effective August 24, 2026.

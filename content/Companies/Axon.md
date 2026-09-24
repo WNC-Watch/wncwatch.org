@@ -1,6 +1,10 @@
 ---
 title: Axon
 description: "The taser and body-camera company that owns Fusus and holds Asheville's contract to 2033; its plate readers mount inside streetlights and are \"designed to completely blend in with their surroundings.\""
+type: vendor
+area:
+  - "region"
+vendor: both
 ---
 
 Axon Enterprise holds Asheville's longest camera contract. Flock's contract ends in February 2027 or sooner; Axon's runs to 2033 ([[What Axon Contracts Do]]). Axon owns Fusus, the platform under both the county's and the city's real-time centers ([[What Is the RTIC]]); it sells the body cameras, the in-car cameras, the tasers, the drones, and the cloud they all report to; and since 2025 it sells fixed plate readers of its own, which is what the city's August 2026 staff memo means by "expanding and integrating Axon's automated license plate reader capabilities" ([[2026-08-20 Agenda Briefing]]). The contract record is on [[What Axon Contracts Do]]; the dated incidents are on [[Camera Network Misuse|Camera network misuse, documented cases]]. This page is the company.

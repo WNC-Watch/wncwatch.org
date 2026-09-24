@@ -4,6 +4,10 @@ description: "U.S. Representative, NC-11, through January 2027. Signed the reque
 aliases:
   - "People/Chuck Edwards"
   - "People/State/Chuck Edwards"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** U.S. Representative, NC-11 (R), the congressman who secured the [[What Is the RTIC|RTIC]]'s $1.14 million federal earmark

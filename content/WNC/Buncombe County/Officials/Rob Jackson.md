@@ -3,6 +3,10 @@ title: Rob Jackson
 description: "Buncombe County Schools superintendent until September 1, 2026. The school cameras' connection to the sheriff's network predates his term; the board's public record shows no vote revisiting it."
 aliases:
   - "People/Buncombe/Rob Jackson"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 **Title:** Superintendent, Buncombe County Schools (Dr. Rob Jackson) · a BCS alumnus who started in the district in 1992

@@ -3,6 +3,10 @@ title: What Axon Contracts Do
 description: "Axon's standard contract terms and what they did in other cities: dollar figures, renewal and lock-in mechanics, the default data program. Asheville's signed contract, posted in August 2026, is read against them."
 aliases:
   - "What Axon Contracts Do"
+type: vendor
+area:
+  - "region"
+vendor: axon
 ---
 
 Asheville's signed Axon contract was posted by the city in August 2026 ([[The Axon Contract as Signed|the contract, as signed]]); the itemized quote it references was not. The contract *form* is national, and its record is documented. This page collects what the same contract form did in other cities, dated and linked.

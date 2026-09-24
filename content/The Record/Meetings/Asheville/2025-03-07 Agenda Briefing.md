@@ -4,6 +4,13 @@ description: "Council's first briefing on the plate-reader network, requested by
 aliases:
   - "Meetings/2025-03-07 Agenda Briefing"
   - "The Record/Meetings/2025-03-07 Agenda Briefing"
+type: meeting
+date: 2025-03-07
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: none
 ---
 
 On March 7, 2025, Deputy Chief [[Jackie Stepp]] gave council its first briefing on Asheville's license-plate reader program. Every load-bearing fact below comes from the [city's own video](https://www.youtube.com/watch?v=VYk_Gku-UaY); captions don't label speakers, so attributions follow the meeting context. What makes this briefing historic isn't what was announced; it's what was *admitted*: the surveillance was already running, already networked, and already shared, before the city's elected body heard a word.

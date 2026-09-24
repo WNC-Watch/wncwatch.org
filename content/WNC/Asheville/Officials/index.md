@@ -15,6 +15,10 @@ aliases:
   - "People/Buncombe/Brandon Moore"
   - "People/Asheville/Brandon Moore"
   - "WNC/Asheville/Officials/Brandon Moore"
+type: reference
+area:
+  - "Asheville"
+vendor: flock
 ---
 
 The city is where the RTIC was approved and where the Flock contract was ended on Aug 25, 2026. Each person here voted on it, administers it, or asked others to join it. Elected officials first, by the date voters next see them; then the staff who run it without a ballot.

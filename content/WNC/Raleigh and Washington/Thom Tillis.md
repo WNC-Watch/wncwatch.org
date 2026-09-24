@@ -3,6 +3,10 @@ title: Thom Tillis
 description: "U.S. Senator, retiring in January 2027. In 2025 described Buncombe County as a \"sanctuary jurisdiction\" in a public exchange with Sheriff Miller."
 aliases:
   - "People/State/Thom Tillis"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** U.S. Senator (R-NC), since 2015
