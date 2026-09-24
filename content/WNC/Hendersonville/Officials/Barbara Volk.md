@@ -13,7 +13,7 @@ vendor: none
 
 ## Surveillance record
 
-- **Sept 3, 2026.** Presided over Police Chief [[Blair Myhand]]'s presentation on the city's fifteen plate readers, an agenda item filed with no motion attached ([[WNC/Hendersonville/index#What the chief told council, Sept 3|the full account, with timestamps]]). Before council's questions she said the meeting was not the place for public questions, that there would be opportunity for public input and discussion, and that those events would be advertised ([1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s)). No date was given, and none had been announced as of Sept 8. The item ended without a vote or any direction to staff.
+- **Sept 3, 2026.** Presided over Police Chief [[Blair Myhand]]'s presentation on the city's fifteen plate readers, an agenda item filed with no motion attached ([[2026-09-03 City Council|the full account, with timestamps]]). Before council's questions she said the meeting was not the place for public questions, that there would be opportunity for public input and discussion, and that those events would be advertised ([1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s)). No date was given, and none had been announced as of Sept 8. The item ended without a vote or any direction to staff.
 
 ## In her words
 

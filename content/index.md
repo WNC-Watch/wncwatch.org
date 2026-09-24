@@ -47,8 +47,8 @@ More than a hundred pages. Start with what you need:
 <div class="door"><span class="door-k">The Asheville record</span><p class="door-t">Asheville, 2022 to now</p><ol>
 <li><a href="./Briefings/What-Is-the-RTIC">What is the RTIC?</a></li>
 <li><a href="./WNC/Asheville/Timeline">The full timeline with sources</a></li>
-<li><a href="./The-Record/Meetings/Asheville/2026-05-12-City-Council">The May 12, 2026 vote</a></li>
-<li><a href="./The-Record/Meetings/Asheville/2026-08-25-City-Council">The Flock termination, Aug 25</a></li>
+<li><a href="./Meetings/Asheville/2026-05-12-City-Council">The May 12, 2026 vote</a></li>
+<li><a href="./Meetings/Asheville/2026-08-25-City-Council">The Flock termination, Aug 25</a></li>
 </ol></div>
 <div class="door"><span class="door-k">I want to act</span><p class="door-t">What one person can do</p><ol>
 <li><a href="./Act/Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
@@ -72,7 +72,7 @@ How it happened in Asheville, the region's deepest case, is kept meeting by meet
 <p><strong>What we're watching</strong> <em>(updated Sept 8, 2026)</em>: the items pending after the Aug 25 vote, each tracked on the page linked.</p>
 <ul>
 <li><strong>The 11 Flock cameras removed</strong> and APD's Flock accounts closed. <a href="./Act/Getting-Flock-Out">What a full exit requires</a></li>
-<li><strong>The data deletion notice</strong> staff promised council on the record. <a href="./The-Record/Meetings/Asheville/2026-08-25-City-Council">The commitment, timestamped</a></li>
+<li><strong>The data deletion notice</strong> staff promised council on the record. <a href="./Meetings/Asheville/2026-08-25-City-Council">The commitment, timestamped</a></li>
 <li><strong>The executed Axon contract released</strong>, and the second contract for 20 in-car plate readers. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
 <li><strong>The audit reports</strong> state law already requires, at the Sept 24 Public Safety Committee. <a href="./WNC/Asheville/Record/The-Committee">The Committee</a></li>
 <li><strong>Retention and counts</strong>: the city's portal showed 90-day retention on Aug 25 and 21 days as of Sept 8; the vehicle reader count is 162 by APD's statement and 137 by its portal. Both archived. <a href="./WNC/Asheville/Record/Promise-Tracker">Promise Tracker</a></li>
@@ -84,7 +84,7 @@ How it happened in Asheville, the region's deepest case, is kept meeting by meet
 
 Each section has its own front page with every page in it described, and every page shows its section at the top so you can step back up.
 
-- **[[The Record/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
+- **[[Meetings/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
 - **[[Briefings/index|Briefings]]**: long-form explainers, one idea per page, written to be useful in any town before its decision.
 - **[[WNC/index|Western North Carolina]]**: the ten communities around us and the state laws they all run under.
 - **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales guide, and the communities that ended contracts.

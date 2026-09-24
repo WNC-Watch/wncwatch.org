@@ -3,7 +3,7 @@ title: Transylvania County
 description: "Brevard posted the draft policy and the Axon contract before deciding, and we read both: the 30-day purge and real audit requirements, the one-signature problem, the renewal terms, and the questions that were open on Sept 8, when the chief withdrew the request before any vote. The Axon equipment purchase remains pending. The county sheriff's cameras have been up since 2024; the county board first took them up on Aug 24."
 aliases:
   - "WNC/Transylvania County"
-standing: "request withdrawn Sept 8 by the chief; the Axon equipment purchase is still pending; next check Sept 21"
+standing: "request withdrawn Sept 8 by the chief; the Axon taser and body-camera purchase is still pending and was not on the Sept 21 agenda; next check Oct 5"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"

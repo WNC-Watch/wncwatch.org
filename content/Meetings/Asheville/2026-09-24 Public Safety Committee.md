@@ -2,6 +2,7 @@
 title: "2026-09-24: Asheville Public Safety Committee, no camera item"
 description: "No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded. APD reported drone coverage and drone detection at the G20 and the PGA Tour event, and a planned data exchange on juveniles with DJJ and the courts."
 aliases:
+  - "The Record/Meetings/Asheville/2026-09-24 Public Safety Committee"
   - "2026-09-24 Public Safety Committee"
   - "Meetings/2026-09-24 Public Safety Committee"
 verified: 2026-09-24

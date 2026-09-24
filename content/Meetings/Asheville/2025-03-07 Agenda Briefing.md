@@ -2,6 +2,7 @@
 title: "2025-03-07: Asheville City Council agenda briefing, license-plate readers"
 description: "Council's first briefing on the plate-reader network, requested by Kim Roney: mobile readers had run about a year and stationary cameras about two. Timestamped from the city's video."
 aliases:
+  - "The Record/Meetings/Asheville/2025-03-07 Agenda Briefing"
   - "Meetings/2025-03-07 Agenda Briefing"
   - "The Record/Meetings/2025-03-07 Agenda Briefing"
 type: meeting

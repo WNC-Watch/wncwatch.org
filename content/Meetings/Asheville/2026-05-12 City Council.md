@@ -2,6 +2,7 @@
 title: "2026-05-12: Asheville City Council, RTIC grant and Axon contract vote"
 description: "The May 12, 2026 meeting, minute by minute from the city's video: public comment, the 6 to 1 votes on the RTIC grant and the Axon contract, and the vote taken off-microphone."
 aliases:
+  - "The Record/Meetings/Asheville/2026-05-12 City Council"
   - "Meetings/2026-05-12 City Council"
   - "The Record/Meetings/2026-05-12 City Council"
 type: meeting

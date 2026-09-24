@@ -10,8 +10,6 @@ vendor: flock
 status: pending
 ---
 
-**Section: [[The Record/index|The Record]]**
-
 On August 24, 2026, the evening before council's vote on terminating the [[Getting Flock Out|Flock contract]], a memorandum from Senior Assistant City Attorney Cydney Joyner went to City Council: "Constitutionality of Automated License Plate Reader Technology." Council member [[Sage Turner]] shared it publicly the same evening ([her post](https://www.facebook.com/sageforasheville/posts/1400631382233534)), noting: "This is an information share. If you are seeking my opinions on Flock, Axon, ALPRs, please see other posts on this page."
 
 The memo's summary statement, verbatim:
