@@ -2,6 +2,7 @@
 title: The Real-Time Intelligence Center
 description: "Asheville's Real-Time Intelligence Center in one place: where it stands, the signed Axon contract and the other documents, the money, what each official has said and voted, what is pending, and where the rest of the record is."
 aliases:
+  - "WNC/Asheville/Record/The Real-Time Intelligence Center"
   - "The RTIC"
   - "Asheville RTIC"
 lead: true
@@ -12,26 +13,26 @@ systems:
     kind: expand
     detail: "City of Asheville Contract 92700065, Aug 1, 2026 to Dec 31, 2033, $7,423,161.15, of which $467,602.15 is the DOJ-funded Fusus line. Bundles body cameras, tasers, drones, interview-room recording and cloud storage, and adds Fusus. Posted by the city in August 2026; the quote it references is not."
     links:
-      - "WNC/Asheville/Record/The Axon Contract as Signed"
+      - "WNC/Asheville/Tracking/The Axon Contract as Signed"
       - "Companies/What Axon Contracts Do"
   - vendor: "Fusus, the platform"
     kind: expand
     detail: "The software that joins body cameras, in-car and fixed plate readers, drones and integrated private cameras on one screen. Governed by APD Policy 1703, four pages, released in draft Aug 20, 2026, effective date blank, not yet published by the city."
     links:
-      - "WNC/Asheville/Record/The RTIC Policy"
+      - "WNC/Asheville/Tracking/The RTIC Policy"
       - "Briefings/What Is the RTIC"
   - vendor: "Plate readers"
     kind: expand
     detail: "Axon in-car readers since April 2024: 139 active and 835,194 plate reads retained over 21 days on Sept 23, 2026, per the city's Axon portal; no published count of who can search them. The chief's Aug 14, 2026 memo plans Axon plate-reader infrastructure operational by February 2027, and the contract lists Axon's fixed reader, Lightpost, in APD's inventory; none is active, and the barrier is the city manager's verbal assurance of Aug 25, 2026. The 11 Flock cameras: contract terminated Aug 25, removal and deletion unconfirmed."
     links:
       - "Act/Getting Flock Out"
-      - "WNC/Asheville/Record/Promise Tracker"
+      - "WNC/Asheville/Tracking/Promise Tracker"
   - vendor: "The county network"
     kind: expand
     detail: "About 2,000 Fusus cameras run by the Sheriff's Office, which APD has reached since a December 2022 MOU. The chief's Aug 14, 2026 memo says APD is evaluating consolidating the county RTIC into the city's; the workgroup notes call the goal a regional RTIC under a city-county MOU."
     links:
       - "WNC/Buncombe County/index"
-      - "WNC/Buncombe County/Record/Sheriffs Audit Log"
+      - "WNC/Buncombe County/Tracking/Sheriffs Audit Log"
 verified: 2026-09-24
 type: tracker
 area:

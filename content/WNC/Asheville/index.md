@@ -9,23 +9,23 @@ systems:
     kind: expand
     detail: "City of Asheville Contract 92700065, authorized May 12, 2026, signed Aug 4, 2026, $7,423,161.15 to Dec 31, 2033, posted by the city in August; the itemized quote is not posted. Bundles body cameras, tasers, drones and interview-room recording and adds Fusus, the software that puts the city's cameras, plate readers, drones and integrated private cameras on one screen. The center is projected fully operational in spring 2027."
     links:
-      - "WNC/Asheville/Record/The Real-Time Intelligence Center"
-      - "WNC/Asheville/Record/The Axon Contract as Signed"
-      - "WNC/Asheville/Record/The Grant and the Contract"
-      - "WNC/Asheville/Record/The RTIC Policy"
+      - "WNC/Asheville/Tracking/The Real-Time Intelligence Center"
+      - "WNC/Asheville/Tracking/The Axon Contract as Signed"
+      - "WNC/Asheville/Tracking/The Grant and the Contract"
+      - "WNC/Asheville/Tracking/The RTIC Policy"
   - vendor: "Axon, plate readers"
     kind: expand
     detail: "In-car readers since April 2024, never brought to council: 139 active and 835,194 plate reads retained over 21 days on Sept 23, 2026, per the city's Axon portal. A contract for 20 more was in signature in July 2026. Fixed Axon readers are available under the contract on request; the chief's Aug 14 memo plans Axon plate-reader infrastructure by February 2027, and the city manager said Aug 25 none go up before a community conversation."
     links:
-      - "WNC/Asheville/Record/The Technology and Public Safety Page"
+      - "WNC/Asheville/Tracking/The Technology and Public Safety Page"
       - "Companies/What Axon Contracts Do"
-      - "WNC/Asheville/Record/Promise Tracker"
+      - "WNC/Asheville/Tracking/Promise Tracker"
   - vendor: "Fusus, the county network"
     kind: expand
     detail: "APD access to the county sheriff's Fusus camera network under a December 2022 MOU and a January 2023 interlocal agreement; about 1,800 cameras at the 2023 vote, about 2,000 today. The chief's memo says APD is evaluating consolidating the county's center into the city's."
     links:
       - "WNC/Buncombe County/index"
-      - "WNC/Buncombe County/Record/Sheriffs Audit Log"
+      - "WNC/Buncombe County/Tracking/Sheriffs Audit Log"
   - vendor: "Flock Safety"
     kind: future
     detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2; the city says APD's accounts are deactivated. No removal date, deletion confirmation, or notice to council published as of Sept 24, 2026."

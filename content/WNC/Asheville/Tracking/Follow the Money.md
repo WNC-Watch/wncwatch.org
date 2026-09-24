@@ -2,6 +2,7 @@
 title: Follow the Money
 description: "The Business Improvement District, the Tourism Development Authority, and the surveillance buildout: the three funding streams, the organizations behind each, and the council votes, with what is documented and what is not."
 aliases:
+  - "WNC/Asheville/Record/Follow the Money"
   - "Follow the Money"
   - "The System/Follow the Money"
 type: tracker

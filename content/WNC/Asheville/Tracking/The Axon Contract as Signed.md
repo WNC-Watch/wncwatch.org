@@ -2,6 +2,7 @@
 title: "The Axon contract, as signed"
 description: "City of Asheville Contract 92700065 with Axon Enterprise, posted by the city in August 2026: the term to 2033, the $7,423,161.15 schedule, the termination clauses and the Fusus carve-out, the scope sentence that names Lightpost, the signature dates, and the quote the contract references but the city has not posted."
 aliases:
+  - "WNC/Asheville/Record/The Axon Contract as Signed"
   - "The Axon Contract"
   - "Contract 92700065"
 verified: 2026-09-24

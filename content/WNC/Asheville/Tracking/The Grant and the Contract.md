@@ -2,6 +2,7 @@
 title: "The federal grant and the city's share of the contract"
 description: "The statement made for the RTIC vote, that accepting the $1.14 million federal award saves the city money, set beside the city's own staff report, the chief's presentation, and the signed Axon contract: what the grant pays, what the city pays, the savings as stated and as documented, and the costs nobody has priced."
 aliases:
+  - "WNC/Asheville/Record/The Grant and the Contract"
   - "The Grant and the Contract"
   - "The Federal Money"
 verified: 2026-09-23

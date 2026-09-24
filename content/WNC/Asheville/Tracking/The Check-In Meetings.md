@@ -2,6 +2,7 @@
 title: "The pre-meeting check-in sessions"
 description: "Asheville council members discuss agenda items in groups of three before meetings, below the open meetings law's quorum: how the practice works, what the record shows, and the RTIC items it covered."
 aliases:
+  - "WNC/Asheville/Record/The Check-In Meetings"
   - "The Check-In Meetings"
   - "The Record/The Check-In Meetings"
 type: tracker

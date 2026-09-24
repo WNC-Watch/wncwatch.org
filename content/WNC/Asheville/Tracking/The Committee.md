@@ -2,6 +2,7 @@
 title: The Public Safety Committee
 description: "Asheville's Public Safety Committee, where RTIC oversight is assigned: members, schedule, and a record of each recorded meeting from May 2025 through Sept 24, 2026, including the March 26, 2026 meeting that advanced the RTIC grant with no recording published."
 aliases:
+  - "WNC/Asheville/Record/The Committee"
   - "The Committee"
   - "The Record/The Committee"
 type: tracker

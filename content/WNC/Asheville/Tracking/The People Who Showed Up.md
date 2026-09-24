@@ -2,6 +2,7 @@
 title: "The People Who Showed Up"
 description: "Residents who spoke at council against the RTIC, quoted from the public record with dates and timestamps."
 aliases:
+  - "WNC/Asheville/Record/The People Who Showed Up"
   - "The People Who Showed Up"
   - "The Record/The People Who Showed Up"
 type: reference

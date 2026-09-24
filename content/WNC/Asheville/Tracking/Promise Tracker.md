@@ -2,6 +2,7 @@
 title: Promise Tracker
 description: "The commitments APD and the city made as the RTIC was approved, each dated and tracked to 2033."
 aliases:
+  - "WNC/Asheville/Record/Promise Tracker"
   - "Promise Tracker"
   - "The Record/Promise Tracker"
 type: tracker

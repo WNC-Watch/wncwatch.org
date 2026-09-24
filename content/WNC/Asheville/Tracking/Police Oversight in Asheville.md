@@ -2,6 +2,7 @@
 title: "Police oversight in Asheville, 1991 to 2026"
 description: "Requests by Asheville residents for police oversight over thirty-five years, and what each produced, with the enforcement mechanism noted where one exists."
 aliases:
+  - "WNC/Asheville/Record/Police Oversight in Asheville"
   - "WNC/Asheville/Record/Oversight Theater"
   - "Oversight Theater"
   - "The Oversight Record"
