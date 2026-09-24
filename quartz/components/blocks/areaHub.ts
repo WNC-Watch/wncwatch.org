@@ -71,8 +71,8 @@ export const AreaHub: BodyBlock = {
     const officials = pagesUnder(allFiles, `${prefix}Officials/`).sort(byTitle)
     const record = pagesUnder(allFiles, `${prefix}Record/`).sort(byTitle)
     const community = pagesUnder(allFiles, `${prefix}Community/`).sort(byTitle)
-    // meeting records live under The Record and carry the town as their folder
-    const meetings = pagesUnder(allFiles, `The-Record/Meetings/${area}/`).sort(byTitle).reverse()
+    // meeting records live under Meetings/ and carry the town as their folder
+    const meetings = pagesUnder(allFiles, `Meetings/${area}/`).sort(byTitle).reverse()
     const known = new Set(["Officials", "Record", "Community"])
     const other = pagesUnder(allFiles, prefix)
       .filter((f) => !known.has(f.slug!.slice(prefix.length)))

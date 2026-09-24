@@ -25,7 +25,7 @@ export const folderBody = Component.FolderContent({ blocks: bodyBlocks })
 const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
   if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
   if (a.isFolder && b.isFolder) {
-    const sectionOrder = ["WNC", "Briefings", "Companies", "Act", "The-Record", "Reference"]
+    const sectionOrder = ["WNC", "Meetings", "Briefings", "Companies", "Act", "Reference"]
     const areaOrder = ["Officials", "Record", "Community"]
     const depth = a.slug.split("/").length
     const order = depth === 2 ? sectionOrder : depth === 4 && a.slug.startsWith("WNC/") ? areaOrder : []

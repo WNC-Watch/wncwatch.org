@@ -29,6 +29,7 @@ export interface EventItem {
   summary?: string
   full?: string
   same_as?: string
+  record?: string
   kind_word?: boolean
 }
 
@@ -70,6 +71,14 @@ export function loadEvents(contentDir: string): EventItem[] {
   return cache
 }
 
+// A meeting that has its own page gets a link to it after the detail line.
+// The href climbs from the area page (WNC/<Area>/index) to the site root.
+function recordLink(e: EventItem): string {
+  if (!e.record) return ""
+  const href = "../" + e.record.replace(/ /g, "-")
+  return ` <a href="${href}" class="internal tl-record">Meeting record</a>`
+}
+
 export function renderEvent(e: EventItem): string {
   const cls = KIND_CLASS[e.kind] ?? "tl-none"
   const word = e.kind_word === false ? "" : KIND_WORD[e.kind] ?? ""
@@ -78,7 +87,7 @@ export function renderEvent(e: EventItem): string {
   return (
     `<div class="tl-item ${cls}${e.now ? " tl-now" : ""}">` +
     `<div class="tl-date">${e.date_label}${kindSpan}</div>` +
-    `<div class="tl-body">${head}${e.summary ?? ""}</div></div>`
+    `<div class="tl-body">${head}${e.summary ?? ""}${recordLink(e)}</div></div>`
   )
 }
 

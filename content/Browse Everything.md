@@ -213,11 +213,15 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Records Center]]**: The public-records requests that would answer this site's open questions, pre-written and addressed to the custodian, with each request's status.
 - **[[Speak at Council]]**: How public comment works at Asheville City Council and the Public Safety Committee, the schedule from the site's calendar, and the open questions a speaker can carry.
 
-## [[The Record/index|The Record]]
+## [[Reference/index|Reference]]
 
-### [[The Record/Meetings/index|Meetings]]
+- **[[Corrections]]**: Every correction made to this site, dated, with the page corrected and what changed. Corrections are logged here and summarized on Site Updates.
+- **[[Documents]]**: The primary sources: minutes, resolutions, staff reports, APD policies, and released records.
+- **[[Sources]]**: Where this site's facts come from. Local reporting, primary documents, and national investigations.
 
-#### [[The Record/Meetings/Asheville/index|Asheville]]
+## [[Meetings/index|Meetings]]
+
+### [[Meetings/Asheville/index|Asheville]]
 
 - **[[2025-03-07 Agenda Briefing|2025-03-07: Asheville City Council agenda briefing, license-plate readers]]**: Council's first briefing on the plate-reader network, requested by Kim Roney: mobile readers had run about a year and stationary cameras about two. Timestamped from the city's video.
 - **[[2025-03-25 City Council|2025-03-25: Asheville City Council, RTIC grant on the consent agenda]]**: The first RTIC grant, $71,999, approved 6 to 1 on the consent agenda after Roney pulled it for discussion. Timestamped from the city's video.
@@ -229,11 +233,17 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[2026-09-16 Council Candidate Forum|2026-09-16: Asheville City Council candidate forum, West Asheville]]**: Five of the six council candidates on surveillance and the Flock vote, and on three-person council check-ins held out of public view, from an audience recording this site holds. Each candidate's answer in their own words, with audio.
 - **[[2026-09-24 Public Safety Committee|2026-09-24: Asheville Public Safety Committee, no camera item]]**: No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded. APD reported drone coverage and drone detection at the G20 and the PGA Tour event, and a planned data exchange on juveniles with DJJ and the courts.
 
-## [[Reference/index|Reference]]
+### [[Meetings/Hendersonville/index|Hendersonville]]
 
-- **[[Corrections]]**: Every correction made to this site, dated, with the page corrected and what changed. Corrections are logged here and summarized on Site Updates.
-- **[[Documents]]**: The primary sources: minutes, resolutions, staff reports, APD policies, and released records.
-- **[[Sources]]**: Where this site's facts come from. Local reporting, primary documents, and national investigations.
+- **[[2026-09-03 City Council|2026-09-03: Hendersonville City Council, the police chief on the Flock cameras]]**: The Sept 3, 2026 meeting from the city's video: the chief's account of the Flock program, council's questions, what the presentation did not cover, and what the city committed to.
+
+### [[Meetings/Jackson County/index|Jackson County]]
+
+- **[[2026-08-04 Work Session|2026-08-04: Jackson County commissioners work session, the sheriff on the Flock cameras]]**: The Aug 4, 2026 work session from the county's video: the sheriff on data sharing, cost, tracking and how investigations run.
+
+### [[Meetings/Macon County/index|Macon County]]
+
+- **[[2026-07-14 Commissioners|2026-07-14: Macon County commissioners, the vote to end the Flock contract]]**: The July 14, 2026 meeting from the county's video: where the contract money sat, how it got there, and Flock's offer to document the purge.
 
 ## Other pages
 
