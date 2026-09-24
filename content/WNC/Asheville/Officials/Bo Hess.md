@@ -5,6 +5,10 @@ aliases:
   - "People/Bo Hess"
   - "People/Asheville/Bo Hess"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: both
 ---
 
 **Title:** Asheville City Council member; chair of the Public Safety Committee; behavioral-health provider and social worker

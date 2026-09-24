@@ -1,6 +1,10 @@
 ---
 title: Corrections
 description: "Every correction made to this site, dated, with the page corrected and what changed. Corrections are logged here and summarized on Site Updates."
+type: reference
+area:
+  - "Asheville"
+vendor: axon
 ---
 
 When this site gets something wrong, the correction is posted here with the date, the page, what was wrong, and what the record shows. The corrected page links back to this list from its sources footer. Send corrections with a link or a document via [[Get Involved]].

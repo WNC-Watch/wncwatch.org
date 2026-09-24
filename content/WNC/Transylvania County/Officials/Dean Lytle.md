@@ -3,6 +3,10 @@ title: Dean Lytle
 description: Brevard City Council member who called the plate-reader proposal a "hot button" and pushed for public input before any vote. The input meeting was held Sept 1, 2026; the chief withdrew the request on Sept 8.
 aliases:
   - "People/WNC/Dean Lytle"
+type: person
+area:
+  - "Transylvania County"
+vendor: none
 ---
 
 **Title:** Brevard City Council member · elected November 2025 (four-year term) · co-chairs a council planning committee with [[Aaron Baker]]

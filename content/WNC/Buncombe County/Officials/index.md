@@ -3,6 +3,10 @@ title: Officials
 description: "The sheriff and his challenger, the commissioners who approve the budget, the staff who certify payments, the school board, and the district attorney, with each one's record."
 aliases:
   - "People/Buncombe/index"
+type: reference
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 The county built its network first, in 2022, and the city copied its rulebook. These are the people who decide what the county's cameras do: the sheriff (on the ballot), the board that funds him (three seats on the ballot), the staff who certify payments, the school board, and the district attorney.

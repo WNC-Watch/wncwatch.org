@@ -3,6 +3,10 @@ title: Melissa Moore
 description: "Buncombe County Finance Director since September 2023. Her preaudit certificate is required before the county can pay on a contract."
 aliases:
   - "People/Buncombe/Melissa Moore"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 **Title:** Finance Director, Buncombe County (appointed by board resolution effective September 18, 2023) ([resolution](https://media.buncombenc.gov/common/Commissioners/20230919/Appointing%20Finance%20Director-Melissa%20Moore%20resolution.pdf) · [Mountain Xpress](https://mountainx.com/blogwire/buncombe-county-names-melissa-moore-finance-ddirector/))

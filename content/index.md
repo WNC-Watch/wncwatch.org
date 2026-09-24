@@ -1,6 +1,10 @@
 ---
 title: WNC Surveillance Watch
 description: "Two companies are selling camera networks to the towns of Western North Carolina. This site keeps the record: what happened in Asheville, the communities deciding now, and the briefings, documents, and audit logs residents need to decide for themselves. Kept by neighbors, sourced to the record."
+type: reference
+area:
+  - "Asheville"
+vendor: both
 ---
 
 Two companies, <a href="./Companies/Axon">Axon</a> and <a href="./Companies/Flock-Safety">Flock Safety</a>, are selling camera networks to the towns of Western North Carolina, one council agenda at a time. Asheville signed a 7.5-year contract before the document existed to read; <a href="./WNC/Transylvania-County/index">Brevard</a>, <a href="./WNC/Henderson-County/index">Hendersonville, Henderson County</a>, and <a href="./WNC/Jackson-County/index">Jackson County</a> are deciding now. Our concern is not cameras. A camera used for accountability, under a policy the community chose, with an audit trail someone actually reads, is not what worries us. What worries us is what happens when a community's cameras join large interconnected networks that nobody local controls: sharing defaults nobody here set, searches nobody here approved, and rules that change with a signature instead of a vote. <a href="./WNC/Watauga-County/index">When Boone pulled its audit log</a>, it found 1.5 million out-of-state searches its transparency portal never showed.

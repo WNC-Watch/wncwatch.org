@@ -4,6 +4,10 @@ description: "Sunshine Labs founder. Asked council on May 12, 2026 what the RTIC
 maintenance_note: "Named-person exception page (one of two, with Benn Jordan). Scope is strictly public, bylined work: the org, the records releases, on-the-record council statements with timestamps. Nothing personal is ever added here, and additions require Benjamin's sign-off. See wnc-citizen-naming-hard-rule."
 aliases:
   - "People/Community/Patrick Conant"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Who:** director of [Sunshine Labs](https://www.sunshinelabs.org) ([@sunshinelabsavl](https://www.instagram.com/sunshinelabsavl/)), Asheville's civic-technology and transparency shop; runs [Sunshine Request](https://www.sunshinerequest.com), which files and publishes public records requests; led the Sunshine Over Surveillance campaign

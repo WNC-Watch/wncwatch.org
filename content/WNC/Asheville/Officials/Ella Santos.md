@@ -4,6 +4,10 @@ description: "President and CEO of the Housing Authority since 2025. At the May 
 aliases:
   - "People/Buncombe/Ella Santos"
   - "People/Asheville/Ella Santos"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** President and CEO, Housing Authority of the City of Asheville (HACA); secretary to its Board of Commissioners

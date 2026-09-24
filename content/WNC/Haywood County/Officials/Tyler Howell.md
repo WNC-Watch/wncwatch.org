@@ -3,6 +3,10 @@ title: Tyler Howell
 description: "Democratic nominee for Haywood County Sheriff, November 3, 2026; a Waynesville police detective. His platform names accountability and transparency; no statement on the cameras found as of Aug 22, 2026."
 aliases:
   - "People/WNC/Tyler Howell"
+type: person
+area:
+  - "Haywood County"
+vendor: none
 ---
 
 **Title:** Democratic nominee for Haywood County Sheriff · Waynesville Police Department since 2008, detective since 2023

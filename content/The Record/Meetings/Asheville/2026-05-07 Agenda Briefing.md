@@ -4,6 +4,13 @@ description: "Five days before the vote, the city manager confirmed the Axon con
 aliases:
   - "Meetings/2026-05-07 Agenda Briefing"
   - "The Record/Meetings/2026-05-07 Agenda Briefing"
+type: meeting
+date: 2026-05-07
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: both
 ---
 
 Five days before the [[2026-05-12 City Council|May 12 vote]], council held its agenda briefing: no public comment permitted, [[Esther Manheimer|Mayor Manheimer]] and Councilmember [[Maggie Ullman|Ullman]] absent, [[Jackie Stepp|Interim Chief Stepp]] joining by phone. The [city's video](https://www.youtube.com/watch?v=I0PFVrO9CRQ) records three things that should have each been a headline. Captions don't label speakers (and garble names freely); attributions follow meeting context.

@@ -5,6 +5,13 @@ aliases:
   - "2026-09-16 Council Candidate Forum"
   - "Meetings/2026-09-16 Council Candidate Forum"
 verified: 2026-09-17
+type: meeting
+date: 2026-09-16
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: flock
 ---
 
 Five of the six candidates for Asheville City Council answered questions at a forum in West Asheville on the evening of Sept 16, 2026: [[Maggie Ullman]], [[Antanette Mosley]], [[Jeffrey Burroughs]], [[Keith Young]], and [[Drew Ball]]. [[Sheneika Smith]] is not heard on the recording this page is built from.

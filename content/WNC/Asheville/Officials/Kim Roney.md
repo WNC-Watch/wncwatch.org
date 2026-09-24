@@ -5,6 +5,10 @@ aliases:
   - "People/Kim Roney"
   - "People/Asheville/Kim Roney"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: flock
 ---
 
 **Title:** City Council member · music teacher & piano technician · [kimroney4asheville.com](https://kimroney4asheville.com/) · [official page](https://www.facebook.com/councilmemberkimroney)

@@ -4,6 +4,10 @@ description: "How a license-plate read becomes a nationwide search, a data-broke
 aliases:
   - "What They Can Actually Learn About You"
   - "The System/What They Can Actually Learn About You"
+type: explainer
+area:
+  - "Asheville"
+vendor: both
 ---
 
 A single plate read records a car at a place and time. A database of reads records movements. This page follows one read from a camera to a nationwide search, a data-broker profile, and a live video feed, from court records, audit logs, and APD's briefings. When the Electronic Frontier Foundation obtained 2.5 billion license-plate scans from 200 law-enforcement agencies, **99.5% of the plates scanned belonged to people suspected of nothing**. ([EFF Data Driven dataset](https://www.eff.org/pages/automated-license-plate-reader-dataset)) Retained and pooled, those scans of everyone become searchable history about anyone.

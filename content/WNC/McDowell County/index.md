@@ -12,6 +12,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-08
+type: area
+area:
+  - "McDowell County"
+body:
+  - "McDowell County Board of Commissioners"
+vendor: flock
 ---
 
 McDowell County's sheriff's office runs at least 12 Flock cameras; no vote, contract value, or policy is public.

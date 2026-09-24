@@ -3,6 +3,10 @@ title: Chuck Owenby
 description: Transylvania County Sheriff; installed eight Flock cameras in 2024 with no vote, credits them with finding six missing people, and runs unopposed in November.
 aliases:
   - "People/WNC/Chuck Owenby"
+type: person
+area:
+  - "Transylvania County"
+vendor: none
 ---
 
 **Title:** Transylvania County Sheriff · Republican · [office page](https://www.transylvaniacounty.org/staff/chuck-owenby)

@@ -2,6 +2,10 @@
 title: Barbara Volk
 description: "Mayor of Hendersonville. Presided over the Sept 3, 2026 presentation on the city's plate readers, which ended with no vote, and said public input sessions would be advertised; no date has been set. Not on the November ballot."
 verified: 2026-09-08
+type: person
+area:
+  - "Hendersonville"
+vendor: none
 ---
 
 **Title:** Mayor, City of Hendersonville ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members))

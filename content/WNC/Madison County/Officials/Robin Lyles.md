@@ -3,6 +3,10 @@ title: Robin Lyles
 description: "Republican nominee for Madison County Sheriff, November 3, 2026, in a rematch of 2022. No public statement on the cameras or the records refusals found as of Aug 22, 2026."
 aliases:
   - "People/WNC/Robin Lyles"
+type: person
+area:
+  - "Madison County"
+vendor: none
 ---
 
 **Title:** Republican nominee for Madison County Sheriff

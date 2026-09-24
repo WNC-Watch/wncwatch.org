@@ -4,6 +4,10 @@ description: "Twelve communities, one page each, with where each stands, its sys
 aliases:
   - "People/WNC/index"
   - "People/index"
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 Twelve communities, one page each. The sheriffs' networks share data with each other and with agencies nationwide, and state law sets some of the terms. Start with the overview, then the county you live in.

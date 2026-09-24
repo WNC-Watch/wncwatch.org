@@ -5,6 +5,10 @@ aliases:
   - "People/Benn Jordan"
   - "People/Community/Benn Jordan"
 maintenance_note: "Named-person exception page (one of two, with Patrick Conant). Scope is strictly public, bylined work. Nothing personal is ever added here, and additions require Benjamin's sign-off. See wnc-citizen-naming-hard-rule."
+type: person
+area:
+  - "Asheville"
+vendor: flock
 ---
 
 Most of this site is about people with power over Asheville's surveillance system. This page is about someone with none: an outside researcher who studied these cameras on his own time and came here to help residents understand them. Benn Jordan appeared at a CAMS surveillance event in Asheville on **May 25, 2026**, doing a public Q&A alongside [[Kim Roney]]. His work is the clearest available explanation of two things Asheville officials rarely address: what these systems can do, and how badly built they are.

@@ -4,6 +4,13 @@ description: "The committee work session with Axon and Flock representatives and
 aliases:
   - "Meetings/2026-04-28 Work Session"
   - "The Record/Meetings/2026-04-28 Work Session"
+type: meeting
+date: 2026-04-28
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: both
 ---
 
 Two weeks before the [[What Is the RTIC|RTIC]] vote, the Policy, Finance and Infrastructure Committee heard the case for it: **from Axon and Flock sales representatives, presenting alongside APD, with no public comment permitted**. This was the "full conversation" the April 14 delay bought. The [full video](https://www.youtube.com/live/7tmfAjpPocA) runs just under two hours; these are the load-bearing claims, timestamped, checkable, each set against the documented record. ([CAMS's fact-check one-pager](https://www.sunshinelabs.org/wp-content/uploads/2026/05/Asheville-RTIC-%E2%80%93-1-Pager.pdf) responded to this same session; captions don't label speakers, so attributions below follow the presentation context.)

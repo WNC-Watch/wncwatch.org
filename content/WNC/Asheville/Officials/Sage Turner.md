@@ -5,6 +5,10 @@ aliases:
   - "People/Sage Turner"
   - "People/Asheville/Sage Turner"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: both
 ---
 
 **Title:** City Council member · finance & project management background

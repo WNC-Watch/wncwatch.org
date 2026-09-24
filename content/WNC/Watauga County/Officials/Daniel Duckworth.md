@@ -3,6 +3,10 @@ title: Daniel Duckworth
 description: "Boone Police Chief. Narrowed the department's Flock sharing list to North Carolina agencies and a few in Tennessee, 41 in all, with quarterly audits, after the 2026 log review."
 aliases:
   - "People/WNC/Daniel Duckworth"
+type: person
+area:
+  - "Watauga County"
+vendor: none
 ---
 
 **Title:** Chief of Police, Town of Boone (Watauga County) · rose from major to interim chief to chief ([Town of Boone](https://www.townofboone.net/492/Chief-of-Police))

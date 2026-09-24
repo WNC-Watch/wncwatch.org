@@ -5,6 +5,10 @@ aliases:
   - "People/D.K. Wesley"
   - "People/Asheville/D.K. Wesley"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: axon
 ---
 
 **Title:** City Manager, City of Asheville (Dakisha "DK" Wesley)

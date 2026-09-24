@@ -4,6 +4,11 @@ description: "Seven released records on how the RTIC's governing policy was writ
 aliases:
   - "The RTIC Policy"
   - "The Record/The RTIC Policy"
+type: tracker
+area:
+  - "Asheville"
+vendor: axon
+status: pending
 ---
 
 On August 20, 2026, the written rules that will govern the [[What Is the RTIC|Real-Time Intelligence Center]] became public for the first time: seven documents obtained through two public records requests (PRR-2026-837 and PRR-2026-840) and shared publicly by [[Get Involved|Sunshine Labs]]' Patrick Conant ([the full folder](https://drive.google.com/drive/folders/1mG6XIboFMJ12kAGy8sB3Jht8fhaWDUEj)). They include four drafts of APD Policy 1703, the meeting notes of the private workgroup that shaped it, and two email chains between APD, the city attorney's office, and Axon's sales rep. Every document is linked below and archived on this site in case the folder ever goes away.

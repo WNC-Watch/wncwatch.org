@@ -3,6 +3,10 @@ title: "Jeff Jackson"
 description: "North Carolina Attorney General. No public statement on plate readers, Flock, or data sharing found as of Aug 22, 2026; the summer 2026 misuse charges were brought on SBI affidavits. No letter from him was read at Asheville's May 12, 2026 vote."
 aliases:
   - "People/State/Jeff Jackson"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** Attorney General of North Carolina · Democrat (former U.S. Representative, NC-14, and state senator)

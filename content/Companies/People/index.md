@@ -3,6 +3,10 @@ title: "Company executives"
 description: "The chief executives of Axon and Flock Safety, with their statements on the record."
 aliases:
   - "People/Companies/index"
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 | | Company | Why they're here |

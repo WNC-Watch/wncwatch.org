@@ -4,6 +4,11 @@ description: "The Business Improvement District, the Tourism Development Authori
 aliases:
   - "Follow the Money"
   - "The System/Follow the Money"
+type: tracker
+area:
+  - "Asheville"
+vendor: axon
+status: open
 ---
 
 Tourism tax dollars do not pay for the RTIC, and under state law cannot. This page follows three separate funding streams downtown, the votes that created each, and the places the record connects them.

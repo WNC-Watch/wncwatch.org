@@ -4,6 +4,11 @@ description: "Asheville's Public Safety Committee, where RTIC oversight is assig
 aliases:
   - "The Committee"
   - "The Record/The Committee"
+type: tracker
+area:
+  - "Asheville"
+vendor: both
+status: pending
 ---
 
 The Public Safety Committee is the council committee assigned oversight of the [[What Is the RTIC|RTIC]]: three council members (chair [[Bo Hess]], Vice Mayor [[Antanette Mosley]], [[Sheneika Smith]]) meeting remotely, roughly every other month. Below is the record of each meeting from the committee's May 2025 relaunch through Sept 24, 2026, from the city's own meeting streams. Captions are unlabeled, so attributions follow the meeting context.

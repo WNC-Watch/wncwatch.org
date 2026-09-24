@@ -4,6 +4,13 @@ description: "The May 12, 2026 meeting, minute by minute from the city's video: 
 aliases:
   - "Meetings/2026-05-12 City Council"
   - "The Record/Meetings/2026-05-12 City Council"
+type: meeting
+date: 2026-05-12
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: axon
 ---
 
 This page reconstructs the May 12, 2026 council meeting from the city's own [YouTube recording](https://www.youtube.com/watch?v=AfdrH-a92As); every quote below is in the video at the linked timestamp, checkable by anyone. It settles what the press coverage couldn't agree on, and it documents a vote taken so abruptly, amid so much chaos, that a council member had to announce into the microphone that it had happened at all.

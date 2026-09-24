@@ -5,6 +5,10 @@ aliases:
   - "Tuesday August 25"
   - "Act/Tuesday August 25"
   - "Getting Flock Out"
+type: action
+area:
+  - "Asheville"
+vendor: both
 ---
 
 Asheville City Council voted 5 to 2 on Aug 25, 2026 to terminate the city's contract with Flock Safety ([[2026-08-25 City Council|the record of the meeting]]). The resolution directs the city manager to terminate, asks Flock to remove its 11 cameras, bars city employees from searching the city's Flock data, and orders a review with ten study topics. As of Sept 23, 2026, three things the exit requires have not been recorded: the cameras verifiably down, APD's Flock user accounts and network search access closed, and Flock's written confirmation that the city's data is deleted. The executed Axon contract, which governs what replaces Flock, was posted by the city in August 2026; the itemized quote it references was not ([[The Axon Contract as Signed|the contract, as signed]]). This page holds the eight demands that make a termination an exit, scores the adopted resolution against them, and lists what one person can still do.

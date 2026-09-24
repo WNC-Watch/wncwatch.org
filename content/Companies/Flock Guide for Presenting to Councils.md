@@ -4,6 +4,10 @@ description: "Flock's leaked guide for police on presenting camera systems to co
 aliases:
   - "Companies/The Flockbook"
   - "The Flockbook"
+type: vendor
+area:
+  - "region"
+vendor: both
 ---
 
 In August 2026, 404 Media published a leaked internal Flock Safety guide (dubbed the "Flockbook") coaching law enforcement on **how to sell and defend ALPR systems to city councils**, paired with a May 2026 Flock webinar titled "How to Speak to City Councils: Meeting the Moment with Confidence." The full text is public: [the document](https://www.documentcloud.org/documents/28531454-flockbook/) · [404 Media's reporting](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/).

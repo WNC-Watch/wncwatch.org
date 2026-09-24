@@ -12,6 +12,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-08
+type: area
+area:
+  - "Jackson County"
+body:
+  - "Jackson County Board of Commissioners"
+vendor: flock
 ---
 
 Jackson County's four sheriff's Flock cameras read 1.19 million plates a month against 563 searches, per records obtained by the Sylva Herald.

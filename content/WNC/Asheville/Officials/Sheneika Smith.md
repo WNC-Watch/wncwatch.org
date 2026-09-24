@@ -5,6 +5,10 @@ aliases:
   - "People/Sheneika Smith"
   - "People/Asheville/Sheneika Smith"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 **Title:** City Council member · [[The Committee|Public Safety Committee]] member

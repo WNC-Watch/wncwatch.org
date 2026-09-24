@@ -3,6 +3,10 @@ title: Josh Stein
 description: "Governor. Vetoed HB 318 and SB 153 on constitutional grounds; both vetoes were overridden. Signed the 2025 budget that made the SBI highway plate-reader program permanent."
 aliases:
   - "People/State/Josh Stein"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** Governor of North Carolina · Democrat

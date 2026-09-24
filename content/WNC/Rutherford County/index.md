@@ -12,6 +12,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-09
+type: area
+area:
+  - "Rutherford County"
+body:
+  - "Rutherford County Board of Commissioners"
+vendor: flock
 ---
 
 Rutherford County's camera count is unresolved; Forest City's Flock network includes audio detection; the sheriff's February 2025 proposal for a county network did not come to a vote. On Sept 8, 2026 two residents presented a removal petition at public comment; the board thanked them and moved to the consent agenda.

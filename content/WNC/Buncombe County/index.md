@@ -12,6 +12,12 @@ systems:
     links:
       - "WNC/Buncombe County/Record/Sheriffs Audit Log"
 verified: 2026-09-08
+type: area
+area:
+  - "Buncombe County"
+body:
+  - "Buncombe County Board of Commissioners"
+vendor: both
 ---
 
 Asheville's RTIC plugs into the county sheriff's system. This page is built from the Sheriff's Office's published policy manual, federal forfeiture tables, county and housing-authority documents, and local reporting. The legal question underneath it, what the county commission can and cannot do about a sheriff's cameras, has its own page: [[What the Law Lets the County Do]].

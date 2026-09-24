@@ -3,6 +3,10 @@ title: Chip Hawley
 description: "Director of the State Bureau of Investigation since November 2024. The SBI runs the statewide highway plate-reader program, with the stated goal of \"covering all entrances and exits to North Carolina,\" and brought the state's first Flock misuse charges in July 2026."
 aliases:
   - "People/State/Chip Hawley"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** Director, North Carolina State Bureau of Investigation (Roger "Chip" Hawley, the SBI's 19th director)

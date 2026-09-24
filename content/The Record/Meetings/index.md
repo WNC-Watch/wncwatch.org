@@ -1,6 +1,10 @@
 ---
 title: Meetings
 description: Seven council meetings reconstructed from the city's own video, with timestamps for every quote.
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 Each page is built from the city's published video and documents. Quotes link to the timestamp where they were said. Newest first.

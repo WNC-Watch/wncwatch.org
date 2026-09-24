@@ -17,6 +17,13 @@ systems:
     links:
       - "Companies/What Axon Contracts Do"
 verified: 2026-09-10
+type: area
+area:
+  - "Transylvania County"
+body:
+  - "Brevard City Council"
+  - "Transylvania County Board of Commissioners"
+vendor: both
 ---
 
 Brevard posted its documents before deciding: the draft policy and the [[What Axon Contracts Do|Axon contract]] were posted, the city's question session was held Sept 1, and at the start of the Sept 8 council meeting Police Chief Christy Wentzell withdrew the plate-reader request without a vote. The taser and body-camera purchase the three cameras were attached to is still pending, so the question can return. The county sheriff's cameras have been up since 2024 with no commission vote found, and the county board first took the subject up on Aug 24, after residents raised it.

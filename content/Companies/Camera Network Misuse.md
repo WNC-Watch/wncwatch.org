@@ -8,6 +8,10 @@ aliases:
   - "Companies/Stories That Check Out"
   - "The Wider Fight/The Abuse Record"
   - "The Wider Fight/Stories That Check Out"
+type: vendor
+area:
+  - "region"
+vendor: flock
 ---
 
 Every entry below happened, is dated, and links to reporting or a primary document. The sections follow the questions residents ask about these systems: whether the data reaches federal agencies, whether it can follow someone to a clinic or a protest, whether an officer can use it on someone they know, whether it stops the wrong person, whether its use is disclosed, whether it leaks, and what the companies do when a town says no. Entries marked **NC** happened in North Carolina. Charges are called charges, not convictions. Corrections welcome; this page is meant to be checked.

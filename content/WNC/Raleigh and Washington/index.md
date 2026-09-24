@@ -3,6 +3,10 @@ title: "Raleigh and Washington"
 description: "The state and federal officials who set the rules the local networks run under: the governor's vetoes and the budget he signed, the attorney general, the SBI's highway cameras, the senators, and the congressman whose earmark funded Asheville's RTIC."
 aliases:
   - "People/State/index"
+type: area
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 The laws themselves, with text, are on [[What the Law Lets the County Do]]. These are the people behind them.

@@ -4,6 +4,10 @@ description: "Buncombe County Sheriff since 2018. His office runs the Fusus netw
 aliases:
   - "People/Quentin Miller"
   - "People/Buncombe/Quentin Miller"
+type: person
+area:
+  - "Buncombe County"
+vendor: axon
 ---
 
 **Title:** Buncombe County Sheriff · Democrat

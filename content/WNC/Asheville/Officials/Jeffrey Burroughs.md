@@ -5,6 +5,10 @@ aliases:
   - "People/Jeffrey Burroughs"
   - "People/Asheville/Jeffrey Burroughs"
 verified: 2026-09-17
+type: person
+area:
+  - "Asheville"
+vendor: both
 ---
 
 **Title:** Candidate for Asheville City Council · jeweler · president, River Arts District Artists' Association · [jeffreyforasheville.com](https://jeffreyforasheville.com/)

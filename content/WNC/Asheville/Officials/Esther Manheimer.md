@@ -5,6 +5,10 @@ aliases:
   - "People/Esther Manheimer"
   - "People/Asheville/Esther Manheimer"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: both
 ---
 
 **Title:** Mayor, City of Asheville · attorney, Van Winkle Law Firm · [manheimerformayor.com](https://manheimerformayor.com/)

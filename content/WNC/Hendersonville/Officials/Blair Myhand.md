@@ -4,6 +4,10 @@ description: "Hendersonville Police Chief. Presented the city's 15 plate readers
 aliases:
   - "People/WNC/Blair Myhand"
   - "WNC/Henderson County/Officials/Blair Myhand"
+type: person
+area:
+  - "Hendersonville"
+vendor: none
 ---
 
 **Title:** Chief of Police, City of Hendersonville

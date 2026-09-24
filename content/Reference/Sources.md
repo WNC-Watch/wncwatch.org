@@ -3,6 +3,10 @@ title: Sources
 description: Where this site's facts come from. Local reporting, primary documents, and national investigations.
 aliases:
   - "Sources"
+type: reference
+area:
+  - "Asheville"
+vendor: none
 ---
 
 Every page cites inline. This is the standing bibliography and where to watch for new reporting.

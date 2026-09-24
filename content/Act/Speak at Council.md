@@ -3,6 +3,10 @@ title: Speak at Council
 description: "How public comment works at Asheville City Council and the Public Safety Committee, the schedule from the site's calendar, and the open questions a speaker can carry."
 aliases:
   - "Speak at Council"
+type: action
+area:
+  - "Asheville"
+vendor: axon
 ---
 
 Public comment at Asheville City Council runs three minutes per speaker. This page has the schedule, the rules, a structure for three minutes, and the questions that are still open. Comment procedure for the other WNC bodies is on each area page under [[WNC/index|Western North Carolina]].

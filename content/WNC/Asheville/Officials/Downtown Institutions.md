@@ -4,6 +4,10 @@ description: "The Chamber of Commerce, the Downtown Association, and the tourism
 aliases:
   - "People/Buncombe/Downtown Institutions"
   - "People/Asheville/Downtown Institutions"
+type: person
+area:
+  - "Asheville"
+vendor: none
 ---
 
 The camera network was sold to commissioners as a business partnership ([[WNC/Buncombe County/index|Buncombe County]]) and to businesses as public safety ([[Follow the Money]] · [[Before You Connect Your Cameras]]). These are the institutions in between.

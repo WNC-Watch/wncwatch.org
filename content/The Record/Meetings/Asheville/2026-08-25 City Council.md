@@ -4,6 +4,13 @@ description: "Council voted 5 to 2 to terminate the Flock contract; a motion to 
 aliases:
   - "Meetings/2026-08-25 City Council"
   - "The Record/Meetings/2026-08-25 City Council"
+type: meeting
+date: 2026-08-25
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: both
 ---
 
 Council took up [[2026-08-20 Agenda Briefing|the termination resolution previewed five days earlier]] and passed it 5 to 2 ([city's video](https://www.youtube.com/watch?v=n5eLonf3x_I), the Flock item from [2:11:57](https://www.youtube.com/watch?v=n5eLonf3x_I&t=7917s) to [4:07:49](https://www.youtube.com/watch?v=n5eLonf3x_I&t=14869s)). Quotes below are from a machine transcript of the video, with speakers identified by voice analysis checked against the chair's recognitions and the record itself; the vote tally, the no votes, and every load-bearing quote were then confirmed by watching the video. Every quote links its timestamp so you can hear it yourself. Obvious transcription slips are bracketed.

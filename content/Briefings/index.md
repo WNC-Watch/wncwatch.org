@@ -3,6 +3,10 @@ title: Briefings
 description: "Long-form explainers, one idea per page: how camera networks share data, the companies' safety record, what a policy contains, how the systems are sold. Written for any WNC town before its decision."
 aliases:
   - "The System/index"
+type: reference
+area:
+  - "region"
+vendor: none
 ---
 
 A briefing is what staff hand council before a decision. These are ours, written for residents: long-form pages that each teach one idea properly, built to stay true after the news cycle moves on. They are the background reading behind our posts and campaigns, and every claim in them links to a record you can check.

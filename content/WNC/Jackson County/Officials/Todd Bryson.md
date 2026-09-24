@@ -3,6 +3,10 @@ title: Todd Bryson
 description: "Jackson County commissioner. At the August 4, 2026 work session raised the risk of innocent drivers stopped on false hits. On the November 3, 2026 ballot."
 aliases:
   - "People/WNC/Todd Bryson"
+type: person
+area:
+  - "Jackson County"
+vendor: none
 ---
 
 **Title:** Jackson County Commissioner, District 1 · Republican

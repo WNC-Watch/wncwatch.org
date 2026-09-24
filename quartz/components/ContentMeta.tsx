@@ -29,7 +29,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
+      // Only a meeting page carries a date in its header (the meeting's own date).
+      // Other pages carry no page-level date; "Last verified" lives in the footer
+      // strip (Tone of Voice addendum, 2026-09-04).
+      if (fileData.dates && fileData.frontmatter?.type === "meeting") {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 

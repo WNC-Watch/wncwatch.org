@@ -3,6 +3,10 @@ title: "John Shearl"
 description: "Macon County commissioner. Made the July 14, 2026 motion to end the Flock contract, citing the Fourth Amendment: \"I don't want a hunch. I want the truth.\" On the November 3, 2026 ballot."
 aliases:
   - "People/WNC/John Shearl"
+type: person
+area:
+  - "Macon County"
+vendor: none
 ---
 
 **Title:** Macon County Commissioner, District 1 · Republican

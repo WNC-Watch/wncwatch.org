@@ -3,6 +3,10 @@ title: The Vendors
 description: "Axon and Flock Safety: what each sells in the region, the contracts, who runs them, the misuse ledger, and the communities that ended contracts."
 aliases:
   - "The Wider Fight/index"
+type: reference
+area:
+  - "Asheville"
+vendor: flock
 ---
 
 Two companies sell camera systems to the towns of Western North Carolina. Asheville ended its contract with one on Aug 25, 2026 and holds a contract with the other to 2033.

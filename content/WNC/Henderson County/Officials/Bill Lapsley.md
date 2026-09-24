@@ -3,6 +3,10 @@ title: Bill Lapsley
 description: "Henderson County Commission Chair, first elected 2014, term ending December 2026 and not running. Has not scheduled a vote on the sheriff's cameras; to the Hendersonville Lightning: \"until we hear of some abuse or something radical happening, I don't see a problem.\""
 aliases:
   - "People/WNC/Bill Lapsley"
+type: person
+area:
+  - "Henderson County"
+vendor: none
 ---
 
 **Title:** Chair, Henderson County Board of Commissioners (District 3) · Republican

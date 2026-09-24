@@ -13,6 +13,12 @@ systems:
       - "WNC/Henderson County/Officials/Lowell Griffin"
       - "Briefings/What the Law Lets the County Do"
 verified: 2026-09-10
+type: area
+area:
+  - "Henderson County"
+body:
+  - "Henderson County Board of Commissioners"
+vendor: flock
 ---
 
 Henderson County's cameras were bought inside the sheriff's approved budget, so no commission vote has been taken, and none is scheduled. A resident petition to remove them passed 2,000 signatures on Aug 17, 2026. The city of Hendersonville's cameras have [[WNC/Hendersonville/index|their own page]].

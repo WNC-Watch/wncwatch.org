@@ -5,6 +5,10 @@ aliases:
   - "People/Maggie Ullman"
   - "People/Asheville/Maggie Ullman"
 verified: 2026-09-08
+type: person
+area:
+  - "Asheville"
+vendor: both
 ---
 
 **Title:** City Council member · climate/sustainability consultant · chairs the Planning, Economic Development & Environment Committee (sometimes appears as Maggie Ullman Berthiaume)

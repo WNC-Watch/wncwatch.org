@@ -12,6 +12,12 @@ systems:
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-10
+type: area
+area:
+  - "Macon County"
+body:
+  - "Macon County Board of Commissioners"
+vendor: flock
 ---
 
 Macon County commissioners voted 5 to 0 on July 14, 2026 to end the sheriff's Flock contract; the cameras came down.

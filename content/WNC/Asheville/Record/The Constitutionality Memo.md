@@ -3,6 +3,11 @@ title: "The city attorney's constitutionality memo"
 description: "The city attorney's memo circulated the night before the Aug 25, 2026 Flock vote: what it says, and the two cases it does not mention, the Norfolk appeal in the Fourth Circuit and the Supreme Court's June 2026 location-data ruling."
 aliases:
   - "The Record/The Constitutionality Memo"
+type: tracker
+area:
+  - "Asheville"
+vendor: flock
+status: pending
 ---
 
 **Section: [[The Record/index|The Record]]**

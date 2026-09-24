@@ -1,6 +1,10 @@
 ---
 title: Browse Everything
 description: The full map of the site, every page, grouped the way the site is built. The region and its officials, the briefings, the vendors, the toolkit, the meeting records, and the reference.
+type: reference
+area:
+  - "Asheville"
+vendor: both
 ---
 
 This is the complete index. If you're new, the [[index|home page]] walks you in gently; this page is for finding anything fast. The groups below follow the site's folders; each section has its own front page.

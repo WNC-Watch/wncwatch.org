@@ -4,6 +4,13 @@ description: "The agenda briefing for the Aug 25 vote: Flock's 10-camera minimum
 aliases:
   - "Meetings/2026-08-20 Agenda Briefing"
   - "The Record/Meetings/2026-08-20 Agenda Briefing"
+type: meeting
+date: 2026-08-20
+area:
+  - "Asheville"
+body:
+  - "Asheville City Council"
+vendor: both
 ---
 
 One day after [[Esther Manheimer|Mayor Manheimer]]'s [[Getting Flock Out|termination statement]], and hours after [[The RTIC Policy|the RTIC policy records]] became public, council held its agenda briefing for the August 25 meeting ([city's video](https://www.youtube.com/watch?v=KO0Y7oa3E8A), the Flock item from [50:01](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=3001s) to [1:13:24](https://www.youtube.com/watch?v=KO0Y7oa3E8A&t=4404s)). No public comment is taken at briefings. Captions don't label speakers and garble words; quotes below are from the auto-captions, attributions follow meeting context, and where attribution isn't certain we say "a council member."

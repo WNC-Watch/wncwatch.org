@@ -3,6 +3,10 @@ title: "Michael Jennings"
 description: "Jackson County commissioner. At the August 4, 2026 work session asked what the cameras \"could be used for in the future\"; the question was not answered on the record."
 aliases:
   - "People/WNC/Michael Jennings"
+type: person
+area:
+  - "Jackson County"
+vendor: none
 ---
 
 **Title:** Jackson County Commissioner, District 4 · Republican

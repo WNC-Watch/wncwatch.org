@@ -3,6 +3,10 @@ title: WNC Legislators
 description: How Western North Carolina's state senators and representatives voted on HB 10, HB 318, SB 153, and the budget that made highway plate readers permanent, with roll-call links, and who is on the November ballot.
 aliases:
   - "People/State/WNC Legislators"
+type: reference
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 The three laws that turned ICE cooperation from a sheriff's choice into a statutory duty, and the budget that made the SBI's highway cameras permanent, all passed with Western North Carolina votes. Every roll call below links to the General Assembly's transcript. The laws themselves: [[What the Law Lets the County Do]]. Election status is from the State Board of Elections' candidate file of August 21, 2026.

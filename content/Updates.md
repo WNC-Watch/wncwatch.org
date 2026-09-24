@@ -1,6 +1,11 @@
 ---
 title: Site Updates
 description: What changed on this site and when, newest first. Each release lists the pages touched and the documents behind them, so you can check the work.
+type: reference
+area:
+  - "Asheville"
+  - "Buncombe County"
+vendor: both
 ---
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.

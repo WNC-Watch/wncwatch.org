@@ -3,6 +3,10 @@ title: Kevin Ensley
 description: "Haywood County Commission Chair. Said in a statement to a reporter on July 21, 2026 that the county would keep its Flock cameras, citing overdose figures; no vote was taken."
 aliases:
   - "People/WNC/Kevin Ensley"
+type: person
+area:
+  - "Haywood County"
+vendor: none
 ---
 
 **Title:** Chair, Haywood County Board of Commissioners · Republican · the county's longest-serving commissioner (about 20 years)

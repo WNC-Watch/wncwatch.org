@@ -3,6 +3,10 @@ title: Ted Budd
 description: "U.S. Senator through January 2029. Co-sponsored the Laken Riley Act and anti-sanctuary legislation; no statement on plate readers found as of Aug 22, 2026."
 aliases:
   - "People/State/Ted Budd"
+type: person
+area:
+  - "Raleigh and Washington"
+vendor: none
 ---
 
 **Title:** U.S. Senator (R-NC), since 2023

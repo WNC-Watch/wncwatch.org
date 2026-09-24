@@ -33,6 +33,11 @@ systems:
       - "WNC/Buncombe County/index"
       - "WNC/Buncombe County/Record/Sheriffs Audit Log"
 verified: 2026-09-24
+type: tracker
+area:
+  - "Asheville"
+vendor: both
+status: open
 ---
 
 The Real-Time Intelligence Center is the room and the software through which the Asheville Police Department will watch its cameras, plate readers, drones and integrated private cameras in real time, run on Axon's Fusus platform under a 7.5-year contract the city signed in August 2026. This page is the door to everything this site holds on it: the status, the documents, the money, what the officials who decide have said, what is still pending, and the pages that document each part in full. The plain-language explainer is [[What Is the RTIC]]; the position this site takes is on the [[index|homepage]].

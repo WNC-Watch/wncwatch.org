@@ -3,6 +3,10 @@ title: Mark Mease
 description: "Republican nominee for Haywood County Sheriff, November 3, 2026; won the March 2026 primary over the incumbent. No public statement on the cameras found as of Aug 22, 2026."
 aliases:
   - "People/WNC/Mark Mease"
+type: person
+area:
+  - "Haywood County"
+vendor: none
 ---
 
 **Title:** Republican nominee for Haywood County Sheriff · narcotics investigator, Cherokee Indian Police Department · farmer · [campaign site](https://www.markmeasesheriff2026.com/biography-law-enforcement-experience/)

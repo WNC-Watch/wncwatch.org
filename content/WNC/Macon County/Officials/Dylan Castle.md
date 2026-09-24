@@ -3,6 +3,10 @@ title: Dylan Castle
 description: "Candidate for Macon County commissioner, November 3, 2026; pastor and county GOP vice-chair. Campaigned against the Flock contract on Fourth Amendment grounds."
 aliases:
   - "People/WNC/Dylan Castle"
+type: person
+area:
+  - "Macon County"
+vendor: none
 ---
 
 **Title:** Candidate, Macon County Board of Commissioners, District 2 · Republican · pastor · Macon County GOP vice-chair

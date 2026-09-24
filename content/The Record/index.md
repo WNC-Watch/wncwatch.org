@@ -1,6 +1,10 @@
 ---
 title: The Record
 description: "Asheville's meetings on cameras and the RTIC, reconstructed from the city's video and documents, with the timeline and the residents' public comment."
+type: reference
+area:
+  - "Asheville"
+vendor: both
 ---
 
 This section is Asheville's own story, reconstructed from the city's videos, minutes, and released records. Start with the timeline; every entry on it links to a deeper page here.

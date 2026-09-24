@@ -3,6 +3,8 @@ title: Rick Smith
 description: "Founder and CEO of Axon, the company Asheville is contracted with until 2033; oversaw the Fusus acquisition in 2024, the streetlight plate readers, and the resumption of facial-recognition work."
 aliases:
   - "People/Companies/Rick Smith"
+type: person
+vendor: axon
 ---
 
 **Title:** Founder and Chief Executive Officer, Axon Enterprise (TASER International at founding, 1993) · Scottsdale, Arizona

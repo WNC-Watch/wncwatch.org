@@ -3,6 +3,10 @@ title: Avril Pinder
 description: "Buncombe County Manager since 2019. Presents the county budget, in which the sheriff's camera network has no line of its own."
 aliases:
   - "People/Buncombe/Avril Pinder"
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 **Title:** Buncombe County Manager (appointed unanimously February 5, 2019; started March 5, 2019) · certified public accountant · previously Finance Director, Assistant Manager, and Deputy County Manager, New Hanover County ([county release](https://www.buncombecounty.org/countycenter/news-detail.aspx?id=17812))

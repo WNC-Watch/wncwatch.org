@@ -5,6 +5,10 @@ aliases:
   - "People/Gary Parris"
   - "People/Buncombe/Gary Parris"
 verified: 2026-09-17
+type: person
+area:
+  - "Buncombe County"
+vendor: none
 ---
 
 **Title:** Republican nominee for Buncombe County Sheriff · retired U.S. Navy officer · former DoD contractor · former Buncombe County Sheriff's Office · [parrisforsafety.com](https://parrisforsafety.com/)

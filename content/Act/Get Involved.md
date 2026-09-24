@@ -3,6 +3,10 @@ title: Get Involved
 description: "The groups organizing on surveillance in Asheville and WNC, and how to reach them."
 aliases:
   - "Get Involved"
+type: action
+area:
+  - "Asheville"
+vendor: none
 ---
 
 This site is a reference, not an organization. These are the people doing the organizing:

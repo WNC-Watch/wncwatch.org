@@ -4,6 +4,11 @@ description: "The commitments APD and the city made as the RTIC was approved, ea
 aliases:
   - "Promise Tracker"
   - "The Record/Promise Tracker"
+type: tracker
+area:
+  - "Asheville"
+vendor: both
+status: open
 ---
 
 The commitments APD and the city made as the RTIC was approved, each with who said it, when, and what the record shows since. None is an ordinance; each is a policy or a statement.

@@ -4,6 +4,11 @@ description: "The Real-Time Intelligence Center Asheville approved on May 12, 20
 aliases:
   - "What Is the RTIC"
   - "The System/What Is the RTIC"
+type: explainer
+area:
+  - "Asheville"
+  - "Buncombe County"
+vendor: axon
 ---
 
 The Real-Time Intelligence Center is a room in Asheville where police watch feeds and data from across the city on a video wall, in real time, and the software layer underneath it.

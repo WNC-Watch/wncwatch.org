@@ -4,6 +4,11 @@ aliases:
   - "The Camera and the Network"
   - "A Camera Is Not a Network"
 description: "What a camera records and what a network reaches are two different questions, answered from the region's own meeting videos, the county's released access log, and a signed contract. Written to be useful in any town before its decision."
+type: explainer
+area:
+  - "Asheville"
+  - "Buncombe County"
+vendor: both
 ---
 
 This page is built from a specific set of records, all of them open to you: the videos of six Asheville council meetings, timestamped where quoted; the Buncombe County Sheriff's Office's own camera access log, 337,838 rows covering 28 months, released by public records request in May 2026; Flock Safety's published product documentation; and the one signed Axon contract in North Carolina that has been posted in full, Durham's. We read them because towns across this region are being asked to vote on camera systems, and the votes keep being described as cameras, yes or no. The records describe a different decision. A town in these contracts is deciding two separate things: what its cameras record, and what network that recording joins. The second decision is the one the documents below keep turning on, because a town that removes every camera and keeps its network account keeps the searching.

@@ -3,6 +3,10 @@ title: Claims Library
 description: "Sourced, citable facts organized by use: public comment, petition, letter to council, op-ed."
 aliases:
   - "Claims Library"
+type: action
+area:
+  - "Asheville"
+vendor: both
 ---
 
 Each claim links its source; cite the source. Claims are grouped by subject.

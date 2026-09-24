@@ -3,6 +3,10 @@ title: Michael Garrison
 description: "Madison County Commission Chairman. Told residents at the June 9, 2026 meeting, \"You will not speak on Flock tonight,\" and said the board has no oversight of the sheriff's purchases."
 aliases:
   - "People/WNC/Michael Garrison"
+type: person
+area:
+  - "Madison County"
+vendor: none
 ---
 
 **Title:** Chairman, Madison County Board of Commissioners · Republican
