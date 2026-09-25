@@ -70,6 +70,8 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      // Browse Everything's tree, generated as markdown before wikilinks are processed
+      Plugin.BrowseAll(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
