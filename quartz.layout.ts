@@ -52,7 +52,8 @@ const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [Component.SiteBar()],
-  afterBody: [],
+  // the regional timeline's filters (renders nothing; wires [data-tl-filters])
+  afterBody: [Component.RegionTimeline()],
   footer: Component.Footer({
     links: {
       Facebook: "https://www.facebook.com/wncwatch",

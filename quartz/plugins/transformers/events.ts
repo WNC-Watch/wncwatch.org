@@ -91,6 +91,96 @@ export function renderEvent(e: EventItem): string {
   )
 }
 
+// ── The regional timeline ────────────────────────────────────────────────
+//   <div class="avl-tl" data-events="region"></div>
+// Every event once (rows marked same_as another row are that row's twin),
+// ahead items first in date order, then the rest newest first, grouped by
+// year, each with its area. Filters (area, kind) are wired by the
+// RegionTimeline component's script; without script every item shows.
+
+// Asheville Timeline rows are markdown; the feed needs them as HTML.
+function mdInline(s: string): string {
+  const slug = (x: string) => x.trim().replace(/ /g, "-")
+  const anchor = (x: string) =>
+    x.trim().toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/ /g, "-")
+  const target = (x: string) => {
+    const [page, hash] = x.split("#")
+    return "./" + slug(page) + (hash ? "#" + anchor(hash) : "")
+  }
+  return s
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_m, a, b) => `<a href="${target(a)}">${b}</a>`)
+    .replace(/\[\[([^\]]+)\]\]/g, (_m, a) => `<a href="${target(a)}">${a.split("/").pop()}</a>`)
+    .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, (_m, a, b) => `<a href="${b}">${a}</a>`)
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/(^|[^*])\*([^*\n]+)\*/g, "$1<em>$2</em>")
+}
+
+function todayISO(): string {
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(new Date())
+}
+
+const AREA_LABEL = (a: string) => (a === "region" ? "Region" : a)
+
+function renderRegion(events: EventItem[]): string {
+  const today = todayISO()
+  const rows = events.filter((e) => !e.same_as && (e.summary !== undefined || e.full !== undefined))
+  const item = (e: EventItem) => {
+    const areas = (e.area ?? []).map(AREA_LABEL)
+    const body = e.summary !== undefined ? e.summary : " " + mdInline(e.full ?? "")
+    const html = renderEvent({ ...e, summary: body }).replace(
+      '<div class="tl-date">',
+      `<div class="tl-date"><span class="tl-area">${areas.join(" · ")}</span>`,
+    )
+    return html.replace(
+      '<div class="tl-item ',
+      `<div data-area="${areas.join("|")}" data-kind="${e.kind}" class="tl-item `,
+    )
+  }
+  const ahead = rows
+    .filter((e) => (e.date ?? "") > today)
+    .sort((a, b) => (a.date ?? "").localeCompare(b.date ?? ""))
+  const past = rows
+    .filter((e) => (e.date ?? "") <= today)
+    .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
+  const areas = [...new Set(rows.flatMap((e) => (e.area ?? []).map(AREA_LABEL)))].sort((a, b) =>
+    a === "Region" ? -1 : b === "Region" ? 1 : a.localeCompare(b),
+  )
+  const kinds: [string, string][] = [
+    ["", "All"],
+    ["built", "Built"],
+    ["changed", "Changed"],
+    ["reported", "Reported"],
+    ["ahead", "Ahead"],
+  ]
+  const out: string[] = []
+  out.push(
+    '<div class="tl-filters" data-tl-filters>' +
+      '<label class="tl-filter-area">Area <select data-tl-area><option value="">All areas</option>' +
+      areas.map((a) => `<option value="${a}">${a}</option>`).join("") +
+      "</select></label>" +
+      '<div class="tl-filter-kinds" role="group" aria-label="Kind">' +
+      kinds
+        .map(([k, l]) => `<button type="button" data-tl-kind="${k}" aria-pressed="${k === "" ? "true" : "false"}">${l}</button>`)
+        .join("") +
+      "</div></div>",
+  )
+  if (ahead.length) {
+    out.push('<p class="tl-era" data-tl-group>Ahead</p>', '<div class="avl-tl">', ...ahead.map(item), "</div>")
+  }
+  let year = ""
+  for (const e of past) {
+    const y = (e.date ?? "").slice(0, 4) || "Undated"
+    if (y !== year) {
+      if (year) out.push("</div>")
+      out.push(`<p class="tl-era" data-tl-group>${y}</p>`, '<div class="avl-tl">')
+      year = y
+    }
+    out.push(item(e))
+  }
+  if (year) out.push("</div>")
+  return `<div class="tl-region">\n${out.join("\n")}\n</div>`
+}
+
 const MARKER = /<div class="avl-tl" data-events="([^"]+)"><\/div>/g
 
 export const Events: QuartzTransformerPlugin = () => {
@@ -100,6 +190,7 @@ export const Events: QuartzTransformerPlugin = () => {
       if (!src.includes("data-events=")) return src
       const events = loadEvents(ctx.argv.directory)
       return src.replace(MARKER, (_m, page: string) => {
+        if (page === "region") return renderRegion(events)
         const rows = events
           .filter((e) => e.page === page && e.summary !== undefined)
           .map((e, i) => ({ e, i }))

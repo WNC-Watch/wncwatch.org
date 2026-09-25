@@ -36,8 +36,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 
-      // Display reading time if enabled
-      if (options.showReadingTime) {
+      // Display reading time if enabled; not on section fronts (the homepage and
+      // folder pages), which people browse rather than read through
+      const slug = fileData.slug ?? ""
+      const isFront = slug === "index" || slug.endsWith("/index")
+      if (options.showReadingTime && !isFront) {
         const { minutes, words: _words } = readingTime(text)
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
@@ -45,6 +48,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      if (segments.length === 0) return null
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
