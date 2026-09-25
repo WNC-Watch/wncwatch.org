@@ -4,15 +4,15 @@
 // Category colors (light mode)
 :root {
   --tl-expand: #a8323e; // surveillance expands
-  --tl-resist: #2e7d5b; // resistance & wins
-  --tl-future: #b07d2f; // ahead / decision points
+  --tl-resist: #256B4D; // resistance & wins
+  --tl-future: #8A5B00; // ahead / decision points: the brand's print amber
   --tl-report: #4f6a8f; // reported: press, positions, statements
 }
 :root[saved-theme="dark"] {
-  --tl-expand: #e06c75;
+  --tl-expand: #F08A93;
   --tl-resist: #6fbf9a;
-  --tl-future: #d9a441;
-  --tl-report: #8fa9cc;
+  --tl-future: #EFB94F;
+  --tl-report: #9DB8DA;
 }
 
 // Legend
@@ -294,16 +294,16 @@
     margin: 0;
   }
   .share-text {
-    color: #2b2b2b;
+    color: #22303C;
     line-height: 1.5;
     max-width: 24rem;
     min-width: 0;
-    strong { color: #2b2b2b; }
+    strong { color: #22303C; }
   }
   .share-url {
     font-family: var(--codeFont);
     font-size: 0.85rem;
-    color: #284b63;
+    color: #1D4F7A;
     overflow-wrap: anywhere;
   }
 }
