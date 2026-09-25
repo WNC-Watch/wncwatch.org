@@ -10,6 +10,16 @@ vendor: both
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## September 24, 2026, evening: meetings and timelines for the whole region
+
+- **Meetings, in one place.** Every meeting record is under [[Meetings/index|Meetings]], by place: Asheville's nine, and three that were sections of county pages and are now records of their own: [[2026-09-03 City Council|Hendersonville City Council, Sept 3]], [[2026-08-04 Work Session|the Jackson County work session, Aug 4]] and [[2026-07-14 Commissioners|the Macon County vote, July 14]]. Each area page lists its meetings. The Record section is retired, and its addresses redirect.
+- **Timelines that read in a line.** Every timeline entry on the area pages opens with a headline that says who acted, what they did and to which system, then the detail. Entries are in date order, and each is marked Built, Changed, Reported or Ahead in words as well as color. Reported is new: press coverage, published positions and debates.
+- **Timeline repairs.** Rutherford County's Sept 8 meeting was drawn as still ahead; it is marked as held. Brevard's Sept 21 entry now says what the posted agenda shows: no plate-reader or Axon item. The signed Sept 8 minutes record the chief saying the department "will continue moving forward with the tasers and body-worn cameras, but not the ALPR portion proposed in the budget." [[WNC/Transylvania County/index|Transylvania County]]'s standing line and the calendar (Oct 5) follow. Sources SRC 2026-0970 and 2026-0971.
+- **Lines changed to meet this site's own standards,** listed so each change can be checked: an unsourced claim that two commissioners were the last to push back (Buncombe County, June 7, 2022); a sarcastic aside (Buncombe County, July 2022); a private person's name (Asheville, May 25, 2026); a description of reactions to a damaged camera (Rutherford County, July 2026); a legal conclusion, now the retention period stated beside the state limit (Jackson County, Western Carolina University); descriptors that could identify a private resident (Henderson County, three places); a characterization (Jackson County, Aug 4); a prediction (Macon County, November).
+- **Tracking.** Asheville's and Buncombe County's issue pages (the contract, the promises, the claims, the committee, the audit log and the rest) are in a folder named Tracking, each marked open or pending. Old addresses redirect.
+- **Folder pages list what is in them,** one line each; a section front with its own list shows what that list leaves out.
+- **Calendar.** Asheville City Council, Oct 13, 5:00 PM.
+
 ## September 24, 2026: the city's page, read against its own documents
 
 - **Which plate readers the city's answers describe.** The plate-reader safeguards on the city's Technology and Public Safety page (12 officers, case numbers, quarterly audits) come from the chief's Aug 14 memo on the Flock program. For the Axon in-car readers APD uses, the page states no user count, sharing rule or audit. [[The Technology and Public Safety Page|The city's page, annotated]] now opens with that table.
