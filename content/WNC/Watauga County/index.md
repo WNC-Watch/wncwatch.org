@@ -4,11 +4,11 @@ description: "Boone paused Flock growth and built a transparency portal; the 202
 aliases:
   - "WNC/Watauga County"
 standing: "kept the cameras, cut sharing 96% after pulling the log"
-standing_kind: resist
+standing_kind: future
 board_label: "Boone + App State"
 systems:
   - vendor: "Flock Safety"
-    kind: resist
+    kind: future
     detail: "3 Boone plate readers and 3 App State campus cameras. After the log showed 1.5 million searches of the campus cameras in three months, 85% from out of state, sharing was cut from more than 1,000 agencies to 41."
     links:
       - "Companies/Flock Safety"

@@ -1,4 +1,5 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+// light unless the browser asks for dark; a browser with no stated preference gets light
+const userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
@@ -18,10 +19,12 @@ document.addEventListener("nav", () => {
     emitThemeChangeEvent(newTheme)
   }
 
+  // the browser's own setting changed: follow it, unless the visitor chose a theme
+  // with the toggle (only the toggle is remembered)
   const themeChange = (e: MediaQueryListEvent) => {
+    if (localStorage.getItem("theme")) return
     const newTheme = e.matches ? "dark" : "light"
     document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
     emitThemeChangeEvent(newTheme)
   }
 
