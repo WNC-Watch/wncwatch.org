@@ -557,3 +557,31 @@ article .table-container {
   }
   .folder-toc-status.st-pending { color: var(--tl-future); }
 }
+
+// With the site bar above the grid, the page needs less top space than
+// Quartz's default (which assumed the title sat in the sidebar).
+@media all and (min-width: 801px) {
+  .page > #quartz-body .sidebar {
+    padding-top: 1.75rem;
+  }
+  .page > #quartz-body .page-header {
+    margin-top: 1.75rem;
+  }
+}
+
+// Mobile explorer: open folders set visibility: visible, which let their text
+// show through the closed drawer (the end of a long link peeked in at the left
+// edge once headings moved to Besley). Keep everything in a closed drawer hidden.
+@media all and (max-width: 800px) {
+  .explorer.collapsed > .explorer-content,
+  .explorer.collapsed > .explorer-content * {
+    visibility: hidden !important;
+  }
+}
+@media all and (max-width: 800px) {
+  // room at the right edge so the last word of a long link wraps instead of clipping
+  .explorer .explorer-content > .explorer-ul {
+    padding-right: 1.25rem;
+    box-sizing: border-box;
+  }
+}

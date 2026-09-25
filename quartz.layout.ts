@@ -47,13 +47,14 @@ const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.SiteBar()],
   afterBody: [],
   footer: Component.Footer({
     links: {
       Facebook: "https://www.facebook.com/wncwatch",
       Instagram: "https://www.instagram.com/wncwatch",
       Bluesky: "https://bsky.app/profile/wncwatch.bsky.social",
+      RSS: "https://wncwatch.org/index.xml",
     },
   }),
 }
@@ -70,7 +71,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -84,7 +84,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({ sortFn: explorerSortFn }),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -94,7 +93,6 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
