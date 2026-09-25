@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { folderBody, pageBody } from "./quartz.layout"
+import { brandImage } from "./quartz/util/ogBrand"
 
 /**
  * Quartz 4 Configuration
@@ -94,7 +95,8 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // share cards in the brand's night package (quartz/util/ogBrand.tsx)
+      Plugin.CustomOgImages({ colorScheme: "darkMode", imageStructure: brandImage }),
     ],
   },
 }
