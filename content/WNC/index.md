@@ -26,4 +26,12 @@ Where each community stands, from the same data as the homepage board:
 
 <div class="avl-board"></div>
 
+## The region, by date
+
+Every event from the area timelines in one list. What is still ahead comes first, then everything else, newest first. Choose a place or a kind to narrow it.
+
+<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span><span class="lg-report">what was reported</span></div>
+
+<div class="avl-tl" data-events="region"></div>
+
 *Each area's officials are listed in its Officials folder. State and federal officials are on [[WNC/Raleigh and Washington/index|Raleigh and Washington]].*
