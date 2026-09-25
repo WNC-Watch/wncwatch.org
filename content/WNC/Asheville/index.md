@@ -30,7 +30,7 @@ systems:
     kind: future
     detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2; the city says APD's accounts are deactivated. No removal date, deletion confirmation, or notice to council published as of Sept 24, 2026."
     links:
-      - "Meetings/Asheville/2026-08-25 City Council"
+      - "WNC/Asheville/Meetings/2026-08-25 City Council"
       - "Act/Getting Flock Out"
       - "Companies/Flock Safety"
 verified: 2026-09-24

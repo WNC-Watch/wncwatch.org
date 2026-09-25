@@ -1,6 +1,8 @@
 ---
 title: "2026-09-03: Hendersonville City Council, the police chief on the Flock cameras"
 description: "The Sept 3, 2026 meeting from the city's video: the chief's account of the Flock program, council's questions, what the presentation did not cover, and what the city committed to."
+aliases:
+  - "Meetings/Hendersonville/2026-09-03 City Council"
 type: meeting
 date: 2026-09-03
 area:

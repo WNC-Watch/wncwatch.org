@@ -7,9 +7,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const SECTIONS: { label: string; slug: string }[] = [
   { label: "Region", slug: "WNC/index" },
-  { label: "Meetings", slug: "Meetings/index" },
-  { label: "Briefings", slug: "Briefings/index" },
   { label: "Vendors", slug: "Companies/index" },
+  { label: "Briefings", slug: "Briefings/index" },
   { label: "Act", slug: "Act/index" },
   { label: "Reference", slug: "Reference/index" },
 ]

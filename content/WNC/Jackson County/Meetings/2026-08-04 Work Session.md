@@ -1,6 +1,8 @@
 ---
 title: "2026-08-04: Jackson County commissioners work session, the sheriff on the Flock cameras"
 description: "The Aug 4, 2026 work session from the county's video: the sheriff on data sharing, cost, tracking and how investigations run."
+aliases:
+  - "Meetings/Jackson County/2026-08-04 Work Session"
 type: meeting
 date: 2026-08-04
 area:

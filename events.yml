@@ -7,7 +7,7 @@
   date_label: December 2022
   kind: built
   title: Asheville police sign an agreement for access to the sheriff's Fusus camera network
-  summary: ' APD signs an MOU with the <a href="./WNC/Buncombe-County/index">Buncombe County</a> Sheriff''s Office for access to the county''s Fusus platform: "We''ve had limited access since 2022," <a href="../WNC/Asheville/Officials/Jackie-Stepp">Interim Chief Stepp</a> later confirmed (<a href="../Meetings/Asheville/2026-04-28-Work-Session">April 28, 2026 session, 1:01:29</a>). The MOU predates the council vote of January 2023.'
+  summary: ' APD signs an MOU with the <a href="./WNC/Buncombe-County/index">Buncombe County</a> Sheriff''s Office for access to the county''s Fusus platform: "We''ve had limited access since 2022," <a href="../WNC/Asheville/Officials/Jackie-Stepp">Interim Chief Stepp</a> later confirmed (<a href="../WNC/Asheville/Meetings/2026-04-28-Work-Session">April 28, 2026 session, 1:01:29</a>). The MOU predates the council vote of January 2023.'
 - id: 2023-01-24-asheville
   page: WNC/Asheville/index
   order: 47
@@ -27,7 +27,7 @@
   date_label: April 2024
   kind: built
   title: Asheville police put plate readers on patrol cars without a council briefing
-  summary: ' LPRs go live on APD''s fleet vehicles. Council is not briefed; there is no vote. (<a href="../Meetings/Asheville/2025-03-07-Agenda-Briefing">disclosed at the March 7, 2025 briefing</a>)'
+  summary: ' LPRs go live on APD''s fleet vehicles. Council is not briefed; there is no vote. (<a href="../WNC/Asheville/Meetings/2025-03-07-Agenda-Briefing">disclosed at the March 7, 2025 briefing</a>)'
 - id: 2024-asheville
   page: WNC/Asheville/index
   order: 49
@@ -47,7 +47,7 @@
   date_label: September 24, 2024
   kind: built
   title: Asheville committee hears a $60,000 grant plan to start the intelligence center
-  summary: ' A ~$60K JAG grant "to start the outfit of a real-time intelligence center" gets an informational committee session (no vote), Hurricane Helene strikes three days later; the RTIC does not return to a council agenda until March 2025. (<a href="../Meetings/Asheville/2025-03-25-City-Council">2025-03-25 City Council</a>)'
+  summary: ' A ~$60K JAG grant "to start the outfit of a real-time intelligence center" gets an informational committee session (no vote), Hurricane Helene strikes three days later; the RTIC does not return to a council agenda until March 2025. (<a href="../WNC/Asheville/Meetings/2025-03-25-City-Council">2025-03-25 City Council</a>)'
 - id: 2025-02-asheville
   page: WNC/Asheville/index
   order: 51
@@ -57,7 +57,7 @@
   date_label: February 2025
   kind: built
   title: Asheville police sign a contract for 11 Flock cameras
-  summary: ' APD contracts for 11 stationary Flock cameras. (<a href="../Meetings/Asheville/2026-04-28-Work-Session">Stepp''s own timeline, 1:03:04</a>)'
+  summary: ' APD contracts for 11 stationary Flock cameras. (<a href="../WNC/Asheville/Meetings/2026-04-28-Work-Session">Stepp''s own timeline, 1:03:04</a>)'
 - id: 2025-03-07-asheville
   page: WNC/Asheville/index
   order: 52
@@ -67,7 +67,7 @@
   date_label: March 7, 2025
   kind: changed
   title: Asheville police brief the city council on plate readers for the first time
-  summary: ' First briefing to council, requested by Kim Roney after she read about the cameras in the news: mobile LPRs running ~11 months, stationary cameras in the community "approximately two years," access to "<strong>over 177,000 cameras across the Eastern US</strong>"; "and we''ve had that access." Full write-up: <a href="../Meetings/Asheville/2025-03-07-Agenda-Briefing">2025-03-07 Agenda Briefing</a>.'
+  summary: ' First briefing to council, requested by Kim Roney after she read about the cameras in the news: mobile LPRs running ~11 months, stationary cameras in the community "approximately two years," access to "<strong>over 177,000 cameras across the Eastern US</strong>"; "and we''ve had that access." Full write-up: <a href="../WNC/Asheville/Meetings/2025-03-07-Agenda-Briefing">2025-03-07 Agenda Briefing</a>.'
 - id: 2025-03-25-asheville
   page: WNC/Asheville/index
   order: 53
@@ -77,7 +77,7 @@
   date_label: March 25, 2025
   kind: built
   title: Asheville council approves the first intelligence center grant, $71,999, 6 to 1
-  summary: ' $71,999 on the consent agenda, listed between bulletproof vests and DEA grants. Roney''s 29 written questions were unanswered and her request to delay was declined; <a href="../WNC/Asheville/Officials/Bo-Hess">Hess</a> said "we''re not buying surveillance, we''re buying chairs" and that the center "already exists." Passes 6 to 1. Full write-up: <a href="../Meetings/Asheville/2025-03-25-City-Council">2025-03-25 City Council</a>.'
+  summary: ' $71,999 on the consent agenda, listed between bulletproof vests and DEA grants. Roney''s 29 written questions were unanswered and her request to delay was declined; <a href="../WNC/Asheville/Officials/Bo-Hess">Hess</a> said "we''re not buying surveillance, we''re buying chairs" and that the center "already exists." Passes 6 to 1. Full write-up: <a href="../WNC/Asheville/Meetings/2025-03-25-City-Council">2025-03-25 City Council</a>.'
 - id: 2025-07-31-asheville
   page: WNC/Asheville/index
   order: 54
@@ -117,7 +117,7 @@
   date_label: April 28, 2026
   kind: built
   title: Axon and Flock present to an Asheville council work session
-  summary: ' Axon and Flock representatives present, no public comment taken; the Durham "peer city" example is challenged during the session; Roney reads the Flock contract''s "irrevocable, worldwide license" clause into the record. Full write-up: <a href="../Meetings/Asheville/2026-04-28-Work-Session">2026-04-28 Work Session</a>.'
+  summary: ' Axon and Flock representatives present, no public comment taken; the Durham "peer city" example is challenged during the session; Roney reads the Flock contract''s "irrevocable, worldwide license" clause into the record. Full write-up: <a href="../WNC/Asheville/Meetings/2026-04-28-Work-Session">2026-04-28 Work Session</a>.'
 - id: 2026-05-07-asheville
   page: WNC/Asheville/index
   order: 58
@@ -127,7 +127,7 @@
   date_label: May 7, 2026
   kind: built
   title: Asheville city manager says the Axon contract before council is not yet written
-  summary: ' Five days before the vote, the city manager confirms the Axon contract council will authorize hasn''t been written; the "keep one Flock camera" plan is explained as a network-access subscription. Full write-up: <a href="../Meetings/Asheville/2026-05-07-Agenda-Briefing">2026-05-07 Agenda Briefing</a>.'
+  summary: ' Five days before the vote, the city manager confirms the Axon contract council will authorize hasn''t been written; the "keep one Flock camera" plan is explained as a network-access subscription. Full write-up: <a href="../WNC/Asheville/Meetings/2026-05-07-Agenda-Briefing">2026-05-07 Agenda Briefing</a>.'
 - id: 2026-05-12-asheville
   page: WNC/Asheville/index
   order: 59
@@ -137,7 +137,7 @@
   date_label: May 12, 2026
   kind: built
   title: Asheville council approves the intelligence center grant and Axon contract, 6 to 1
-  summary: ' After six hours, 22 of 23 speakers oppose the items; 21 more had signed up and did not speak; the motion was seconded before public comment began. The vote is <strong>6 to 1</strong>, Roney the no. $1.14M accepted, 7.5-year Axon authorization granted. Full write-up: <a href="../Meetings/Asheville/2026-05-12-City-Council">2026-05-12 City Council</a>.'
+  summary: ' After six hours, 22 of 23 speakers oppose the items; 21 more had signed up and did not speak; the motion was seconded before public comment began. The vote is <strong>6 to 1</strong>, Roney the no. $1.14M accepted, 7.5-year Axon authorization granted. Full write-up: <a href="../WNC/Asheville/Meetings/2026-05-12-City-Council">2026-05-12 City Council</a>.'
 - id: 2026-07-16-asheville
   page: WNC/Asheville/index
   order: 60
@@ -187,7 +187,7 @@
   date_label: August 25, 2026
   kind: changed
   title: Asheville council votes 5 to 2 to end the Flock contract
-  summary: ' Roney moves, Turner seconds; Mosley and Smith vote no. Full write-up: <a href="../Meetings/Asheville/2026-08-25-City-Council">2026-08-25 City Council</a>.'
+  summary: ' Roney moves, Turner seconds; Mosley and Smith vote no. Full write-up: <a href="../WNC/Asheville/Meetings/2026-08-25-City-Council">2026-08-25 City Council</a>.'
 - id: 2026-08-29-asheville
   page: WNC/Asheville/index
   order: 65
@@ -197,7 +197,7 @@
   date_label: August 29–September 1, 2026
   kind: built
   title: Asheville police drones cover the G20 finance ministerial
-  summary: ' Finance ministers, federal security, road closures; Asheville''s cameras remained in Flock''s national network, whose logs elsewhere show searches tagged "protest." APD''s drone unit covered the summit''s temporary flight restriction around the clock and located nine drone pilots inside it, the department told the Public Safety Committee on Sept 24. (<a href="../Briefings/Who-Gets-Watched">Who Gets Watched</a> · <a href="../Meetings/Asheville/2026-09-24-Public-Safety-Committee">2026-09-24 Public Safety Committee</a>)'
+  summary: ' Finance ministers, federal security, road closures; Asheville''s cameras remained in Flock''s national network, whose logs elsewhere show searches tagged "protest." APD''s drone unit covered the summit''s temporary flight restriction around the clock and located nine drone pilots inside it, the department told the Public Safety Committee on Sept 24. (<a href="../Briefings/Who-Gets-Watched">Who Gets Watched</a> · <a href="../WNC/Asheville/Meetings/2026-09-24-Public-Safety-Committee">2026-09-24 Public Safety Committee</a>)'
 - id: 2027-01-31-asheville
   page: WNC/Asheville/index
   order: 66
@@ -534,7 +534,7 @@
   kind: changed
   title: Jackson County sheriff defends the Flock cameras at a commission work session
   summary: ' The sheriff called the cameras a "force multiplier" and cited no documented misuse; commissioners Michael Jennings and Todd Bryson raised concerns. <strong>No vote taken, none scheduled</strong> (<a href="https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/">Smoky Mountain News</a>).'
-  record: Meetings/Jackson County/2026-08-04 Work Session
+  record: WNC/Jackson County/Meetings/2026-08-04 Work Session
 - id: 2026-08-jackson-county
   page: WNC/Jackson County/index
   order: 27
@@ -556,7 +556,7 @@
   title: Macon commissioners vote 5 to 0 to end the county's Flock contract
   same_as: 2026-07-14-asheville
   summary: ' The board barred the Sheriff''s Office from spending county funds on Flock and moved to terminate the contract "as soon as possible" (ahead of its October expiration), with over 100 residents packing the room. (<a href="https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/">Smoky Mountain News</a> · <a href="https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA/videos">the meeting video</a> · <a href="../Companies/Communities-That-Ended-or-Limited-Contracts">Communities that ended or limited camera contracts</a> · <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>)'
-  record: Meetings/Macon County/2026-07-14 Commissioners
+  record: WNC/Macon County/Meetings/2026-07-14 Commissioners
 - id: undated-macon-county
   page: WNC/Macon County/index
   order: 25
@@ -1076,7 +1076,7 @@
   kind: changed
   title: Macon commissioners vote 5 to 0 to end the county's Flock contract
   full: County commissioners vote **5 to 0** to end their $47,000 Flock contract; 12 cameras come down. The push came largely from Republican residents and officials. See [[Western North Carolina and the State|Western North Carolina and the state]]. ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/))
-  record: Meetings/Macon County/2026-07-14 Commissioners
+  record: WNC/Macon County/Meetings/2026-07-14 Commissioners
 - id: 2026-07-16-asheville-2
   page: WNC/Asheville/Timeline
   order: 31

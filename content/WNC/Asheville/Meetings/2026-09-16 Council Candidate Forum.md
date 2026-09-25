@@ -2,6 +2,7 @@
 title: "2026-09-16: Asheville City Council candidate forum, West Asheville"
 description: "Five of the six council candidates on surveillance and the Flock vote, and on three-person council check-ins held out of public view, from an audience recording this site holds. Each candidate's answer in their own words, with audio."
 aliases:
+  - "Meetings/Asheville/2026-09-16 Council Candidate Forum"
   - "The Record/Meetings/Asheville/2026-09-16 Council Candidate Forum"
   - "2026-09-16 Council Candidate Forum"
   - "Meetings/2026-09-16 Council Candidate Forum"

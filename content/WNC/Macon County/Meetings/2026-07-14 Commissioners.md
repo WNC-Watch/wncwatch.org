@@ -1,6 +1,8 @@
 ---
 title: "2026-07-14: Macon County commissioners, the vote to end the Flock contract"
 description: "The July 14, 2026 meeting from the county's video: where the contract money sat, how it got there, and Flock's offer to document the purge."
+aliases:
+  - "Meetings/Macon County/2026-07-14 Commissioners"
 type: meeting
 date: 2026-07-14
 area:

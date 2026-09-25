@@ -2,6 +2,7 @@
 title: "2026-05-07: Asheville City Council agenda briefing, Axon contract and Flock"
 description: "Five days before the vote, the city manager confirmed the Axon contract had not been written; the \"keep one Flock camera\" plan was explained as a network-access subscription. Timestamped from the city's video."
 aliases:
+  - "Meetings/Asheville/2026-05-07 Agenda Briefing"
   - "The Record/Meetings/Asheville/2026-05-07 Agenda Briefing"
   - "Meetings/2026-05-07 Agenda Briefing"
   - "The Record/Meetings/2026-05-07 Agenda Briefing"

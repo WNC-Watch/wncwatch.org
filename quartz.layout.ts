@@ -19,14 +19,14 @@ export const folderBody = Component.FolderContent({ blocks: bodyBlocks })
 // shared by both layouts. The Explorer serializes this function's source and
 // runs it in the browser, so everything it uses lives inside its own body.
 // Depth 1 (sections): the ranked list, then any other folder alphabetically,
-// then loose pages. Depth 3 (inside an area under WNC/): Officials, Tracking,
+// then loose pages. Depth 3 (inside an area under WNC/): Officials, Tracking, Meetings,
 // Community first, then other folders, then loose pages. Everywhere else:
 // folders before files, both alphabetical.
 const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
   if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
   if (a.isFolder && b.isFolder) {
-    const sectionOrder = ["WNC", "Meetings", "Briefings", "Companies", "Act", "Reference"]
-    const areaOrder = ["Officials", "Tracking", "Community"]
+    const sectionOrder = ["WNC", "Companies", "Briefings", "Act", "Reference"]
+    const areaOrder = ["Officials", "Tracking", "Meetings", "Community"]
     const depth = a.slug.split("/").length
     const order = depth === 2 ? sectionOrder : depth === 4 && a.slug.startsWith("WNC/") ? areaOrder : []
     const ia = order.indexOf(a.slugSegment)
@@ -40,6 +40,10 @@ const explorerSortFn = (a: FileTrieNode, b: FileTrieNode): number => {
       const lb = b.slugSegment === "Raleigh-and-Washington" ? 1 : 0
       if (la !== lb) return la - lb
     }
+  }
+  // meeting records (titles start with their date) list newest first
+  if (!a.isFolder && a.slug.includes("/Meetings/") && b.slug.includes("/Meetings/")) {
+    return b.displayName.localeCompare(a.displayName, undefined, { numeric: true, sensitivity: "base" })
   }
   return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
 }
