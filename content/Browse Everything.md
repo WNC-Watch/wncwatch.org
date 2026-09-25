@@ -15,7 +15,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[What They Can Actually Learn About You|What a plate read becomes]]**: How a plate read becomes a record of where a person goes and who they meet.
 - **[[Briefings/index|Briefings]]**: Long-form explainers, one idea per page, for any town before its decision.
 - **[[Timeline]]**: Asheville's record from 2022 to now, each entry dated and sourced.
-- **[[WNC/Transylvania County/index|Transylvania County]]**: Brevard's Sept 8 vote on Axon's offer, and the county sheriff's cameras.
+- **[[WNC/Transylvania County/index|Transylvania County]]**: Brevard's Sept 8 withdrawal of the plate-reader request, and the county sheriff's cameras.
 - **[[Speak at Council]]**: How public comment works at each body. The next dates are on the homepage calendar.
 
 

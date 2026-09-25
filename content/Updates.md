@@ -10,6 +10,14 @@ vendor: both
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## September 24, 2026, late: the region by date
+
+- **The region, by date.** The [[WNC/index|Region]] page carries every event from the area timelines in one list: what is still ahead first, then everything else by year, newest first. Choose a place or a kind (built, changed, reported, ahead) to narrow it.
+- **The front page leads with what just happened.** A **Latest** list under the calendar shows the six most recent events across the region, and **What is pending** lists every tracked issue still waiting on a document, a vote or a promised step. Both update from the record itself; the hand-kept "What we're watching" list from Sept 8 is gone.
+- **The opening, corrected:** Asheville's council approved the Axon contract before the document existed to read (the contract was signed in August); Brevard's request was withdrawn on Sept 8, with the rest of the Axon purchase still pending; the audit log that found 1.5 million out-of-state searches was pulled by Boone and App State.
+- **The Sept 24 Public Safety Committee** is on the Asheville timeline.
+- **[[Browse Everything]]** now keeps itself current, and the privacy policy is linked at the foot of every page.
+
 ## September 24, 2026, night: the site's design
 
 No page's text changed in this release; this is how the site looks and where things are.
