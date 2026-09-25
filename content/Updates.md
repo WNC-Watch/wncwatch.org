@@ -18,7 +18,8 @@ No page's text changed in this release; this is how the site looks and where thi
 - **Meetings live with their places.** Each meeting record is in its area, beside the officials and the tracked issues: Asheville's nine, and one each for Hendersonville, Jackson County and Macon County. Old addresses redirect.
 - **The brand's colors and type**: the night blues and amber of the accounts and cards in dark mode, ink on paper in light mode, Besley for headings and Karla for text. Every status color meets the WCAG AA contrast standard in both modes.
 - **Shared links carry the page.** A link to this site on Facebook, Bluesky or anywhere else now shows the page's own title and summary on a card in the brand, with what kind of page it is (a meeting record with its date, a tracked issue with its status). The browser tab shows the mark.
-- **Smaller changes:** the network graph beside each page is gone; an RSS feed is linked in the footer; the page menu on phones no longer shows stray text at the edge.
+- **Boone + App State** is marked as still undecided, not removed: the town kept its cameras and cut their sharing. Green on the board now means full removal.
+- **Smaller changes:** the network graph beside each page is gone; an RSS feed is linked in the footer; the page menu on phones no longer shows stray text at the edge; the site opens in light mode unless your browser asks for dark.
 
 ## September 24, 2026, evening: meetings and timelines for the whole region
 
