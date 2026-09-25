@@ -61,6 +61,7 @@ export const sharedPageComponents: SharedLayout = {
       Instagram: "https://www.instagram.com/wncwatch",
       Bluesky: "https://bsky.app/profile/wncwatch.bsky.social",
       RSS: "https://wncwatch.org/index.xml",
+      Privacy: "https://wncwatch.org/Privacy-Policy",
     },
   }),
 }
