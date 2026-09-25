@@ -1,4 +1,4 @@
-<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="mc"><circle cx="50" cy="50" r="50"/></clipPath>
+<svg width="96" height="96" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="mc"><circle cx="50" cy="50" r="50"/></clipPath>
 <linearGradient id="ms" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#0E1B29"/><stop offset="0.35" stop-color="#152C46"/>
 <stop offset="0.55" stop-color="#1D3D5F"/><stop offset="0.70" stop-color="#274E78"/>
@@ -11,7 +11,9 @@
 <ellipse cx="50" cy="58" rx="58" ry="9" fill="#3A6B96" opacity="0.5" filter="url(#mh)"/>
 <path d="M-5 55 C20 50.5 45 52.5 68 47.5 C84 44.2 96 45.5 105 44.5 L105 105 L-5 105 Z" fill="#1B3147" filter="url(#mf)"/>
 <path d="M-5 78 C22 73 44 74.5 66 68 C82 63.5 95 64.5 105 62.5 L105 105 L-5 105 Z" fill="#101E2C"/>
-<rect x="61" y="34" width="3.4" height="38" fill="#0A141D"/>
-<circle cx="59" cy="36" r="10" fill="#EFB94F" opacity="0.5" filter="url(#mg)"/>
-<circle cx="59" cy="36" r="4.6" fill="#EFB94F"/>
+<rect x="60.5" y="30" width="4" height="42" fill="#0A141D"/>
+<polygon points="50,32 71,25 72.5,29.5 51.5,36.5" fill="#0A141D"/>
+<rect x="53" y="34" width="15" height="19" fill="#0A141D" stroke="#2F4A63" stroke-width="0.8"/>
+<circle cx="57" cy="40" r="5.2" fill="#EFB94F" opacity="0.65" filter="url(#mg)"/>
+<circle cx="57" cy="40" r="3.1" fill="#EFB94F"/>
 </g></svg>

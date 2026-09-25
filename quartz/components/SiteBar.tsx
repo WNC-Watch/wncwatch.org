@@ -1,7 +1,7 @@
 import { pathToRoot, resolveRelative, FullSlug } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-// The site bar: the mark (the LED tier from repo/pipeline/mark_master.py, the one built for small sizes) and the wordmark (Besley, with the amber period, as on the banners)
+// The site bar: the mark (the T tier from repo/pipeline/mark_master.py, built for about 48px and up) and the wordmark (Besley, with the amber period, as on the banners)
 // and the site's sections, full width above the page, in the brand's night
 // colors in both light and dark mode.
 
@@ -25,8 +25,8 @@ const SiteBar: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
             class="site-mark"
             src={`${pathToRoot(slug)}/static/mark.svg`}
             alt=""
-            width={40}
-            height={40}
+            width={56}
+            height={56}
           />
           <span>
             {cfg.pageTitle}
@@ -45,14 +45,42 @@ const SiteBar: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
           ))}
         </nav>
       </div>
+      {/* the ridge: a far ridge in the bar's blue, and a near ridge in the page's
+          own background colour, so the bar ends in a mountain line in both modes */}
+      <svg class="site-ridge" viewBox="0 0 1200 28" preserveAspectRatio="none" aria-hidden="true">
+        <path
+          class="ridge-far"
+          d="M0 13 C150 7 300 11 450 5 C600 0 750 8 900 4 C1030 1 1120 6 1200 3 L1200 28 L0 28 Z"
+        />
+        <path
+          class="ridge-near"
+          d="M0 22 C180 17 330 20 500 15 C650 11 820 18 980 14 C1090 11 1160 15 1200 13 L1200 28 L0 28 Z"
+        />
+      </svg>
     </div>
   )
 }
 
 SiteBar.css = `
 .site-bar {
+  position: relative;
   background: linear-gradient(180deg, #0E1B29 0%, #152C46 100%);
-  border-bottom: 3px solid #1D3D5F;
+  padding-bottom: 22px;
+}
+.site-bar .site-ridge {
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 100%;
+  height: 28px;
+  display: block;
+}
+.site-bar .ridge-far {
+  fill: #274E78;
+  opacity: 0.55;
+}
+.site-bar .ridge-near {
+  fill: var(--light);
 }
 .site-bar-inner {
   max-width: 1500px;
@@ -77,11 +105,11 @@ SiteBar.css = `
 .site-bar .wordmark {
   display: inline-flex;
   align-items: center;
-  gap: 0.65rem;
+  gap: 1.1rem;
 }
 .site-bar .site-mark {
-  width: 40px;
-  height: 40px;
+  width: 56px;
+  height: 56px;
   margin: 0;
   flex: none;
   border-radius: 50%;
@@ -117,14 +145,28 @@ SiteBar.css = `
     padding: 0.75rem 1rem;
   }
   .site-bar .wordmark {
-    font-size: 1.3rem;
+    font-size: 1.17rem;
+    white-space: nowrap;
+  }
+  .site-bar .wordmark {
+    gap: 0.85rem;
   }
   .site-bar .site-mark {
-    width: 34px;
-    height: 34px;
+    width: 44px;
+    height: 44px;
   }
   .site-bar .site-nav {
     gap: 0.25rem 1rem;
+  }
+}
+@media all and (max-width: 360px) {
+  .site-bar .wordmark {
+    font-size: 1.02rem;
+    gap: 0.7rem;
+  }
+  .site-bar .site-mark {
+    width: 38px;
+    height: 38px;
   }
 }
 `
