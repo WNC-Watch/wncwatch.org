@@ -2,6 +2,7 @@
 title: "2025-03-25: Asheville City Council, RTIC grant on the consent agenda"
 description: "The first RTIC grant, $71,999, approved 6 to 1 on the consent agenda after Roney pulled it for discussion. Timestamped from the city's video."
 aliases:
+  - "Meetings/Asheville/2025-03-25 City Council"
   - "The Record/Meetings/Asheville/2025-03-25 City Council"
   - "Meetings/2025-03-25 City Council"
   - "The Record/Meetings/2025-03-25 City Council"

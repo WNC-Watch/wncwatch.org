@@ -2,6 +2,7 @@
 title: "2026-08-20: Asheville City Council agenda briefing, Flock termination resolution"
 description: "The agenda briefing for the Aug 25 vote: Flock's 10-camera minimum for network access, the cameras as Flock's property, the staff memo on expanding Axon plate readers, and the mayor's statement that replacements are \"in the pipeline.\""
 aliases:
+  - "Meetings/Asheville/2026-08-20 Agenda Briefing"
   - "The Record/Meetings/Asheville/2026-08-20 Agenda Briefing"
   - "Meetings/2026-08-20 Agenda Briefing"
   - "The Record/Meetings/2026-08-20 Agenda Briefing"

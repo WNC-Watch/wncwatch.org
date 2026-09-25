@@ -50,6 +50,18 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Benn Jordan]]**: Independent researcher whose Flock Safety security findings were reported nationally; spoke in Asheville in May 2026. His work is cited on the misuse and vendor pages.
 - **[[Patrick Conant]]**: Sunshine Labs founder. Asked council on May 12, 2026 what the RTIC's operating cost will be after the grant; filed the records requests that produced the RTIC policy documents released Aug 20, 2026.
 
+#### [[WNC/Asheville/Meetings/index|Meetings]]
+
+- **[[2025-03-07 Agenda Briefing|2025-03-07: Asheville City Council agenda briefing, license-plate readers]]**: Council's first briefing on the plate-reader network, requested by Kim Roney: mobile readers had run about a year and stationary cameras about two. Timestamped from the city's video.
+- **[[2025-03-25 City Council|2025-03-25: Asheville City Council, RTIC grant on the consent agenda]]**: The first RTIC grant, $71,999, approved 6 to 1 on the consent agenda after Roney pulled it for discussion. Timestamped from the city's video.
+- **[[2026-04-28 Work Session|2026-04-28: Asheville City Council work session with Flock and Axon]]**: The committee work session with Axon and Flock representatives and APD, no public comment taken; the claims made, verbatim from the city's video, with the record beside each.
+- **[[2026-05-07 Agenda Briefing|2026-05-07: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days before the vote, the city manager confirmed the Axon contract had not been written; the \"keep one Flock camera\" plan was explained as a network-access subscription. Timestamped from the city's video.
+- **[[2026-05-12 City Council|2026-05-12: Asheville City Council, RTIC grant and Axon contract vote]]**: The May 12, 2026 meeting, minute by minute from the city's video: public comment, the 6 to 1 votes on the RTIC grant and the Axon contract, and the vote taken off-microphone.
+- **[[2026-08-20 Agenda Briefing|2026-08-20: Asheville City Council agenda briefing, Flock termination resolution]]**: The agenda briefing for the Aug 25 vote: Flock's 10-camera minimum for network access, the cameras as Flock's property, the staff memo on expanding Axon plate readers, and the mayor's statement that replacements are \"in the pipeline.\"
+- **[[2026-08-25 City Council|2026-08-25: Asheville City Council, Flock termination vote]]**: Council voted 5 to 2 to terminate the Flock contract; a motion to pause new plate-reader purchases during the review failed for lack of a second. The Axon contract covers stationary plate readers; the city manager's assurance that none go up before a community conversation was given verbally.
+- **[[2026-09-16 Council Candidate Forum|2026-09-16: Asheville City Council candidate forum, West Asheville]]**: Five of the six council candidates on surveillance and the Flock vote, and on three-person council check-ins held out of public view, from an audience recording this site holds. Each candidate's answer in their own words, with audio.
+- **[[2026-09-24 Public Safety Committee|2026-09-24: Asheville Public Safety Committee, no camera item]]**: No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded. APD reported drone coverage and drone detection at the G20 and the PGA Tour event, and a planned data exchange on juveniles with DJJ and the courts.
+
 #### [[WNC/Asheville/Tracking/index|Tracking]]
 
 - **[[Asheville RTIC Claims and the Record|Asheville's RTIC claims and the record]]**: Asheville only: the statements made to City Council and the public for the city's Real-Time Intelligence Center, quoted with speaker, date and source, each followed by the dated facts in the record that bear on it.
@@ -110,6 +122,10 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Blair Myhand]]**: Hendersonville Police Chief. Presented the city's 15 plate readers to council on Sept 3, 2026: seven-day retention, monthly audits, sharing with every NC agency and a 100-mile ring, and a seat on the IACP board that is writing the national model policy.
 - **[[Jennifer Hensley]]**: Hendersonville Mayor Pro Tem, on council since 2019 and a candidate for mayor on November 3, 2026. Asked council's questions on the city's plate readers on Sept 3: documented misuse, how other agencies get access, phone tracing, and an unanswered records request.
 
+#### [[WNC/Hendersonville/Meetings/index|Meetings]]
+
+- **[[2026-09-03 City Council|2026-09-03: Hendersonville City Council, the police chief on the Flock cameras]]**: The Sept 3, 2026 meeting from the city's video: the chief's account of the Flock program, council's questions, what the presentation did not cover, and what the city committed to.
+
 ### [[WNC/Jackson County/index|Jackson County]]
 
 #### [[WNC/Jackson County/Officials/index|Officials]]
@@ -118,6 +134,10 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Mark Letson]]**: Jackson County Commission Chair. Presided over the August 4, 2026 work session at which commissioners questioned the sheriff's cameras; no vote was taken. One of six candidates for the seat on November 3, 2026.
 - **[[Michael Jennings]]**: Jackson County commissioner. At the August 4, 2026 work session asked what the cameras \"could be used for in the future\"; the question was not answered on the record.
 - **[[Todd Bryson]]**: Jackson County commissioner. At the August 4, 2026 work session raised the risk of innocent drivers stopped on false hits. On the November 3, 2026 ballot.
+
+#### [[WNC/Jackson County/Meetings/index|Meetings]]
+
+- **[[2026-08-04 Work Session|2026-08-04: Jackson County commissioners work session, the sheriff on the Flock cameras]]**: The Aug 4, 2026 work session from the county's video: the sheriff on data sharing, cost, tracking and how investigations run.
 
 ### [[WNC/Macon County/index|Macon County]]
 
@@ -128,6 +148,10 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Dylan Castle]]**: Candidate for Macon County commissioner, November 3, 2026; pastor and county GOP vice-chair. Campaigned against the Flock contract on Fourth Amendment grounds.
 - **[[John Shearl]]**: Macon County commissioner. Made the July 14, 2026 motion to end the Flock contract, citing the Fourth Amendment: \"I don't want a hunch. I want the truth.\" On the November 3, 2026 ballot.
 - **[[Josh Young]]**: Macon County Commission Chair since December 2024. Chaired the July 14, 2026 meeting at which the board voted 5 to 0 to end the Flock contract; told the Smoky Mountain News he had asked residents and found them largely against the cameras.
+
+#### [[WNC/Macon County/Meetings/index|Meetings]]
+
+- **[[2026-07-14 Commissioners|2026-07-14: Macon County commissioners, the vote to end the Flock contract]]**: The July 14, 2026 meeting from the county's video: where the contract money sat, how it got there, and Flock's offer to document the purge.
 
 ### [[WNC/Madison County/index|Madison County]]
 
@@ -218,32 +242,6 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[Corrections]]**: Every correction made to this site, dated, with the page corrected and what changed. Corrections are logged here and summarized on Site Updates.
 - **[[Documents]]**: The primary sources: minutes, resolutions, staff reports, APD policies, and released records.
 - **[[Sources]]**: Where this site's facts come from. Local reporting, primary documents, and national investigations.
-
-## [[Meetings/index|Meetings]]
-
-### [[Meetings/Asheville/index|Asheville]]
-
-- **[[2025-03-07 Agenda Briefing|2025-03-07: Asheville City Council agenda briefing, license-plate readers]]**: Council's first briefing on the plate-reader network, requested by Kim Roney: mobile readers had run about a year and stationary cameras about two. Timestamped from the city's video.
-- **[[2025-03-25 City Council|2025-03-25: Asheville City Council, RTIC grant on the consent agenda]]**: The first RTIC grant, $71,999, approved 6 to 1 on the consent agenda after Roney pulled it for discussion. Timestamped from the city's video.
-- **[[2026-04-28 Work Session|2026-04-28: Asheville City Council work session with Flock and Axon]]**: The committee work session with Axon and Flock representatives and APD, no public comment taken; the claims made, verbatim from the city's video, with the record beside each.
-- **[[2026-05-07 Agenda Briefing|2026-05-07: Asheville City Council agenda briefing, Axon contract and Flock]]**: Five days before the vote, the city manager confirmed the Axon contract had not been written; the \"keep one Flock camera\" plan was explained as a network-access subscription. Timestamped from the city's video.
-- **[[2026-05-12 City Council|2026-05-12: Asheville City Council, RTIC grant and Axon contract vote]]**: The May 12, 2026 meeting, minute by minute from the city's video: public comment, the 6 to 1 votes on the RTIC grant and the Axon contract, and the vote taken off-microphone.
-- **[[2026-08-20 Agenda Briefing|2026-08-20: Asheville City Council agenda briefing, Flock termination resolution]]**: The agenda briefing for the Aug 25 vote: Flock's 10-camera minimum for network access, the cameras as Flock's property, the staff memo on expanding Axon plate readers, and the mayor's statement that replacements are \"in the pipeline.\"
-- **[[2026-08-25 City Council|2026-08-25: Asheville City Council, Flock termination vote]]**: Council voted 5 to 2 to terminate the Flock contract; a motion to pause new plate-reader purchases during the review failed for lack of a second. The Axon contract covers stationary plate readers; the city manager's assurance that none go up before a community conversation was given verbally.
-- **[[2026-09-16 Council Candidate Forum|2026-09-16: Asheville City Council candidate forum, West Asheville]]**: Five of the six council candidates on surveillance and the Flock vote, and on three-person council check-ins held out of public view, from an audience recording this site holds. Each candidate's answer in their own words, with audio.
-- **[[2026-09-24 Public Safety Committee|2026-09-24: Asheville Public Safety Committee, no camera item]]**: No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded. APD reported drone coverage and drone detection at the G20 and the PGA Tour event, and a planned data exchange on juveniles with DJJ and the courts.
-
-### [[Meetings/Hendersonville/index|Hendersonville]]
-
-- **[[2026-09-03 City Council|2026-09-03: Hendersonville City Council, the police chief on the Flock cameras]]**: The Sept 3, 2026 meeting from the city's video: the chief's account of the Flock program, council's questions, what the presentation did not cover, and what the city committed to.
-
-### [[Meetings/Jackson County/index|Jackson County]]
-
-- **[[2026-08-04 Work Session|2026-08-04: Jackson County commissioners work session, the sheriff on the Flock cameras]]**: The Aug 4, 2026 work session from the county's video: the sheriff on data sharing, cost, tracking and how investigations run.
-
-### [[Meetings/Macon County/index|Macon County]]
-
-- **[[2026-07-14 Commissioners|2026-07-14: Macon County commissioners, the vote to end the Flock contract]]**: The July 14, 2026 meeting from the county's video: where the contract money sat, how it got there, and Flock's offer to document the purge.
 
 ## Other pages
 

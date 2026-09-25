@@ -11,7 +11,7 @@ vendor: none
 
 A briefing is what staff hand council before a decision. These are ours, written for residents: long-form pages that each teach one idea properly, built to stay true after the news cycle moves on. They are the background reading behind our posts and campaigns, and every claim in them links to a record you can check.
 
-Briefings differ from the rest of the site by what they are for. [[Meetings/index|The meeting records]] document what happened at each meeting in the region; the Asheville [[WNC/Asheville/Tracking/index|trackers]] follow what was bought there. A briefing is written for a decision that has not happened yet, in a town we may never have written a county page for. If your community is being offered cameras this year, this is the section to read first.
+Briefings differ from the rest of the site by what they are for. [[WNC/index|The meeting records]] document what happened at each meeting in the region; the Asheville [[WNC/Asheville/Tracking/index|trackers]] follow what was bought there. A briefing is written for a decision that has not happened yet, in a town we may never have written a county page for. If your community is being offered cameras this year, this is the section to read first.
 
 ## The briefings
 

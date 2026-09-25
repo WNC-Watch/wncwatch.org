@@ -71,9 +71,9 @@ export const AreaHub: BodyBlock = {
     const officials = pagesUnder(allFiles, `${prefix}Officials/`).sort(byTitle)
     const record = pagesUnder(allFiles, `${prefix}Tracking/`).sort(byTitle)
     const community = pagesUnder(allFiles, `${prefix}Community/`).sort(byTitle)
-    // meeting records live under Meetings/ and carry the town as their folder
-    const meetings = pagesUnder(allFiles, `Meetings/${area}/`).sort(byTitle).reverse()
-    const known = new Set(["Officials", "Tracking", "Community"])
+    // meeting records live in the area's own Meetings folder
+    const meetings = pagesUnder(allFiles, `${prefix}Meetings/`).sort(byTitle).reverse()
+    const known = new Set(["Officials", "Tracking", "Meetings", "Community"])
     const other = pagesUnder(allFiles, prefix)
       .filter((f) => !known.has(f.slug!.slice(prefix.length)))
       .sort(byTitle)
@@ -81,8 +81,8 @@ export const AreaHub: BodyBlock = {
     const groups = [
       group(LABELS.officials, officials, slug),
       group(LABELS.record, record, slug),
-      group(LABELS.community, community, slug),
       group(LABELS.meetings, meetings, slug),
+      group(LABELS.community, community, slug),
       group(LABELS.other, other, slug),
     ].filter((g): g is Element => g !== null)
     if (groups.length === 0) return null

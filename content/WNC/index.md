@@ -2,6 +2,11 @@
 title: Western North Carolina
 description: "Twelve communities, one page each, with where each stands, its systems by vendor, its officials, and its next dates; plus the state laws every county runs under."
 aliases:
+  - "Meetings/index"
+  - "Meetings"
+  - "The Record/Meetings/index"
+  - "The Record/index"
+  - "The Record"
   - "People/WNC/index"
   - "People/index"
 type: reference
