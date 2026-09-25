@@ -200,6 +200,21 @@
   verify_note: "The Granicus video/agenda portal lists this Sept 21, 2026 5:30 PM session as Board of Commissioners Regular Evening with no agenda link posted yet, so agenda_url points to the general agendas page and camera_item is unknown; the county's Board of Commissioners page states the standing schedule as 1st Monday 9 a.m. and 3rd Monday 5:30 p.m. at the Haywood County Courthouse Historic Courtroom, which is why following_date is left blank (not explicitly confirmed as a scheduled event on the pages read)."
   verified: 2026-09-08
 
+- id: asheville-city-council-next
+  area: Asheville
+  page: WNC/Asheville/index
+  body: Asheville City Council
+  date: 2026-10-13
+  time: "5:00 PM"
+  venue: Council Chamber, 2nd floor of City Hall (in person)
+  comment: "Public hearings: three minutes per person, up to ten minutes for a speaker representing three or more present; informal discussion and public comment at the end of the meeting. Access options at publicinput.com/g1267."
+  agenda_url: "https://www.ashevillenc.gov/government/city-council-agenda/"
+  source_url: "https://www.ashevillenc.gov/government/city-council-agenda/"
+  camera_item: unknown
+  status: scheduled
+  verify_note: "City Council Agenda page (reviewed Sept 23): formal meeting Tue Oct 13, 5:00 PM, Council Chamber; agenda briefing worksession Thu Oct 8, 11:00 AM, remote, no public comment. Draft 8-week agenda (docs.google.com/document/d/1Ew7X2ss46taRw7b1owUCmwIRvAFfDlbqp9OVCIskzUE), read 2026-09-24: no plate-reader, camera or RTIC item through Nov 10; Oct 13 tentative consent item 'Ashv Police Dept. Foundation Donations' (watch). No meetings Sept 29, Oct 20, Nov 3, Nov 17. The Oct 13 consent minutes list a special meeting on Sept 26, 2026, not on the draft calendar and not yet identified."
+  verified: 2026-09-24
+
 - id: asheville-public-safety
   area: Asheville
   page: WNC/Asheville/index
