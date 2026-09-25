@@ -181,6 +181,31 @@ function renderRegion(events: EventItem[]): string {
   return `<div class="tl-region">\n${out.join("\n")}\n</div>`
 }
 
+// ── Latest, for the homepage ─────────────────────────────────────────────
+//   <div class="avl-tl" data-events="latest:6"></div>
+// The most recent events region-wide (dated today or earlier), newest first,
+// one line each: date, area, kind, and the headline linked to the meeting
+// record when there is one, else to the area page.
+function renderLatest(events: EventItem[], n: number): string {
+  const today = todayISO()
+  const rows = events
+    .filter((e) => !e.same_as && (e.date ?? "") !== "" && (e.date ?? "") <= today && e.title)
+    .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""))
+    .slice(0, n)
+  const areaHref = (a: string) =>
+    a === "region" ? "./WNC/index" : `./WNC/${a.replace(/ /g, "-")}/index`
+  const li = rows.map((e) => {
+    const area = (e.area ?? [])[0] ?? "region"
+    const href = e.record ? "./" + e.record.replace(/ /g, "-") : areaHref(area)
+    const word = KIND_WORD[e.kind] ? ` · ${KIND_WORD[e.kind]}` : ""
+    return (
+      `<li class="${KIND_CLASS[e.kind] ?? "tl-none"}"><span class="latest-meta">${e.date_label} · ${AREA_LABEL(area)}${word}</span>` +
+      `<a href="${href}">${e.title}</a></li>`
+    )
+  })
+  return `<ul class="avl-latest">\n${li.join("\n")}\n</ul>`
+}
+
 const MARKER = /<div class="avl-tl" data-events="([^"]+)"><\/div>/g
 
 export const Events: QuartzTransformerPlugin = () => {
@@ -191,6 +216,7 @@ export const Events: QuartzTransformerPlugin = () => {
       const events = loadEvents(ctx.argv.directory)
       return src.replace(MARKER, (_m, page: string) => {
         if (page === "region") return renderRegion(events)
+        if (page.startsWith("latest:")) return renderLatest(events, Number(page.slice(7)) || 6)
         const rows = events
           .filter((e) => e.page === page && e.summary !== undefined)
           .map((e, i) => ({ e, i }))

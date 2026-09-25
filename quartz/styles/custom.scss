@@ -585,3 +585,40 @@ article .table-container {
     box-sizing: border-box;
   }
 }
+
+// Homepage: Latest (events.ts latest mode) and What is pending (pendingList block)
+.avl-latest, ul.avl-pending {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5rem 0 1rem;
+}
+.avl-latest li {
+  margin: 0 0 0.8rem;
+  padding-left: 0.9rem;
+  border-left: 3px solid var(--gray);
+  line-height: 1.4;
+  a { font-weight: 600; display: block; }
+}
+.avl-latest li.tl-expand { border-left-color: var(--tl-expand); }
+.avl-latest li.tl-resist { border-left-color: var(--tl-resist); }
+.avl-latest li.tl-future { border-left-color: var(--tl-future); }
+.avl-latest li.tl-report { border-left-color: var(--tl-report); }
+.avl-latest .latest-meta {
+  display: block;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--darkgray);
+}
+ul.avl-pending {
+  border-left: 4px solid var(--tl-future);
+  padding: 0.25rem 0 0.25rem 1rem;
+}
+ul.avl-pending li {
+  margin: 0 0 0.8rem;
+  line-height: 1.45;
+  a { font-weight: 600; }
+  .pending-area { margin-left: 0.5rem; font-size: 0.8em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; color: var(--tl-future); }
+  .pending-desc { display: block; color: var(--darkgray); font-size: 0.95em; }
+}

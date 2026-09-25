@@ -6,11 +6,12 @@ import { OfficeBlock } from "./quartz/components/blocks/officeBlock"
 import { AreaLead } from "./quartz/components/blocks/areaLead"
 import { RegionBoard } from "./quartz/components/blocks/regionBoard"
 import { VerifiedFooter } from "./quartz/components/blocks/verifiedFooter"
+import { PendingList } from "./quartz/components/blocks/pendingList"
 
 // Body blocks: components drawn inside the article from data, in the position
 // each block declares (see components/pages/Content.tsx). One entry per block;
 // the block itself decides which pages it renders on.
-export const bodyBlocks = [AreaLead, AreaHub, OfficeBlock, RegionBoard, VerifiedFooter]
+export const bodyBlocks = [AreaLead, AreaHub, OfficeBlock, RegionBoard, PendingList, VerifiedFooter]
 export const pageBody = Component.Content({ blocks: bodyBlocks })
 // Folder index pages (every area page is one) render through FolderContent.
 export const folderBody = Component.FolderContent({ blocks: bodyBlocks })
