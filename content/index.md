@@ -7,7 +7,7 @@ area:
 vendor: both
 ---
 
-Two companies, <a href="./Companies/Axon">Axon</a> and <a href="./Companies/Flock-Safety">Flock Safety</a>, are selling camera networks to the towns of Western North Carolina, one council agenda at a time. Asheville signed a 7.5-year contract before the document existed to read; <a href="./WNC/Transylvania-County/index">Brevard</a>, <a href="./WNC/Henderson-County/index">Hendersonville, Henderson County</a>, and <a href="./WNC/Jackson-County/index">Jackson County</a> are deciding now. Our concern is not cameras. A camera used for accountability, under a policy the community chose, with an audit trail someone actually reads, is not what worries us. What worries us is what happens when a community's cameras join large interconnected networks that nobody local controls: sharing defaults nobody here set, searches nobody here approved, and rules that change with a signature instead of a vote. <a href="./WNC/Watauga-County/index">When Boone pulled its audit log</a>, it found 1.5 million out-of-state searches its transparency portal never showed.
+Two companies, <a href="./Companies/Axon">Axon</a> and <a href="./Companies/Flock-Safety">Flock Safety</a>, are selling camera networks to the towns of Western North Carolina, one council agenda at a time. Asheville's council approved a 7.5-year Axon contract before the document existed to read; <a href="./WNC/Hendersonville/index">Hendersonville</a>, <a href="./WNC/Henderson-County/index">Henderson County</a>, and <a href="./WNC/Jackson-County/index">Jackson County</a> are deciding now, and <a href="./WNC/Transylvania-County/index">Brevard</a>'s police chief withdrew a plate-reader request on Sept 8 with the rest of the Axon purchase still pending. Our concern is not cameras. A camera used for accountability, under a policy the community chose, with an audit trail someone actually reads, is not what worries us. What worries us is what happens when a community's cameras join large interconnected networks that nobody local controls: sharing defaults nobody here set, searches nobody here approved, and rules that change with a signature instead of a vote. <a href="./WNC/Watauga-County/index">When Boone and App State pulled the audit log</a>, it found 1.5 million out-of-state searches its transparency portal never showed.
 
 This site is kept by Asheville and WNC residents. We keep the records: meeting transcripts, the cities' own videos and documents, the sheriffs' policies, the contracts, the audit logs. Everything here is sourced. Quotes link to timestamps in the government's own videos; documents link to the originals; you can check any claim yourself. We're not neutral (our views are on the page), but the site is built to be useful whether you share them or not.
 
@@ -15,6 +15,12 @@ This site is kept by Asheville and WNC residents. We keep the records: meeting t
 <p><strong>The calendar.</strong> Each body's next meeting, from its own posted schedule, and the election dates. Every county page carries the meeting after that.</p>
 <div data-cal-list="upcoming"></div>
 </div>
+
+## Latest
+
+<div class="avl-tl" data-events="latest:6"></div>
+
+Every event, by date and place: <a href="./WNC/index#the-region-by-date">the regional timeline</a>.
 
 ## Where to start
 
@@ -60,34 +66,25 @@ More than a hundred pages. Start with what you need:
 
 ## The region, right now
 
-Each community links to its full area page: the local record, the documents, and who decides. The colors match the timelines on every area page.
+Each community links to its full area page: the local record, the documents, and who decides. On the board, green marks a full removal, amber a decision still open, and red a system built or kept.
 
-<div class="tl-legend"><span class="lg-expand">what was built</span><span class="lg-resist">what communities changed</span><span class="lg-future">ahead, still undecided</span></div>
+<div class="tl-legend"><span class="lg-expand">built or kept</span><span class="lg-resist">removed</span><span class="lg-future">still undecided</span></div>
 
 <div class="avl-board"></div>
 
-How it happened in Asheville, the region's deepest case, is kept meeting by meeting: <a href="./WNC/Asheville/Timeline">the full timeline</a> and <a href="./WNC/Asheville/index">the Asheville area page</a>.
+Every event across the region, by date and place: <a href="./WNC/index#the-region-by-date">the regional timeline</a>. How it happened in Asheville, the region's deepest case, is kept meeting by meeting: <a href="./WNC/Asheville/Timeline">the full timeline</a> and <a href="./WNC/Asheville/index">the Asheville area page</a>.
 
-<div class="avl-now">
-<p><strong>What we're watching</strong> <em>(updated Sept 8, 2026)</em>: the items pending after the Aug 25 vote, each tracked on the page linked.</p>
-<ul>
-<li><strong>The 11 Flock cameras removed</strong> and APD's Flock accounts closed. <a href="./Act/Getting-Flock-Out">What a full exit requires</a></li>
-<li><strong>The data deletion notice</strong> staff promised council on the record. <a href="./WNC/Asheville/Meetings/2026-08-25-City-Council">The commitment, timestamped</a></li>
-<li><strong>The executed Axon contract released</strong>, and the second contract for 20 in-car plate readers. <a href="./Companies/What-Axon-Contracts-Do">What Axon Contracts Do</a></li>
-<li><strong>The audit reports</strong> state law already requires, at the Sept 24 Public Safety Committee. <a href="./WNC/Asheville/Tracking/The-Committee">The Committee</a></li>
-<li><strong>Retention and counts</strong>: the city's portal showed 90-day retention on Aug 25 and 21 days as of Sept 8; the vehicle reader count is 162 by APD's statement and 137 by its portal. Both archived. <a href="./WNC/Asheville/Tracking/Promise-Tracker">Promise Tracker</a></li>
-<li><strong>The sheriff's network</strong>: access to 1,355 Flock networks, five-year Fusus retention, and an access log with 58 percent of viewing on public housing. <a href="./WNC/Buncombe-County/Tracking/Sheriffs-Audit-Log">The audit log</a> · <a href="./WNC/Buncombe-County/index">Buncombe County</a></li>
-</ul>
-</div>
+**What is pending.** Each tracked issue still waiting on a document, a vote, or a step an official promised; each page has the record and the dates.
 
-## The site, in six sections
+<div class="avl-pending"></div>
+
+## The site, in five sections
 
 Each section has its own front page with every page in it described, and every page shows its section at the top so you can step back up.
 
-- **[[WNC/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
+- **[[WNC/index|Region]]**: the twelve communities, each with its officials, tracked issues and meetings; the regional timeline; and the state laws they all run under.
+- **[[Companies/index|Vendors]]**: Axon and Flock, their contracts, their sales guide, and the communities that ended contracts.
 - **[[Briefings/index|Briefings]]**: long-form explainers, one idea per page, written to be useful in any town before its decision.
-- **[[WNC/index|Western North Carolina]]**: the ten communities around us and the state laws they all run under.
-- **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales guide, and the communities that ended contracts.
 - **[[Act/index|Act]]**: three minutes at the podium, records requests, citable facts, the ballot.
 - **[[Reference/index|Reference]]**: the primary documents and the full bibliography.
 

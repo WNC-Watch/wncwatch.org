@@ -1211,3 +1211,13 @@
   kind: reported
   title: Five Asheville council candidates answer on surveillance at a forum
   full: 'Five of the six council candidates answer on surveillance at a candidate forum; Drew Ball: "We need closed loop systems that we control." ([[2026-09-16 Council Candidate Forum]])'
+- id: 2026-09-24-asheville
+  page: WNC/Asheville/index
+  area:
+  - Asheville
+  date: '2026-09-24'
+  date_label: September 24, 2026
+  kind: none
+  title: Asheville Public Safety Committee meets with no camera item on its agenda
+  summary: ' No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded.'
+  record: WNC/Asheville/Meetings/2026-09-24 Public Safety Committee
