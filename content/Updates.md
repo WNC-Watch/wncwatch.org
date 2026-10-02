@@ -10,6 +10,13 @@ vendor: both
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## October 2026: Hendersonville's posted order forms, and the meetings since Sept 24
+
+- **Hendersonville posted two Flock order forms and its August search audit** on the police department's Police Technology page, after the city manager asked on Sept 3 for the contract to go online. [[WNC/Hendersonville/index|Hendersonville]] lists what the documents set (cost, term, 30-day retention, the council's budget as the way to end the contract). Not among them: the master agreement with the data terms, and a count of other agencies' searches of the city's cameras.
+- **Meetings held with no camera item:** Henderson County commissioners on Sept 16 (one commenter asked for removal), Brevard's Public Safety Committee on Sept 28, and Hendersonville's council on Oct 1. Neither Brevard's Oct 5 agenda nor Henderson County's Oct 5 agenda carries one. The calendar adds Brevard's Public Safety Committee on Oct 26.
+- **Jackson County** answered the Smoky Mountain News records request after seven weeks, with camera locations and no costs.
+- **In Washington:** the Sept 23 Senate subcommittee hearing on Flock, where the chief executives of Flock and [[Axon]] were invited and did not appear, and two bills since ([[WNC/Raleigh and Washington/index|Raleigh and Washington]]). Three more agencies ended Flock use, in Michigan, Colorado and Virginia ([[Communities That Ended or Limited Contracts|the table]]).
+
 ## September 24, 2026, late: the region by date
 
 - **The region, by date.** The [[WNC/index|Region]] page carries every event from the area timelines in one list: what is still ahead first, then everything else by year, newest first. Choose a place or a kind (built, changed, reported, ahead) to narrow it.

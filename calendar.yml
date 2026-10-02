@@ -136,9 +136,26 @@
   address: 1 Historic Courthouse Square, Hendersonville, NC 28792
   source_url: "https://www.hendersoncountync.gov/meetings?field_microsite_tid_1=111"
   camera_item: unknown
+  status: held
+  account_url: "https://www.hendersoncountync.gov/boc/page/board-commissioners-meeting-1399"
+  verify_note: "2026-10-02: held Sept 16; draft minutes (SRC 2026-0988) record one commenter against the plate readers, no camera item, no board response; Vimeo 1227344354. Earlier: listed on the county meetings calendar at 9:30 AM; no agenda posted yet as of 2026-09-08."
+  verified: 2026-10-02
+
+- id: henderson-county-board-oct5
+  area: Henderson County
+  page: WNC/Henderson County/index
+  body: Henderson County Board of Commissioners
+  date: 2026-10-05
+  time: "5:30 PM"
+  venue: 1 Historic Courthouse Square, Hendersonville, NC
+  address: 1 Historic Courthouse Square, Hendersonville, NC 28792
+  comment: Informal Public Comment is a standing agenda item, after the Proclamation and before Discussion/Adjustment of Agenda; the posted agenda states no sign-up procedure or time limit.
+  agenda_url: "https://www.hendersoncountync.gov/sites/default/files/fileattachments/board_of_commissioners/meeting/138636/10.05.2026_agenda_with_links_f.pdf"
+  source_url: "https://www.hendersoncountync.gov/meetings?field_microsite_tid_1=111"
+  camera_item: "no"
   status: scheduled
-  verify_note: "Listed on the county meetings calendar at 9:30 AM (a different time than the 5:30 PM regular evening meeting); no agenda posted yet as of 2026-09-08."
-  verified: 2026-09-08
+  verify_note: "Agenda posted (SRC 2026-0989): no camera item; consent I is a $110,000 Homeland Security grant for two generators, checked. Next meeting Oct 21, 9:30 AM, agenda not posted."
+  verified: 2026-10-02
 
 - id: brevard-city-council-next
   area: Brevard
@@ -164,11 +181,26 @@
   time: "5:30 PM"
   venue: City Hall, City Council Chambers
   address: 95 W Main St, Brevard, NC 28712
+  agenda_url: "https://www.cityofbrevard.com/AgendaCenter/ViewFile/Agenda/_10052026-1880"
   source_url: "https://www.cityofbrevard.com/Calendar.aspx"
+  camera_item: "no"
+  status: scheduled
+  verify_note: "2026-10-02: agenda posted Sept 30 (SRC 2026-0978), no ALPR, Axon, taser or body-camera item; consent K5 is the Public Safety Committee's Aug 24 minutes. Earlier: Regular meeting per the city calendar (Oct 5, 5:30 to 7:30 PM, City Hall; Oct 19 also listed); agenda posts the Thursday before; watch for the Axon taser and body-camera purchase."
+  verified: 2026-10-02
+
+- id: brevard-public-safety-committee
+  area: Brevard
+  page: WNC/Transylvania County/index
+  body: Brevard City Council Public Safety Committee
+  date: 2026-10-26
+  time: "3:30 PM"
+  venue: City Hall, City Council Chambers
+  address: 95 W Main St, Brevard, NC 28712
+  source_url: "https://www.cityofbrevard.com/AgendaCenter/ViewFile/Agenda/_09282026-1876"
   camera_item: unknown
   status: scheduled
-  verify_note: "Regular meeting per the city calendar (Oct 5, 5:30 to 7:30 PM, City Hall; Oct 19 also listed); agenda posts the Thursday before; watch for the Axon taser and body-camera purchase."
-  verified: 2026-09-24
+  verify_note: "Next meeting per the Sept 28 committee agenda (SRC 2026-0979), item I. The Sept 28 agenda had no camera item. The committee is where the Axon plate-reader request began in July."
+  verified: 2026-10-02
 
 - id: mcdowell-county-board-next
   area: McDowell County
@@ -255,11 +287,12 @@
   time: "5:45 PM"
   address: 160 Sixth Avenue E., Hendersonville, NC 28792
   comment: "Per hendersonvillenc.gov/public-comment: pre-submitted digital comments accepted for City Council meetings, due by noon the day of the meeting (photo/video attachments by 8am the day before); in-person attendees sign up to speak on a form before the meeting begins; virtual attendees join by Zoom (meeting ID and password posted on the Calendar Event) and use Raise Hand or *9 to be recognized, subject to time limits set by the meeting."
-  agenda_url: "https://hendersonville-nc.municodemeetings.com/meetings3"
+  agenda_url: "https://mccmeetings.blob.core.usgovcloudapi.net/hvlnc-pubu/MEET-Agenda-f7bc2edb4775494d822ad6efd38ba536.pdf"
   source_url: "https://hendersonville-nc.municodemeetings.com/meetings3"
-  camera_item: unknown
-  status: scheduled
-  verify_note: "The city's Municode agenda portal lists the next City Council Regular Meeting for 10/01/2026 at 5:45pm; no agenda or agenda packet has been posted for it yet, so camera_item cannot be confirmed and address/venue is the city's general City Hall address rather than a meeting-specific location statement. Note the council also holds a City Council Second Monthly Meeting on 09/23/2026 at 4:00pm which is an earlier recurring council session but is titled differently from Regular Meeting on the portal, so it was not used as the answer; a site search for license plate reader on hendersonvillenc.gov returned no relevant results, and no public-input session specifically on plate readers was found advertised anywhere on the official pages checked."
+  camera_item: "no"
+  status: held
+  account_url: "https://hendersonville-nc.municodemeetings.com/citycouncil/page/city-council-regular-meeting-79"
+  verify_note: "2026-10-02: held Oct 1 at the Operations Center Assembly Room, 305 Williams St (agenda, SRC 2026-0977); no camera item; consent 6A the Sept 3 draft minutes (packet SRC 2026-0976); city manager transition. Recording and public comment not yet read. Earlier: The city's Municode agenda portal lists the next City Council Regular Meeting for 10/01/2026 at 5:45pm; no agenda or agenda packet has been posted for it yet, so camera_item cannot be confirmed and address/venue is the city's general City Hall address rather than a meeting-specific location statement. Note the council also holds a City Council Second Monthly Meeting on 09/23/2026 at 4:00pm which is an earlier recurring council session but is titled differently from Regular Meeting on the portal, so it was not used as the answer; a site search for license plate reader on hendersonvillenc.gov returned no relevant results, and no public-input session specifically on plate readers was found advertised anywhere on the official pages checked."
   verified: 2026-09-08
 
 - id: rutherford-county-board-next

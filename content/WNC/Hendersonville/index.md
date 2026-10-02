@@ -6,7 +6,7 @@ standing_kind: future
 systems:
   - vendor: "Flock Safety"
     kind: future
-    detail: "16 city cameras, 15 of them plate readers, about $45,000 a year, up since 2024. Portal read Aug 22, 2026: 373,294 vehicles in 30 days, 83 searches, 4,703 hot-list hits. Retention 7 days per the chief, Sept 3, 2026. The contract is not posted."
+    detail: "16 city cameras, 15 of them plate readers, about $45,000 a year, up since 2024. Portal read Aug 22, 2026: 373,294 vehicles in 30 days, 83 searches, 4,703 hot-list hits. Retention 7 days per the chief, Sept 3, 2026; 30 days in both posted order forms. Two Flock order forms (2024, 2025) and the August 2026 search audit are posted; the master agreement they incorporate is not."
     links:
       - "WNC/Hendersonville/Officials/Blair Myhand"
 verified: 2026-09-08
@@ -18,9 +18,23 @@ body:
 vendor: flock
 ---
 
-Hendersonville decides on its cameras separately from Henderson County: the city's police department runs fifteen license plate readers, and the sheriff's office runs thirteen more under the county's own budget. The city's cameras have run since 2024, three at first and twelve more from November 2025, at about $45,000 a year, under a Flock contract the city had not posted as of Sept 4. On Sept 3, 2026 the council heard a presentation from Police Chief [[Blair Myhand]], filed on the agenda with no motion attached. It ended without a vote or any direction to staff, and the mayor said public input sessions would follow without giving a date. The chief chairs the International Association of Chiefs of Police working group that is writing the model policy and public communication tools for plate readers, and he is to moderate a panel with Flock's chief executive in October. The presentation did not mention the $3,000,000 Real Time Crime Center in the city's adopted capital plan. What he said, with timestamps, what the city committed to on the record, and what the budget already contains, follow.
+Hendersonville decides on its cameras separately from Henderson County: the city's police department runs fifteen license plate readers, and the sheriff's office runs thirteen more under the county's own budget. The city's cameras have run since 2024, three at first and twelve more from November 2025, at about $45,000 a year, under Flock order forms the city posted on its Police Technology page by Sept 21, after the city manager asked on Sept 3 that the contract be put on the website. On Sept 3, 2026 the council heard a presentation from Police Chief [[Blair Myhand]], filed on the agenda with no motion attached. It ended without a vote or any direction to staff, and the mayor said public input sessions would follow without giving a date. The chief chairs the International Association of Chiefs of Police working group that is writing the model policy and public communication tools for plate readers, and he is to moderate a panel with Flock's chief executive in October. The presentation did not mention the $3,000,000 Real Time Crime Center in the city's adopted capital plan. What he said, with timestamps, what the city committed to on the record, and what the budget already contains, follow.
 
 The sheriff's cameras, the county commissioners, and the removal petition are on [[WNC/Henderson County/index|Henderson County]].
+
+## The posted order forms and the August audit
+
+At the Sept 3 meeting City Manager John Connet asked the chief to put the signed contract on the city's website ([1:05:08](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3908s)). The police department's [Police Technology page](https://www.hendersonvillenc.gov/police-department/transparency/police-technology) now links three documents, each dated Sept 21, 2026 on the city's server:
+
+- **The 2024 order form** ([PDF](https://www.hendersonvillenc.gov/sites/default/files/uploads/departments/police/flock-2024.pdf)), signed Aug 1, 2024: two Flock Falcon cameras, a 24-month term, $13,300 in total, retention 30 days.
+- **The 2025 order form** ([PDF](https://www.hendersonvillenc.gov/sites/default/files/uploads/departments/police/flock-2025.pdf)), signed Mar 28, 2025 by Chief Myhand: $31,400 a year for solar and standard plate-reader cameras (quantities of 3, 4, 1 and 6 across four product lines), a 12-month first term renewing for 24 months unless either side gives notice 30 days before the end, retention 30 days. The city's standard addendum is attached; under it the contract ends on June 30 of any year the council does not fund it in the budget.
+- **The August 2026 audit** ([PDF](https://www.hendersonvillenc.gov/sites/default/files/uploads/departments/police/august-2026-lprs-audit-public.pdf)), a memo to the chief dated Sept 10: 321 searches by the department's own users in August; 35 of them without a proper case number, across seven cases and four users, each reviewed and found to be a permitted use; three searches flagged by Flock's audit tool, each found legitimate; "no evidence of misuse."
+
+What the posted documents do not include, as of Oct 2, 2026:
+
+- **The master agreement.** Both order forms incorporate "the terms of the previously executed agreement," which govern use of the system. That agreement is where data ownership and sharing terms would be, and it is not among the posted documents.
+- **Other agencies' searches.** The August audit covers searches by Hendersonville's own officers. It does not count searches of Hendersonville's cameras by other agencies, which the chief described to council on Sept 3 as requests sent through the state law enforcement network.
+- **Retention.** The order forms set 30 days; the chief told council on Sept 3 that retention is 7 days, the default Flock announced in August. Which setting governs the city's cameras today is a question for the department.
 
 ## What Hendersonville's adopted budget already contains
 
@@ -41,6 +55,6 @@ Questions a resident can ask in two minutes, each answerable from documents the 
 
 ## Who decides here
 
-Mayor [[Barbara Volk]], whose seat is on the November ballot; Mayor Pro Tem [[Jennifer Hensley]], a candidate for mayor in November; Council Members Gina Baxter and Melinda Lowrance, both on the November ballot, and Lyndsey Simpson ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members) · [the candidate list](https://www.hendersonvillelightning.com/four-seasons-politics/15729-elx-4.html)); City Manager John Connet; Police Chief [[Blair Myhand]]. No public input session on the cameras has a date; the mayor said sessions would be advertised ([1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s)).
+Mayor [[Barbara Volk]], whose seat is on the November ballot; Mayor Pro Tem [[Jennifer Hensley]], a candidate for mayor in November; Council Members Gina Baxter and Melinda Lowrance, both on the November ballot, and Lyndsey Simpson ([the city's council page](https://www.hendersonvillenc.gov/mayor-city-council/contact-city-council-members) · [the candidate list](https://www.hendersonvillelightning.com/four-seasons-politics/15729-elx-4.html)); City Manager John Connet; Police Chief [[Blair Myhand]]. No public input session on the cameras has a date as of Oct 2, 2026; the mayor said sessions would be advertised ([1:04:41](https://www.youtube.com/watch?v=uvEHZ6zMyBk&t=3881s)).
 
 *Related: [[WNC/Henderson County/index|Henderson County]] · [[Blair Myhand]] · [[How Camera Systems Get Sold to Towns]] · [[What the Law Lets the County Do]]*

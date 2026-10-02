@@ -1221,3 +1221,40 @@
   title: Asheville Public Safety Committee meets with no camera item on its agenda
   summary: ' No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded.'
   record: WNC/Asheville/Meetings/2026-09-24 Public Safety Committee
+
+- id: 2026-09-16-henderson-county
+  page: WNC/Henderson County/index
+  area:
+  - Henderson County
+  date: '2026-09-16'
+  date_label: September 16, 2026
+  kind: none
+  title: Henderson County commissioners meet with no camera item; one commenter asks for removal
+  summary: ' The draft minutes record one public commenter against the plate readers and no board response. The board discussion the chair promised on Sept 8 has no date. (<a href="https://www.hendersoncountync.gov/sites/default/files/fileattachments/board_of_commissioners/meeting/138635/09.16.2026_draft_minutes1_f.pdf">draft minutes</a>)'
+- id: 2026-09-21-hendersonville
+  page: WNC/Hendersonville/index
+  area:
+  - Hendersonville
+  date: '2026-09-21'
+  date_label: September 21, 2026
+  kind: reported
+  title: Hendersonville police post two Flock order forms and the August search audit
+  summary: ' Posted on the Police Technology page after the city manager asked on Sept 3 for the contract to go online. The order forms total $13,300 (2024) and $31,400 a year (2025); the master agreement they incorporate is not posted. The audit counts 321 searches by city officers in August; it does not count searches by other agencies. (<a href="https://www.hendersonvillenc.gov/police-department/transparency/police-technology">Police Technology page</a>)'
+- id: 2026-09-29-jackson-county
+  page: WNC/Jackson County/index
+  area:
+  - Jackson County
+  date: '2026-09-29'
+  date_label: September 29, 2026
+  kind: reported
+  title: Jackson County sheriff's office answers a newspaper's camera records request after seven weeks
+  summary: ' Four Flock cameras, their locations and model released; costs withheld and referred to county finance. (<a href="https://smokymountainnews.com/uncategorized/jackson-answers-flock-records-request/">Smoky Mountain News</a>)'
+- id: 2026-10-01-hendersonville
+  page: WNC/Hendersonville/index
+  area:
+  - Hendersonville
+  date: '2026-10-01'
+  date_label: October 1, 2026
+  kind: none
+  title: Hendersonville council meets with no camera item on its agenda
+  summary: ' The consent agenda carried the minutes of the Sept 3 presentation. No public input session on the cameras has been scheduled. (<a href="https://mccmeetings.blob.core.usgovcloudapi.net/hvlnc-pubu/MEET-Agenda-f7bc2edb4775494d822ad6efd38ba536.pdf">agenda</a>)'
