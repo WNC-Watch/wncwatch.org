@@ -16,6 +16,8 @@ vendor: none
 
 Castle spoke against the cameras at public comment before the July 2026 vote, reminding commissioners of their oath: "Surely you can see the potential for abuse, not just locally but by anyone who is capable of gaining access to this data." ([Smoky Mountain News](https://smokymountainnews.com/news/item/40906-macon-republican-primary-candidates-address-issues-ahead-of-election-day)) If elected he would be the first commissioner in Western North Carolina to have run explicitly against plate readers ([[WNC/Macon County/index|Macon County]] · [[Western North Carolina and the State|Western North Carolina and the state]]).
 
+On Sept 16, 2026, the Smoky Mountain News asked the challengers about the removal. Castle: "My ultimate argument was the fact that the county commissioners and the sheriff take an oath to uphold and defend the Constitution, not to uphold and defend making their jobs easier, or preventing crime, or any of those things." On bringing a system back: "I would be very leery of bringing any type of system back, Axon or any of it" ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/macon-commission-candidates-talk-local-issues-see-where-the-five-challenger-candidates-stand-on-data-centers-flock-cameras-and-more/)).
+
 ## The question for him
 
 Would he move to publish any remaining data-sharing arrangements and to resolve the four school cameras?

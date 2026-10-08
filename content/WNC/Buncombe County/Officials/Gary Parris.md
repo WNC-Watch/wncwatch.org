@@ -18,18 +18,20 @@ vendor: none
 
 ## Surveillance record
 
-No office held, so no votes. One campaign statement bears on the county's camera network:
+No office held, so no votes. One campaign statement bears on the county's camera network, and one on ICE since the primary:
 
 - **Feb 24, 2026.** In WLOS's primary profile of the two Republican candidates, he pledged to stand up a "Unified Operations Intelligence Center to share actionable intelligence with all agencies," and, per the reporter, to seek grants for the department's drone program and a helicopter. On immigration: "As the Sheriff, I don't enforce on behalf of ICE. My job is to enforce state laws and local ordinances." ([WLOS](https://wlos.com/news/local/meet-two-gop-republican-candidates-primary-election-running-buncombe-county-sheriff-gary-parris-victor-vic-morman-vote-voters-immigration-crime-prevention-hiring))
+- **Oct 2, 2026.** At the CIBO candidate forum, asked whether a warrant is required for the Sheriff's Office to detain someone for ICE, he said the office should check whether a person brought into the jail has a detainer and enforce it, citing H.B. 10 and H.B. 318: "They're supposed to work more closely with ICE. That's not happening now" ([Citizen Times via Yahoo](https://www.yahoo.com/news/politics/articles/buncombe-sheriff-hopefuls-spar-over-190050865.html)).
 
 The county already runs a real-time intelligence center on Axon's Fusus platform, about 2,000 cameras, with [[WNC/Buncombe County/index|APD access under a 2023 agreement]] and a stated goal, in APD's own workgroup notes, of a "regional RTIC" ([[The RTIC Policy]]). The statement does not say whether his center would be that one, replace it, or sit beside it, which agencies "all agencies" includes, or what a resident could see of it.
 
-**No statement found** on the Fusus network itself, Flock, plate readers, the school-camera integration, or the sheriff's access log. Searched Sept 17, 2026: his campaign site and its About page, his Instagram and Facebook accounts, and regional news since the primary.
+**No statement found** on the Fusus network itself, Flock, plate readers, the school-camera integration, or the sheriff's access log. Searched Sept 17, 2026: his campaign site and its About page, his Instagram and Facebook accounts, and regional news since the primary. Regional coverage checked again Oct 7, 2026, including the Oct 2 forum: no statement on the cameras.
 
 ## In his words
 
 - "Unified Operations Intelligence Center to share actionable intelligence with all agencies." (WLOS, Feb 24, 2026)
 - "As the Sheriff, I don't enforce on behalf of ICE. My job is to enforce state laws and local ordinances." (WLOS, Feb 24, 2026)
+- "They're supposed to work more closely with ICE. That's not happening now." (CIBO forum, Oct 2, 2026, per the Citizen Times)
 
 ## What is pending with him
 

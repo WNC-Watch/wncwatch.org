@@ -10,6 +10,20 @@ vendor: both
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## October 8, 2026: what the candidates have said since Sept 17
+
+- **The Asheville mayoral candidates** at the Sept 18 Radio Asheville forum: [[Esther Manheimer]] on why mayors are leaving Flock contracts, and [[Kim Roney]] on her votes and on Axon's plate readers in the city.
+- **The council candidates** at WLOS's Sept 28 forum ([[Antanette Mosley]], [[Drew Ball]], [[Maggie Ullman]]), and Mosley in a Sept 24 Mountain Xpress interview on why she voted for the surveillance technology.
+- **Down the ballot:** [[Gary Parris]] on ICE at the Oct 2 sheriff's forum; both Senate 49 candidates on plate readers ([[Election 2026]]); the Jackson County and Macon County commission challengers on the cameras ([[WNC/Jackson County/index|Jackson County]], [[WNC/Macon County/index|Macon County]]).
+- **Correction:** Drew Ball's first statement on the cameras was an Aug 14 Mountain Xpress interview published Sept 17, not the Sept 16 forum ([[Corrections]]).
+- **Correction:** Jackson County's chair, Mark Letson, lost the March 3 primary for his seat and commissioner Todd Bryson did not file; neither is on the November ballot. The [[WNC/Jackson County/index|Jackson County]] page now lists the three races ([[Corrections]]).
+
+## October 7, 2026: Buncombe County's forfeiture request, Jackson County's costs, Haywood County's sheriff candidates
+
+- **Buncombe County commissioners removed the sheriff's $290,000 forfeiture request** for the "FY27 FUSUS/Axon Contract" and a camera project from their Oct 6 agenda, on Commissioner Drew Ball's motion; no reason was stated and the request can return. The [[WNC/Buncombe County/index|Buncombe County]] page has the request as posted, the motion on the county's video, and the board's April 2, 2024 approval of $250,000 from the same fund for surveillance equipment. The [[Board of Commissioners]], [[Drew Ball]], [[Martin Moore]], [[Amanda Edwards]] and [[Quentin Miller]] pages carry the votes, and [[What the Law Lets the County Do]] notes the request as a current example. The calendar adds the commissioners' Oct 20 meeting.
+- **Jackson County's Flock costs** are public: $56,300 over a five-year contract from April 2024, $34,828.51 spent so far, per county records released to the Smoky Mountain News ([[WNC/Jackson County/index|Jackson County]]). The calendar marks the Oct 6 commissioners' meeting held with no camera item and adds Oct 20.
+- **Both Haywood County sheriff nominees** spoke about the Flock cameras for the first time, in Oct 7 interviews with the Smoky Mountain News ([[Mark Mease]], [[Tyler Howell]], [[Election 2026]]). The calendar marks Haywood's Sept 21 meeting held and adds Oct 19.
+
 ## October 2026: Hendersonville's posted order forms, and the meetings since Sept 24
 
 - **Hendersonville posted two Flock order forms and its August search audit** on the police department's Police Technology page, after the city manager asked on Sept 3 for the contract to go online. [[WNC/Hendersonville/index|Hendersonville]] lists what the documents set (cost, term, 30-day retention, the council's budget as the way to end the contract). Not among them: the master agreement with the data terms, and a count of other agencies' searches of the city's cameras.

@@ -8,7 +8,7 @@ standing_kind: future
 systems:
   - vendor: "Flock Safety"
     kind: future
-    detail: "4 sheriff's cameras on a five-year, $55,000-plus contract from 2024: 1.19 million reads a month against 563 searches, shared with 280 in-state agencies."
+    detail: "4 sheriff's cameras on a five-year, $56,300 contract from April 2024 ($34,828.51 spent through 2026, per county records released Oct 7, 2026): 1.19 million reads a month against 563 searches, shared with 280 in-state agencies."
     links:
       - "Companies/Flock Safety"
 verified: 2026-09-08
@@ -37,7 +37,15 @@ Jackson County's four sheriff's Flock cameras read 1.19 million plates a month a
 
 ## Who decides here
 
-[[Doug Farmer]] (sheriff, re-elected in the primary, no November opponent) · [[Mark Letson]] (commission chair, contested in November) · [[Michael Jennings]] and [[Todd Bryson]] (the commissioners who asked questions; Bryson on the ballot).
+[[Doug Farmer]] (sheriff, re-elected in the primary, no November opponent) · [[Mark Letson]] (commission chair through December; finished second in the March 3 Republican primary for the chair seat) · [[Michael Jennings]] and [[Todd Bryson]] (the commissioners who asked questions; Bryson did not file for re-election) · on the Nov 3 ballot: chair, Marcia Almond (D) vs David J. Rogers (R); District 1, Casey Walawender (D) vs Steven J. Sutton (R); District 2, Sean Bridgers (D) vs John Smith (R, incumbent) ([[#The commission candidates on Flock (Sept 23, 2026)|where they stand]]; [State Board of Elections candidate list](https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv)).
+
+## The commission candidates on Flock (Sept 23, 2026)
+
+Three commission seats are on the Nov 3, 2026 ballot. The Smoky Mountain News interviewed the five challengers; the one incumbent running, John Smith (R, District 2), did not respond to its requests ([Smoky Mountain News, Sept 23](https://smokymountainnews.com/news/news-latest/jackson-commission-candidates-discuss-school-bond-library-flock-and-more/)). The paper reports bipartisan support among the five for defunding the cameras.
+
+- **Chair:** Marcia Almond (D) would pay for county raises by ending the Flock contract: "Why not take that money and give it to county employees, to the sheriff's department, and other county employees?" The paper reports Almond called the cameras a Fourth Amendment violation. David J. Rogers (R) supports removing them: "I think it infringes on the citizens' rights right now," adding, "I am 100% behind our sheriff and our sheriff's department."
+- **District 1:** Steven J. Sutton (R), who the paper reports once supported the cameras and would now back defunding them without stronger safeguards: "I'm not a big fan of mass surveillance by government." Casey Walawender (D): "If I had to vote on this issue right now, I would vote to defund them."
+- **District 2:** Sean Bridgers (D): "I'm not in favor of ongoing surveillance of American citizens," and would vote to defund them. John Smith (R, incumbent): no response.
 
 ## The numbers, from the county's own records
 
@@ -57,6 +65,6 @@ On ICE, Sheriff Farmer has described honoring detainers case by case: "When we a
 
 ## Open items
 
-The Sylva Herald's records requests (agency-sharing list, arrest statistics, search audits) were unanswered as of Sept 8, 2026. The Smoky Mountain News filed its own request Aug 11 for camera locations, models and costs; the sheriff's office answered on Sept 29, seven weeks later, with the four locations (US 74, NC 107 near Cashiers, US 23 at the Macon County line, US 441 South), the model (Falcon, still images only) and six cameras bought between September 2023 and May 2026, two of them spares; it did not release the costs and referred them to the county finance department ([Smoky Mountain News, Sept 30](https://smokymountainnews.com/uncategorized/jackson-answers-flock-records-request/)); the Aug 4 presentation deck is the record to request. Video: [county commissioners](https://www.youtube.com/channel/UCQ06Suo-BrkLxLLsSIJbryw) and [Sylva's town board](https://www.youtube.com/channel/UCRL0vTRXlVtk0V3EDwcILEQ) are both on YouTube (the Aug 4 Farmer presentation is on tape). No vote is scheduled as of Sept 8, 2026; funding recurs each budget cycle. Commissioner Michael Jennings's question from the Aug 4 work session stands: "[that slide] says it does not violate the Fourth Amendment, but to what end? When Flock has updates and starts being able to do more than it can now, or we get a sheriff that's not as strict as you are, there's a lot of reasons it could go wrong."
+The Sylva Herald's records requests (agency-sharing list, arrest statistics, search audits) were unanswered as of Sept 8, 2026. The Smoky Mountain News filed its own request Aug 11 for camera locations, models and costs; the sheriff's office answered on Sept 29, seven weeks later, with the four locations (US 74, NC 107 near Cashiers, US 23 at the Macon County line, US 441 South), the model (Falcon, still images only) and six cameras bought between September 2023 and May 2026, two of them spares; it referred the costs to the county finance department ([Smoky Mountain News, Sept 30](https://smokymountainnews.com/uncategorized/jackson-answers-flock-records-request/)). On Oct 7 the county's records put them at $34,828.51 spent since 2024, on a five-year contract from April 2024 at $11,000 a year before tax plus a $1,300 one-time fee, $56,300 over the term, with $750 for a 2024 camera move and $9,095 for two "Falcon Flex Bundles" in 2026. The order form, as the paper read it, lists State Network and Nationwide Network access and "vehicle fingerprint" search ([Smoky Mountain News, Oct 7](https://smokymountainnews.com/news/news-latest/jackson-releases-flock-records/)). The order form itself is not posted; it and the Aug 4 presentation deck are the records to request. Video: [county commissioners](https://www.youtube.com/channel/UCQ06Suo-BrkLxLLsSIJbryw) and [Sylva's town board](https://www.youtube.com/channel/UCRL0vTRXlVtk0V3EDwcILEQ) are both on YouTube (the Aug 4 Farmer presentation is on tape). No vote is scheduled as of Sept 8, 2026; funding recurs each budget cycle. Commissioner Michael Jennings's question from the Aug 4 work session stands: "[that slide] says it does not violate the Fourth Amendment, but to what end? When Flock has updates and starts being able to do more than it can now, or we get a sheriff that's not as strict as you are, there's a lot of reasons it could go wrong."
 
 *Related: [[Western North Carolina and the State|Western North Carolina and the state]] · [[Camera Network Misuse|Camera network misuse, documented cases]] · [[Getting Flock Out]]*

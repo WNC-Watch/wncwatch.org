@@ -1,6 +1,6 @@
 ---
 title: Todd Bryson
-description: "Jackson County commissioner. At the August 4, 2026 work session raised the risk of innocent drivers stopped on false hits. On the November 3, 2026 ballot."
+description: "Jackson County commissioner. At the August 4, 2026 work session raised the risk of innocent drivers stopped on false hits. Did not file for re-election in 2026; term ends December 2026."
 aliases:
   - "People/WNC/Todd Bryson"
 type: person
@@ -11,7 +11,7 @@ vendor: none
 
 **Title:** Jackson County Commissioner, District 1 · Republican
 **Current term ends:** December 2026
-**Next voter decision:** **Nov 3, 2026**: District 1 on the ballot; the Democratic side had a four-way primary (German Vivas, John Herrera, Julie Painter, Casey Wallawender) ([Ballotpedia](https://ballotpedia.org/Jackson_County,_North_Carolina,_elections,_2026)) · [[Election 2026]]
+**Next voter decision:** none for him: he is not on the State Board of Elections 2026 candidate list ([candidate list](https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv)). The Nov 3 District 1 race is Steven J. Sutton (R) vs Casey Walawender (D) · [[Election 2026]]
 
 ## Surveillance record
 

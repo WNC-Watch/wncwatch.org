@@ -51,6 +51,14 @@ The numbers that did it: **16 cameras (12 county, 4 schools), a $31,950 contract
 
 The board's first regular meeting after the removal, September 8, 2026, did not touch the cameras: no agenda item, and none of the six residents at public comment raised them ([county recording](https://www.youtube.com/watch?v=gtjtKs1Lj4U), 1 hour 58 minutes).
 
+## The commission candidates on the cameras (Sept 16, 2026)
+
+Three commission seats are on the Nov 3, 2026 ballot. The Smoky Mountain News interviewed the five challengers; the one incumbent running, [[John Shearl]] (District 1), who made the removal motion, declined to be interviewed ([Smoky Mountain News, Sept 16](https://smokymountainnews.com/news/news-latest/macon-commission-candidates-talk-local-issues-see-where-the-five-challenger-candidates-stand-on-data-centers-flock-cameras-and-more/)).
+
+- **District 1:** Russ Lunn (D) supported defunding the cameras: "You have to go with what the people want." The paper reports Lunn would consider plate readers again under tighter limits on data retention.
+- **District 2:** Kellie McConnel Burns (R), asked about the removal: "With so many legitimate concerns from our constituents about a potential Fourth Amendment violation, we have a responsibility to slow down," adding that any approved technology must "protect both public safety and the rights" of residents. Terry Bell (D): no answer on the cameras in the article.
+- **The third seat:** [[Dylan Castle]] (R): "I would be very leery of bringing any type of system back, Axon or any of it." Janet Greene (D): the paper reports Greene favors strict limits on how surveillance data is used and penalties for misuse.
+
 ## After the vote: the paperwork that still applies
 
 Removing the cameras did not remove the county from the network. "Macon County NC SO" remains on [[WNC/Henderson County/index|Henderson County]]'s published list of agencies granted access to Henderson's plate reads (Aug 22, 2026); whether anyone in Franklin still logs in is a records question. Macon has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)), and its sheriff, like every sheriff in the state, now operates under HB 318's mandatory ICE notification rules ([[What the Law Lets the County Do]]). The November commission fields are on [Ballotpedia](https://ballotpedia.org/Macon_County,_North_Carolina,_elections,_2026); a week after the vote, neighboring [[WNC/Haywood County/index|Haywood County]]'s chairman cited Macon by name as the example his county would not follow.

@@ -228,9 +228,26 @@
   agenda_url: "https://www.haywoodcountync.gov/712/Agendas-Minutes-Videos"
   source_url: "https://haywoodcountync.granicus.com/ViewPublisher.php?view_id=1"
   camera_item: unknown
+  status: held
+  account_url: "https://haywoodcountync.granicus.com/MinutesViewer.php?view_id=1&clip_id=513&doc_id=ad94c341-c0e3-11f1-89ef-005056a84798"
+  verify_note: "Held Sept 21 (minutes posted on the county's Granicus archive, with the agenda and video). Nobody signed up for public comment; the agenda adjustments and consent agenda carry no camera item; pages 4 to 9 of the minutes were not read, so camera_item stays unknown."
+  verified: 2026-10-07
+
+- id: haywood-county-board-oct19
+  area: Haywood County
+  page: WNC/Haywood County/index
+  body: Haywood County Board of Commissioners
+  date: 2026-10-19
+  time: "5:30 PM"
+  venue: Haywood County Courthouse, Historic Courtroom
+  address: 215 N Main Street, Waynesville, NC 28786
+  comment: "Per the county's Agendas, Minutes & Videos page, requests to speak or written comment go through the eComment feature or to the Clerk to the Board by 5:00 p.m. the Sunday before the meeting. The meeting includes the public hearing on the 2027 revaluation's Schedule of Values."
+  agenda_url: "https://haywoodcountync.granicus.com/ViewPublisher.php?view_id=1"
+  source_url: "https://haywoodcountync.granicus.com/ViewPublisher.php?view_id=1"
+  camera_item: unknown
   status: scheduled
-  verify_note: "The Granicus video/agenda portal lists this Sept 21, 2026 5:30 PM session as Board of Commissioners Regular Evening with no agenda link posted yet, so agenda_url points to the general agendas page and camera_item is unknown; the county's Board of Commissioners page states the standing schedule as 1st Monday 9 a.m. and 3rd Monday 5:30 p.m. at the Haywood County Courthouse Historic Courtroom, which is why following_date is left blank (not explicitly confirmed as a scheduled event on the pages read)."
-  verified: 2026-09-08
+  verify_note: "Listed on the county's Granicus portal as Regular Evening, Monday Oct 19, 5:30 PM; agenda not read as of Oct 7. A special meeting is also listed for Oct 27."
+  verified: 2026-10-07
 
 - id: asheville-city-council-next
   area: Asheville
@@ -317,11 +334,29 @@
   time: "5:00 PM"
   venue: Commission Chambers, Room 326, 200 College St, Asheville, NC
   address: 200 College St, Room 326 (Commission Chambers, 3rd Floor), Asheville, NC 28801
-  source_url: "https://www.buncombenc.gov/710/Policies-Procedures ; meeting schedule and location confirmed via https://buncombeconc.portal.civicclerk.com/event/3625 (CivicClerk API: https://buncombeconc.api.civicclerk.com/v1/Events/3625), linked from https://www.buncombenc.gov/calendar.aspx?EID=8919"
+  agenda_url: "https://buncombeconc.portal.civicclerk.com/event/3613/overview"
+  source_url: "https://www.buncombenc.gov/710/Policies-Procedures ; meeting confirmed via https://buncombeconc.portal.civicclerk.com/event/3613 (CivicClerk API: https://buncombeconc.api.civicclerk.com/v1/Events/3613)"
+  camera_item: "yes"
+  status: held
+  account_url: "https://www.youtube.com/watch?v=1XbypN6jVfM"
+  verify_note: "Held Oct 6; agenda posted Sept 30 with New Business 5, the sheriff's $290,000 forfeiture-fund amendment for the FY27 FUSUS/Axon contract and a Camera Project at IGrant; removed at 0:02:53 on Commissioner Ball's motion, seconded by Moore, voice vote; no reason stated; Commissioner Wells away; minutes not posted as of Oct 7."
+  verified: 2026-10-07
+
+- id: buncombe-county-board-oct20
+  area: Buncombe County
+  page: WNC/Buncombe County/index
+  body: Buncombe County Board of Commissioners
+  date: 2026-10-20
+  time: "5:00 PM"
+  venue: Commission Chambers, Room 326, 200 College St, Asheville, NC
+  address: 200 College St, Room 326 (Commission Chambers, 3rd Floor), Asheville, NC 28801
+  comment: "Public comment is taken at the beginning of the meeting. Per the Board's Rules of Procedure the agenda is published by 5 pm the Wednesday before (Oct 14). The board's briefing meeting is the same day at 3:00 PM."
+  agenda_url: "https://buncombeconc.portal.civicclerk.com/event/3626/overview"
+  source_url: "https://www.buncombenc.gov/710/Policies-Procedures ; meeting confirmed via https://buncombeconc.api.civicclerk.com/v1/Events/3626 (regular) and https://buncombeconc.api.civicclerk.com/v1/Events/3651 (briefing)"
   camera_item: unknown
   status: scheduled
-  verify_note: "The Sept 15, 2026 agenda itself was not yet posted as of this check (CivicClerk event 3625 shows publishedFiles: [] and cutOffDateTime 2026-09-04, but per Rules of Procedure it should post by 5 pm the Wednesday before, i.e. Sept 10, 2026), so camera_item and the exact per-meeting comment sign-up detail could not be confirmed from that specific agenda. The Board meets on the 1st and 3rd Tuesdays of the month at 5:00 PM, confirmed via CivicClerk event records for July 21, Aug 18, Sept 1, Sept 15, Oct 6 and Oct 20, 2026."
-  verified: 2026-09-08
+  verify_note: "No agenda files posted as of Oct 7. Watch for the return of the Oct 6 forfeiture-fund request (New Business 5, removed)."
+  verified: 2026-10-07
 
 - id: jackson-county-board-next
   area: Jackson County
@@ -331,11 +366,28 @@
   time: "6:30 PM"
   venue: Commissioners Board Room, second floor of the Justice Center, 401 Grindstaff Cove Road, Sylva, NC
   address: 401 Grindstaff Cove Road, Sylva, NC 28779
-  source_url: "https://www.jacksonnc.org/169/Board-of-Commissioners"
+  agenda_url: "https://www.jacksonnc.org/AgendaCenter/ViewFile/Agenda/_10062026-205"
+  source_url: "https://www.jacksonnc.org/AgendaCenter"
+  camera_item: "no"
+  status: held
+  account_url: "https://www.jacksonnc.org/AgendaCenter/ViewFile/Agenda/_10062026-205"
+  verify_note: "Held Oct 6; the regular agenda (economic development agreement, a Boys and Girls Club MOU, the 2027 holiday schedule, opioid settlement funds) and the 7:00 PM work session agenda carry no camera item; Informal Comments by Public was on the agenda; no recording or minutes read as of Oct 7. The county's Flock costs were released to the Smoky Mountain News the next day."
+  verified: 2026-10-07
+
+- id: jackson-county-board-oct20
+  area: Jackson County
+  page: WNC/Jackson County/index
+  body: Jackson County Board of Commissioners
+  date: 2026-10-20
+  time: "6:30 PM"
+  venue: Commissioners Board Room, second floor of the Justice Center, 401 Grindstaff Cove Road, Sylva, NC
+  address: 401 Grindstaff Cove Road, Sylva, NC 28779
+  agenda_url: "https://www.jacksonnc.org/AgendaCenter"
+  source_url: "https://www.jacksonnc.org/AgendaCenter/ViewFile/Agenda/_10062026-205"
   camera_item: unknown
   status: scheduled
-  verify_note: "The Commissioner Meeting Notices page lists a 2026-09-15 Regular Meeting Notice under September Meetings, confirming the date, and the Board of Commissioners page states regular meetings fall on the first and third Tuesdays at 6:30pm in the Commissioners Board Room, but as of 2026-09-08 no agenda has been posted yet in the Agenda Center so the camera item and public comment procedure could not be confirmed from a posted agenda."
-  verified: 2026-09-08
+  verify_note: "Date and time from the announcements on the Oct 6 agenda (Regular Meeting, October 20 at 6:30 p.m.); agenda not posted as of Oct 7."
+  verified: 2026-10-07
 
 - id: transylvania-county-board-next
   area: Transylvania County

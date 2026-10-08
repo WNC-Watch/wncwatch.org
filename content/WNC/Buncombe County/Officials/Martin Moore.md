@@ -21,7 +21,7 @@ The outgoing DA, Todd Williams, **wrote a letter supporting the [[What Is the RT
 
 ## Surveillance record
 
-**No public position found** on the RTIC, Fusus, or plate readers (as of Aug 17, 2026). His public priorities center on gun and domestic violence. His public-defender background is the most interesting variable: he has seen surveillance evidence from the defense side.
+**No public statement found** on the RTIC, Fusus, or plate readers (as of Oct 7, 2026). Two votes are on record: on April 2, 2024 he seconded the board's 5 to 0 approval of $250,000 in forfeiture money "to purchase surveillance equipment" ([minutes](https://media.buncombenc.gov/common/commissioners/minutes/2024-04-02.pdf)); on Oct 6, 2026 he seconded [[Drew Ball]]'s motion removing the sheriff's $290,000 FUSUS/Axon forfeiture request from the agenda ([county video, 0:02:53](https://www.youtube.com/watch?v=1XbypN6jVfM&t=173s)). Neither carried a stated reason in the record. His public priorities center on gun and domestic violence. His public-defender background is the most interesting variable: he has seen surveillance evidence from the defense side.
 
 ## The question for him
 

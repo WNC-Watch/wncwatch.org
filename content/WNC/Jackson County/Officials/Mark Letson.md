@@ -1,6 +1,6 @@
 ---
 title: Mark Letson
-description: "Jackson County Commission Chair. Presided over the August 4, 2026 work session at which commissioners questioned the sheriff's cameras; no vote was taken. One of six candidates for the seat on November 3, 2026."
+description: "Jackson County Commission Chair. Presided over the August 4, 2026 work session at which commissioners questioned the sheriff's cameras; no vote was taken. Finished second in the March 3, 2026 Republican primary for the chair seat; chair through December 2026."
 aliases:
   - "People/WNC/Mark Letson"
 type: person
@@ -10,7 +10,8 @@ vendor: none
 ---
 
 **Title:** Chair, Jackson County Board of Commissioners · Republican
-**Next voter decision:** **Nov 3, 2026**: the at-large chairmanship is contested by David J. Rogers (R), Jarrett Crowe (R), Jon Brown (R), Marcia Almond (D), and Bobbi Hopp (D) ([Ballotpedia](https://ballotpedia.org/Jackson_County,_North_Carolina,_elections,_2026)) · [[Election 2026]]
+**Current term ends:** December 2026
+**Next voter decision:** none for him in November: he ran for the chair seat in the March 3, 2026 Republican primary and finished second, David J. Rogers 1,308, Letson 1,024, Jon Brown 709, Jarrett Crowe 252 ([State Board of Elections results](https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_03_03/results_pct_20260303.zip)). The Nov 3 race for chair is Rogers (R) vs Marcia Almond (D) · [[Election 2026]]
 
 ## Surveillance record
 
