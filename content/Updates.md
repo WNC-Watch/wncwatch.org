@@ -10,6 +10,10 @@ vendor: both
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## October 14, 2026: the candidates' responses to a surveillance pledge
+
+- **Six candidates answered a pledge on surveillance** that Asheville Democratic Socialists of America (Asheville DSA), a local political organization, sent to candidates for Asheville mayor and council, Buncombe County Commission, Sheriff, and District Attorney. [[Kim Roney]] and [[Keith Young]] signed; [[Drew Ball]], [[Jeffrey Burroughs]], Anna Stearns and [[Martin Moore]] did not, and each posted a statement. [[Election 2026]] has the pledge's commitments and a line from each response; the candidates' pages carry their statements.
+
 ## October 8, 2026: what the candidates have said since Sept 17
 
 - **The Asheville mayoral candidates** at the Sept 18 Radio Asheville forum: [[Esther Manheimer]] on why mayors are leaving Flock contracts, and [[Kim Roney]] on her votes and on Axon's plate readers in the city.
