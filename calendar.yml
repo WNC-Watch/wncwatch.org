@@ -184,9 +184,24 @@
   agenda_url: "https://www.cityofbrevard.com/AgendaCenter/ViewFile/Agenda/_10052026-1880"
   source_url: "https://www.cityofbrevard.com/Calendar.aspx"
   camera_item: "no"
+  status: held
+  verify_note: "2026-10-17: held Oct 5 (the Oct 19 agenda's item F.1 approves its minutes, SRC 2026-1017); minutes and recording not read. 2026-10-02: agenda posted Sept 30 (SRC 2026-0978), no ALPR, Axon, taser or body-camera item; consent K5 is the Public Safety Committee's Aug 24 minutes. Earlier: Regular meeting per the city calendar (Oct 5, 5:30 to 7:30 PM, City Hall; Oct 19 also listed); agenda posts the Thursday before; watch for the Axon taser and body-camera purchase."
+  verified: 2026-10-17
+
+- id: brevard-city-council-oct19
+  area: Brevard
+  page: WNC/Transylvania County/index
+  body: Brevard City Council
+  date: 2026-10-19
+  time: "5:30 PM"
+  venue: City Hall, City Council Chambers
+  address: 95 W Main St, Brevard, NC 28712
+  agenda_url: "https://www.cityofbrevard.com/AgendaCenter/ViewFile/Agenda/_10192026-1887"
+  source_url: "https://www.cityofbrevard.com/AgendaCenter"
+  camera_item: "no"
   status: scheduled
-  verify_note: "2026-10-02: agenda posted Sept 30 (SRC 2026-0978), no ALPR, Axon, taser or body-camera item; consent K5 is the Public Safety Committee's Aug 24 minutes. Earlier: Regular meeting per the city calendar (Oct 5, 5:30 to 7:30 PM, City Hall; Oct 19 also listed); agenda posts the Thursday before; watch for the Axon taser and body-camera purchase."
-  verified: 2026-10-02
+  verify_note: "Agenda posted Oct 15 (SRC 2026-1017): no Axon, Taser, body-camera or plate-reader item; public comments are item H; packet materials not read. Next check: the Public Safety Committee, Oct 26."
+  verified: 2026-10-17
 
 - id: brevard-public-safety-committee
   area: Brevard
@@ -257,12 +272,28 @@
   time: "5:00 PM"
   venue: Council Chamber, 2nd floor of City Hall (in person)
   comment: "Public hearings: three minutes per person, up to ten minutes for a speaker representing three or more present; informal discussion and public comment at the end of the meeting. Access options at publicinput.com/g1267."
+  agenda_url: "https://www.ashevillenc.gov/government/meetings/city-council-meeting-in-person-oct-13-2026/"
+  source_url: "https://www.ashevillenc.gov/government/city-council-meeting-materials/"
+  camera_item: "no"
+  status: held
+  account_url: "https://docs.google.com/document/d/18DpnEQ94otFcmcv64Ltf0L1cxOzULOzsYqHqE1v3EKs/edit?usp=drive_link"
+  verify_note: "2026-10-17: held Oct 13 (the Oct 27 agenda's consent item approves its minutes); the city's action agenda (SRC 2026-1016, decisions only) lists no camera, plate-reader, RTIC or police item; the tentative 'Ashv Police Dept. Foundation Donations' consent item does not appear among the actions. Minutes, public comment and recording not read. Earlier: City Council Agenda page (reviewed Sept 23): formal meeting Tue Oct 13, 5:00 PM, Council Chamber; agenda briefing worksession Thu Oct 8, 11:00 AM, remote, no public comment. Draft 8-week agenda (docs.google.com/document/d/1Ew7X2ss46taRw7b1owUCmwIRvAFfDlbqp9OVCIskzUE), read 2026-09-24: no plate-reader, camera or RTIC item through Nov 10; Oct 13 tentative consent item 'Ashv Police Dept. Foundation Donations' (watch). No meetings Sept 29, Oct 20, Nov 3, Nov 17. The Oct 13 consent minutes list a special meeting on Sept 26, 2026, not on the draft calendar and not yet identified."
+  verified: 2026-10-17
+
+- id: asheville-city-council-oct27
+  area: Asheville
+  page: WNC/Asheville/index
+  body: Asheville City Council
+  date: 2026-10-27
+  time: "5:00 PM"
+  venue: Council Chamber, 2nd floor of City Hall (in person)
+  comment: "Public hearings: three minutes per person, up to ten minutes for a speaker representing three or more present; informal discussion and public comment at the end of the meeting. Access options at publicinput.com/g1267."
   agenda_url: "https://www.ashevillenc.gov/government/city-council-agenda/"
   source_url: "https://www.ashevillenc.gov/government/city-council-agenda/"
   camera_item: unknown
   status: scheduled
-  verify_note: "City Council Agenda page (reviewed Sept 23): formal meeting Tue Oct 13, 5:00 PM, Council Chamber; agenda briefing worksession Thu Oct 8, 11:00 AM, remote, no public comment. Draft 8-week agenda (docs.google.com/document/d/1Ew7X2ss46taRw7b1owUCmwIRvAFfDlbqp9OVCIskzUE), read 2026-09-24: no plate-reader, camera or RTIC item through Nov 10; Oct 13 tentative consent item 'Ashv Police Dept. Foundation Donations' (watch). No meetings Sept 29, Oct 20, Nov 3, Nov 17. The Oct 13 consent minutes list a special meeting on Sept 26, 2026, not on the draft calendar and not yet identified."
-  verified: 2026-09-24
+  verify_note: "City Council Agenda page (last updated Oct 14), read 2026-10-17 (SRC 2026-1015): formal meeting Tue Oct 27, 5:00 PM, Council Chamber, 2nd floor of City Hall; the agenda is posted with its headings only (consent: the Oct 8 and Oct 13 minutes; manager's report; no public hearing, unfinished or new business items yet). Same day: a special meeting at 4:30 PM in the Council Chamber on appointing a new city clerk. Agenda briefing worksession Thu Oct 22, 11:00 AM, remote, no public comment. Strategic planning retreat Thu Oct 29, 10:00 AM to 3:00 PM, Harrah's Cherokee Center. Recheck the agenda for a camera item before the meeting."
+  verified: 2026-10-17
 
 - id: asheville-public-safety
   area: Asheville

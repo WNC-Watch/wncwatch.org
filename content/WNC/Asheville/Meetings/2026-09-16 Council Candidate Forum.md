@@ -62,7 +62,7 @@ Beside the record: she voted no on ending Flock on Aug 25. No document on this s
 
 > "If CPAC or Citizens Police Advisory Committee had been enacted, and it was paused in 2020, would this have been something that came through the pipeline that would have enabled our community to be able to lead and have conversations about this? So that instead of it getting passed, we were able to have a conversation about this maybe within the last two years as this grant was being worked through." (4:13)
 
-> "There are community members who want this technology and there are community members who don't. And the reason we're at this pivotal time is because we didn't do the work ahead of time." (4:47)
+> "There are community members who want this technology and there are community members who don't. And the reason we're at this pivotal time is because we didn't do the work ahead of time." (4:57)
 
 > "Could I vote on supporting this tomorrow? We haven't done the work. We haven't sat as a community and felt and realized what is important and what we value." (5:24)
 

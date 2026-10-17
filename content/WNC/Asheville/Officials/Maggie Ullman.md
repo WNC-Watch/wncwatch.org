@@ -1,6 +1,6 @@
 ---
 title: Maggie Ullman
-description: "Council member since 2022. Seconded the RTIC motions on May 12, 2026; on Aug 20 said she supports removing the Flock cameras and keeping Axon's tools; voted for termination Aug 25. On the November 3, 2026 ballot."
+description: "Council member since 2022. Seconded the RTIC motions on May 12, 2026; on Aug 20 agreed the concerns with Flock had been growing and said she could not see giving up Axon's body and dash cameras; voted for termination Aug 25. On the November 3, 2026 ballot."
 aliases:
   - "People/Maggie Ullman"
   - "People/Asheville/Maggie Ullman"

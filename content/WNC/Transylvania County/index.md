@@ -3,7 +3,7 @@ title: Transylvania County
 description: "Brevard posted the draft policy and the Axon contract before deciding, and we read both: the 30-day purge and real audit requirements, the one-signature problem, the renewal terms, and the questions that were open on Sept 8, when the chief withdrew the request before any vote. The Axon equipment purchase remains pending. The county sheriff's cameras have been up since 2024; the county board first took them up on Aug 24."
 aliases:
   - "WNC/Transylvania County"
-standing: "request withdrawn Sept 8 by the chief; the Axon taser and body-camera purchase is still pending and was not on the Sept 21 or Oct 5 agendas or the Sept 28 Public Safety Committee agenda; next check the committee on Oct 26"
+standing: "request withdrawn Sept 8 by the chief; the Axon taser and body-camera purchase is still pending and was not on the Sept 21, Oct 5 or Oct 19 council agendas or the Sept 28 Public Safety Committee agenda; next check the committee on Oct 26"
 standing_kind: future
 systems:
   - vendor: "Flock Safety"
@@ -16,7 +16,7 @@ systems:
     detail: "Offered to Brevard: 3 fixed plate readers at no charge inside a five-year, ~$80,000 package of tasers and body cameras, plus monthly data-storage fees. The draft policy and contract are posted. Chief Wentzell withdrew the plate-reader request at the start of the Sept 8, 2026 council meeting; no vote was taken. The taser and body-camera purchase the cameras were attached to remains pending."
     links:
       - "Companies/What Axon Contracts Do"
-verified: 2026-09-10
+verified: 2026-10-17
 type: area
 area:
   - "Transylvania County"

@@ -3,7 +3,7 @@ title: Asheville
 description: "Asheville's cameras and the Real-Time Intelligence Center, 2022 to now: where each system stands, the timeline, and who decides."
 aliases:
   - "WNC/Asheville"
-standing: "Axon contract signed Aug 4, 2026, to Dec 31, 2033, $6,955,559 of it city money; Flock contract terminated Aug 25, removal and deletion unconfirmed. Pending: the Axon quote, Policy 1703, any audit, a written answer on fixed Axon readers."
+standing: "Axon contract signed Aug 4, 2026, to Dec 31, 2033, $6,955,559 of it city money; Flock contract terminated Aug 25; the city says Flock expects to retrieve its cameras within 60 days of Oct 12; deletion unconfirmed. Pending: the Axon quote, any audit, a written answer on fixed Axon readers."
 systems:
   - vendor: "Axon, the RTIC contract"
     kind: expand
@@ -28,12 +28,12 @@ systems:
       - "WNC/Buncombe County/Tracking/Sheriffs Audit Log"
   - vendor: "Flock Safety"
     kind: future
-    detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2; the city says APD's accounts are deactivated. No removal date, deletion confirmation, or notice to council published as of Sept 24, 2026."
+    detail: "11 fixed plate readers. Council terminated the contract Aug 25, 2026, 5 to 2; the city says APD's accounts are deactivated. After council asked at its Sept 17 briefing, the city covered the four cameras in its right-of-way (the city gives no date). The city's page says Flock confirmed on Sept 28 that \"physical retrieval of Flock equipment is expected to occur within 60 days beginning October 12, 2026.\" No removal, deletion confirmation, or notice to council recorded as of Oct 17, 2026."
     links:
       - "WNC/Asheville/Meetings/2026-08-25 City Council"
       - "Act/Getting Flock Out"
       - "Companies/Flock Safety"
-verified: 2026-09-24
+verified: 2026-10-17
 type: area
 area:
   - "Asheville"

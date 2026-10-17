@@ -766,7 +766,7 @@
   date_label: Sept 8, 2026
   kind: changed
   title: Brevard police chief withdraws the request for 3 Axon plate readers
-  summary: ' At the start of the council meeting, Police Chief Christy Wentzell withdrew the department''s request for the three plate readers: "We asked for the community''s voice and they gave it to us." She told council: "my belief in the value of the technology has not changed. But what has changed is my belief in that this is the right time for Brevard to move forward with it," and "We will continue moving forward with the tasers and the bodyworn cameras, but not the ALPR portion." Council then voted 3 to 2 to approve a modified agenda without the item. The cameras had been offered at no charge inside the taser and body-camera purchase, which remains pending (<a href="https://www.transylvaniatimes.com/news/police-chief-cancels-camera-plan/article_5515e786-0bdd-4c13-af0c-f9fcc4041b33.html">Transylvania Times</a>, Sept 8). (<a href="https://www.youtube.com/watch?v=BHIQQfdGmZ4">city recording</a>, 0:05:50 to 0:11:17).'
+  summary: ' At the start of the council meeting, Police Chief Christy Wentzell withdrew the department''s request for the three plate readers: "We asked for the community''s voice and they gave it to us and it mattered." She told council: "my belief in the value of the technology has not changed. But what has changed is my belief in that this is the right time for Brevard to move forward with it," and "We will continue moving forward with the tasers and the bodyworn cameras, but not the ALPR portion." Council then voted 3 to 2 to approve a modified agenda without the item. The cameras had been offered at no charge inside the taser and body-camera purchase, which remains pending (<a href="https://www.transylvaniatimes.com/news/police-chief-cancels-camera-plan/article_5515e786-0bdd-4c13-af0c-f9fcc4041b33.html">Transylvania Times</a>, Sept 8). (<a href="https://www.youtube.com/watch?v=BHIQQfdGmZ4">city recording</a>, 0:05:50 to 0:11:17).'
 - id: 2026-09-21-transylvania-county
   page: WNC/Transylvania County/index
   order: 35
@@ -1230,6 +1230,16 @@
   title: Asheville Public Safety Committee meets with no camera item on its agenda
   summary: ' No RTIC, plate-reader or audit item. One caller asked the committee to have the Axon quote published and to take up the Resolution 26-180 review; no member or staff member responded.'
   record: WNC/Asheville/Meetings/2026-09-24 Public Safety Committee
+
+- id: 2026-09-28-asheville
+  page: WNC/Asheville/index
+  area:
+  - Asheville
+  date: '2026-09-28'
+  date_label: September 28, 2026
+  kind: reported
+  title: Asheville says Flock will retrieve its plate readers within 60 days of Oct 12
+  summary: ' The city''s Technology and Public Safety page: "Flock Safety confirmed on September 28, 2026, the City of Asheville''s requested product removal date of October 12, 2026, and provided a timeline that physical retrieval of Flock equipment is expected to occur within 60 days beginning October 12, 2026, due to technician scheduling backlogs." After the Sept 17 briefing, the city "covered the four Flock cameras located within the City''s right-of-way as an interim measure." Tracked on <a href="../Act/Getting-Flock-Out">Getting Flock Out</a>. (<a href="https://publicinput.com/f65124">the city''s page</a>, read Oct 17, 2026)'
 
 - id: 2026-09-16-henderson-county
   page: WNC/Henderson County/index

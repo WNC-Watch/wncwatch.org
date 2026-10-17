@@ -10,6 +10,12 @@ vendor: both
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell us]] with a link or a document and it will be fixed and logged here.
 
+## October 17, 2026: Asheville's Flock removal window, the next meetings, five corrections
+
+- **Asheville's Flock cameras.** The city's Technology and Public Safety page says the city covered the four Flock cameras in its right-of-way after council asked at the Sept 17 briefing, and that Flock confirmed on Sept 28 that "physical retrieval of Flock equipment is expected to occur within 60 days beginning October 12, 2026." The page has no statement on deleting the city's Flock data, and no removal is recorded as of Oct 17. [[Getting Flock Out]], the [[WNC/Asheville/index|Asheville]] page and [[Promise Tracker]] rows 10 and 11 carry the change.
+- **Calendar.** Asheville City Council meets Oct 27 at 5:00 PM; the posted agenda lists no business items yet. The Oct 13 meeting was held with no camera item among its actions. Brevard City Council meets Oct 19; its agenda, posted Oct 15, lists no Axon, Taser, body-camera or plate-reader item, and the Axon purchase remains pending ([[WNC/Transylvania County/index|Transylvania County]]).
+- **Corrections:** [[Sage Turner]]'s Aug 20 briefing line and Brevard Police Chief [[Christy Wentzell]]'s Sept 8 line now match the recordings; [[Election 2026]] no longer credits [[Maggie Ullman]] with Turner's line; a [[Jeffrey Burroughs]] forum quote is now stamped 4:57, where it begins; the Aurora, Colorado case reads the same on all three pages that cite it ([[Corrections]]).
+
 ## October 14, 2026: the candidates' responses to a surveillance pledge
 
 - **Six candidates answered a pledge on surveillance** that Asheville Democratic Socialists of America (Asheville DSA), a local political organization, sent to candidates for Asheville mayor and council, Buncombe County Commission, Sheriff, and District Attorney. [[Kim Roney]] and [[Keith Young]] signed; [[Drew Ball]], [[Jeffrey Burroughs]], Anna Stearns and [[Martin Moore]] did not, and each posted a statement. [[Election 2026]] has the pledge's commitments and a line from each response; the candidates' pages carry their statements.

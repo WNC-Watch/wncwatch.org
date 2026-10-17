@@ -84,7 +84,7 @@ APD is a customer of both companies. Connect Asheville is an Axon product, and F
 
 **The page.** "There are 11 stationary ALPR cameras and 162 cameras installed in APD marked fleet vehicles."
 
-**The record.** The Axon portal counted 139 active in-car readers on Sept 23, 2026, 137 on Aug 26, 2026, and 150 in February 2025 ([[Corrections]]). The 11 stationary cameras are Flock's; their removal date is not set. The separate contract for 20 more Axon Fleet in-car readers, in signature in July 2026, is not posted and was not presented to council ([[The RTIC Policy]]).
+**The record.** The Axon portal counted 139 active in-car readers on Sept 23, 2026, 137 on Aug 26, 2026, and 150 in February 2025 ([[Corrections]]). The 11 stationary cameras are Flock's; as of Oct 17, 2026 the page says Flock expects to retrieve them within 60 days of Oct 12 ([[Getting Flock Out]]). The separate contract for 20 more Axon Fleet in-car readers, in signature in July 2026, is not posted and was not presented to council ([[The RTIC Policy]]).
 
 **The page.** "Data is not shared with Immigration and Customs Enforcement (ICE)."
 
@@ -118,7 +118,7 @@ For comparison, Interim Chief Stepp told council May 12, 2026 (4:47:05): "Axon n
 
 **The page.** "Asheville Police Department has deactivated all user accounts and access to the Flock system. The timing and process of removal of the stationary Flock ALPR cameras and related equipment are dependent on Flock."
 
-**The record.** No account-closure record, deletion confirmation, or removal date has been published. Flock's terms (clause 7.2): on termination Flock "will remove any applicable Flock Hardware at a commercially reasonable time period." The chief's Aug 14 memo, written before the termination vote, said "APD is not pursuing a full transition away from Flock" and described a possible "Flock software license that would preserve access to the Flock network." On Aug 25 staff said covering the lenses was not planned but "we can evaluate that as an option" (minutes). In Evanston, Illinois, terminated cameras were reinstalled ([[Getting Flock Out]]).
+**The record.** No account-closure record or deletion confirmation has been published as of Oct 17, 2026. A Sept 28 entry added to the page after this annotation gives Flock's retrieval window: "within 60 days beginning October 12, 2026" ([[Getting Flock Out]]). Flock's terms (clause 7.2): on termination Flock "will remove any applicable Flock Hardware at a commercially reasonable time period." The chief's Aug 14 memo, written before the termination vote, said "APD is not pursuing a full transition away from Flock" and described a possible "Flock software license that would preserve access to the Flock network." On Aug 25 staff said covering the lenses was not planned but "we can evaluate that as an option" (minutes). In Evanston, Illinois, terminated cameras were reinstalled ([[Getting Flock Out]]).
 
 ## The timeline
 

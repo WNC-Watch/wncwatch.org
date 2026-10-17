@@ -112,7 +112,7 @@ The Sept 24, 2026 committee agenda carries no RTIC or audit item; public comment
 - The community conversation the manager said precedes any fixed Axon reader. No date as of Sept 24, 2026; the city page anticipates engagement "in late 2026 or early 2027."
 - The separate contract for 20 Axon Fleet in-car readers, in signature in July 2026. Not posted; never presented to council.
 - Axon's written confirmation of the ACEIP opt-out. Not posted; the opt-out rests on a July 16, 2026 email ([[The RTIC Policy]]).
-- The Flock cameras down, Flock's written deletion confirmation, and the Section 3 notice to council. None recorded as of Sept 24, 2026 ([[Getting Flock Out]]).
+- The Flock cameras down, Flock's written deletion confirmation, and the Section 3 notice to council. None recorded as of Oct 17, 2026; the city's page says Flock expects to retrieve its equipment within 60 days of Oct 12 ([[Getting Flock Out]]).
 - The "Lightpost" line in the contract's scope of work, and the Aug 14 memo's plan for Axon plate-reader infrastructure by February 2027, against the Aug 25 statements that no fixed Axon readers go up before a community conversation. Unexplained as of Sept 24, 2026.
 - A count of who can search Axon's plate readers and use Fusus, and a sharing rule for Axon's readers. None published.
 - Answers to Roney's 29 questions of March 2025. None published.

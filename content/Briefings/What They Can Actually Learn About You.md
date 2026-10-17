@@ -60,13 +60,13 @@ The sequence: a camera reads a plate; the reads become a location history; the h
 
 Documented errors fall into three kinds:
 
-**Bad entry.** In Aurora, Colorado, a typo (the numeral "1" entered for the letter "I") sat in a state hotlist for roughly two years. In August 2020 it flagged Brittany Gilliam's SUV as a stolen vehicle (the actual stolen vehicle: a *motorcycle*, from *Montana*). Police held Gilliam, her 6-year-old daughter, her sister, and two nieces face-down on hot asphalt at gunpoint. The city paid a **$1.9 million settlement**. ([CNN](https://www.cnn.com/2024/02/05/us/colorado-aurora-settlement-stolen-vehicle-mixup) · [CBS News](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/))
+**Wrong match.** In Aurora, Colorado, in August 2020, police flagged a family's Colorado plate as a match for a stolen motorcycle registered in Montana with the same plate number. Officers held a mother, her 6-year-old daughter, her 17-year-old sister, and her 14- and 12-year-old nieces at gunpoint and ordered them face down on hot pavement. The city paid a **$1.9 million settlement** in 2024. ([CNN](https://www.cnn.com/2024/02/05/us/colorado-aurora-settlement-stolen-vehicle-mixup) · [CBS News](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/))
 
 **Bad read.** In Española, New Mexico, a camera read a "2" as a "7", and a 12-year-old girl ended up in handcuffs. A month later in the same town, a 17-year-old honors student was held at gunpoint after another ALPR mistake. ([CBS News investigation](https://www.cbsnews.com/news/license-plate-readers-alpr-mistakes/))
 
 **Stale entry.** A California privacy-board chair was held at gunpoint at Thanksgiving after his rental car was flagged stolen: the car had already been recovered; nobody had cleared the flag. (Same CBS investigation.)
 
-A hotlist alert is built from human data entry, machine vision, and list maintenance; each has failed in the cases above.
+A hotlist alert depends on the camera's read, the upkeep of the list, and a check that the hit is the same vehicle; each has failed in the cases above.
 
 ## Beyond plates: the live-video layer
 

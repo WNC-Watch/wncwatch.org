@@ -57,7 +57,7 @@ Quoted in full, with dates and times; forum times are on the audience recording 
 
 ### Maggie Ullman
 
-First public position **Aug 20, 2026**, at the [[2026-08-20 Agenda Briefing|agenda briefing]]: supports pulling the Flock cameras now ("I'm happy to move forward on just pulling them now"), but "get rid of Axon... starts to hit a wall where I can't fathom pulling back on our transparency tools." On Aug 25, 2026 she voted for the Flock termination: "I will support getting rid of these Flocks. I'm glad to hear the manager lay it straight that we're going to have a conversation before any other action would happen. This isn't a bait and switch." ([[2026-08-25 City Council|the record]]) Sept 16 forum: "I'm okay pausing or stopping this and pulling out from the city's 11" (0:40); "unchecked surveillance that is networked nationally to companies we don't know is very concerning" (1:30).
+First public position **Aug 20, 2026**, at the [[2026-08-20 Agenda Briefing|agenda briefing]]: residents are saying "get rid of all surveillance... specifically, get rid of Axon," but "the call for 'get rid of Axon'... starts to hit a wall where I can't fathom pulling back on our transparency tools." On Aug 25, 2026 she voted for the Flock termination: "I will support getting rid of these Flocks. I'm glad to hear the manager lay it straight that we're going to have a conversation before any other action would happen. This isn't a bait and switch." ([[2026-08-25 City Council|the record]]) Sept 16 forum: "I'm okay pausing or stopping this and pulling out from the city's 11" (0:40); "unchecked surveillance that is networked nationally to companies we don't know is very concerning" (1:30).
 
 ### Antanette Mosley
 
